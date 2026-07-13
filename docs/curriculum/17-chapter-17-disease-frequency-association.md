@@ -1,16 +1,114 @@
-# Chapter 17. Chapter 17: Disease Frequency & Association
+# Chapter 17. Disease Frequency and Association
 
 <div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
+**Web Edition — original teaching text.** Educational only; not medical advice.
+No commercial handbook prose, paper abstracts, or publisher figures.
 </div>
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+A stroke epidemiology meeting opens with three slides: a crude incidence rate
+from administrative data, an age-standardized rate from a registry, and a
+relative risk from a cohort study of atrial fibrillation. The room argues about
+which number “matters.” This chapter supplies the vocabulary to stop that
+argument from becoming a category error.
 
 ## Learning objectives
 
+- Define incidence, prevalence, and cumulative risk with explicit time windows.
+- Distinguish absolute frequency from relative association measures.
+- Compute and interpret risk difference, risk ratio, and odds ratio on synthetic tables.
+- Explain why prevalence is a poor stand-in for incidence in dynamic stroke pathways.
+- Identify selection and measurement structures that distort frequency estimates.
+- Translate association language into prediction vs causation templates before acting.
+
+## Conceptual core: frequency first
+
+**Incidence** answers: how often do *new* events occur in a defined population
+at risk over a defined time? Stroke services live on incidence thinking—codes
+per week, EVT candidates per month, ICH admissions per year—because operations
+and prevention programs care about *new* events.
+
+**Prevalence** answers: how many people *currently* live with a condition or
+history? Prevalence mixes incidence with duration and survival. A rise in
+prevalence of “prior stroke” in a clinic panel can reflect better survival,
+aging, or coding practices—not necessarily a surge in new strokes.
+
+**Cumulative risk** (incidence proportion) over a fixed window (30 days, 90 days,
+1 year) is often what trial arms and quality dashboards actually report.
+
+## Association measures (synthetic teaching table)
+
+Imagine a simplified 90-day cohort of **1,000** high-risk TIA/minor stroke patients:
+
+| Group | n | Recurrent ischemic stroke | Risk |
+|-------|---:|--------------------------:|-----:|
+| Exposed (example risk factor present) | 400 | 40 | 0.10 |
+| Unexposed | 600 | 30 | 0.05 |
+
+- **Risk difference (RD)** = \(0.10 - 0.05 = 0.05\) (5 percentage points).  
+- **Risk ratio (RR)** = \(0.10 / 0.05 = 2.0\).  
+- **Odds ratio (OR)** = \((40/360) / (30/570) \approx 2.11\).
+
+Same table, three stories: absolute burden (RD), multiplicative association (RR),
+and a slightly larger OR typical when outcomes are not rare. Bedside counseling
+needs the **absolute** story; meta-analysis math often travels in RR/OR space.
+
+## Pitfalls specific to neurology and stroke data
+
+1. **Wrong denominator** — counting only admitted patients when the research
+   question is population incidence.
+2. **Index-time chaos** — starting follow-up at hospital discharge instead of
+   symptom onset can manufacture immortal time or miss early recurrence.
+3. **Coding ≠ phenotype** — ICD-based “stroke” bundles ischemic stroke, TIA
+   miscodes, and sequelae visits.
+4. **Competing risks** — death prevents observation of later recurrent stroke;
+   crude cumulative incidence can mislead if mortality is high (ICH, elderly EVT).
+5. **Standardization ignored** — crude rates compared across young vs older
+   regions look like quality differences when they are demography.
+
+## Clinical and epidemiologic notes
+
+- When a paper says “associated with,” force the sentence into either a
+  **prediction** template (“among patients like these, factor X forecasts Y”)
+  or a **causal** template (“intervening on X would change Y”). Frequency and
+  association alone do not license pathway changes.
+- Quality dashboards that show only relative changes (“−20%”) without baseline
+  rates invite false urgency or false reassurance.
+- Transportability: a risk ratio from a trial-eligible LVO population does not
+  automatically transfer to an unselected ED census.
+
+## Worked micro-example (absolute vs relative)
+
+Baseline 90-day risk 8% → 6% under a hypothetical strategy:
+
+- Relative risk reduction = \((0.08-0.06)/0.08 = 25\%\).  
+- Absolute risk reduction = \(2\%\).  
+- NNT ≈ \(1/0.02 = 50\).
+
+Press releases love 25%. Shared decisions need 2% and NNT 50—plus harm metrics
+on the same absolute scale.
+
+## Chapter summary
+
+Disease frequency is the grammar of epidemiology; association measures are the
+verbs. Read every claim with a clock (time window), a denominator (who is at
+risk), and an absolute scale (how many events per hundred). Only then ask
+whether the design supports prediction, description, or cause.
+
+## Practice and reflection
+
+1. Rewrite a relative-risk abstract sentence into RD and NNT using made-up but
+   explicit baselines.
+2. List two reasons prevalence of atrial fibrillation in a stroke clinic can
+   rise without incidence rising.
+3. Draw a 2×2 table for a synthetic ICH expansion study and compute RR and RD.
+4. Identify a competing risk that would break a naive Kaplan–Meier for
+   “time to recurrent stroke.”
+5. For tomorrow’s journal club paper, write one prediction-template sentence
+   and one causal-template sentence; mark which the paper actually supports.
 
 ---
 
-*Figures and tables in this chapter are original teaching materials for CRIT-APP unless a caption explicitly states otherwise. Methods standards are cited by name only.*
+*Figures and tables in this chapter are original teaching materials for CRIT-APP
+unless a caption explicitly states otherwise. Methods standards are cited by name only.*
