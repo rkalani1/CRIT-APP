@@ -1,0 +1,35 @@
+# Curriculum overview
+
+Twenty-eight chapters of original Web Edition teaching material. Topic coverage is comprehensive; expression is authored for this free site.
+
+| Ch | Title |
+|---:|---|
+| 1 | [Why Critical Appraisal Matters in Neurology and Stroke](01-why-critical-appraisal-matters-in-neurology-and-stroke.md) |
+| 2 | [How to Read a Paper Under Time Pressure](02-how-to-read-a-paper-under-time-pressure.md) |
+| 3 | [Questions, PICO, Estimands, and Index Time](03-questions-pico-estimands-and-index-time.md) |
+| 4 | [Internal Validity, External Validity, and Bias Taxonomy](04-internal-validity-external-validity-and-bias-taxonomy.md) |
+| 5 | [Confounding, DAGs, and Target-Trial Thinking](05-confounding-dags-and-target-trial-thinking.md) |
+| 6 | [Appraising Randomized Trials in Stroke and Neurology](06-appraising-randomized-trials-in-stroke-and-neurology.md) |
+| 7 | [Appraising Observational Studies Without Naïveté](07-appraising-observational-studies-without-naïveté.md) |
+| 8 | [Diagnostic Accuracy Studies: From Sensitivity to Decisions](08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md) |
+| 9 | [Prognosis, Risk Scores, and Prediction Models](09-prognosis-risk-scores-and-prediction-models.md) |
+| 10 | [Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness](10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md) |
+| 11 | [Stroke Outcomes: mRS, Time-to-Event, and Competing Risks](11-stroke-outcomes-mrs-time-to-event-and-competing-risks.md) |
+| 12 | [Effect Sizes, Absolute Benefit, NNT, and Clinical Importance](12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md) |
+| 13 | [Subgroups, Heterogeneity of Treatment Effect, and Spin](13-subgroups-heterogeneity-of-treatment-effect-and-spin.md) |
+| 14 | [Appraising Artificial Intelligence and Machine Learning Papers](14-appraising-artificial-intelligence-and-machine-learning-papers.md) |
+| 15 | [Journal Club Architecture and Teaching Critical Appraisal](15-journal-club-architecture-and-teaching-critical-appraisal.md) |
+| 16 | [Paper Autopsies: Integrated Worked Critiques](16-paper-autopsies-integrated-worked-critiques.md) |
+| 17 | [Chapter 17: Disease Frequency & Association](17-chapter-17-disease-frequency-association.md) |
+| 18 | [Causation Frameworks, Bias, and Inference](18-causation-frameworks-bias-and-inference.md) |
+| 19 | [Inference, Estimation, and the Architecture of Uncertainty](19-inference-estimation-and-the-architecture-of-uncertainty.md) |
+| 20 | [Regression and Survival Analysis: Literacy for Paper Readers](20-regression-and-survival-analysis-literacy-for-paper-readers.md) |
+| 21 | [Interaction, Effect Modification, and Standardization](21-interaction-effect-modification-and-standardization.md) |
+| 22 | [Screening, Early Detection, and Overdiagnosis](22-screening-early-detection-and-overdiagnosis.md) |
+| 23 | [Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence](23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.md) |
+| 24 | [Appraising Therapy and Harm Questions](24-appraising-therapy-and-harm-questions.md) |
+| 25 | [Appraising Diagnosis and Prognosis Papers](25-appraising-diagnosis-and-prognosis-papers.md) |
+| 26 | [Systematic Reviews and Clinical Prediction Rules](26-systematic-reviews-and-clinical-prediction-rules.md) |
+| 27 | [Missing Data, Multiplicity, Interim Analyses, and Fragility](27-missing-data-multiplicity-interim-analyses-and-fragility.md) |
+| 28 | [Chapter 28: Systems of Care, Policy, and Patient Communication](28-chapter-28-systems-of-care-policy-and-patient-communication.md) |
+

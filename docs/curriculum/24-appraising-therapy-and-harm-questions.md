@@ -1,0 +1,76 @@
+# Chapter 24. Appraising Therapy and Harm Questions
+
+<div class="disclaimer-banner" markdown="1">
+**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
+</div>
+
+## Web Edition clinical frame
+
+A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+
+## Learning objectives
+
+- Evaluate the internal validity of therapeutic trials and harm studies using structured criteria.
+- Calculate and interpret absolute risk reductions, absolute risk increases, NNT, and NNH.
+- Assess the applicability of clinical trial data to local patient populations and healthcare systems.
+- Deconstruct composite endpoints and evaluate the limitations of surrogate markers in neurology.
+- Identify biases inherent in observational harm studies and open-label trials.
+- Synthesize appraisal findings into actionable, structured formats for clinical pathways.
+
+## The Tripartite Framework: Validity, Results, Applicability
+
+Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity, the magnitude and precision of the results, and applicability to the clinical context. This structured approach prevents the premature adoption of flawed data and the reflexive rejection of valid evidence. The framework demands moving beyond the superficial reading of abstracts and p-values to critically examine trial architecture, absolute effect sizes, and biological plausibility.
+
+Therapy questions evaluate the efficacy and safety of an intervention, whereas harm questions seek to determine if an exposure causes adverse events. While randomized controlled trials (RCTs) remain the standard for establishing therapeutic efficacy, they are frequently underpowered to detect rare or delayed harms, necessitating the rigorous appraisal of observational studies. In both domains, the core objective is to quantify the risk-benefit tradeoff with mathematical precision and clinical context.
+
+## Evaluating Internal Validity
+
+Internal validity asks whether a study accurately isolates the causal effect of an intervention. The bedrock of validity in therapy trials is randomization combined with strict allocation concealment. Without concealed allocation, selection bias predictably inflates treatment effects. Baseline imbalances in key prognostic variables—such as age, baseline NIH Stroke Scale scores, or infarct core volume—must be scrutinized for their potential to confound outcomes, rather than merely checked for statistical significance.
+
+Blinding of patients, clinicians, and outcome assessors prevents performance and detection biases. However, procedural interventions, such as endovascular thrombectomy (EVT), preclude double-blinding. In these scenarios, the PROBE (Prospective Randomized Open, Blinded End-point) design is frequently employed. While blinded adjudication of the primary outcome (e.g., the 90-day modified Rankin Scale) mitigates detection bias, it cannot prevent performance bias—the unequal provision of medical care, blood pressure management, or rehabilitation to the unblinded treatment arm.
+
+The analytical estimand must align with the clinical question. The intention-to-treat (ITT) principle, which analyzes patients in their randomized groups regardless of treatment receipt, preserves prognostic balance and estimates the pragmatic effectiveness of a treatment strategy. This is critical in trials where crossover occurs, such as medical-arm patients receiving rescue thrombectomy. Conversely, per-protocol and as-treated analyses estimate biological efficacy but are highly vulnerable to post-randomization confounding.
+
+## Interpreting Results: Absolute Risk and Precision
+
+Relative measures, such as hazard ratios and relative risks, are mathematically stable across diverse populations but obscure the clinical impact of an intervention. Clinical decision-making requires absolute metrics: Absolute Risk Reduction (ARR) for benefits and Absolute Risk Increase (ARI) for harms. These absolute differences depend entirely on the baseline risk of the population. A 30% relative risk reduction yields a massive ARR in a patient with a recent high-risk TIA, but a negligible ARR in a patient with isolated asymptomatic carotid stenosis.
+
+The Number Needed to Treat (NNT = 1/ARR) and Number Needed to Harm (NNH = 1/ARI) provide intuitive metrics for the risk-benefit tradeoff. However, these metrics are meaningless without an explicit time horizon and outcome definition. A statement like 'NNT of 12' is uninterpretable; 'NNT of 12 to prevent one disabling stroke over 90 days' is actionable. Furthermore, precision is paramount. The 95% confidence intervals around the ARR and ARI define the range of plausible effects and dictate whether a point estimate is robust or dangerously fragile.
+
+## Applicability and Transportability
+
+A trial may possess pristine internal validity yet lack applicability (transportability) to a specific clinical setting. Applicability requires comparing the trial cohort's baseline risk, comorbidities, and demographic profile to the local patient population. Extrapolating the benefits of short-course dual antiplatelet therapy (DAPT) from trials enrolling high-risk minor stroke patients to those with atypical, low-risk syndromes predictably dilutes the ARR while maintaining the ARI for hemorrhage, potentially inverting the risk-benefit ratio.
+
+System capacity profoundly influences applicability. The impressive outcomes of late-window EVT trials relied on advanced perfusion imaging, rapid door-to-puncture times, and expert neurocritical care. Transporting these trial results to a resource-constrained system with prolonged transfer times will inevitably yield inferior absolute benefits. Finally, applicability must integrate patient values. The tradeoff between avoiding an ischemic stroke and risking an intracranial hemorrhage is preference-sensitive, demanding shared decision-making informed by absolute event rates.
+
+## Complexities: Composites and Surrogates
+
+Composite endpoints aggregate multiple clinical events to increase statistical power. However, they frequently mix outcomes of vastly different clinical importance. A statistically significant reduction in a composite endpoint driven entirely by a reduction in silent asymptomatic infarcts or urgent revascularizations—while disabling strokes remain unchanged—is a common pitfall. Rigorous appraisal requires disaggregating the composite and analyzing the absolute event rates for the patient-important components.
+
+Surrogate endpoints, such as angiographic reperfusion grades or biomarker levels, are used to infer clinical benefit. While achieving complete reperfusion (e.g., mTICI 3) correlates strongly with functional independence, the surrogate is not the clinical outcome. Novel devices or lytics that improve a surrogate metric do not automatically guarantee a reduction in disability or mortality. Surrogate data generate hypotheses for clinical outcome trials; they do not serve as the sole basis for practice adoption.
+
+## Evaluating Harm
+
+While RCTs systematically capture common, early adverse events, they are frequently underpowered to detect rare, delayed, or unexpected harms. Consequently, the appraisal of harm often relies on observational data. The primary threat to validity in observational harm studies is confounding by indication (channeling bias). Clinicians predictably prescribe newer or perceived 'safer' anticoagulants to sicker, older, or more fragile patients. If adjustment for this baseline imbalance is incomplete, the drug will falsely appear to cause higher rates of intracranial hemorrhage.
+
+Appraising observational harm requires evaluating the temporal sequence, the biological plausibility, the presence of a dose-response gradient, and the rigor of statistical adjustment. When interpreting harm signals, the certainty of evidence must be explicitly stated. A randomized trial demonstrating a 1% absolute increase in symptomatic hemorrhage provides high-certainty evidence; a retrospective database analysis showing an association provides low-to-moderate certainty evidence requiring cautious operational interpretation.
+
+## Operationalizing Appraisal: The Evidence Memo
+
+To influence clinical pathways and institutional guidelines, critical appraisal must be distilled into a structured, operational format. The one-page evidence memo forces clarity by requiring explicit statements of the clinical question, the top validity threats, the absolute risks (ARR/ARI) with confidence intervals, and the specific applicability constraints. It strips away narrative spin and focuses the committee on the raw mathematical tradeoffs, ensuring that decisions—such as the duration of DAPT or the selection criteria for EVT—are grounded in absolute data rather than rhetorical enthusiasm.
+
+## Chapter summary
+
+The critical appraisal of therapy and harm literature requires a disciplined evaluation of internal validity, absolute effect sizes, and clinical applicability. Appraisers must scrutinize randomization, allocation concealment, blinding limitations (e.g., PROBE designs), and analytical choices such as ITT versus per-protocol estimands. Relative effect sizes must be translated into absolute metrics (ARR, ARI, NNT, NNH) anchored to explicit time horizons. Applicability demands contextualizing trial data against local baseline risks, system capacities, and patient preferences. The interpretation of composite endpoints and surrogates requires rigorous disaggregation and healthy skepticism. Harm evaluation necessitates balancing underpowered RCT data against the confounding inherent in observational studies. Ultimately, rigorous appraisal translates methodological abstractions into concrete, absolute tradeoffs, safeguarding patients from both ineffective therapies and unrecognized harms.
+
+## Practice and reflection
+
+1. Calculate the ARR, NNT, ARI, and NNH (with 95% confidence intervals) from a recent stroke therapy trial, specifying the time horizon.
+2. Identify and disaggregate a composite primary endpoint in a neurovascular trial, reporting the absolute event rates for each component.
+3. Critique an open-label stroke trial (e.g., a PROBE design), detailing specific mechanisms by which performance bias might have influenced the outcome.
+4. Draft a one-page evidence memo for a hospital committee evaluating a proposed change to dual antiplatelet therapy duration.
+5. Analyze an observational study reporting a novel adverse effect of an antiepileptic drug, focusing on the potential for confounding by indication.
+
+---
+
+*Figures and tables in this chapter are original teaching materials for CRIT-APP unless a caption explicitly states otherwise. Methods standards are cited by name only.*
