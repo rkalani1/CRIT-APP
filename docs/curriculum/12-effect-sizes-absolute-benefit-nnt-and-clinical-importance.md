@@ -2,6 +2,11 @@
 
 ## Opening
 
+![NNT icon array (original).](../assets/figures/crit_fig_nnt_icon_array.png)
+
+*Absolute benefit intuition (synthetic NNT teaching graphic; original).*
+
+
 Marketing quotes a 25% relative reduction. Convert to absolute risk difference and NNT with the control-arm rate before counseling the next clinic patient.
 
 

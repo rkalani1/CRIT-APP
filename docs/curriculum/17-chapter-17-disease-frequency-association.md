@@ -4,6 +4,9 @@
 
 Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
 
+![Incidence versus prevalence teaching diagram (original).](../assets/figures/crit_fig_incidence_prevalence.png)
+
+*Incidence focuses on new events in a time window; prevalence counts who lives with the condition now (original teaching graphic).*
 
 ## Learning objectives
 
@@ -78,8 +81,35 @@ Baseline 90-day risk 8% → 6% under a hypothetical strategy:
 - Absolute risk reduction = \(2\%\).  
 - NNT ≈ \(1/0.02 = 50\).
 
+![Icon array for NNT 50 (original teaching graphic).](../assets/figures/crit_fig_nnt_icon_array.png)
+
+*One highlighted person among fifty: absolute benefit intuition for NNT 50 (synthetic; original).*
+
 Press releases love 25%. Shared decisions need 2% and NNT 50—plus harm metrics
 on the same absolute scale.
+
+## Rate vs risk (precision language)
+
+A **risk** (incidence proportion) needs a closed cohort and a fixed window: “8% had
+recurrent stroke by day 90.” A **rate** (incidence rate) needs person-time: “12 events
+per 100 person-years.” Mixing them produces nonsense comparisons—for example, quoting
+an annualized rate next to a 90-day trial risk without conversion.
+
+In hyperacute stroke care, short-window risks dominate (door-to-needle, 24-hour sICH,
+90-day mRS). In secondary prevention, person-time rates reappear. Appraisal asks which
+clock the authors actually used and whether the comparator used the same clock.
+
+## From association table to decision sentence
+
+After computing RD/RR/OR, force one sentence:
+
+- **Descriptive / predictive:** “Among patients like these, factor X marks higher
+  90-day recurrence risk (RD = 5 percentage points).”
+- **Causal (only if design supports):** “Assigning treatment A versus C changes
+  90-day recurrence by RD = … under assumptions S.”
+
+If the paper’s methods cannot carry the causal sentence, do not let the discussion
+section smuggle it in.
 
 ## Chapter summary
 
