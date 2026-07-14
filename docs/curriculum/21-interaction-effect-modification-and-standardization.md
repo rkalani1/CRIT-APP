@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+An interaction claim says the drug works only on one scale. Demand which scale, pre-specification, and absolute stratum effects.
+
 
 ## Learning objectives
 

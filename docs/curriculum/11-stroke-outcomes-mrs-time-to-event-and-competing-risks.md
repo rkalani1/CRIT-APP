@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.
+
 
 ## Learning objectives
 

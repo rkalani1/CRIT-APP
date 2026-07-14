@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-It is mid-afternoon on a stroke unit. A fellow drops three PDFs into the team channel: an EVT selection paper with a dramatic relative-risk headline, a claims analysis of dual antiplatelet timing, and a prediction model for hemorrhage risk. Before anyone changes a pathway, this chapter forces a slower question: what exactly is being estimated, for whom, and with what absolute stakes?
+Policy meeting: absolute benefit looks large in trials but small in your catchment. Systems design must track access, equity, and communication—not only p-values.
+
 
 ## Learning objectives
 

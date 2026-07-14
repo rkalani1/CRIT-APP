@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is anemia a confounder, mediator, or collider in this DAG? Wrong adjustment can invent harm.
+
 
 ## Learning objectives
 

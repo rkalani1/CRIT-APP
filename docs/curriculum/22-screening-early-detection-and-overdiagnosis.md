@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-It is mid-afternoon on a stroke unit. A fellow drops three PDFs into the team channel: an EVT selection paper with a dramatic relative-risk headline, a claims analysis of dual antiplatelet timing, and a prediction model for hemorrhage risk. Before anyone changes a pathway, this chapter forces a slower question: what exactly is being estimated, for whom, and with what absolute stakes?
+Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
+
 
 ## Learning objectives
 

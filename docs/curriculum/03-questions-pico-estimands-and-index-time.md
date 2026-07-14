@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.
+
 
 ## Learning objectives
 

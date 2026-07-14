@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
+
 
 ## Learning objectives
 

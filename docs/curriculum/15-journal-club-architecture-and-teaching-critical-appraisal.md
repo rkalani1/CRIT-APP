@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decision output—not a ritual roasting of methods trivia.
+
 
 ## Learning objectives
 

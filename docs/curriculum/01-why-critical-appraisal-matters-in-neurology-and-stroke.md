@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-It is mid-afternoon on a stroke unit. A fellow drops three PDFs into the team channel: an EVT selection paper with a dramatic relative-risk headline, a claims analysis of dual antiplatelet timing, and a prediction model for hemorrhage risk. Before anyone changes a pathway, this chapter forces a slower question: what exactly is being estimated, for whom, and with what absolute stakes?
+Sign-out is late. Three PDFs land in the team channel: late-window EVT selection with a relative-risk headline, dual-antiplatelet timing from claims data, and a hemorrhage-risk model. Before any pathway moves, force the slower question: what is estimated, for whom, and on what absolute scale?
+
 
 ## Learning objectives
 

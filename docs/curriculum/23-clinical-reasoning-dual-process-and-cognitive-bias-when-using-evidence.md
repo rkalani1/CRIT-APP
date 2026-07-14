@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+A confident consultant overrules the evidence with System-1 certainty. Use dual-process language to slow the handoff without shaming expertise.
+
 
 ## Learning objectives
 

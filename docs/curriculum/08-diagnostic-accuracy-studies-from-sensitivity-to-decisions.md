@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verification design, that number can be theater. Work the 2x2 before the purchase order.
+
 
 ## Learning objectives
 

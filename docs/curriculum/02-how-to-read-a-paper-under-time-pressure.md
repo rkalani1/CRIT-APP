@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-Journal club starts in twelve minutes. The abstract promises a 'practice-changing' signal. This curriculum treats that claim as a hypothesis to stress-test—not a reason to rewrite local care until validity, transportability, and absolute effects are clear.
+You have eleven minutes before rounds. The abstract says practice-changing. This curriculum treats that claim as a hypothesis to pressure-test—validity and transport first, celebration later.
+
 
 ## Learning objectives
 

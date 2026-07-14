@@ -7,11 +7,8 @@ No commercial handbook prose, paper abstracts, or publisher figures.
 
 ## Web Edition clinical frame
 
-A stroke epidemiology meeting opens with three slides: a crude incidence rate
-from administrative data, an age-standardized rate from a registry, and a
-relative risk from a cohort study of atrial fibrillation. The room argues about
-which number “matters.” This chapter supplies the vocabulary to stop that
-argument from becoming a category error.
+Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
+
 
 ## Learning objectives
 

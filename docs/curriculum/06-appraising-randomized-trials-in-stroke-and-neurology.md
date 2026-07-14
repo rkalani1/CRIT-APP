@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
+
 
 ## Learning objectives
 

@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
+
 
 ## Learning objectives
 

@@ -6,7 +6,8 @@
 
 ## Web Edition clinical frame
 
-A family has already read the press release. Your job is not cynicism; it is translation: map the paper onto a prediction template or a causal template, then decide whether anything at the bedside should move today.
+Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
+
 
 ## Learning objectives
 
