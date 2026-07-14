@@ -1,6 +1,10 @@
 # Chapter 2. How to Read a Paper Under Time Pressure
 
 ## Opening
+![Timed reading stack under pressure (original).](../assets/figures/crit_fig_timed_read_stack.png)
+
+*Timed reading stack under pressure (original).*
+
 
 ![Timed paper-reading pathway (original).](../assets/figures/fig01_reading_flow.png)
 
