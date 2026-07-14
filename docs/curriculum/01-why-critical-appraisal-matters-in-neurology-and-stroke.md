@@ -1,6 +1,10 @@
 # Chapter 1. Why Critical Appraisal Matters in Neurology and Stroke
 
 ## Opening
+![Relative headlines vs absolute bedside effects (original).](../assets/figures/crit_fig_rel_vs_abs.png)
+
+*Relative headlines vs absolute bedside effects (original).*
+
 
 ![Decision-focused reading flow (original).](../assets/figures/fig01_reading_flow.png)
 
