@@ -17,11 +17,11 @@ A family has already read the press release. Your job is not cynicism; it is tra
 - Identify biases inherent in observational harm studies and open-label trials.
 - Synthesize appraisal findings into actionable, structured formats for clinical pathways.
 
-## The Tripartite Framework: Validity, Results, Applicability
+## Three gates for therapy and harm papers
 
-Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity, the magnitude and precision of the results, and applicability to the clinical context. This structured approach prevents the premature adoption of flawed data and the reflexive rejection of valid evidence. The framework demands moving beyond the superficial reading of abstracts and p-values to critically examine trial architecture, absolute effect sizes, and biological plausibility.
+Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity (can the design support a causal claim?), the magnitude and precision of absolute results, and applicability to the local clinical context. This CRIT-APP sequence prevents premature adoption of flawed data and reflexive rejection of valid evidence. It forces the reader past abstract spin and p-value theater into trial architecture, absolute effect sizes, and bedside tradeoffs.
 
-Therapy questions evaluate the efficacy and safety of an intervention, whereas harm questions seek to determine if an exposure causes adverse events. While randomized controlled trials (RCTs) remain the standard for establishing therapeutic efficacy, they are frequently underpowered to detect rare or delayed harms, necessitating the rigorous appraisal of observational studies. In both domains, the core objective is to quantify the risk-benefit tradeoff with mathematical precision and clinical context.
+Therapy questions evaluate whether an intervention improves outcomes worth having; harm questions evaluate whether an exposure causes adverse events worth avoiding. Randomized trials remain the default for therapeutic efficacy, yet they are often underpowered for rare or delayed harms, so observational designs still require disciplined appraisal. In both domains the goal is the same: quantify benefit–harm tradeoffs in absolute terms before rewriting a pathway.
 
 ## Evaluating Internal Validity
 

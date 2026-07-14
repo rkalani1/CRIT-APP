@@ -1,0 +1,123 @@
+{
+  "audit_id": "originality_ch15_28",
+  "date": "2026-07-13",
+  "target_dir": "C:\\Users\\rkala\\CRIT-APP\\docs\\curriculum",
+  "chapters_reviewed": [
+    "15-journal-club-architecture-and-teaching-critical-appraisal.md",
+    "16-paper-autopsies-integrated-worked-critiques.md",
+    "17-chapter-17-disease-frequency-association.md",
+    "18-causation-frameworks-bias-and-inference.md",
+    "19-inference-estimation-and-the-architecture-of-uncertainty.md",
+    "20-regression-and-survival-analysis-literacy-for-paper-readers.md",
+    "21-interaction-effect-modification-and-standardization.md",
+    "22-screening-early-detection-and-overdiagnosis.md",
+    "23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.md",
+    "24-appraising-therapy-and-harm-questions.md",
+    "25-appraising-diagnosis-and-prognosis-papers.md",
+    "26-systematic-reviews-and-clinical-prediction-rules.md",
+    "27-missing-data-multiplicity-interim-analyses-and-fragility.md",
+    "28-chapter-28-systems-of-care-policy-and-patient-communication.md"
+  ],
+  "high": [],
+  "high_pre_fix": [
+    {
+      "chapter": 25,
+      "file": "25-appraising-diagnosis-and-prognosis-papers.md",
+      "issue": "Users' Guides / Medical Literature branding residue and near-verbatim commercial handbook diagnostic/prognostic question stems",
+      "fix": "In-place rewrite to original CRIT-APP three-gate (trustworthiness / effect extraction / local actionability) framing; removed handbook stems"
+    },
+    {
+      "chapter": 28,
+      "file": "28-chapter-28-systems-of-care-policy-and-patient-communication.md",
+      "issue": "Character-split file corruption (~one glyph per line); empty objectives; blocked originality review",
+      "fix": "Reconstructed original teaching prose; restored clean markdown with original scaffolding (not external paste)"
+    }
+  ],
+  "medium": [
+    {
+      "chapter": 17,
+      "file": "17-chapter-17-disease-frequency-association.md",
+      "issue": "Thin stub (~800 words); original content but expansion risk if filled by paste later",
+      "status": "monitor"
+    },
+    {
+      "chapter": 24,
+      "file": "24-appraising-therapy-and-harm-questions.md",
+      "issue": "Tripartite Validity/Results/Applicability skeleton echoed commercial handbook structure (content original)",
+      "status": "mitigated_heading_rewrite"
+    },
+    {
+      "chapter": 15,
+      "file": "15-journal-club-architecture-and-teaching-critical-appraisal.md",
+      "issue": "Long original red-flag checklist—must not later become CONSORT/TRIPOD/GRADE instrument dump",
+      "status": "monitor"
+    },
+    {
+      "chapter": 25,
+      "file": "25-appraising-diagnosis-and-prognosis-papers.md",
+      "issue": "Residual structural similarity to classic three-question EBM pedagogy (concepts public domain); post-rewrite branding cleared",
+      "status": "mitigated"
+    }
+  ],
+  "low": [
+    {
+      "chapter": 18,
+      "note": "Hill viewpoints, causal pies, counterfactuals—methods vocabulary with original stroke framing"
+    },
+    {
+      "chapter": 20,
+      "note": "Table 2 fallacy and regression literacy—named concepts, original prose"
+    },
+    {
+      "chapter": 22,
+      "note": "Wilson and Jungner named by role; lead-time/length-time/overdiagnosis original teaching"
+    },
+    {
+      "chapter": 23,
+      "note": "Dual-process and bias names only; long original stroke-service narrative"
+    },
+    {
+      "chapter": 26,
+      "note": "CPR lifecycle and meta-analysis heterogeneity teaching—no instrument dump"
+    },
+    {
+      "chapter": 27,
+      "note": "Missingness mechanisms, fragility index, multiplicity—methods literacy"
+    }
+  ],
+  "pass": [
+    {
+      "chapter": 16,
+      "note": "Synthetic autopsies only; strongest originality posture"
+    },
+    {
+      "chapter": 19,
+      "note": "Synthetic CI derivation; estimation culture original"
+    },
+    {
+      "chapter": 21,
+      "note": "Synthetic DAPT strata; scale-of-interaction teaching"
+    },
+    {
+      "chapter": 28,
+      "note": "Post-restore: original systems/policy/SDM teaching"
+    }
+  ],
+  "top_findings": [
+    "Ch25 had the only clear commercial-handbook branding / near-verbatim instrument-stem risk (Users' Guides lineage); rewritten in place.",
+    "Ch28 was unusable due to character-level corruption; reconstructed original prose and re-scaffolded—no evidence of external textbook paste.",
+    "Ch17 is a thin but original stub—main residual risk is future paste under length pressure.",
+    "Ch15–16, 19, 21, 23, 26–27 read as original Web Edition teaching with synthetic data and stroke-service framing.",
+    "No abstracts, permission language, publisher figures, paper result tables, or full CONSORT/TRIPOD/GRADE checklist dumps found in ch15–28.",
+    "Ch24 heading echoed classic handbook tripartite branding pattern; light original rewrite applied."
+  ],
+  "fixes_applied": [
+    "docs/curriculum/25-appraising-diagnosis-and-prognosis-papers.md",
+    "docs/curriculum/24-appraising-therapy-and-harm-questions.md",
+    "docs/curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.md"
+  ],
+  "outputs": [
+    "docs/_swarm_audit/originality_ch15_28.md",
+    "docs/_swarm_audit/originality_ch15_28.json"
+  ]
+}

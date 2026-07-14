@@ -1,0 +1,99 @@
+{
+  "audit_date": "2026-07-13",
+  "scope": "C:\\Users\\rkala\\CRIT-APP\\docs\\curriculum\\ chapters 01-14",
+  "report_path": "C:\\Users\\rkala\\CRIT-APP\\docs\\_swarm_audit\\originality_ch01_14.md",
+  "chapters_reviewed": [
+    "01-why-critical-appraisal-matters-in-neurology-and-stroke.md",
+    "02-how-to-read-a-paper-under-time-pressure.md",
+    "03-questions-pico-estimands-and-index-time.md",
+    "04-internal-validity-external-validity-and-bias-taxonomy.md",
+    "05-confounding-dags-and-target-trial-thinking.md",
+    "06-appraising-randomized-trials-in-stroke-and-neurology.md",
+    "07-appraising-observational-studies-without-naïveté.md",
+    "08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md",
+    "09-prognosis-risk-scores-and-prediction-models.md",
+    "10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md",
+    "11-stroke-outcomes-mrs-time-to-event-and-competing-risks.md",
+    "12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md",
+    "13-subgroups-heterogeneity-of-treatment-effect-and-spin.md",
+    "14-appraising-artificial-intelligence-and-machine-learning-papers.md"
+  ],
+  "high": [],
+  "medium": [
+    {
+      "id": "M1",
+      "file": "02-how-to-read-a-paper-under-time-pressure.md",
+      "location": "title (L1)",
+      "summary": "Title theme echoes Greenhalgh 'How to Read a Paper' series; body is original stroke time-pressure protocol, not a handbook paste."
+    },
+    {
+      "id": "M2",
+      "file": "multiple (06,08,09,10,14)",
+      "location": "Named Frameworks sections",
+      "summary": "High-level paraphrases of GRADE/QUADAS-2/STARD/TRIPOD/PROBAST/RoB2/PRISMA domains without full official item dumps; residual handbook-overlap concern only."
+    },
+    {
+      "id": "M3",
+      "file": "12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md (and similar trial architecture allusions in 06,10)",
+      "location": "CEA/NASCET-ACAS absolute-risk bridge; DAPT-style synthetic meta",
+      "summary": "Approximate public trial magnitudes used in original teaching arithmetic; not verbatim paper Table 1 pastes."
+    },
+    {
+      "id": "M4",
+      "file": "all chapters 01-14",
+      "location": "global prose style",
+      "summary": "Uniform dense pedagogical voice (likely LLM-assisted) creates residual training-data-echo uncertainty without identifiable commercial paste."
+    }
+  ],
+  "low": [
+    {
+      "id": "L1",
+      "summary": "Shared scientific terms and formulas (ARR, NNT, PICO, DAG, ITT, mRS, LR, AUROC, DCA) — not copyrightable alone."
+    },
+    {
+      "id": "L2",
+      "summary": "Nominative trial acronyms (NINDS, ECASS III, DAWN, POINT, CHANCE, etc.) with learner-side extraction tasks rather than embedded primary tables."
+    },
+    {
+      "id": "L3",
+      "summary": "Named epidemiologic concepts (Table 1 Fallacy, immortal time, colliders) taught via original stroke vignettes."
+    },
+    {
+      "id": "L4",
+      "summary": "Standard heuristics (dichotomization information loss; Pauker-Kassirer thresholds) paraphrased."
+    }
+  ],
+  "safe_signals": [
+    "Web Edition original-teaching disclaimer on all 14 chapters",
+    "Footer: original CRIT-APP figures/tables; methods standards cited by name only",
+    "Synthetic vignettes: REPERFUSE-2/3, Neuromab, DeepVessel-Net, RecoveryForest, fictional claims EVT paper",
+    "Original frameworks: DFR, F&T-First, 20-minute protocol, Absolute Effect Translation Checklist",
+    "Explicit rejection of CONSORT 25-item memorization (ch06)",
+    "No reproduced-with-permission, ISBN, abstract paste, or publisher boilerplate found"
+  ],
+  "rewrites_performed": [],
+  "pass": true,
+  "recommendation": "GO",
+  "top_findings": [
+    {
+      "severity": "medium",
+      "finding": "Chapter 2 title thematically echoes Greenhalgh 'How to Read a Paper' without content paste.",
+      "action": "Optional brand-hygiene note; not a blocker."
+    },
+    {
+      "severity": "medium",
+      "finding": "Named reporting/appraisal frameworks summarized by domain only (no instrument item dumps).",
+      "action": "Maintain name-only policy; avoid future full-checklist pastes."
+    },
+    {
+      "severity": "low",
+      "finding": "Strong safe signals: synthetic vignettes, Web Edition disclaimers, original teaching checklists across all 14 chapters.",
+      "action": "None required."
+    },
+    {
+      "severity": "high",
+      "finding": "No HIGH-risk copy-paste of commercial textbooks, journal abstracts, or publisher materials identified.",
+      "action": "No curriculum rewrites performed."
+    }
+  ]
+}
