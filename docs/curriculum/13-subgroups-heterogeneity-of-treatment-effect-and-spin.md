@@ -2,6 +2,11 @@
 
 ## Opening
 
+![Spin watchlist (original).](../assets/figures/crit_fig_spin_watchlist.png)
+
+*Spin patterns to force into the open (original teaching graphic).*
+
+
 A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.
 
 
