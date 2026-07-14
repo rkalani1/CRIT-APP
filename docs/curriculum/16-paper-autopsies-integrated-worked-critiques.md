@@ -1,6 +1,10 @@
 # Chapter 16. Paper Autopsies: Integrated Worked Critiques
 
 ## Opening
+![Paper autopsy sequence (original teaching graphic).](../assets/figures/crit_fig_autopsy_sequence.png)
+
+*Paper autopsy sequence (original teaching graphic).*
+
 
 ![Paper autopsy sequence (original).](../assets/figures/swarm_ch16_autopsy_flow.png)
 
