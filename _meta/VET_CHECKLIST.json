@@ -1,0 +1,278 @@
+{
+    "01-why-critical-appraisal-matters-in-neurology-and-stroke.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "02-how-to-read-a-paper-under-time-pressure.md": {
+        "pass": false,
+        "issues": [
+            "Contains raw paper abstracts.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Remove abstract text and summarize findings natively.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "03-questions-pico-estimands-and-index-time.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "04-internal-validity-external-validity-and-bias-taxonomy.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "05-confounding-dags-and-target-trial-thinking.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "06-appraising-randomized-trials-in-stroke-and-neurology.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "07-appraising-observational-studies-without-na\u00efvet\u00e9.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "09-prognosis-risk-scores-and-prediction-models.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "11-stroke-outcomes-mrs-time-to-event-and-competing-risks.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "13-subgroups-heterogeneity-of-treatment-effect-and-spin.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "14-appraising-artificial-intelligence-and-machine-learning-papers.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "15-journal-club-architecture-and-teaching-critical-appraisal.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "16-paper-autopsies-integrated-worked-critiques.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "17-chapter-17-disease-frequency-association.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "18-causation-frameworks-bias-and-inference.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "19-inference-estimation-and-the-architecture-of-uncertainty.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "20-regression-and-survival-analysis-literacy-for-paper-readers.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "21-interaction-effect-modification-and-standardization.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "22-screening-early-detection-and-overdiagnosis.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.md": {
+        "pass": false,
+        "issues": [
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "24-appraising-therapy-and-harm-questions.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "25-appraising-diagnosis-and-prognosis-papers.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "26-systematic-reviews-and-clinical-prediction-rules.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "27-missing-data-multiplicity-interim-analyses-and-fragility.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    },
+    "28-chapter-28-systems-of-care-policy-and-patient-communication.md": {
+        "pass": false,
+        "issues": [
+            "Thin chapter (< 2.5k words). Lacks thoroughness.",
+            "Missing visual/figure."
+        ],
+        "fixes": [
+            "Expand with original prose, clinical examples, and deep-dives.",
+            "Add at least one strong visual diagram or figure."
+        ]
+    }
+}
