@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Missingness mechanisms (original).](../assets/figures/fig44_missingness_mechs.png)
+
+*Missingness mechanisms (original).*
+
+![Fragility and missingness (original).](../assets/figures/fig17_fragility_missing.png)
+
+*Fragility and missingness (original).*
+
 ![Fragility and missingness mechanisms (original).](../assets/figures/swarm_ch27_fragility_missing.png)
 
 *Fragility and missingness mechanisms (original).*
@@ -70,6 +78,11 @@ Clinical Note: When adopting a novel stroke intervention—particularly one invo
 Methodologic Note: Do not conflate statistical significance with evidentiary robustness. A p-value of 0.04 in an underpowered subgroup with 12% missing data is mathematical noise dressed in academic formatting.
 
 Epidemiologic Note: Anticipate missing data in trial design rather than attempting to rescue it with post hoc statistical gymnastics. Rigorous follow-up infrastructure is vastly superior to complex imputation models.
+
+
+![fig75_instrumental_variable.png original teaching graphic](../assets/figures/fig75_instrumental_variable.png)
+
+*Original teaching graphic (fig75_instrumental_variable.png).*
 
 ## Chapter summary
 

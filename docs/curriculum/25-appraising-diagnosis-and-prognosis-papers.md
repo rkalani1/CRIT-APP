@@ -2,6 +2,14 @@
 
 ## Opening
 
+![ROC operating point (original).](../assets/figures/fig73_roc_operating.png)
+
+*ROC operating point (original).*
+
+![CPR lifecycle (original).](../assets/figures/fig46_cpr_lifecycle.png)
+
+*CPR lifecycle (original).*
+
 ![Diagnostic 2x2 scaffold (original).](../assets/figures/swarm_ch25_diagnostic_2x2.png)
 
 *Diagnostic 2x2 scaffold (original).*
@@ -83,6 +91,11 @@ A score using baseline volume, CTA spot sign, and onset-to-scan time predicts 24
 - **Gate 1 — Trustworthiness:** True early inception (scan within 6 h), 98% 24-hour CT completion, blinded outcome coding.
 - **Gate 2 — Effect extraction:** Low 5% (2–8%), medium 25% (20–30%), high 65% (55–75%) with acceptable calibration.
 - **Gate 3 — Local actionability:** A high-stratum ED patient crosses the local aggressive-treatment threshold (ultra-early BP control, antithrombotic reversal, neuro-ICU transfer). The rule changed a pathway, not merely a paragraph.
+
+
+![fig71_action_thresholds2.png original teaching graphic](../assets/figures/fig71_action_thresholds2.png)
+
+*Original teaching graphic (fig71_action_thresholds2.png).*
 
 ## Chapter summary
 

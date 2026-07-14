@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Transportability (original).](../assets/figures/fig72_transportability.png)
+
+*Transportability (original).*
+
+![Pathway decisions (original).](../assets/figures/fig41_pathway_decisions.png)
+
+*Pathway decisions (original).*
+
 ![Natural frequencies for systems and counseling (original).](../assets/figures/swarm_ch28_natural_frequencies.png)
 
 *Natural frequencies for systems and counseling (original).*
@@ -95,6 +103,11 @@ EHR / order-set changes:
 Patient communication script (natural frequencies):
 Owner / review date / dissent logged:
 ```
+
+
+![fig76_mediation.png original teaching graphic](../assets/figures/fig76_mediation.png)
+
+*Original teaching graphic (fig76_mediation.png).*
 
 ## Chapter summary
 

@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Three bias families (original).](../assets/figures/fig27_three_bias_families.png)
+
+*Three bias families (original).*
+
+![Bias taxonomy map (original).](../assets/figures/fig02_bias_taxonomy.png)
+
+*Bias taxonomy map (original).*
+
 ![Bias families versus transportability (original).](../assets/figures/swarm_ch04_bias_taxonomy.png)
 
 *Bias families versus transportability (original).*
@@ -178,6 +186,11 @@ Furthermore, in diagnostic stroke pathways, spectrum bias is a constant threat. 
 
 This chapter forms the architectural core of Part II's causal discipline. The necessity of defining the target before grading the error directly references Chapter 2 (Estimands and Target Trials). The principles of random error, precision, and multiplicity directly anticipate the analytical techniques detailed in Chapter 3 (Probability and Statistical Inference). The taxonomy of internal validity threats deployed here will be structurally applied to specific study architectures in Chapter 5 (Randomized Trials), Chapter 6 (Observational Designs), and Chapter 7 (Diagnostic Accuracy and Prognosis).
 
+
+![fig45_multiplicity_tree.png original teaching graphic](../assets/figures/fig45_multiplicity_tree.png)
+
+*Original teaching graphic (fig45_multiplicity_tree.png).*
+
 ## Chapter summary
 
 Internal validity and external validity (transportability) represent distinct, non-overlapping inferential promises and must be graded separately. Random error reflects finite sampling and shrinks with larger sample sizes, whereas systematic error (bias) represents structural directional distortion that massive datasets only crystallize, not cure. Precision is not validity. A rigorous clinical bias taxonomy—comprising selection bias, confounding, information bias, and reporting bias—provides a mutually exclusive and collectively exhaustive framework for rapid protocol review. In acute stroke and neurology, confounding by indication serves as the apex threat in observational research, requiring sophisticated causal design rather than mere cosmetic covariate adjustment. Collider stratification bias mathematically proves the danger of adjusting for post-treatment variables or conditioning on survival. Transportability mandates the re-evaluation of absolute risk reductions based on local case-mix and system-mix. Structured validity assessments must output graded, policy-actionable decisions rather than unstructured lists of limitations.
@@ -297,3 +310,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig84_cluster_randomization.png original teaching graphic](../assets/figures/fig84_cluster_randomization.png)
+
+*Original teaching graphic (fig84_cluster_randomization.png).*

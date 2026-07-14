@@ -1,6 +1,10 @@
 # Chapter 3. Questions, PICO, Estimands, and Index Time
 
 ## Opening
+
+![Validity and transportability (original).](../assets/figures/fig25_validity_transport.png)
+
+*Validity and transportability (original).*
 ![Two claim templates for paper claims (original).](../assets/figures/crit_fig_prediction_vs_causation.png)
 
 *Two claim templates for paper claims (original).*
@@ -159,6 +163,11 @@ The structural principles detailed in this chapter form the absolute prerequisit
 
 The PICO sentences and target-trial frameworks developed here directly populate the appraisal tools introduced in Chapter 2 (The Senior Appraisal Checklist). Furthermore, the concepts of index time and immortal time bias serve as the foundation for the advanced observational epidemiology chapters, particularly Chapter 8 (Propensity Scores, Emulated Trials, and Instrumental Variables).
 
+
+![fig40_natural_frequencies.png original teaching graphic](../assets/figures/fig40_natural_frequencies.png)
+
+*Original teaching graphic (fig40_natural_frequencies.png).*
+
 ## Chapter summary
 
 Vague clinical curiosities must be ruthlessly repaired into precise, answerable causal questions before critical appraisal or study design can succeed. PICO and PECO frameworks provide the initial structural anatomy for interventions and exposures, demanding sentence-level specificity. The target population, study sample, and analytic set represent distinct demographic layers that frequently diverge, requiring an assessment of transportability gaps. Interventions and comparators demand operational definitions that reflect realistic clinical delivery, while outcomes must be patient-important and temporally bound. The ICH E9(R1) estimand framework formalizes the causal target by specifying population attributes, treatment contrasts, outcomes, summary measures, and explicit strategies for handling intercurrent events. Mismatches between the claimed estimand and the analyzed estimand are high-yield diagnostic findings. Index time (t0) must perfectly align eligibility, exposure assignment, and follow-up; any temporal misalignment invites devastating structural errors, most notably immortal time bias. Absolute effects (ARR, NNT) are vastly superior to relative measures, preserving baseline risk context for bedside decision-making. Eligibility criteria are not mere safety guards; they are fundamental scientific parameters that dictate the transportability of the causal effect. By mastering question craft, the clinical epidemiologist neutralizes linguistic chaos and makes true bias diagnosis possible.
@@ -277,3 +286,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig83_prevalence_reservoir.png original teaching graphic](../assets/figures/fig83_prevalence_reservoir.png)
+
+*Original teaching graphic (fig83_prevalence_reservoir.png).*

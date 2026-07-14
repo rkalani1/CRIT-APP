@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Competing risks (original).](../assets/figures/fig31_competing_risks.png)
+
+*Competing risks (original).*
+
+![mRS shift concept (original).](../assets/figures/fig30_mrs_shift.png)
+
+*mRS shift concept (original).*
+
 ![mRS distribution shift teaching figure (original).](../assets/figures/swarm_ch11_mrs_shift.png)
 
 *mRS distribution shift teaching figure (original).*
@@ -151,6 +159,11 @@ Internalizing this checklist fundamentally alters how you consume medical litera
 - Chapter 4: Selection Bias and Collider Stratification — Required for understanding why hazard ratios suffer from built-in frailty selection bias over time.
 - Chapter 9: The Randomized Controlled Trial — Required for understanding intention-to-treat protocols and the handling of missing mRS data via multiple imputation equations.
 - Chapter 12: Meta-Analysis and Absolute Effects — Required for mathematically translating relative odds ratios into absolute risk reductions using baseline control event rates.
+
+
+![fig59_cuminc_curve.png original teaching graphic](../assets/figures/fig59_cuminc_curve.png)
+
+*Original teaching graphic (fig59_cuminc_curve.png).*
 
 ## Chapter summary
 

@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Synthesis forest sketch (original).](../assets/figures/fig23_forest_meta.png)
+
+*Synthesis forest sketch (original).*
+
+![Prediction-rule lifecycle (original).](../assets/figures/fig46_cpr_lifecycle.png)
+
+*Prediction-rule lifecycle (original).*
+
 ![Clinical prediction rule lifecycle (original).](../assets/figures/swarm_ch26_cpr_lifecycle.png)
 
 *Clinical prediction rule lifecycle (original).*
@@ -54,6 +62,11 @@ Consider the ABCD2 score for TIA triage. Derived and validated to predict short-
 The modern literature is saturated with systematic reviews of prediction models. A systematic review evaluating prognostic models for functional outcome after ischemic stroke will typically find dozens of competing scores. The appraisal conclusion is almost universally identical: most models are derived, few are externally validated, almost none have undergone impact analysis, and methodology is highly biased by missing data and overfitting.
 
 When reading these reviews, the critical takeaway is rarely to adopt the 'winning' score. The takeaway is to recognize that we do not need more derivation studies. The field requires head-to-head external validation of existing scores on large, independent, modern datasets, followed by rigorous trials of their clinical impact. Until then, use CPRs to augment, not replace, clinical judgment, and always verify if the absolute risks predicted by the score match the current era of care.
+
+
+![fig74_ps_overlap.png original teaching graphic](../assets/figures/fig74_ps_overlap.png)
+
+*Original teaching graphic (fig74_ps_overlap.png).*
 
 ## Chapter summary
 

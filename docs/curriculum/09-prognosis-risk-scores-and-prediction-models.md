@@ -2,6 +2,14 @@
 
 ## Opening
 
+![ROC versus calibration (original).](../assets/figures/fig29_roc_vs_calibration.png)
+
+*ROC versus calibration (original).*
+
+![Calibration plot concept (original).](../assets/figures/fig07_calibration.png)
+
+*Calibration plot concept (original).*
+
 ![Calibration of predicted versus observed risk (original).](../assets/figures/swarm_ch09_calibration.png)
 
 *Calibration of predicted versus observed risk (original).*
@@ -146,6 +154,11 @@ Step 6: Sensitivity to Thresholds. What if the clinician requires a much higher 
 - Clinical Note — Algorithmic Nihilism and the ICH Score: The ICH Score is deeply embedded in the culture of neurocritical care. It functions as a prognostic score predicting 30-day mortality. However, if clinicians utilize a high ICH Score (e.g., a 4 or 5) as the primary justification to withdraw life-sustaining therapy on hospital day one, the predictive model transforms into a lethal self-fulfilling prophecy. The patients die primarily because aggressive care is withdrawn, which then seamlessly reinforces the model's high mortality prediction when the data is added to subsequent registries. This 'algorithmic nihilism' requires prediction researchers to rigorously segregate mortality occurring under maximal aggressive care from mortality directly resulting from the withdrawal of care. Failure to do so corrupts the prediction.
 - Research Design Note — Absolute Effects over Relative Risks: When evaluating a prognostic model for clinical application, the appraiser must ignore the odds ratios and hazard ratios generated for individual predictors. An odds ratio of 4.0 for a specific biomarker is clinically useless if the baseline absolute risk of the event is 0.1%. Patients do not conceptualize their lives in odds ratios; they require their risk expressed on the absolute probability scale. Always demand that models generate absolute probabilities, which translate directly into Absolute Risk Reduction (ARR) and Number Needed to Treat (NNT) if an intervention with a known relative efficacy is subsequently applied. The mathematical relationship is unbreakable: ARR = Absolute Risk * Relative Risk Reduction, and NNT = 1 / ARR. Absolute risk is the only currency that matters at the bedside.
 
+
+![fig54_surrogate_trap.png original teaching graphic](../assets/figures/fig54_surrogate_trap.png)
+
+*Original teaching graphic (fig54_surrogate_trap.png).*
+
 ## Chapter summary
 
 Prognosis and prediction models execute a fundamentally different scientific task than randomized trials or diagnostic accuracy studies; they forecast future probabilities based on present data, without making causal claims about treatment effects. Rigorous appraisal requires absolute adherence to a defined time zero, ensuring no future data leaks into the predictor set. Discrimination (AUROC) merely ranks patients, while calibration provides the absolute risk accuracy essential for clinical counseling and bedside decision-making. Overfitting must be neutralized through internal validation techniques like bootstrapping, while external validation remains mandatory to detect temporal drift and case-mix variation. Ultimately, models must move beyond probabilities; Decision Curve Analysis translates risk accuracy into clinical utility by quantifying Net Benefit across the spectrum of clinician thresholds. Applying the PROBAST framework protects the clinician from adopting mathematically optimistic, uncalibrated models that fail at the bedside.
@@ -262,3 +275,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig89_km_atrisk.png original teaching graphic](../assets/figures/fig89_km_atrisk.png)
+
+*Original teaching graphic (fig89_km_atrisk.png).*

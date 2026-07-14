@@ -1,6 +1,14 @@
 # Chapter 18. Causation Frameworks, Bias, and Inference
 
 ## Opening
+
+![E-value intuition (original).](../assets/figures/fig47_evalue.png)
+
+*E-value intuition (original).*
+
+![Counterfactual contrast (original).](../assets/figures/fig20_counterfactual.png)
+
+*Counterfactual contrast (original).*
 ![Causal graph motifs used in appraisal (original).](../assets/figures/crit_fig_confounder_mediator_collider.png)
 
 *Causal graph motifs used in appraisal (original).*
@@ -76,6 +84,11 @@ In 1965, Austin Bradford Hill proposed nine 'viewpoints' to help distinguish cau
 When dissecting a neurological study, the appraiser must strip away the rhetoric and identify the counterfactual question being asked. If the claim is causal, verify that the exposure is a distinct, actionable intervention rather than an immutable patient characteristic. Trace the study's architecture for open backdoor paths (confounding), inappropriate conditioning (selection bias), and corrupted data streams (information bias). Use Hill's viewpoints to systematically doubt the findings.
 
 Ultimately, causal inference from observational data is a negotiation with uncertainty. A study may not flawlessly prove causation, but it may provide sufficient evidence to alter practice when randomized trials are unethical or impossible. The goal of critical appraisal is not to nihilistically dismiss observational research, but to calibrate our clinical confidence to the rigorousness of the study's design.
+
+
+![fig80_icon_array.png original teaching graphic](../assets/figures/fig80_icon_array.png)
+
+*Original teaching graphic (fig80_icon_array.png).*
 
 ## Chapter summary
 

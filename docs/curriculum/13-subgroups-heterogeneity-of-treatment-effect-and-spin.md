@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Spin detector checklist graphic (original).](../assets/figures/fig37_spin_detector.png)
+
+*Spin detector checklist graphic (original).*
+
+![HTE credibility (original).](../assets/figures/fig33_hte_credibility.png)
+
+*HTE credibility (original).*
+
 ![Spin watchlist (original).](../assets/figures/crit_fig_spin_watchlist.png)
 
 *Spin patterns to force into the open (original teaching graphic).*
@@ -202,6 +210,11 @@ Research Practice Note for Trial Investigators: Pre-specify a brutally short tes
 - Chapter 7: Absolute vs. Relative Effect Measures (for the underlying mathematics of NNT, NNH, and baseline risk arithmetic).
 - Chapter 9: The Multiplicity Problem (for formal mathematical adjustments including Bonferroni and FDR control).
 - Chapter 15: Critical Appraisal of Industry Literature (for further discussion on conflict of interest and the pharmaceutical lifecycle).
+
+
+![fig60_fagan_nomogram.png original teaching graphic](../assets/figures/fig60_fagan_nomogram.png)
+
+*Original teaching graphic (fig60_fagan_nomogram.png).*
 
 ## Chapter summary
 

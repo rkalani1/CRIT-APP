@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Dual-process clinical reasoning (original).](../assets/figures/fig15_dual_process.png)
+
+*Dual-process clinical reasoning (original).*
+
 ![Dual-process clinical use of evidence (original).](../assets/figures/swarm_ch23_dual_process.png)
 
 *Dual-process clinical use of evidence (original).*
@@ -220,6 +224,11 @@ Team Dynamics: Was Dissent Actively Solicited and Entertained? [Y/N]
 ```
 
 Maintain a rigorous, private metacognitive log analyzing five complex cases per month. Predictable patterns will invariably emerge: a recurrent vulnerability to a specific initial anchor, an over-reliance on a particular imaging modality's negative predictive value, or a consistent habit of uncritically accepting abstract conclusions. Continuous, measurable improvement in clinical reasoning is phenomenologically closer to the deliberate, repetitive practice required for elite musical performance than it is to the sudden, transformative epiphanies occasionally experienced during grand rounds.
+
+
+![fig38_noninferiority.png original teaching graphic](../assets/figures/fig38_noninferiority.png)
+
+*Original teaching graphic (fig38_noninferiority.png).*
 
 ## Chapter summary
 

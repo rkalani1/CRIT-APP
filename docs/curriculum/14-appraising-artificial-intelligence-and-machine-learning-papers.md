@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Site shift for AI models (original).](../assets/figures/fig35_ai_site_shift.png)
+
+*Site shift for AI models (original).*
+
+![AI leakage pathways (original).](../assets/figures/fig34_ai_leakage.png)
+
+*AI leakage pathways (original).*
+
 ![AI pipeline leakage versus honest split (original).](../assets/figures/swarm_ch14_ai_leakage.png)
 
 *AI pipeline leakage versus honest split (original).*
@@ -151,6 +159,11 @@ For a rigorous foundation in causal inference and the distinction between predic
 For the detailed statistical mechanics underlying sensitivity, specificity, and the devastating impact of base-rate fallacies and prevalence shifts, review Chapter 6 (Diagnostic Testing and Bayes' Theorem).
 
 For the principles of integrating interventions into complex clinical environments and measuring absolute, systems-level effects, review Chapter 12 (Implementation Science and Quality Improvement Methodology).
+
+
+![fig61_confounder_mediator_collider.png original teaching graphic](../assets/figures/fig61_confounder_mediator_collider.png)
+
+*Original teaching graphic (fig61_confounder_mediator_collider.png).*
 
 ## Chapter summary
 

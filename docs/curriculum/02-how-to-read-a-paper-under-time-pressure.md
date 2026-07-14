@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Timed paper-reading pathway (original).](../assets/figures/fig01_reading_flow.png)
+
+*Timed paper-reading pathway (original).*
+
 ![Twenty-minute paper triage protocol (original).](../assets/figures/swarm_ch02_reading_triage.png)
 
 *Twenty-minute paper triage protocol (original).*
@@ -153,6 +157,11 @@ The specific application of the figures-first method to observational claims dat
 
 The critical distinction between prediction and causation, introduced during abstract triage, forms the conceptual core of Chapter 9, which dissects predictive modeling, machine learning, and the TRIPOD reporting guidelines.
 
+
+![fig36_grade_certainty.png original teaching graphic](../assets/figures/fig36_grade_certainty.png)
+
+*Original teaching graphic (fig36_grade_certainty.png).*
+
 ## Chapter summary
 
 Time pressure is an unavoidable constraint in clinical neurology and stroke care. Unstructured reading under this pressure invariably produces either false confidence or intellectual paralysis. The IMRaD structure must be utilized as a spatial map of information density, not a forced chronological reading order. Abstract triage determines whether a paper warrants full effort by identifying the claim type and detecting hard-stop flaws. The figures-and-tables-first method systematically extracts absolute effects, selection reality, and safety data before the reader is exposed to narrative spin. A rigorous 20-minute protocol sequences triage, data displays, the methods critical path, a threat scan, and the formulation of an explicit action. Honest skipping dictates that unread sections are recorded, proportionally lowering adoption confidence. The translation of relative risks into absolute metrics (ARR, NNT, NNH) is mandatory for clinical decision making. A fully worked example in dual antiplatelet therapy demonstrates how this method protects a clinic from over-generalization while preserving absolute benefits for precisely matched patients. Ultimately, emergency patient care must rely on pre-appraised pathways; the 20-minute protocol is the tool used to build and maintain those pathways.
@@ -271,3 +280,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig82_mid_vs_ci.png original teaching graphic](../assets/figures/fig82_mid_vs_ci.png)
+
+*Original teaching graphic (fig82_mid_vs_ci.png).*

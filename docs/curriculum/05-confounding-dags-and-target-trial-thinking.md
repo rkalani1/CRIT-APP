@@ -1,6 +1,14 @@
 # Chapter 5. Confounding, DAGs, and Target-Trial Thinking
 
 ## Opening
+
+![Target-trial thinking (original).](../assets/figures/fig04_target_trial.png)
+
+*Target-trial thinking (original).*
+
+![Confounding structure (original).](../assets/figures/fig03_dag_confounding.png)
+
+*Confounding structure (original).*
 ![Confounder, mediator, collider structures (original teaching sketch).](../assets/figures/crit_fig_confounder_mediator_collider.png)
 
 *Confounder, mediator, collider structures (original teaching sketch).*
@@ -109,6 +117,11 @@ Epidemiologic Note: The illusion that machine learning (ML) or artificial intell
 To quantify the threat of unmeasured confounding, rigorous researchers deploy Quantitative Bias Analysis (QBA) and E-values (discussed further in Chapter 7). The E-value is defined as the minimum strength of association that an unmeasured confounder would need to have with both the treatment and the outcome, conditional on the measured covariates, to fully explain away a specific treatment-outcome association. If an observational study reports a relative risk of 1.2, and the E-value is 1.7, the appraiser must ask: 'Is it biologically plausible that an unmeasured variable exists that increases the likelihood of treatment by 70% and increases the risk of the outcome by 70%, independent of everything else we already adjusted for?' If the answer is yes (e.g., clinician assessment of aspiration risk), the finding is fragile. If the E-value is 4.0, the finding is highly resilient to unmeasured confounding. E-values force critics to abandon vague accusations of 'unmeasured confounding' and engage in rigorous quantitative debate.
 
 Stroke Systems Note: Competing risks (see Chapter 8) represent another structural threat. In studying long-term stroke recurrence, death from non-vascular causes is a competing risk. Analyzing this using standard Kaplan-Meier methods, which treat death as a censoring event, relies on the assumption that censoring is independent of the outcome. This is biologically false in stroke; patients who die of pneumonia are precisely the frail patients who would have been at highest risk for recurrent stroke. Structural causal models must explicitly map these competing events to avoid overestimating absolute recurrence risks.
+
+
+![fig52_decision_curve.png original teaching graphic](../assets/figures/fig52_decision_curve.png)
+
+*Original teaching graphic (fig52_decision_curve.png).*
 
 ## Chapter summary
 
@@ -228,3 +241,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig85_crossover.png original teaching graphic](../assets/figures/fig85_crossover.png)
+
+*Original teaching graphic (fig85_crossover.png).*

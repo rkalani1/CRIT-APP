@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Active-comparator new-user design (original).](../assets/figures/fig48_active_comparator.png)
+
+*Active-comparator new-user design (original).*
+
+![Immortal time structure (original).](../assets/figures/fig12_immortal_time.png)
+
+*Immortal time structure (original).*
+
 ![Immortal time bias schematic (original).](../assets/figures/swarm_ch07_immortal_time.png)
 
 *Immortal time bias schematic (original).*
@@ -269,3 +277,11 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig53_spectrum_bias.png original teaching graphic](../assets/figures/fig53_spectrum_bias.png)
+
+*Original teaching graphic (fig53_spectrum_bias.png).*
+
+![fig87_goodhart.png original teaching graphic](../assets/figures/fig87_goodhart.png)
+
+*Original teaching graphic (fig87_goodhart.png).*

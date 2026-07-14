@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Numbers needed to screen cascade (original).](../assets/figures/fig57_nns_cascade.png)
+
+*Numbers needed to screen cascade (original).*
+
+![Screening biases (original).](../assets/figures/fig14_screening_biases.png)
+
+*Screening biases (original).*
+
 ![Screening appraisal traps: lead time, length, overdiagnosis (original).](../assets/figures/swarm_ch22_screening.png)
 
 *Screening appraisal traps: lead time, length, overdiagnosis (original).*
@@ -199,3 +207,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig68_adaptive_design.png original teaching graphic](../assets/figures/fig68_adaptive_design.png)
+
+*Original teaching graphic (fig68_adaptive_design.png).*

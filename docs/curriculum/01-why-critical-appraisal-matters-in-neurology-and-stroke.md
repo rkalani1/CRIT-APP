@@ -1,6 +1,10 @@
 # Chapter 1. Why Critical Appraisal Matters in Neurology and Stroke
 
 ## Opening
+
+![Decision-focused reading flow (original).](../assets/figures/fig01_reading_flow.png)
+
+*Decision-focused reading flow (original).*
 ![Prediction vs causation claim templates (original teaching graphic).](../assets/figures/crit_fig_prediction_vs_causation.png)
 
 *Prediction vs causation claim templates (original teaching graphic).*
@@ -176,6 +180,11 @@ Institutional journal club culture must be strictly decision-focused, epistemica
 
 Developing a personal appraisal infrastructure and instituting research pre-mortems extends the discipline of appraisal far beyond isolated weekly meetings. The subsequent chapters of this textbook will convert this foundational stance into precise methodological technique, addressing bias taxonomies, causal diagrams, and design-specific extraction protocols. If you carry a single axiom from Chapter 1 into the remainder of your career, let it be this: In an evidence-dense medical specialty, the critically scarce resource is not published papers—it is clinically justified action. Rigorous critical appraisal is the exclusive mechanism by which neurologists and stroke researchers allocate that scarce resource wisely.
 
+
+![fig22_survival_censoring.png original teaching graphic](../assets/figures/fig22_survival_censoring.png)
+
+*Original teaching graphic (fig22_survival_censoring.png).*
+
 ## Chapter summary
 
 Stroke and neurology generate extreme evidence density across acute care, secondary prevention, imaging, systems science, and claims-based research. Density without formal appraisal produces clinical noise, dangerous protocol churn, and false certainty. Misreading has severe patient, team, program, scientific, and ethical costs. Prediction and causation answer fundamentally different mathematical questions and must never be conflated; absolute effects (ARR, NNT, ARI, NNH), not relative language alone, support honest counseling and precise pathway design. Journal club culture should be strictly decision-focused, epistemically open, and memory-bearing. Decision-focused reading explicitly names the clinical decision, the alternatives, the needed estimate, and the action under residual uncertainty. A worked example demonstrates how to triage an EVT trial, a claims association, and a relative-risk meta-analysis before morning sign-out. Clinical and epidemiologic notes emphasize external transportability, confounding by indication, and cognitive failure modes like subgroup surfing and novelty bias. Personal infrastructure and research pre-mortems extend appraisal beyond single meetings. The scarce resource in modern stroke care is mathematically justified action; critical appraisal is precisely how that resource is allocated.
@@ -296,3 +305,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig81_consort_flow.png original teaching graphic](../assets/figures/fig81_consort_flow.png)
+
+*Original teaching graphic (fig81_consort_flow.png).*

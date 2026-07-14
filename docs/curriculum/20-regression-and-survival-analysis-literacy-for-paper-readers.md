@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Noncollapsibility sketch (original).](../assets/figures/fig67_noncollapsibility.png)
+
+*Noncollapsibility sketch (original).*
+
+![Table 2 fallacy (original).](../assets/figures/fig55_table2_fallacy.png)
+
+*Table 2 fallacy (original).*
+
 ![Time-to-event: events versus censoring (original).](../assets/figures/swarm_ch20_survival.png)
 
 *Time-to-event: events versus censoring (original).*
@@ -58,6 +66,11 @@ When evaluating a clinical stroke paper that heavily relies on multivariable reg
 - Scrutinize Censoring: In survival analyses, is the drop-out rate acceptable, and is there evidence that censoring is non-informative?
 - Identify Competing Risks: For time-to-event outcomes in populations with high mortality (e.g., severe stroke), were competing risks properly modeled?
 - Avoid the Table 2 Fallacy: Refuse to interpret the adjusted coefficients of structural covariates as independent causal effects.
+
+
+![fig65_verification_bias.png original teaching graphic](../assets/figures/fig65_verification_bias.png)
+
+*Original teaching graphic (fig65_verification_bias.png).*
 
 ## Chapter summary
 

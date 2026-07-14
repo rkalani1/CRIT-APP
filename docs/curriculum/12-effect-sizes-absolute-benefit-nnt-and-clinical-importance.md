@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Absolute vs relative by baseline (original).](../assets/figures/fig70_absrel_baseline.png)
+
+*Absolute vs relative by baseline (original).*
+
+![ARR and NNT (original).](../assets/figures/fig08_arr_nnt.png)
+
+*ARR and NNT (original).*
+
 ![NNT icon array (original).](../assets/figures/crit_fig_nnt_icon_array.png)
 
 *Absolute benefit intuition (synthetic NNT teaching graphic; original).*
@@ -306,3 +314,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig79_dose_response.png original teaching graphic](../assets/figures/fig79_dose_response.png)
+
+*Original teaching graphic (fig79_dose_response.png).*

@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Journal-club architecture (original).](../assets/figures/fig51_jc_roles.png)
+
+*Journal-club architecture (original).*
+
+![Journal club roles (original).](../assets/figures/fig09_journal_club.png)
+
+*Journal club roles (original).*
+
 ![Journal club role map for decision-focused teaching (original).](../assets/figures/swarm_ch15_jc_roles.png)
 
 *Journal club role map for decision-focused teaching (original).*
@@ -324,6 +332,11 @@ A single journal club is necessary but insufficient. Directors must map a year-l
 Create a shared, searchable institutional folder containing the paper PDFs, the completed question boards, the decision boxes, and any resultant clinical pathway changes. This repository becomes the onboarding material for new fellows. When a recurring clinical debate surfaces, retrieve the prior board rather than arguing from historical vibes.
 
 Finally, a department must reward the behavior it claims to value. If academic promotion and praise flow exclusively to those who rapidly cite the most literature, the result will be citation theater. If praise flows to those who meticulously reconstruct absolute risks, admit uncertainty, and publicly change their minds when confronted with superior evidence, the result will be a continuously learning neurology service.
+
+
+![fig62_covariate_balance.png original teaching graphic](../assets/figures/fig62_covariate_balance.png)
+
+*Original teaching graphic (fig62_covariate_balance.png).*
 
 ## Chapter summary
 

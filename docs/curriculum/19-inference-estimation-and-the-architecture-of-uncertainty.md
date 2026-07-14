@@ -2,6 +2,14 @@
 
 ## Opening
 
+![CI width versus n (original).](../assets/figures/fig43_ci_width_n.png)
+
+*CI width versus n (original).*
+
+![Estimation and confidence intervals (original).](../assets/figures/fig21_estimation_ci.png)
+
+*Estimation and confidence intervals (original).*
+
 ![Estimation culture: confidence intervals against MID (original).](../assets/figures/swarm_ch19_estimation_ci.png)
 
 *Estimation culture: confidence intervals against MID (original).*
@@ -113,6 +121,11 @@ Margin of Error = 1.96 * 0.0318 = 0.0623
 ```
 
 This manual calculation yields an ARR of 6.0% with a 95% CI ranging from a 0.2% absolute increase in mortality to a 12.2% absolute decrease. Because the interval crosses zero, the p-value will inevitably be greater than 0.05. A dichotomaniac dismisses the trial as 'negative.' A practitioner of estimation culture recognizes that while the data are mathematically compatible with trivial harm, they are substantially more compatible with massive clinical benefit (e.g., up to 12 fewer deaths per 100 patients). The study is not negative; it is severely imprecise and mandates further investigation, not abandonment.
+
+
+![fig64_calibration_deciles.png original teaching graphic](../assets/figures/fig64_calibration_deciles.png)
+
+*Original teaching graphic (fig64_calibration_deciles.png).*
 
 ## Chapter summary
 

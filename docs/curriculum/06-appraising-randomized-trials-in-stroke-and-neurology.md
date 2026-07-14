@@ -1,6 +1,14 @@
 # Chapter 6. Appraising Randomized Trials in Stroke and Neurology
 
 ## Opening
+
+![CONSORT-minded flow (teaching sketch; original).](../assets/figures/fig26_consort_minded.png)
+
+*CONSORT-minded flow (teaching sketch; original).*
+
+![Trial pathway overview (original).](../assets/figures/fig05_trial_pathway.png)
+
+*Trial pathway overview (original).*
 ![Trial pathway teaching sketch (original; not a checklist dump).](../assets/figures/crit_fig_trial_pathway.png)
 
 *Trial pathway teaching sketch (original; not a checklist dump).*
@@ -187,6 +195,11 @@ Epidemiologic Note: Internal validity is fundamentally distinct from external tr
 
 Industry Note: Scrutinize the data sharing statement and the precise role of the commercial sponsor. When the sponsor holds exclusive access to the raw data, dictates the statistical analysis plan, and authors the first draft of the manuscript without independent academic verification, the threshold for adopting marginal or subgroup-driven findings must rise exponentially. Methodological skepticism must scale with financial conflict.
 
+
+![fig77_regression_dilution.png original teaching graphic](../assets/figures/fig77_regression_dilution.png)
+
+*Original teaching graphic (fig77_regression_dilution.png).*
+
 ## Chapter summary
 
 Randomized controlled trials occupy the pinnacle of clinical epistemology solely because sequence generation breaks the causal arrow of unmeasured confounding, guaranteeing exchangeability at baseline. However, this mathematical purity is intensely fragile, existing only at the moment of randomization. Post-randomization events—including subverted allocation concealment, unblinded co-interventions, differential missingness, and competing risks—constantly threaten to reintroduce selection bias. The estimand framework clarifies that strictly intention-to-treat (ITT) analyses answer initiation-policy questions without bias, while per-protocol and as-treated exclusions condition on colliders and destroy randomization. PROBE designs, ubiquitous in vascular neurology, survive only through the absolute insulation of the blinded outcome assessor. Multiplicity, interim stopping boundaries, and post-hoc subgroup fishing frequently manufacture statistical illusions of efficacy. Advanced quantitative reasoning demands the total rejection of relative risk theater in favor of independently calculating the absolute risk difference, NNT, and NNH. Finally, integrating a CONSORT-minded chronological sequence protects the clinician from adopting abstract spin, ensuring that only transparent, absolute net clinical benefits reach the patient bedside.
@@ -305,3 +318,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig86_pcurve.png original teaching graphic](../assets/figures/fig86_pcurve.png)
+
+*Original teaching graphic (fig86_pcurve.png).*

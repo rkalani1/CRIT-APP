@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Occurrence measures (original).](../assets/figures/fig18_occurrence_measures.png)
+
+*Occurrence measures (original).*
+
 Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
 
 ![Incidence versus prevalence teaching diagram (original).](../assets/figures/crit_fig_incidence_prevalence.png)
@@ -110,6 +114,11 @@ After computing RD/RR/OR, force one sentence:
 
 If the paper’s methods cannot carry the causal sentence, do not let the discussion
 section smuggle it in.
+
+
+![fig63_heterogeneity_forest.png original teaching graphic](../assets/figures/fig63_heterogeneity_forest.png)
+
+*Original teaching graphic (fig63_heterogeneity_forest.png).*
 
 ## Chapter summary
 

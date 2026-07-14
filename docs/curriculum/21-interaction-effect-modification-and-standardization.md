@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Standardization (original).](../assets/figures/fig19_standardization.png)
+
+*Standardization (original).*
+
+![Interaction on different scales (original).](../assets/figures/fig13_interaction_scales.png)
+
+*Interaction on different scales (original).*
+
 ![Interaction on additive versus multiplicative scales (original).](../assets/figures/swarm_ch21_interaction.png)
 
 *Interaction on additive versus multiplicative scales (original).*
@@ -76,6 +84,11 @@ A formal test for multiplicative interaction yields p > 0.05, confirming consist
 - Identify the Scale: Determine if the reported interaction test operates on the additive or multiplicative scale.
 - Reconstruct Absolute Risks: Calculate the stratum-specific absolute risk reductions to determine if relative homogeneity masks additive heterogeneity.
 - Model Net Benefit: Evaluate whether absolute harm profiles alter the clinical utility of the intervention across the proposed subgroups.
+
+
+![fig66_subgroup_forest.png original teaching graphic](../assets/figures/fig66_subgroup_forest.png)
+
+*Original teaching graphic (fig66_subgroup_forest.png).*
 
 ## Chapter summary
 

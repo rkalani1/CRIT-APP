@@ -1,6 +1,14 @@
 # Chapter 8. Diagnostic Accuracy Studies: From Sensitivity to Decisions
 
 ## Opening
+
+![Diagnostic 2×2 (original).](../assets/figures/fig49_diagnostic_2x2.png)
+
+*Diagnostic 2×2 (original).*
+
+![Likelihood-ratio / Bayes curves (original).](../assets/figures/fig28_lr_bayes_curves.png)
+
+*Likelihood-ratio / Bayes curves (original).*
 ![Bayes update with LR+ = 5 on synthetic priors (original).](../assets/figures/crit_fig_bayes_lr.png)
 
 *Bayes update with LR+ = 5 on synthetic priors (original).*
@@ -149,6 +157,11 @@ Equity Note: Diagnostic algorithms trained and validated in one demographic, lan
 
 To fully master diagnostic appraisal, this chapter must be explicitly integrated with the broader epidemiological curriculum. The concepts of absolute effects and clinical thresholds discussed here rely on the randomized controlled trial data architectures detailed in Chapter 4 (Therapeutic Trials and Absolute Effects). The mathematical structures of prognostic modeling, which share distinct similarities with multivariable diagnostic modeling (including critical evaluation of calibration and overfitting), are exhaustively explored in Chapter 9 (Prognostic Research and Risk Scores). Finally, the specific pathologies and deployment hazards of artificial intelligence in radiology and clinical prediction are deeply investigated in Chapter 14 (Machine Learning and Clinical AI).
 
+
+![fig78_mbias.png original teaching graphic](../assets/figures/fig78_mbias.png)
+
+*Original teaching graphic (fig78_mbias.png).*
+
 ## Chapter summary
 
 Diagnostic claims only matter when they alter probabilities enough to change clinical actions. Sensitivity and specificity describe a test's behavior relative to a reference standard, while predictive values are strictly dependent on the underlying prevalence of the disease. Likelihood ratios provide a portable mathematical tool for Bayesian updating, allowing clinicians to convert pre-test odds to post-test probabilities independent of the study's base rate. ROC curves and AUC summarize overall discrimination but fail to identify clinical utility at specific decision thresholds. The diagnostic literature is heavily polluted by spectrum bias (excluding equivocal cases), verification bias (failing to apply the gold standard to negative results), and incorporation bias (using the index test to define the outcome). Multivariable diagnostic models must be evaluated for calibration and protected against overfitting through rigorous external validation. Ultimately, diagnostic tests are gateways to interventions, and their clinical value must be appraised in the strict context of the absolute effects (ARR, NNT, NNH) of the downstream actions they trigger.
@@ -267,3 +280,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig88_tornado.png original teaching graphic](../assets/figures/fig88_tornado.png)
+
+*Original teaching graphic (fig88_tornado.png).*

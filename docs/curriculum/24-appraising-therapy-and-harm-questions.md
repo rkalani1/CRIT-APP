@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Action thresholds (original).](../assets/figures/fig39_action_thresholds.png)
+
+*Action thresholds (original).*
+
+![Therapy and harm card (original).](../assets/figures/fig16_therapy_harm_card.png)
+
+*Therapy and harm card (original).*
+
 ![Therapy versus harm absolute-effect card (original).](../assets/figures/swarm_ch24_therapy_harm.png)
 
 *Therapy versus harm absolute-effect card (original).*
@@ -59,6 +67,11 @@ Appraising observational harm requires evaluating the temporal sequence, the bio
 ## Operationalizing Appraisal: The Evidence Memo
 
 To influence clinical pathways and institutional guidelines, critical appraisal must be distilled into a structured, operational format. The one-page evidence memo forces clarity by requiring explicit statements of the clinical question, the top validity threats, the absolute risks (ARR/ARI) with confidence intervals, and the specific applicability constraints. It strips away narrative spin and focuses the committee on the raw mathematical tradeoffs, ensuring that decisions—such as the duration of DAPT or the selection criteria for EVT—are grounded in absolute data rather than rhetorical enthusiasm.
+
+
+![fig69_wlst_selffulfilling.png original teaching graphic](../assets/figures/fig69_wlst_selffulfilling.png)
+
+*Original teaching graphic (fig69_wlst_selffulfilling.png).*
 
 ## Chapter summary
 

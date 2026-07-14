@@ -186,6 +186,11 @@ Epidemiologic note — Transportability and Transport Causal Models. Even struct
 
 5. Blindness to Prevalence in Diagnostic AI. Admiring the AUROC or sensitivity of a novel AI tool while ignoring the collapse of the Positive Predictive Value in low-prevalence real-world populations guarantees operational disaster.
 
+
+![fig11_collider.png original teaching graphic](../assets/figures/fig11_collider.png)
+
+*Original teaching graphic (fig11_collider.png).*
+
 ## Chapter summary
 
 Paper autopsies synthesize isolated methodological concepts into comprehensive, defensible clinical judgments. Through the rigorous deconstruction of five distinct archetypes—the EVT RCT, the observational rehabilitation study, the AI imaging algorithm, the non-inferiority secondary prevention trial, and the prognostic prediction model—this chapter establishes a repeatable architecture for evidence appraisal. We demonstrated that absolute risk metrics routinely deflate relative hype, that immortal time bias manufactures spurious survival benefits, and that the Positive Predictive Value of AI models collapses under the weight of true clinical prevalence. Furthermore, we exposed how assay sensitivity failures dilute non-inferiority trials and how miscalibrated prediction models mechanize iatrogenic harm. The ultimate purpose of the autopsy is not mere critique, but the protection of the patient through the enforcement of epistemological discipline. By operationalizing evidence strictly through absolute effects and structural causal mapping, stroke neurologists can insulate their clinical pathways from both academic nihilism and commercial hype.

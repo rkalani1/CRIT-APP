@@ -2,6 +2,14 @@
 
 ## Opening
 
+![Funnel plot concept (original).](../assets/figures/fig56_funnel.png)
+
+*Funnel plot concept (original).*
+
+![Forest plot teaching sketch (original).](../assets/figures/fig23_forest_meta.png)
+
+*Forest plot teaching sketch (original).*
+
 ![Forest plot intuition for meta-analysis (original synthetic).](../assets/figures/swarm_ch10_forest.png)
 
 *Forest plot intuition for meta-analysis (original synthetic).*
@@ -62,25 +70,27 @@ Study 1 (e.g., Asian population):
   Aspirin: 300 recurrent strokes / 2500 patients -> Risk_ct = 0.120
   Relative Risk (RR_1) = 0.080 / 0.120 = 0.6667
   Natural Log RR (ln_RR_1) = ln(0.6667) = -0.4055
-  Standard Error (SE_1) = sqrt(1/200 - 1/2500 + 1/300 - 1/2500)
-                        = sqrt(0.005 - 0.0004 + 0.0033 - 0.0004) = sqrt(0.0075) = 0.0866
-  Weight (w_1) = 1 / (SE_1^2) = 1 / 0.0075 = 133.33
+  SE_1^2 = 1/200 - 1/2500 + 1/300 - 1/2500 = 0.007533
+  SE_1 = sqrt(0.007533) = 0.0868
+  Weight (w_1) = 1 / SE_1^2 = 132.74
 
 Study 2 (e.g., International population):
   DAPT: 120 recurrent strokes / 2000 patients -> Risk_tx = 0.060
   Aspirin: 160 recurrent strokes / 2000 patients -> Risk_ct = 0.080
   Relative Risk (RR_2) = 0.060 / 0.080 = 0.7500
   Natural Log RR (ln_RR_2) = ln(0.7500) = -0.2877
-  Standard Error (SE_2) = sqrt(1/120 - 1/2000 + 1/160 - 1/2000)
-                        = sqrt(0.0083 - 0.0005 + 0.00625 - 0.0005) = sqrt(0.01355) = 0.1164
-  Weight (w_2) = 1 / (SE_2^2) = 1 / 0.01355 = 73.80
+  SE_2^2 = 1/120 - 1/2000 + 1/160 - 1/2000 = 0.013583
+  SE_2 = sqrt(0.013583) = 0.1165
+  Weight (w_2) = 1 / SE_2^2 = 73.62
 ```
 
-We synthesize the independent studies utilizing inverse-variance weighting for a fixed-effect model. The total weight is Sum(w) = 133.33 + 73.80 = 207.13. The weighted sum of the effect estimates is Sum(w * ln_RR) = (133.33 * -0.4055) + (73.80 * -0.2877) = -54.06 - 21.23 = -75.29. The pooled natural log relative risk is the weighted sum divided by the total weight: -75.29 / 207.13 = -0.3635. The variance of this pooled estimate is 1 / Sum(w) = 1 / 207.13 = 0.0048. The standard error of the pooled estimate is sqrt(0.0048) = 0.0693.
+We synthesize the independent studies utilizing inverse-variance weighting for a fixed-effect model. The total weight is Sum(w) = 132.74 + 73.62 = 206.36. The weighted sum of the effect estimates is Sum(w * ln_RR) = (132.74 * -0.4055) + (73.62 * -0.2877) = -53.82 - 21.18 = -75.00. The pooled natural log relative risk is -75.00 / 206.36 = -0.3634. The variance of this pooled estimate is 1 / Sum(w) = 0.004846. The standard error is sqrt(0.004846) = 0.0696.
 
-To construct the 95% confidence interval (CI) on the natural logarithmic scale, we multiply the standard error by the critical z-value of 1.96. The margin of error is 1.96 * 0.0693 = 0.1358. Thus, the 95% CI for the pooled ln(RR) is -0.3635 +/- 0.1358, yielding [-0.4993, -0.2277]. Finally, we exponentiate these values to return to the interpretable clinical relative risk scale. The pooled RR is exp(-0.3635) = 0.695. The 95% CI is [exp(-0.4993), exp(-0.2277)] = [0.607, 0.796]. The meta-analysis solidly demonstrates a statistically significant 30.5% relative risk reduction in recurrent stroke with DAPT.
+To construct the 95% confidence interval (CI) on the natural logarithmic scale, multiply the standard error by 1.96. The margin of error is 1.96 * 0.0696 = 0.1364. Thus, the 95% CI for pooled ln(RR) is -0.3634 +/- 0.1364, or approximately [-0.4998, -0.2270]. Exponentiating returns the clinical relative-risk scale: pooled RR = exp(-0.3634) = 0.695, with 95% CI [exp(-0.4998), exp(-0.2270)] ≈ [0.607, 0.797]. The meta-analysis demonstrates a statistically significant ~30.5% relative risk reduction in recurrent stroke with DAPT.
 
-Relative estimates satisfy statistical requirements, but clinical action demands absolute effects. Suppose you are treating a patient whose baseline risk (Control Event Rate, CER) of stroke recurrence based on their neurovascular imaging and ABCD2 score is estimated at 10%. Using the pooled RR of 0.695, the Absolute Risk Reduction (ARR) is CER * (1 - RR) = 0.10 * (1 - 0.695) = 0.10 * 0.305 = 0.0305, or 3.05%. The Number Needed to Treat (NNT) to prevent one stroke is 1 / ARR = 1 / 0.0305 = 32.8, rounding to 33. If the patient were lower risk, with a CER of only 4%, the ARR would compress to 0.04 * 0.305 = 0.0122 (1.2%), yielding a much higher NNT of 82. This numeric translation prevents the devastating illusion that a single RR applies symmetrically to all disease severity strata in a clinical vacuum.
+Relative estimates satisfy statistical requirements, but clinical action demands absolute effects. Suppose baseline risk (Control Event Rate, CER) is 10%. Using pooled RR 0.695, ARR = CER * (1 - RR) = 0.10 * 0.305 = 0.0305 (3.05%). NNT = 1 / ARR ≈ 32.8, rounding to 33. If CER is only 4%, ARR compresses to 0.0122 (1.22%) and NNT rises to about 82. This translation prevents the illusion that one RR applies symmetrically across all baseline-risk strata.
+
+*(Intermediates recomputed from event counts with consistent rounding; verified by `scripts/verify_math_examples.py`.)*
 
 ## Guidelines, GRADE, and the Translation of Evidence
 
@@ -122,6 +132,11 @@ Clinical Note: Local Pathway Implementation vs Global Guidelines. Guidelines are
 - Chapter 6: Trial Design — Explains the mechanical requirements of randomization and allocation concealment that protect studies from bias, dictating their analytical weight in rigorous syntheses.
 - Chapter 8: Observational Studies — Details the inherent limitations of cohort and case-control studies, demonstrating why synthesizing them requires immense caution regarding unmeasured confounding.
 - Chapter 11: Diagnostic Accuracy — Extends the principles of evidence synthesis to bivariate meta-analyses of sensitivity and specificity for advanced neuroimaging modalities.
+
+
+![fig58_composite_endpoint.png original teaching graphic](../assets/figures/fig58_composite_endpoint.png)
+
+*Original teaching graphic (fig58_composite_endpoint.png).*
 
 ## Chapter summary
 
@@ -241,3 +256,7 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+![fig90_bayes_update.png original teaching graphic](../assets/figures/fig90_bayes_update.png)
+
+*Original teaching graphic (fig90_bayes_update.png).*
