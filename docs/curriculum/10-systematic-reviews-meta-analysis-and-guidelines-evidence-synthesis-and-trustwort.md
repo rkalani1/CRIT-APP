@@ -1,10 +1,6 @@
 # Chapter 10. Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A living systematic review drops at 06:00 with a favorable pooled OR. Check inclusion criteria, double-counting, and absolute baselines before updating the pathway binder.
 

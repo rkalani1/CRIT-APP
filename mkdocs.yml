@@ -1,33 +1,38 @@
-site_name: Critical Appraisal for Neurologists — Web Edition
-site_description: Free original curriculum for stroke-aware critical appraisal. Not a reprint of commercial handbooks.
+site_name: Critical Appraisal for Neurologists
+site_description: Open-source ebook on critical appraisal for neurology and stroke.
 site_url: https://rkalani1.github.io/CRIT-APP/
 repo_url: https://github.com/rkalani1/CRIT-APP
 repo_name: rkalani1/CRIT-APP
-edit_uri: edit/main/docs/
+edit_uri: ""
 copyright: >
-  Content © 2026 Rizwan Kalani / contributors · CC BY 4.0 · Site code ISC ·
-  Educational only — not medical advice or institutional policy.
+  Open-source ebook · CC BY 4.0 content · ISC site code · Educational only — not medical advice.
 
 theme:
   name: material
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: amber
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: indigo
       accent: amber
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Light mode
   features:
-    - navigation.tabs
-    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
     - navigation.expand
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -60,43 +65,35 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/rkalani1/CRIT-APP
-  version:
-    provider: mike
-    default: web-edition
 
 nav:
-  - Home: index.md
-  - About & originality: about.md
-  - Originality audit: ORIGINALITY.md
-  - How to use: how-to-use.md
-  - Update protocol: update-protocol.md
-  - Curriculum:
-    - Overview: curriculum/index.md
-    - "01. Why Critical Appraisal Matters in Neurology and…": curriculum/01-why-critical-appraisal-matters-in-neurology-and-stroke.md
+  - Introduction: index.md
+  - Book:
+    - "01. Why Critical Appraisal Matters in Neurology and S…": curriculum/01-why-critical-appraisal-matters-in-neurology-and-stroke.md
     - "02. How to Read a Paper Under Time Pressure": curriculum/02-how-to-read-a-paper-under-time-pressure.md
     - "03. Questions, PICO, Estimands, and Index Time": curriculum/03-questions-pico-estimands-and-index-time.md
-    - "04. Internal Validity, External Validity, and Bias …": curriculum/04-internal-validity-external-validity-and-bias-taxonomy.md
+    - "04. Internal Validity, External Validity, and Bias Ta…": curriculum/04-internal-validity-external-validity-and-bias-taxonomy.md
     - "05. Confounding, DAGs, and Target-Trial Thinking": curriculum/05-confounding-dags-and-target-trial-thinking.md
-    - "06. Appraising Randomized Trials in Stroke and Neur…": curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.md
+    - "06. Appraising Randomized Trials in Stroke and Neurology": curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.md
     - "07. Appraising Observational Studies Without Naïveté": curriculum/07-appraising-observational-studies-without-naïveté.md
-    - "08. Diagnostic Accuracy Studies: From Sensitivity t…": curriculum/08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md
+    - "08. Diagnostic Accuracy Studies: From Sensitivity to …": curriculum/08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md
     - "09. Prognosis, Risk Scores, and Prediction Models": curriculum/09-prognosis-risk-scores-and-prediction-models.md
-    - "10. Systematic Reviews, Meta-Analysis, and Guidelin…": curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md
-    - "11. Stroke Outcomes: mRS, Time-to-Event, and Compet…": curriculum/11-stroke-outcomes-mrs-time-to-event-and-competing-risks.md
-    - "12. Effect Sizes, Absolute Benefit, NNT, and Clinic…": curriculum/12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md
-    - "13. Subgroups, Heterogeneity of Treatment Effect, a…": curriculum/13-subgroups-heterogeneity-of-treatment-effect-and-spin.md
-    - "14. Appraising Artificial Intelligence and Machine …": curriculum/14-appraising-artificial-intelligence-and-machine-learning-papers.md
-    - "15. Journal Club Architecture and Teaching Critical…": curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.md
+    - "10. Systematic Reviews, Meta-Analysis, and Guidelines…": curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md
+    - "11. Stroke Outcomes: mRS, Time-to-Event, and Competin…": curriculum/11-stroke-outcomes-mrs-time-to-event-and-competing-risks.md
+    - "12. Effect Sizes, Absolute Benefit, NNT, and Clinical…": curriculum/12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md
+    - "13. Subgroups, Heterogeneity of Treatment Effect, and…": curriculum/13-subgroups-heterogeneity-of-treatment-effect-and-spin.md
+    - "14. Appraising Artificial Intelligence and Machine Le…": curriculum/14-appraising-artificial-intelligence-and-machine-learning-papers.md
+    - "15. Journal Club Architecture and Teaching Critical A…": curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.md
     - "16. Paper Autopsies: Integrated Worked Critiques": curriculum/16-paper-autopsies-integrated-worked-critiques.md
-    - "17. Chapter 17: Disease Frequency & Association": curriculum/17-chapter-17-disease-frequency-association.md
+    - "17. Disease Frequency and Association": curriculum/17-chapter-17-disease-frequency-association.md
     - "18. Causation Frameworks, Bias, and Inference": curriculum/18-causation-frameworks-bias-and-inference.md
-    - "19. Inference, Estimation, and the Architecture of …": curriculum/19-inference-estimation-and-the-architecture-of-uncertainty.md
-    - "20. Regression and Survival Analysis: Literacy for …": curriculum/20-regression-and-survival-analysis-literacy-for-paper-readers.md
-    - "21. Interaction, Effect Modification, and Standardi…": curriculum/21-interaction-effect-modification-and-standardization.md
+    - "19. Inference, Estimation, and the Architecture of Un…": curriculum/19-inference-estimation-and-the-architecture-of-uncertainty.md
+    - "20. Regression and Survival Analysis: Literacy for Pa…": curriculum/20-regression-and-survival-analysis-literacy-for-paper-readers.md
+    - "21. Interaction, Effect Modification, and Standardiza…": curriculum/21-interaction-effect-modification-and-standardization.md
     - "22. Screening, Early Detection, and Overdiagnosis": curriculum/22-screening-early-detection-and-overdiagnosis.md
-    - "23. Clinical Reasoning, Dual Process, and Cognitive…": curriculum/23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.md
+    - "23. Clinical Reasoning, Dual Process, and Cognitive B…": curriculum/23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.md
     - "24. Appraising Therapy and Harm Questions": curriculum/24-appraising-therapy-and-harm-questions.md
     - "25. Appraising Diagnosis and Prognosis Papers": curriculum/25-appraising-diagnosis-and-prognosis-papers.md
     - "26. Systematic Reviews and Clinical Prediction Rules": curriculum/26-systematic-reviews-and-clinical-prediction-rules.md
-    - "27. Missing Data, Multiplicity, Interim Analyses, a…": curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.md
-    - "28. Chapter 28: Systems of Care, Policy, and Patien…": curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.md
+    - "27. Missing Data, Multiplicity, Interim Analyses, and…": curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.md
+    - "28. Systems of Care, Policy, and Patient Communication": curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.md

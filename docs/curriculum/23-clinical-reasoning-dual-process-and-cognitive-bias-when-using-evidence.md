@@ -1,10 +1,6 @@
 # Chapter 23. Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A confident consultant overrules the evidence with System-1 certainty. Use dual-process language to slow the handoff without shaming expertise.
 

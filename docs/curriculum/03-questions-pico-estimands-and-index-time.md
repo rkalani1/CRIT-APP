@@ -1,10 +1,6 @@
 # Chapter 3. Questions, PICO, Estimands, and Index Time
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.
 

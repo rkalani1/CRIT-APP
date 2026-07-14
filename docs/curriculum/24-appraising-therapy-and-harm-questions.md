@@ -1,10 +1,6 @@
 # Chapter 24. Appraising Therapy and Harm Questions
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
 

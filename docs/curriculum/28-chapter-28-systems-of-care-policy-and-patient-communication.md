@@ -1,10 +1,6 @@
 # Chapter 28. Systems of Care, Policy, and Patient Communication
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Policy meeting: absolute benefit looks large in trials but small in your catchment. Systems design must track access, equity, and communication—not only p-values.
 

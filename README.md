@@ -1,26 +1,13 @@
-# CRIT-APP
+# Critical Appraisal for Neurologists
 
-**Critical Appraisal for Neurologists — Web Edition**
-
-Free, original teaching curriculum for stroke-aware critical appraisal.
+**Open-source ebook** — free reading site for stroke-aware critical appraisal.
 
 - Live: https://rkalani1.github.io/CRIT-APP/
 - Sibling: https://rkalani1.github.io/ML/
 
-## Safety / originality
-
-This is **not** a reprint of commercial EBM handbooks, journal PDFs, paper abstracts, or guideline instruments. Teaching figures are original (code-drawn). Content is CC BY 4.0; site code is ISC. Educational only — not medical advice.
-
-See `docs/about.md` and `docs/ORIGINALITY.md`.
-
-## Develop
+Content CC BY 4.0 · Site code ISC · Educational only (not medical advice).
 
 ```bash
 pip install mkdocs-material pymdown-extensions
-python scripts/originality_scan.py
 mkdocs serve
 ```
-
-## Update a chapter
-
-Edit `docs/curriculum/*.md` → PR → CI deploys Pages.

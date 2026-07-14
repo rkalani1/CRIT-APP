@@ -1,10 +1,6 @@
 # Chapter 18. Causation Frameworks, Bias, and Inference
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
 

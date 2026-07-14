@@ -1,10 +1,6 @@
 # Chapter 26. Systematic Reviews and Clinical Prediction Rules
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A clinical prediction rule is proposed for ED triage. Inspect derivation, validation, calibration, and net benefit—not only AUC.
 

@@ -1,10 +1,6 @@
 # Chapter 1. Why Critical Appraisal Matters in Neurology and Stroke
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Sign-out is late. Three PDFs land in the team channel: late-window EVT selection with a relative-risk headline, dual-antiplatelet timing from claims data, and a hemorrhage-risk model. Before any pathway moves, force the slower question: what is estimated, for whom, and on what absolute scale?
 

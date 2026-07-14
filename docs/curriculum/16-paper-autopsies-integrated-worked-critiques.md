@@ -1,10 +1,6 @@
 # Chapter 16. Paper Autopsies: Integrated Worked Critiques
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Three synthetic paper autopsies sit in the appendix of this curriculum. Practice the autopsy sequence: claim → design → absolute effect → transport → decide.
 

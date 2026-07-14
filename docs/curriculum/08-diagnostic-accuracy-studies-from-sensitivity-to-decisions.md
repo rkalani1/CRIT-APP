@@ -1,10 +1,6 @@
 # Chapter 8. Diagnostic Accuracy Studies: From Sensitivity to Decisions
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verification design, that number can be theater. Work the 2x2 before the purchase order.
 

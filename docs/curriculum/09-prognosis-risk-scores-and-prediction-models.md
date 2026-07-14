@@ -1,10 +1,6 @@
 # Chapter 9. Prognosis, Risk Scores, and Prediction Models
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
 

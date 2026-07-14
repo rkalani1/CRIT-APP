@@ -1,10 +1,6 @@
 # Chapter 11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.
 

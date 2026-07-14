@@ -1,10 +1,6 @@
 # Chapter 22. Screening, Early Detection, and Overdiagnosis
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
 

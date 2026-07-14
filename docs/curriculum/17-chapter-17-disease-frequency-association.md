@@ -1,11 +1,6 @@
 # Chapter 17. Disease Frequency and Association
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice.
-No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
 

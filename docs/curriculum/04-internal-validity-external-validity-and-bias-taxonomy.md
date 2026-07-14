@@ -1,10 +1,6 @@
 # Chapter 4. Internal Validity, External Validity, and Bias Taxonomy
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Quality meeting: someone proposes adopting an outside center protocol based on one observational paper. Demand the bias story—selection, confounding, measurement—before the order set is rewritten.
 

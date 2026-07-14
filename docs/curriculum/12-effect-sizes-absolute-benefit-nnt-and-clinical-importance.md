@@ -1,10 +1,6 @@
 # Chapter 12. Effect Sizes, Absolute Benefit, NNT, and Clinical Importance
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Marketing quotes a 25% relative reduction. Convert to absolute risk difference and NNT with the control-arm rate before counseling the next clinic patient.
 

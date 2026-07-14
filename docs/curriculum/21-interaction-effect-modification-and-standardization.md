@@ -1,10 +1,6 @@
 # Chapter 21. Interaction, Effect Modification, and Standardization
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 An interaction claim says the drug works only on one scale. Demand which scale, pre-specification, and absolute stratum effects.
 

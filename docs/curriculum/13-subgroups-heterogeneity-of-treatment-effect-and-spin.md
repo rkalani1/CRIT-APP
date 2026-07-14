@@ -1,10 +1,6 @@
 # Chapter 13. Subgroups, Heterogeneity of Treatment Effect, and Spin
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.
 

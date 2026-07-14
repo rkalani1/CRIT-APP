@@ -1,10 +1,6 @@
 # Chapter 6. Appraising Randomized Trials in Stroke and Neurology
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
 

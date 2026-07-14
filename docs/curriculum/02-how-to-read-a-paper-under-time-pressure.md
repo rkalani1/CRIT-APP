@@ -1,10 +1,6 @@
 # Chapter 2. How to Read a Paper Under Time Pressure
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 You have eleven minutes before rounds. The abstract says practice-changing. This curriculum treats that claim as a hypothesis to pressure-test—validity and transport first, celebration later.
 

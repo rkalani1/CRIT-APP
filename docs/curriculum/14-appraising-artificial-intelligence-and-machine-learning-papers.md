@@ -1,10 +1,6 @@
 # Chapter 14. Appraising Artificial Intelligence and Machine Learning Papers
 
-<div class="disclaimer-banner" markdown="1">
-**Web Edition — original teaching text.** Educational only; not medical advice. No commercial handbook prose, paper abstracts, or publisher figures.
-</div>
-
-## Web Edition clinical frame
+## Opening
 
 An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the label matches the clinical decision the tool will actually drive.
 
