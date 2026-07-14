@@ -57,6 +57,11 @@ Information bias arises from systemic errors in how exposures or outcomes are me
 
 ## Hill's Guidelines as Appraisal Questions
 
+![Bradford Hill viewpoints as appraisal questions, not a scorecard (original teaching figure).](../assets/figures/fig50_bradford_hill_questions.png)
+
+*Hill's viewpoints are probes that expose weak causal claims; ticking boxes does not prove causation. Original teaching figure.*
+
+
 In 1965, Austin Bradford Hill proposed nine 'viewpoints' to help distinguish causal from non-causal associations. Decades later, these viewpoints are frequently misapplied as a deterministic checklist. Ticking boxes does not prove causation; robust associations can be robustly confounded. Instead, senior appraisers use Hill's criteria as an interrogative framework to expose vulnerabilities in observational claims.
 
 - Temporality: The only non-negotiable criterion. Did the exposure definitively precede the outcome? Beware of reverse causation, such as declining physical activity 'causing' stroke when subclinical cerebrovascular disease was already restricting mobility.

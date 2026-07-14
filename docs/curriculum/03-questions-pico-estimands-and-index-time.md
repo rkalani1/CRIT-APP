@@ -66,6 +66,11 @@ Common PICO failures in neurology involve unspecified comparators and composite 
 
 ## The Estimand Framework: ICH E9(R1) in Neurologic Practice
 
+![PICO mapped to estimand components (ICH E9(R1) spirit; original teaching figure).](../assets/figures/fig24_pico_estimand.png)
+
+*PICO anatomy flows into the five estimand components (population, treatment conditions, variable, intercurrent-event strategy, population-level summary). Original teaching figure.*
+
+
 An estimand is the precise mathematical and clinical target of estimation. Introduced formally to the clinical trial community via the ICH E9(R1) addendum, the estimand framework demands that researchers explicitly define what they are trying to measure before they measure it. Modern trial methodology relies heavily on estimands because two completely different statistical analyses can yield different numbers while both being 'correct' for their respective estimand targets. Without estimand language, clinical debates devolve into vague arguments about whether the authors used the 'right' p-value or the 'correct' covariate adjustment.
 
 The ICH E9(R1) framework requires specifying five attributes to construct a complete estimand: (1) the treatment conditions or exposures being contrasted; (2) the target population; (3) the outcome variable and its time horizon; (4) the population-level summary measure; and crucially, (5) the strategy for handling intercurrent events. Intercurrent events are post-randomization events that preclude observation of the outcome or fundamentally alter its interpretation—such as treatment discontinuation, the initiation of rescue therapy, or death.

@@ -51,6 +51,10 @@ Absolute Risk Increase (ARI): The analogous metric for adverse events, calculate
 
 ## The Bridge: Baseline Risk and the Algebra of Absolute Risk Reduction
 
+![Same relative effect yields different NNTs across baseline risk (original teaching figure).](../assets/figures/fig32_nnt_vs_baseline.png)
+
+*With a constant relative risk (RR = 0.75), NNT falls as control-event rate rises—absolute benefit tracks baseline risk. Original teaching figure.*
+
 The algebraic relationship between relative and absolute risk dictates the logic of precision medicine. Assuming the relative risk (RR) is constant and transportable across different patient populations, the Absolute Risk Reduction can be calculated as: ARR = p_c * (1 - RR).
 
 This equation is the bridge. It demonstrates mathematically that the absolute benefit of any therapy is a direct linear function of the baseline risk (p_c). The higher the baseline risk, the greater the absolute benefit, provided the relative efficacy holds.

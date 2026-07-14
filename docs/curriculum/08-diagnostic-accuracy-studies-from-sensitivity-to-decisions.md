@@ -42,6 +42,11 @@ Accuracy is defined as the total number of correct classifications divided by th
 
 ## Prevalence Dependence: The Predictive Value Trap
 
+![PPV and NPV versus prevalence at fixed sensitivity and specificity (original teaching figure).](../assets/figures/fig06_ppv_prevalence.png)
+
+*Same test performance, different base rates: PPV rises with prevalence while NPV falls; never transport a published PPV to a new population without re-applying Bayes. Original teaching figure.*
+
+
 While sensitivity and specificity condition on the true disease state, clinicians face the inverse problem: they know the test result and must infer the disease state. This requires calculating predictive values, which are computed horizontally across the rows of the 2×2 table. Positive predictive value (PPV) is the probability of disease given a positive test: Pr(D+ | T+). It is calculated as TP / (TP + FP). Negative predictive value (NPV) is the probability of no disease given a negative test: Pr(D− | T−). It is calculated as TN / (TN + FN). Because they are computed across the rows, PPV and NPV are fundamentally tethered to the ratio of diseased to non-diseased patients in the study—the prevalence.
 
 The failure to recognize the prevalence dependence of predictive values is a ubiquitous source of medical error, often termed the base rate fallacy. Consider a mathematical expansion of PPV using Bayes' theorem: PPV = (Sensitivity × Prevalence) / [(Sensitivity × Prevalence) + ((1 − Specificity) × (1 − Prevalence))]. This formula explicitly demonstrates that the denominator—all positive tests—is driven heavily by the false positive rate (1 − Specificity) multiplied by the proportion of patients without the disease (1 − Prevalence). When prevalence is low, (1 − Prevalence) approaches 1.0, meaning that even a tiny false positive rate will generate a massive absolute number of false positives, drowning out the true positives and collapsing the PPV.

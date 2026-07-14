@@ -63,6 +63,11 @@ Independent adjudication committees evaluate secondary endpoints and critical sa
 
 ## Estimands and Analysis Sets: ITT, Modified ITT, and the Per-Protocol Illusion
 
+![ITT vs per-protocol: different questions (original teaching figure).](../assets/figures/fig42_itt_vs_pp.png)
+
+*Intention-to-treat answers the effect of assignment and preserves randomization; per-protocol answers an adherence-conditional question and often reintroduces confounding. Original teaching figure.*
+
+
 The estimand framework formally defines the target of estimation: the population, the strategies compared, the precise variable of interest, the handling of intercurrent events, and the population-level summary metric. In stroke trials, intercurrent events—such as crossover to rescue therapy, protocol non-adherence, or withdrawal of consent—are inevitable. How the analysis handles these events defines the fundamental causal meaning of the result.
 
 Intention-to-treat (ITT) dictates that patients are analyzed in the exact group to which they were randomized, regardless of whether they received the drug, crossed over, or violated the protocol. ITT isolates the exact causal effect of the assignment itself. It answers the critical clinical policy question: what is the net effect of deciding to prescribe this therapy? ITT provides a strict mathematical guarantee against post-randomization selection bias. While ITT may dilute the maximal biological efficacy of a drug if adherence is poor, this dilution is a feature, not a bug, for real-world policy translation. It accurately reflects the friction of clinical implementation.
