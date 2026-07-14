@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Clinical prediction rule lifecycle (original).](../assets/figures/swarm_ch26_cpr_lifecycle.png)
+
+*Clinical prediction rule lifecycle (original).*
+
 A clinical prediction rule is proposed for ED triage. Inspect derivation, validation, calibration, and net benefit—not only AUC.
 
 

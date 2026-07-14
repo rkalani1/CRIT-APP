@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Diagnostic 2x2 scaffold (original).](../assets/figures/swarm_ch25_diagnostic_2x2.png)
+
+*Diagnostic 2x2 scaffold (original).*
+
 A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, effect extraction, and local actionability gates before any order panel is added.
 
 

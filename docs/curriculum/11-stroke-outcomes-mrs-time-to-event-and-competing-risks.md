@@ -2,6 +2,10 @@
 
 ## Opening
 
+![mRS distribution shift teaching figure (original).](../assets/figures/swarm_ch11_mrs_shift.png)
+
+*mRS distribution shift teaching figure (original).*
+
 Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.
 
 

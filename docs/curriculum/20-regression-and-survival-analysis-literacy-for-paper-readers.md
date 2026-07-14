@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Time-to-event: events versus censoring (original).](../assets/figures/swarm_ch20_survival.png)
+
+*Time-to-event: events versus censoring (original).*
+
 A Cox model dump fills the supplement. Translate hazards into absolute risks over a clinically meaningful horizon before teaching the result.
 
 

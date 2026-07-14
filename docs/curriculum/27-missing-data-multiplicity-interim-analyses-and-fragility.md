@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Fragility and missingness mechanisms (original).](../assets/figures/swarm_ch27_fragility_missing.png)
+
+*Fragility and missingness mechanisms (original).*
+
 Interim looks early and the primary endpoint is fragile. Ask missingness, multiplicity, and what would reverse the conclusion with a few events.
 
 

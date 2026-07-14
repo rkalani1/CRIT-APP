@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Calibration of predicted versus observed risk (original).](../assets/figures/swarm_ch09_calibration.png)
+
+*Calibration of predicted versus observed risk (original).*
+
 A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
 
 

@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Interaction on additive versus multiplicative scales (original).](../assets/figures/swarm_ch21_interaction.png)
+
+*Interaction on additive versus multiplicative scales (original).*
+
 An interaction claim says the drug works only on one scale. Demand which scale, pre-specification, and absolute stratum effects.
 
 

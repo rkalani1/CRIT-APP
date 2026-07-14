@@ -2,6 +2,10 @@
 
 ## Opening
 
+![AI pipeline leakage versus honest split (original).](../assets/figures/swarm_ch14_ai_leakage.png)
+
+*AI pipeline leakage versus honest split (original).*
+
 An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the label matches the clinical decision the tool will actually drive.
 
 

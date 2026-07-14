@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Natural frequencies for systems and counseling (original).](../assets/figures/swarm_ch28_natural_frequencies.png)
+
+*Natural frequencies for systems and counseling (original).*
+
 Policy meeting: absolute benefit looks large in trials but small in your catchment. Systems design must track access, equity, and communication—not only p-values.
 
 

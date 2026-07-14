@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Forest plot intuition for meta-analysis (original synthetic).](../assets/figures/swarm_ch10_forest.png)
+
+*Forest plot intuition for meta-analysis (original synthetic).*
+
 A living systematic review drops at 06:00 with a favorable pooled OR. Check inclusion criteria, double-counting, and absolute baselines before updating the pathway binder.
 
 

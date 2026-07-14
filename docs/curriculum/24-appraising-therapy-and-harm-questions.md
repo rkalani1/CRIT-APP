@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Therapy versus harm absolute-effect card (original).](../assets/figures/swarm_ch24_therapy_harm.png)
+
+*Therapy versus harm absolute-effect card (original).*
+
 Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
 
 

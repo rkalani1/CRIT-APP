@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Bias families versus transportability (original).](../assets/figures/swarm_ch04_bias_taxonomy.png)
+
+*Bias families versus transportability (original).*
+
 Quality meeting: someone proposes adopting an outside center protocol based on one observational paper. Demand the bias story—selection, confounding, measurement—before the order set is rewritten.
 
 

@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Estimation culture: confidence intervals against MID (original).](../assets/figures/swarm_ch19_estimation_ci.png)
+
+*Estimation culture: confidence intervals against MID (original).*
+
 A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial negative or positive, separate estimation from dichotomania and read the absolute scale.
 
 

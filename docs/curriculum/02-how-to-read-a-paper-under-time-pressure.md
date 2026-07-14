@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Twenty-minute paper triage protocol (original).](../assets/figures/swarm_ch02_reading_triage.png)
+
+*Twenty-minute paper triage protocol (original).*
+
 You have eleven minutes before rounds. The abstract says practice-changing. This curriculum treats that claim as a hypothesis to pressure-test—validity and transport first, celebration later.
 
 

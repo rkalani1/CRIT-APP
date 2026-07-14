@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Immortal time bias schematic (original).](../assets/figures/swarm_ch07_immortal_time.png)
+
+*Immortal time bias schematic (original).*
+
 A registry paper claims a drug is associated with lower readmission. Treat association as a starting hypothesis, not a green light for automatic order panels.
 
 

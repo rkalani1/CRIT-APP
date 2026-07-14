@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Journal club role map for decision-focused teaching (original).](../assets/figures/swarm_ch15_jc_roles.png)
+
+*Journal club role map for decision-focused teaching (original).*
+
 You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decision output—not a ritual roasting of methods trivia.
 
 

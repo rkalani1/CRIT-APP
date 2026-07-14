@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Dual-process clinical use of evidence (original).](../assets/figures/swarm_ch23_dual_process.png)
+
+*Dual-process clinical use of evidence (original).*
+
 A confident consultant overrules the evidence with System-1 certainty. Use dual-process language to slow the handoff without shaming expertise.
 
 

@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Paper autopsy sequence (original).](../assets/figures/swarm_ch16_autopsy_flow.png)
+
+*Paper autopsy sequence (original).*
+
 Three synthetic paper autopsies sit in the appendix of this curriculum. Practice the autopsy sequence: claim → design → absolute effect → transport → decide.
 
 

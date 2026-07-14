@@ -2,6 +2,10 @@
 
 ## Opening
 
+![Screening appraisal traps: lead time, length, overdiagnosis (original).](../assets/figures/swarm_ch22_screening.png)
+
+*Screening appraisal traps: lead time, length, overdiagnosis (original).*
+
 Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
 
 
