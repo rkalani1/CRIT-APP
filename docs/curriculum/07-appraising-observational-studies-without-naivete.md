@@ -1,4 +1,4 @@
-# Chapter 7. Appraising Observational Studies Without Naïveté
+# Chapter 7. Appraising Observational Studies Without Naivete
 
 ## Opening
 

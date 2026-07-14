@@ -1,7 +1,7 @@
 # Originality / copyright risk audit — Chapters 15–28
 
 **Auditor role:** Free educational GitHub Pages originality check  
-**Target:** `C:\Users\rkala\CRIT-APP\docs\curriculum\` files `15-` … `28-`  
+**Target:** `C:\Users\rkala\CRIT-APP\docs\curriculum\` files `15-` ... `28-`  
 **Date:** 2026-07-13  
 **Scope:** Dense read of openings, worked examples, tables/checklists, summaries; flag paste-risk vs original teaching.
 

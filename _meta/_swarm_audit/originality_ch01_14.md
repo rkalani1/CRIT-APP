@@ -53,7 +53,7 @@ Present **consistently across all 14 chapters**:
    > *Figures and tables in this chapter are original teaching materials for CRIT-APP unless a caption explicitly states otherwise. Methods standards are cited by name only.*
 
 3. **Synthetic / fictional teaching materials** (not real paper extracts):
-   - Ch 04: fictional claims paper *“Real-World Effectiveness of Endovascular Therapy…”*
+   - Ch 04: fictional claims paper *“Real-World Effectiveness of Endovascular Therapy...”*
    - Ch 05–06: hypothetical registry / hypothetical reperfusion trial 2×2 tables with made-up counts
    - Ch 08: hypothetical prehospital LVO scale 2×2 (N=1000, synthetic)
    - Ch 09: fictional **REPERFUSE-3** score with invented validation cells
@@ -92,7 +92,7 @@ No abstract-like blocks that appear copy-pasted from journals; no permission lan
 |----|----------|---------|------------------------|-------------------------|
 | M1 | `02-how-to-read-a-paper-under-time-pressure.md` **title** (L1) | Title theme echoes Trisha Greenhalgh’s well-known *How to Read a Paper* series | Titles of common educational genres are weak copyright claims; body is stroke-specific original method (IMRaD reverse order, F&T-First, 20-min protocol, DAPT-like worked walkthrough with synthetic %). Content does not track Greenhalgh chapter sequence. | Optional: add a one-line framing that the chapter is an original time-pressured stroke workflow, not affiliated with any commercial handbook. No rewrite mandatory for go. |
 | M2 | Multiple chapters, “Named Frameworks” sections (esp. 06, 08, 09, 10, 14) | Short domain summaries of GRADE, QUADAS-2, STARD, TRIPOD/TRIPOD-AI, PROBAST, RoB 2, ROBINS-I, PRISMA, AMSTAR 2, AGREE II, target-trial elements | These are standard public method names + high-level domain paraphrases taught widely in free EBM education. Chapters **do not** dump full official checklists item-by-item. Overlap with many textbooks is conceptual, not verbatim paste. | Keep “methods standards cited by name only” posture; avoid ever pasting full official checklists or EQUATOR item wording. Current state acceptable. |
-| M3 | Ch 12 CEA / NASCET–ACAS illustration (`12-…` ~L56–58); Ch 06 EVT hypothetical; Ch 10 DAPT-style meta | Uses **approximate well-known public effect magnitudes** (e.g., ~50% RRR CEA, ~26% 2-year symptomatic risk, perioperative ~3%) and trial *architecture* allusions (POINT/CHANCE-like, DAWN-like selection) | Facts and public trial results are not copyrightable; numbers are rounded and embedded in original teaching arithmetic. Not a paste of a paper’s Table 1. | Prefer keeping “approximately / architecture of” language (already present for DAPT). Do not replace with full published contingency tables from papers. |
+| M3 | Ch 12 CEA / NASCET–ACAS illustration (`12-...` ~L56–58); Ch 06 EVT hypothetical; Ch 10 DAPT-style meta | Uses **approximate well-known public effect magnitudes** (e.g., ~50% RRR CEA, ~26% 2-year symptomatic risk, perioperative ~3%) and trial *architecture* allusions (POINT/CHANCE-like, DAWN-like selection) | Facts and public trial results are not copyrightable; numbers are rounded and embedded in original teaching arithmetic. Not a paste of a paper’s Table 1. | Prefer keeping “approximately / architecture of” language (already present for DAPT). Do not replace with full published contingency tables from papers. |
 | M4 | Global style | Dense, uniform pedagogical voice across all chapters (likely LLM-assisted composition) | Style uniformity ≠ copyright infringement. Distinctive local frameworks and synthetic vignettes reduce “handbook paste” concern. Residual uncertainty: some generic EBM sentences may resemble training-data patterns. | Acceptable for educational site; spot-check any future chapter that introduces long quoted instruments or real paper tables. |
 
 **No MEDIUM finding rises to requiring content deletion or forced rewrite before publish.**
@@ -107,7 +107,7 @@ No abstract-like blocks that appear copy-pasted from journals; no permission lan
 | L2 | Mentions of landmark trials/acronyms by name only (NINDS, ECASS III, MR CLEAN, DAWN, POINT, CHANCE, NASCET, ACAS) for practice prompts | Nominative use for teaching; practice items ask the *reader* to extract from original publications, rather than pasting those data here. |
 | L3 | “Table 1 Fallacy” as a known epidemiologic teaching concept | Named concept used with original stroke vignette; not a book extract. |
 | L4 | Dichotomization power-loss “~36%” heuristic; Pauker–Kassirer thresholds named | Standard epi teaching facts, paraphrased. |
-| L5 | Ch 13 practice item: “Re-evaluate ECASS III subgroups…” | Directs learner to primary literature; does not reproduce ECASS III text/tables. |
+| L5 | Ch 13 practice item: “Re-evaluate ECASS III subgroups...” | Directs learner to primary literature; does not reproduce ECASS III text/tables. |
 
 ---
 

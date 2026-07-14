@@ -23,7 +23,7 @@ An open-source ebook for stroke-aware critical appraisal—prediction versus cau
 <li><a href="curriculum/05-confounding-dags-and-target-trial-thinking.md"><span class="num">05</span><span>Confounding, DAGs, and Target-Trial Thinking</span></a></li>
 <li class="part">II · Study designs</li>
 <li><a href="curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.md"><span class="num">06</span><span>Appraising Randomized Trials in Stroke and Neurology</span></a></li>
-<li><a href="curriculum/07-appraising-observational-studies-without-naïveté.md"><span class="num">07</span><span>Appraising Observational Studies Without Naïveté</span></a></li>
+<li><a href="curriculum/07-appraising-observational-studies-without-naïveté.md"><span class="num">07</span><span>Appraising Observational Studies Without Naivete</span></a></li>
 <li><a href="curriculum/08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.md"><span class="num">08</span><span>Diagnostic Accuracy Studies: From Sensitivity to Decisions</span></a></li>
 <li><a href="curriculum/09-prognosis-risk-scores-and-prediction-models.md"><span class="num">09</span><span>Prognosis, Risk Scores, and Prediction Models</span></a></li>
 <li><a href="curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.md"><span class="num">10</span><span>Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness</span></a></li>
