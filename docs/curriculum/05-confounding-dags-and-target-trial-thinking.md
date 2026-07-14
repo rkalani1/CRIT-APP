@@ -1,6 +1,10 @@
 # Chapter 5. Confounding, DAGs, and Target-Trial Thinking
 
 ## Opening
+![Confounder, mediator, collider structures (original teaching sketch).](../assets/figures/crit_fig_confounder_mediator_collider.png)
+
+*Confounder, mediator, collider structures (original teaching sketch).*
+
 
 A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is anemia a confounder, mediator, or collider in this DAG? Wrong adjustment can invent harm.
 

@@ -1,6 +1,10 @@
 # Chapter 8. Diagnostic Accuracy Studies: From Sensitivity to Decisions
 
 ## Opening
+![Bayes update with LR+ = 5 on synthetic priors (original).](../assets/figures/crit_fig_bayes_lr.png)
+
+*Bayes update with LR+ = 5 on synthetic priors (original).*
+
 
 A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verification design, that number can be theater. Work the 2x2 before the purchase order.
 

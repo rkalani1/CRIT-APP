@@ -1,6 +1,10 @@
 # Chapter 1. Why Critical Appraisal Matters in Neurology and Stroke
 
 ## Opening
+![Prediction vs causation claim templates (original teaching graphic).](../assets/figures/crit_fig_prediction_vs_causation.png)
+
+*Prediction vs causation claim templates (original teaching graphic).*
+
 
 Sign-out is late. Three PDFs land in the team channel: late-window EVT selection with a relative-risk headline, dual-antiplatelet timing from claims data, and a hemorrhage-risk model. Before any pathway moves, force the slower question: what is estimated, for whom, and on what absolute scale?
 

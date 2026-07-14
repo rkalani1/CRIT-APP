@@ -1,6 +1,10 @@
 # Chapter 3. Questions, PICO, Estimands, and Index Time
 
 ## Opening
+![Two claim templates for paper claims (original).](../assets/figures/crit_fig_prediction_vs_causation.png)
+
+*Two claim templates for paper claims (original).*
+
 
 A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.
 

@@ -1,6 +1,10 @@
 # Chapter 18. Causation Frameworks, Bias, and Inference
 
 ## Opening
+![Causal graph motifs used in appraisal (original).](../assets/figures/crit_fig_confounder_mediator_collider.png)
+
+*Causal graph motifs used in appraisal (original).*
+
 
 Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
 
