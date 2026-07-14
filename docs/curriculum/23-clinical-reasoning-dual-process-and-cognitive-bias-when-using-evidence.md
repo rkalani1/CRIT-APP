@@ -1,6 +1,10 @@
 # Chapter 23. Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence
 
 ## Opening
+![System 1 vs System 2 when reading papers (original).](../assets/figures/crit_fig_dual_process_pair.png)
+
+*System 1 vs System 2 when reading papers (original).*
+
 
 ![Dual-process clinical reasoning (original).](../assets/figures/fig15_dual_process.png)
 
