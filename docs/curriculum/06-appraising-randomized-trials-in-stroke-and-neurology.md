@@ -1,6 +1,10 @@
 # Chapter 6. Appraising Randomized Trials in Stroke and Neurology
 
 ## Opening
+![Trial pathway teaching sketch (original; not a checklist dump).](../assets/figures/crit_fig_trial_pathway.png)
+
+*Trial pathway teaching sketch (original; not a checklist dump).*
+
 
 Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
 
