@@ -1,6 +1,10 @@
 # Chapter 16. Paper Autopsies: Integrated Worked Critiques
 
 ## Opening
+![Name prediction vs causal claims first (original).](../assets/figures/crit_fig_claim_types.png)
+
+*Name prediction vs causal claims first (original).*
+
 ![Paper autopsy sequence (original teaching graphic).](../assets/figures/crit_fig_autopsy_sequence.png)
 
 *Paper autopsy sequence (original teaching graphic).*
