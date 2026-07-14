@@ -205,3 +205,16 @@ How do we communicate this complexity? Use natural frequencies rather than perce
 ### Conclusion
 By adopting a structured, skeptical, yet open-minded approach to evidence appraisal, clinicians can protect their patients from both the harms of unproven therapies and the harms of delayed adoption of effective treatments. Critical appraisal is not about finding reasons to reject papers; it is about calibrating your confidence in their conclusions.
 
+
+
+## Access vs efficacy (teaching table)
+
+| Claim type | Example framing | Systems question |
+|------------|-----------------|------------------|
+| Relative efficacy | "20% RRR in eligible LVO" | Who is eligible in our catchment? |
+| Absolute benefit | ARR 15% in trial population | What is local baseline risk? |
+| Access | Door-in-door-out delays | How many never reach the therapy? |
+| Equity | Same relative benefit, different access | Who fails to receive the absolute gain? |
+
+Synthetic principle: a large trial ARR does not automatically become a population ARR if access is incomplete.
+
