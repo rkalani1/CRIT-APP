@@ -67,6 +67,86 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle727_swarm_ch05_w727_5.png)
+
+*Teaching figure (synthetic).* Cycle-727 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle725_swarm_ch05_w725_5.png)
+
+*Teaching figure (synthetic).* Cycle-725 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle723_swarm_ch05_w723_5.png)
+
+*Teaching figure (synthetic).* Cycle-723 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle721_swarm_ch05_w721_5.png)
+
+*Teaching figure (synthetic).* Cycle-721 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle719_swarm_ch05_w719_5.png)
+
+*Teaching figure (synthetic).* Cycle-719 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle717_swarm_ch05_w717_5.png)
+
+*Teaching figure (synthetic).* Cycle-717 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle715_swarm_ch05_w715_5.png)
+
+*Teaching figure (synthetic).* Cycle-715 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle713_swarm_ch05_w713_5.png)
+
+*Teaching figure (synthetic).* Cycle-713 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle711_swarm_ch05_w711_5.png)
+
+*Teaching figure (synthetic).* Cycle-711 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle709_swarm_ch05_w709_5.png)
+
+*Teaching figure (synthetic).* Cycle-709 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle707_swarm_ch05_w707_5.png)
+
+*Teaching figure (synthetic).* Cycle-707 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle705_swarm_ch05_w705_5.png)
+
+*Teaching figure (synthetic).* Cycle-705 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle703_swarm_ch05_w703_5.png)
+
+*Teaching figure (synthetic).* Cycle-703 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle701_swarm_ch05_w701_5.png)
+
+*Teaching figure (synthetic).* Cycle-701 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle699_swarm_ch05_w699_5.png)
+
+*Teaching figure (synthetic).* Cycle-699 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle697_swarm_ch05_w697_5.png)
+
+*Teaching figure (synthetic).* Cycle-697 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle695_swarm_ch05_w695_5.png)
 
 *Teaching figure (synthetic).* Cycle-695 densify scientific residual (ch01–14).
