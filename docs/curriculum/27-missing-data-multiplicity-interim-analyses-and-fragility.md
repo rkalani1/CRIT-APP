@@ -53,11 +53,19 @@ Multiplicity inflates the family-wise error rate when multiple statistical tests
 
 This behavior capitalizes on analytic flexibility. The 'garden of forking paths' describes the myriad choices researchers make after seeing the data: selecting specific covariate adjustments, defining subgroups (e.g., fast versus slow progressors), or choosing varying time windows. To defend against multiplicity, appraisers must demand pre-specified, locked statistical analysis plans. Legitimate strategies include hierarchical testing (where secondary endpoints are only tested if the primary is significant) or alpha-spending techniques like Bonferroni or Hochberg procedures. Unadjusted subgroup findings must be strictly relegated to hypothesis generation.
 
+![Family-wise type I error rises with the number of unadjusted secondary tests at α=0.05; appraisal defenses include SAP lock, hierarchy, and alpha spending (original teaching figure).](../assets/figures/cycle2_swarm_ch27_multiplicity_fwer.png)
+
+*Teaching figure (synthetic).* Under independent tests at unadjusted α = 0.05, family-wise error is already ~40% by about ten secondaries and ~64% by twenty. A null primary plus a nominally “significant” unadjusted secondary is hypothesis-generating spin, not confirmatory evidence for a stroke pathway change.
+
 ## Interim Analyses and Early Stopping
 
 Adaptive trial designs frequently employ interim analyses, governed by Data and Safety Monitoring Boards (DSMBs), to stop trials early for overwhelming efficacy, futility, or harm. While ethically justified, early stopping for benefit introduces systematic bias. A trial halted early for efficacy has often caught a random high in the sampling distribution, resulting in a grossly exaggerated point estimate of the treatment effect. Subsequent meta-analyses invariably show 'regression to the truth,' with attenuated effect sizes.
 
 Appraisers must distinguish between strict alpha-spending boundaries (e.g., O'Brien-Fleming, which requires massive evidence early on) and liberal boundaries. Furthermore, stopping for futility does not prove equivalence; it merely confirms that the trial is unlikely to demonstrate the pre-specified absolute difference. Undisclosed interim 'peeks' at the data without statistical penalty are fatal to the integrity of the reported p-value.
+
+![Early stopping for benefit inflates the interim ARR; later replications regress toward the true absolute effect (original teaching figure).](../assets/figures/cycle2_swarm_ch27_early_stop_bias.png)
+
+*Teaching figure (synthetic).* An early efficacy stop can catch a random high (here 14 pp ARR) while the generative truth is 6 pp; completed and replication estimates regress. Down-weight magnitude from early-stopped stroke trials, insist on absolute risks with CIs, and remember futility stops do not prove equivalence.
 
 ## The Fragility Index: Stress-Testing Statistical Significance
 

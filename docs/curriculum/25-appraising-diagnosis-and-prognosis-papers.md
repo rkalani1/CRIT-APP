@@ -59,6 +59,10 @@ Likelihood ratios (LRs) are the portable currency:
 
 Teaching anchors (not universal laws): LR+ above ~10 often produces large probability shifts; LR− below ~0.1 often rules out for many thresholds; LRs between ~0.5 and ~2 rarely move management. For multilevel tests (NIHSS strata, automated core volumes), refuse a single “optimal” cut when interval LRs are available—high bands may rule in, low bands rule out, intermediate bands should stay near LR 1.0.
 
+![PPV and NPV versus prevalence at fixed sensitivity/specificity; LRs rebuild local post-test probability for LVO triage (original teaching figure).](../assets/figures/cycle2_swarm_ch25_ppv_prevalence.png)
+
+*Teaching figure (synthetic).* With sens 85% and spec 80%, PPV climbs steeply with LVO prevalence (≈5% EMS stream → ~30% comprehensive center). LRs (LR+ 4.25, LR− 0.19) plus a 15% pre-test probability yield post+ ≈43% and post− ≈3%—the portable quantities for local thresholds. Never ship a tertiary-center PPV into a community EMS protocol.
+
 ## Diagnosis gate 3: Local actionability
 
 Combine the LR with *your* pre-test probability (Bayes) to obtain a post-test probability. Then ask only the operational question: does that probability cross a testing or treatment threshold in *this* system? A negative DWI that lowers brainstem-TIA ischemia probability from 90% to 40% is interesting but useless if dual antiplatelet therapy starts at 10% residual risk—the test failed to cross the action line. Also check logistics: availability, cost, time, and whether LRs remain plausible given spectrum differences.

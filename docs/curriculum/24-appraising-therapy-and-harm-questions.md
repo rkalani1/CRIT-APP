@@ -60,6 +60,10 @@ System capacity profoundly influences applicability. The impressive outcomes of 
 
 Composite endpoints aggregate multiple clinical events to increase statistical power. However, they frequently mix outcomes of vastly different clinical importance. A statistically significant reduction in a composite endpoint driven entirely by a reduction in silent asymptomatic infarcts or urgent revascularizations—while disabling strokes remain unchanged—is a common pitfall. Rigorous appraisal requires disaggregating the composite and analyzing the absolute event rates for the patient-important components.
 
+![Composite primary disaggregated into absolute component rates: significance driven mostly by urgent revascularization, not disabling stroke (original teaching figure).](../assets/figures/cycle2_swarm_ch24_composite_disagg.png)
+
+*Teaching figure (synthetic).* Control versus treatment absolute rates per 1,000 patient-years for each composite component. The headline composite ARR is dominated by fewer urgent revascularizations, while disabling stroke and CV death barely move. Always request component-level absolute counts before pathway adoption.
+
 Surrogate endpoints, such as angiographic reperfusion grades or biomarker levels, are used to infer clinical benefit. While achieving complete reperfusion (e.g., mTICI 3) correlates strongly with functional independence, the surrogate is not the clinical outcome. Novel devices or lytics that improve a surrogate metric do not automatically guarantee a reduction in disability or mortality. Surrogate data generate hypotheses for clinical outcome trials; they do not serve as the sole basis for practice adoption.
 
 ## Evaluating Harm

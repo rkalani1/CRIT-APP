@@ -81,6 +81,10 @@ RR = 0.67 | ARR = 1.0% | NNT = 100
 
 A formal test for multiplicative interaction yields p > 0.05, confirming consistent relative efficacy across baseline risk strata. However, clinical application requires additive net benefit modeling. If DAPT consistently increases the absolute risk of major hemorrhage by 0.8%, the high-risk stratum achieves an unambiguous net benefit (4.0% ischemic reduction offset by 0.8% hemorrhagic increase). In contrast, the low-risk stratum yields a marginal trade-off (1.0% ischemic reduction offset by 0.8% hemorrhagic increase). The absence of multiplicative interaction does not justify uniform clinical application when additive effects govern outcome utility.
 
+![Multiplicative homogeneity (RR 0.67 both strata) with additive interaction and net absolute benefit after fixed bleed ARI (original teaching figure).](../assets/figures/cycle2_swarm_ch21_additive_net.png)
+
+*Teaching figure (synthetic).* High-risk versus low-risk ABCD2-style strata share RR = 0.67 (multiplicative homogeneity) but differ in ischemic ARR (4.0 vs 1.0 pp). After a fixed 0.8 pp major-hemorrhage ARI, net absolute benefit is clear only in the high-risk stratum (NNT 25 vs 100). Demand stratum-specific absolute risks before writing a uniform pathway.
+
 ## Checklist for Evaluating Interaction and Subgroups
 
 - Verify Pre-specification: Identify whether the subgroup hypothesis was formally defined prior to data analysis or generated post-hoc.
