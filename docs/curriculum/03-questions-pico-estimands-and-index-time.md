@@ -64,6 +64,11 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle41_swarm_ch03_estimand_gap.png)
+
+*Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
+
+
 
 
 Most literature chaos begins as linguistic chaos. In neurology morbidity and mortality conferences, a trainee or attending might ask, 'Is endovascular therapy effective for large core infarcts?' or 'Do patients do better with early clinic follow-up?' or 'Is tenecteplase superior to alteplase?' These are vital curiosities, but they are not answerable research or appraisal questions. They lack a defined population, a specific contrast, a temporal origin, a measured outcome, and a defined summary metric. Critical appraisal does not start with attacking statistics; it starts with repairing the question. If you cannot define what is being estimated, debating the p-value is pure theater. The initial duty of the clinical epidemiologist is to force the clinician to speak in specific, falsifiable causal contrasts.
