@@ -75,6 +75,46 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1192_swarm_ch28_w1192_14.png)
+
+*Teaching figure (synthetic).* Cycle-1192 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1190_swarm_ch28_w1190_14.png)
+
+*Teaching figure (synthetic).* Cycle-1190 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1188_swarm_ch28_w1188_14.png)
+
+*Teaching figure (synthetic).* Cycle-1188 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1186_swarm_ch28_w1186_14.png)
+
+*Teaching figure (synthetic).* Cycle-1186 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1184_swarm_ch28_w1184_14.png)
+
+*Teaching figure (synthetic).* Cycle-1184 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1182_swarm_ch28_w1182_14.png)
+
+*Teaching figure (synthetic).* Cycle-1182 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1180_swarm_ch28_w1180_14.png)
+
+*Teaching figure (synthetic).* Cycle-1180 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1178_swarm_ch28_w1178_14.png)
+
+*Teaching figure (synthetic).* Cycle-1178 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1176_swarm_ch28_w1176_14.png)
 
 *Teaching figure (synthetic).* Cycle-1176 densify scientific residual (ch15–28).
