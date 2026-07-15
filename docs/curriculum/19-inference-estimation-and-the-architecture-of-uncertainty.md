@@ -94,6 +94,10 @@ Relative measures of effect (RR, OR, HR) are mathematically stable across varyin
 
 The Number Needed to Treat (NNT = 1 / ARR) translates absolute probability into a frequency format. However, NNT point estimates presented without confidence intervals project a false certainty. When computing a confidence interval for an NNT based on an ARR interval that crosses zero, the math becomes non-linear and fractures through infinity. An ARR CI of −1.0% to 5.0% translates to an NNT interval encompassing benefit (NNT 20 down to infinity) and harm (Number Needed to Harm [NNH] of 100). Therefore, expressing the uncertainty primarily through absolute risk differences (e.g., 'between 1 more and 5 fewer events per 100 patients') is far more transparent than manipulating disjointed NNT ranges.
 
+![When an ARR confidence interval includes the null, the reciprocal NNT interval fractures through infinity into an NNH limb (original teaching figure).](../assets/figures/cycle4_swarm_ch19_nnt_ci_infinity.png)
+
+*Teaching figure (synthetic).* Point ARR 2 pp with 95% CI −1 to +5 pp is compatible with harm, null, and benefit. Do not print a lone NNT; prefer absolute event-count language (“between 1 more and 5 fewer events per 100”).
+
 ## Manual Derivation: Exposing the Inferential Machinery
 
 To demystify the black box of statistical software, we manually derive a risk difference and its confidence interval. Consider a hypothetical trial evaluating a neuroprotectant against standard care. The outcome is mortality at 90 days.

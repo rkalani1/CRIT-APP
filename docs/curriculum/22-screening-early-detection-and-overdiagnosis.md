@@ -68,6 +68,10 @@ Length-time bias stems from disease heterogeneity. Indolent, slowly progressive 
 
 Overdiagnosis is the most profound pathology of the screening enterprise. It constitutes the accurate detection of a true anatomic or physiologic abnormality that, if left undiscovered, would never have caused symptoms or death during the patient's lifetime. It is not a false positive; the lesion exists. However, intervening upon an overdiagnosed lesion cannot offer benefit, as the patient was destined to die with the disease, not of it. Widespread neurovascular imaging guarantees overdiagnosis: microaneurysms, stable mild carotid plaques, and silent age-related white matter intensities. Treating these as imminent catastrophes exposes the patient to pure harm.
 
+![Length-time bias enriches for indolent lesions; overdiagnosis is true disease that never would have harmed—treating it is pure harm (original teaching figure).](../assets/figures/cycle4_swarm_ch22_length_overdiagnosis.png)
+
+*Teaching figure (synthetic).* Point-in-time screens preferentially capture long-sojourn (indolent) biology, then invite intervention on lesions that would never have ruptured. Demand invitation-trial outcome benefit, not detection yield; counsel with natural frequencies (ruptures vs procedural strokes per 100).
+
 ## Predictive Values and the Tyranny of Prevalence
 
 Sensitivity and specificity are inherent test characteristics (in fixed populations), but positive predictive value (PPV) and negative predictive value (NPV) dictate clinical utility, and they are ruthlessly governed by disease prevalence. In the low-prevalence environments characteristic of asymptomatic screening, even tests with superb specificity generate overwhelming absolute numbers of false positives.

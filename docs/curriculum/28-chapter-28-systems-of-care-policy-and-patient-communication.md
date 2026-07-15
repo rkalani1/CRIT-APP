@@ -54,6 +54,10 @@ Transport questions to force onto the board:
 - If we cannot match the co-intervention package, what is the expected attenuation of ARR?
 - Is a staged implementation (hub first, then spokes) safer than network-wide flip?
 
+![Transportability: trial ARR rides on a co-intervention package and attenuates from hub CSC to resource-limited settings (original teaching figure).](../assets/figures/cycle4_swarm_ch28_transport_arr.png)
+
+*Teaching figure (synthetic).* A trial ARR of ~10 pp for functional independence is not free-floating. Operator volume, imaging speed, ICU titration, and transfer discipline carry the effect; expected absolute benefit shrinks—and NNT rises—as the package breaks at the spoke.
+
 ## Quality Metrics Versus High-Fidelity Evidence
 
 Quality metrics, often enforced by national certifying bodies and pay-for-performance models, aim to standardize care delivery. However, rigid adherence to these targets can generate perverse incentives that conflict with nuanced, evidence-based medicine.

@@ -71,6 +71,10 @@ Consider the application of carotid endarterectomy (CEA) for stroke prevention b
 
 Now consider the harm. The perioperative risk of stroke or death (ARI) for CEA is approximately 3%. For the symptomatic patient, the net absolute benefit is 13% (benefit) - 3% (harm) = +10%. The procedure is highly beneficial. For the asymptomatic patient, the net absolute benefit is 1% (benefit) - 3% (harm) = -2%. The procedure causes net harm. The therapy is identical. The relative effect is identical. But the baseline risk completely reverses the clinical decision. Decision-making protocols that mandate interventions based purely on disease labels (e.g., 'severe stenosis'), without stratifying by baseline risk, systematically fail to optimize net clinical benefit and frequently generate iatrogenic harm.
 
+![Same RR 0.50: symptomatic stenosis nets +10 pp benefit after 3 pp peri-op ARI; asymptomatic nets −2 pp harm (original teaching figure).](../assets/figures/cycle4_swarm_ch12_net_benefit.png)
+
+*Teaching figure (synthetic).* ARR = p_c × (1 − RR). With fixed procedural ARI, baseline risk alone flips operate vs medical therapy. Never invert confounded observational associations into NNTs—prediction is not causation.
+
 ## Number Needed to Treat (NNT) and Number Needed to Harm (NNH)
 
 The Number Needed to Treat (NNT) translates the ARR into a frequency format. It represents the average number of patients who must receive the treatment to prevent one additional adverse outcome. The formula is simple: NNT = 1 / ARR, where ARR is expressed as a decimal, not a percentage.

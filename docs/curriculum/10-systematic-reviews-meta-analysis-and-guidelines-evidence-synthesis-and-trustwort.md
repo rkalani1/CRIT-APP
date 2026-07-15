@@ -60,6 +60,10 @@ Cochran's Q statistic tests the null hypothesis that all studies share a single 
 
 In a random-effects model (frequently using the DerSimonian-Laird or Restricted Maximum Likelihood estimators), the weight is modified to w_i* = 1 / (SE_i^2 + tau^2). This mathematically subtle adjustment triggers massive clinical consequences. As between-study variance (tau-squared) grows large, the denominator for all studies becomes dominated by tau-squared rather than the study's internal precision (SE_i^2). Consequently, the weights converge toward equality. A small, biased, single-center trial of 50 patients will forcibly command nearly the same analytical weight as a rigorous, multicenter mega-trial of 5,000 patients. This structural vulnerability dictates that random-effects pooling must be approached with extreme caution, particularly when the included studies vary heavily in methodological quality.
 
+![Fixed-effect weights favor precise mega-trials; random-effects (τ² > 0) equalizes weights and inflates small-trial influence (original teaching figure).](../assets/figures/cycle4_swarm_ch10_fe_re_weights.png)
+
+*Teaching figure (synthetic).* When τ² enters the denominator, relative weights shift away from the mega-trial toward noisy small studies. Always convert any pooled RR into local ARR/NNT; meta-regression subgroups remain observational (prediction ≠ causation).
+
 ## Fully Worked Example: Pooling Dual Antiplatelet Therapy in Minor Stroke
 
 Scenario: You are evaluating a meta-analysis of dual antiplatelet therapy (DAPT) versus aspirin monotherapy for the prevention of recurrent stroke within 90 days following a high-risk TIA or minor acute ischemic stroke. Two major randomized controlled trials dominate the literature. You will compute the fixed-effect pooled risk ratio (RR), construct the 95% confidence interval, and critically convert the relative effect into absolute clinical metrics (ARR and NNT) based on baseline risk.
