@@ -44,6 +44,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Multi-criteria absolute board for adopt adapt reject (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch16_multi_criteria.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## The Architecture of the Paper Autopsy
 
 ![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)

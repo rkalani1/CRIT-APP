@@ -42,6 +42,10 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Net absolute benefit trajectory by horizon (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch24_net_traj.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Three gates for therapy and harm papers
 
 ![Net absolute benefit after safety ARI residual (original teaching figure).](../assets/figures/cycle24_swarm_ch24_net_benefit.png)

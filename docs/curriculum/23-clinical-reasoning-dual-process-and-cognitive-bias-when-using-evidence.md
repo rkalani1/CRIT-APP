@@ -46,6 +46,10 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Absolute feedback calibrates clinical probability (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch23_feedback.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Why Reasoning Quality Is an Evidence Skill
 
 ![Cognitive biases cost absolute probability accuracy (original teaching figure).](../assets/figures/cycle24_swarm_ch23_bias_cost.png)

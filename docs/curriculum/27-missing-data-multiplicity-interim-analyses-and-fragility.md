@@ -43,6 +43,10 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Alpha spending raises n needed for absolute ARR (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch27_alpha_n.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 ![Thin absolute margins despite p-significance residual (original teaching figure).](../assets/figures/cycle24_swarm_ch27_thin_margin.png)

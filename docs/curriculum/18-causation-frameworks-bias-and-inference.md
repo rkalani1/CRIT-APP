@@ -41,6 +41,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Unmeasured confounding absolute bias surface (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch18_u_bias.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Introduction: The Causal Gap in Neurological Literature
 
 ![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)

@@ -41,6 +41,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![RD collapsible OR not — prefer absolute RD (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch20_collapsibility.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Mapping Clinical Outcomes to Regression Models
 
 ![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)

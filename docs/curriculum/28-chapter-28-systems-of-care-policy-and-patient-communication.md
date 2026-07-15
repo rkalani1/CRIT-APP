@@ -41,6 +41,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Absolute risk board for system leaders (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch28_leader_board.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

@@ -45,6 +45,10 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Scale choice changes absolute HTE story (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch21_scale_choice.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Interaction Versus Confounding: Structural Distinctions
 
 ![Additive RERI residual over multiplicative p alone (original teaching figure).](../assets/figures/cycle23_swarm_ch21_reri.png)

@@ -46,6 +46,10 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Diagnostic update is not prognostic uplift (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch25_dx_not_px.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Three gates before you change a pathway
 
 ![Absolute post-test and calibration before action residual (original teaching figure).](../assets/figures/cycle24_swarm_ch25_action_gate.png)

@@ -37,6 +37,10 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-32 densify scientific residual.
 
+![Cumulative risk is not constant rate (original scientific teaching figure).](../assets/figures/cycle34_swarm_ch17_cum_vs_rate.png)
+
+*Teaching figure (synthetic).* Cycle-34 densify scientific residual.
+
 ## Conceptual core: frequency first
 
 ![Incidence, prevalence, rate are three absolute units (original teaching figure).](../assets/figures/cycle23_swarm_ch17_three_units.png)
