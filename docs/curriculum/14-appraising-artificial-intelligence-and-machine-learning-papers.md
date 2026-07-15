@@ -50,6 +50,86 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle759_swarm_ch14_w759_14.png)
+
+*Teaching figure (synthetic).* Cycle-759 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle757_swarm_ch14_w757_14.png)
+
+*Teaching figure (synthetic).* Cycle-757 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle755_swarm_ch14_w755_14.png)
+
+*Teaching figure (synthetic).* Cycle-755 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle753_swarm_ch14_w753_14.png)
+
+*Teaching figure (synthetic).* Cycle-753 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle751_swarm_ch14_w751_14.png)
+
+*Teaching figure (synthetic).* Cycle-751 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle749_swarm_ch14_w749_14.png)
+
+*Teaching figure (synthetic).* Cycle-749 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle747_swarm_ch14_w747_14.png)
+
+*Teaching figure (synthetic).* Cycle-747 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle745_swarm_ch14_w745_14.png)
+
+*Teaching figure (synthetic).* Cycle-745 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle743_swarm_ch14_w743_14.png)
+
+*Teaching figure (synthetic).* Cycle-743 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle741_swarm_ch14_w741_14.png)
+
+*Teaching figure (synthetic).* Cycle-741 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle739_swarm_ch14_w739_14.png)
+
+*Teaching figure (synthetic).* Cycle-739 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle737_swarm_ch14_w737_14.png)
+
+*Teaching figure (synthetic).* Cycle-737 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle735_swarm_ch14_w735_14.png)
+
+*Teaching figure (synthetic).* Cycle-735 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle733_swarm_ch14_w733_14.png)
+
+*Teaching figure (synthetic).* Cycle-733 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle731_swarm_ch14_w731_14.png)
+
+*Teaching figure (synthetic).* Cycle-731 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle729_swarm_ch14_w729_14.png)
+
+*Teaching figure (synthetic).* Cycle-729 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle727_swarm_ch14_w727_14.png)
 
 *Teaching figure (synthetic).* Cycle-727 densify scientific residual (ch01–14).

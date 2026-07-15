@@ -72,6 +72,86 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle760_swarm_ch25_w760_11.png)
+
+*Teaching figure (synthetic).* Cycle-760 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle758_swarm_ch25_w758_11.png)
+
+*Teaching figure (synthetic).* Cycle-758 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle756_swarm_ch25_w756_11.png)
+
+*Teaching figure (synthetic).* Cycle-756 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle754_swarm_ch25_w754_11.png)
+
+*Teaching figure (synthetic).* Cycle-754 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle752_swarm_ch25_w752_11.png)
+
+*Teaching figure (synthetic).* Cycle-752 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle750_swarm_ch25_w750_11.png)
+
+*Teaching figure (synthetic).* Cycle-750 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle748_swarm_ch25_w748_11.png)
+
+*Teaching figure (synthetic).* Cycle-748 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle746_swarm_ch25_w746_11.png)
+
+*Teaching figure (synthetic).* Cycle-746 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle744_swarm_ch25_w744_11.png)
+
+*Teaching figure (synthetic).* Cycle-744 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle742_swarm_ch25_w742_11.png)
+
+*Teaching figure (synthetic).* Cycle-742 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle740_swarm_ch25_w740_11.png)
+
+*Teaching figure (synthetic).* Cycle-740 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle738_swarm_ch25_w738_11.png)
+
+*Teaching figure (synthetic).* Cycle-738 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle736_swarm_ch25_w736_11.png)
+
+*Teaching figure (synthetic).* Cycle-736 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle734_swarm_ch25_w734_11.png)
+
+*Teaching figure (synthetic).* Cycle-734 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle732_swarm_ch25_w732_11.png)
+
+*Teaching figure (synthetic).* Cycle-732 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle730_swarm_ch25_w730_11.png)
+
+*Teaching figure (synthetic).* Cycle-730 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle728_swarm_ch25_w728_11.png)
 
 *Teaching figure (synthetic).* Cycle-728 densify scientific residual (ch15–28).
