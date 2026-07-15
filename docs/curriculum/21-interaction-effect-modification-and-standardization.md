@@ -37,6 +37,10 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Effect modification is an absolute ARR curve not only a p-value (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch21_emod_curve.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Interaction Versus Confounding: Structural Distinctions
 
 ![Additive RERI residual over multiplicative p alone (original teaching figure).](../assets/figures/cycle23_swarm_ch21_reri.png)

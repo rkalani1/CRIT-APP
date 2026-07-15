@@ -33,6 +33,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![When PH fails prefer absolute RMST differences (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch20_rmst.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Mapping Clinical Outcomes to Regression Models
 
 ![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)

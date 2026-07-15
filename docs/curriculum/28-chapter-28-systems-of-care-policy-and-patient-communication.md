@@ -33,6 +33,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Absolute risk communication ladder for patients and systems (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch28_comm_ladder.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

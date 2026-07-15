@@ -35,6 +35,10 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Multiplicity inflates false absolute ARR wins (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch27_fwer.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 ![Thin absolute margins despite p-significance residual (original teaching figure).](../assets/figures/cycle24_swarm_ch27_thin_margin.png)

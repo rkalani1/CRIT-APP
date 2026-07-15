@@ -29,6 +29,10 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Incidence rate uses person-time not crude counts alone (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch17_person_time.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Conceptual core: frequency first
 
 ![Incidence, prevalence, rate are three absolute units (original teaching figure).](../assets/figures/cycle23_swarm_ch17_three_units.png)

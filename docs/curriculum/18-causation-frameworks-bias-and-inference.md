@@ -33,6 +33,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Hill viewpoints are not a substitute for absolute design strength (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch18_hill_weights.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Introduction: The Causal Gap in Neurological Literature
 
 ![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)

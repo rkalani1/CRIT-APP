@@ -36,6 +36,10 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Power curves target absolute ARR not relative headlines (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch19_power_arr.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## The Pathology of Dichotomania in Clinical Research
 
 ![Absolute ARR precision scales with sample size (original teaching figure).](../assets/figures/cycle23_swarm_ch19_precision_n.png)

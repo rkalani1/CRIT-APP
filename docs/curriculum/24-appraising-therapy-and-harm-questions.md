@@ -34,6 +34,10 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Communicate absolute NNT with uncertainty not a lonely integer (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch24_nnt_ci.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Three gates for therapy and harm papers
 
 ![Net absolute benefit after safety ARI residual (original teaching figure).](../assets/figures/cycle24_swarm_ch24_net_benefit.png)

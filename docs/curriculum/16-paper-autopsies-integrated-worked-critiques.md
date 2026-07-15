@@ -36,6 +36,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Action score requires validity times absolute magnitude (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch16_action_score.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## The Architecture of the Paper Autopsy
 
 ![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)

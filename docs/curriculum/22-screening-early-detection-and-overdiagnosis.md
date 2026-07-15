@@ -38,6 +38,10 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Length-time bias over-samples slow indolent disease (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch22_length_time.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## The Seduction and Peril of Early Detection
 
 ![Screening absolute benefit vs overdiagnosis burden residual (original teaching figure).](../assets/figures/cycle24_swarm_ch22_screen_ledger.png)

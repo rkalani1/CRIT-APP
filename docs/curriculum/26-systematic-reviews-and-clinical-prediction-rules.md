@@ -33,6 +33,10 @@ A clinical prediction rule is proposed for ED triage. Inspect derivation, valida
 
 *Teaching figure (synthetic).* Cycle-28 densify scientific residual.
 
+![Lower certainty widens absolute effect intervals (original scientific teaching figure).](../assets/figures/cycle30_swarm_ch26_grade_abs.png)
+
+*Teaching figure (synthetic).* Cycle-30 densify scientific residual.
+
 ## Systematic Reviews as Observational Studies of the Literature
 
 ![CPR derivation hype vs absolute impact ARR residual (original teaching figure).](../assets/figures/cycle24_swarm_ch26_cpr_maturity.png)
