@@ -62,6 +62,11 @@ Examine demographic and structural representation. If an algorithm is trained pr
 
 ## Information Leakage and the Integrity of Data Splits
 
+![Leakage inflates AUROC; clean holdout and external sites fall, and claimed PPV collapses to local absolute reality (original teaching figure).](../assets/figures/cycle12_swarm_ch14_leakage_ppv.png)
+
+*Teaching figure (synthetic).* Leakage is an absolute-performance crime. Demand timestamp-honest splits and local PPV before any autonomous alert language.
+
+
 Information leakage is the single most common and fatal methodological flaw in the medical machine learning literature. Leakage invalidates the entire paper. It occurs when information from the test set improperly influences the training process, providing the model with an illicit preview of the final exam. A model must learn parameters on training data, optimize hyperparameters on validation data, and be evaluated exactly once on strictly isolated test data. Any deviation from this protocol generates mathematically meaningless, optimistic performance estimates.
 
 Patient-level leakage is pervasive in neuroimaging. Consider a study utilizing a 3D MRI volume consisting of 200 axial slices. If the authors randomly divide the dataset at the slice level, placing 80% of slices in the training set and 20% in the test set, they commit a fatal error. Slices from the exact same patient's brain appear in both sets. The convolutional neural network will not learn the generalized radiographic features of an infarct; it will simply memorize the patient's unique ventricular geometry, gyral pattern, or specific scanner artifact. When applied to a truly new patient, performance collapses. Randomization must always occur at the patient level.

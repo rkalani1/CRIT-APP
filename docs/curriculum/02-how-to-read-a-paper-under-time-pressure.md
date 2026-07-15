@@ -65,6 +65,11 @@ Stroke-specific abstract traps are pervasive. Endovascular therapy abstracts may
 
 ## Named Frameworks: The Figures-and-Tables-First Extraction (F&T-First)
 
+![F&T-first order extracts baseline and outcome tables before the abstract, raising correct ARR computation (original teaching figure).](../assets/figures/cycle12_swarm_ch02_ft_absolute.png)
+
+*Teaching figure (synthetic).* Under time pressure, open tables and figures for absolute counts first; treat the abstract as last, not first.
+
+
 The figures-and-tables-first (F&T-First) method is the single highest-yield habit in time-pressured appraisal. Data displays are where enrollment reality, baseline imbalance, absolute outcomes, and subgroup instability become undeniable. Narrative text can smooth over deficiencies; well-constructed tables cannot. Your primary visual targets in a stroke RCT are the participant flow diagram, the baseline characteristics, the primary efficacy display, and the safety summary. In an observational cohort study, the targets shift to the cohort flow and exclusions, the exposure definition timing relative to index, the crude versus adjusted estimates, and the quantitative sensitivity analyses.
 
 Participant flow diagrams (e.g., CONSORT diagrams) reveal selection dynamics. How many patients were screened versus randomized? How many were excluded for premorbid disability, large ischemic core on baseline imaging, cross-over, or loss to follow-up at 90 days? Large exclusion fractions for 'unlikely to benefit' or 'physician preference' fundamentally alter the transportability of the results. In thrombectomy trials, always evaluate the gap between the imaging-eligible screening pool and the randomized patients. That gap represents the shadow population your hospital will continue to admit, for whom the trial provides zero direct evidence.

@@ -78,6 +78,11 @@ Appraising observational harm requires evaluating the temporal sequence, the bio
 
 ## Operationalizing Appraisal: The Evidence Memo
 
+![Evidence memo absolute fields (PICO/t0, ARR/ARI CIs, NNT/NNH, action) beat narrative memos for committee decision quality (original teaching figure).](../assets/figures/cycle12_swarm_ch24_evidence_memo.png)
+
+*Teaching figure (synthetic).* Forms force absolute arithmetic. No pathway vote without filled ARR/ARI fields on one horizon.
+
+
 To influence clinical pathways and institutional guidelines, critical appraisal must be distilled into a structured, operational format. The one-page evidence memo forces clarity by requiring explicit statements of the clinical question, the top validity threats, the absolute risks (ARR/ARI) with confidence intervals, and the specific applicability constraints. It strips away narrative spin and focuses the committee on the raw mathematical tradeoffs, ensuring that decisions—such as the duration of DAPT or the selection criteria for EVT—are grounded in absolute data rather than rhetorical enthusiasm.
 
 

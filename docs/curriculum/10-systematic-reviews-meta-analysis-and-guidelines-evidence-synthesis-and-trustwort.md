@@ -102,6 +102,11 @@ Relative estimates satisfy statistical requirements, but clinical action demands
 
 ## Guidelines, GRADE, and the Translation of Evidence
 
+![GRADE certainty ladder translated into absolute-effect language from high ARR confidence to very-low unknown absolute effect (original teaching figure).](../assets/figures/cycle12_swarm_ch10_grade_abs.png)
+
+*Teaching figure (synthetic).* Guideline certainty is about absolute patient outcomes—not adjective strength alone. Low certainty means do not rewrite pathways on a fragile ARR.
+
+
 Clinical practice guidelines exist to bridge the gap between abstract evidence synthesis and concrete clinical action. However, the prestige of the issuing society (e.g., AHA/ASA, ESO) does not automatically guarantee methodological rigor. Trustworthy guidelines are formulated using transparent frameworks such as GRADE, which systematically divorces the evaluation of evidence certainty from the formulation of recommendation strength. The certainty of evidence reflects a purely epistemological judgment: how confident are we that the true effect lies reasonably close to the pooled estimate? GRADE mandates that randomized controlled trials start at 'High' certainty, while observational studies originate at 'Low'. These baseline ratings are then aggressively modified based on identified systemic flaws.
 
 Reviewers rate down certainty for five primary reasons. Risk of bias targets systemic flaws in trial execution (e.g., unblinded assessment of modified Rankin Scale scores). Inconsistency isolates unexplained, severe heterogeneity in effect directions across studies. Indirectness penalizes extrapolation, such as applying evidence from mild strokes to severe strokes, or substituting surrogate endpoints (TICI scores) in place of functional outcomes. Imprecision triggers a downgrade when the confidence interval is so wide that it crosses clinical decision thresholds, failing to definitively rule out harm or lack of benefit. Finally, publication bias demands a downgrade when asymmetric funnel plots or missing registry data suggest selective reporting. Conversely, observational data can be rated up in rare instances if the magnitude of the causal effect is overwhelming and robust against unmeasured confounding, such as the initial observational proof for mechanical thrombectomy.

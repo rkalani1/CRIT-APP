@@ -70,6 +70,11 @@ Common PICO failures in neurology involve unspecified comparators and composite 
 
 ## The Estimand Framework: ICH E9(R1) in Neurologic Practice
 
+![Intercurrent-event strategy (treatment-policy vs hypothetical vs composite) rewrites the absolute ARR (original teaching figure).](../assets/figures/cycle12_swarm_ch03_intercurrent_arr.png)
+
+*Teaching figure (synthetic).* The estimand sentence must name the intercurrent strategy; abstract–methods mismatch is spin on the absolute scale.
+
+
 ![PICO mapped to estimand components (ICH E9(R1) spirit; original teaching figure).](../assets/figures/fig24_pico_estimand.png)
 
 *PICO anatomy flows into the five estimand components (population, treatment conditions, variable, intercurrent-event strategy, population-level summary). Original teaching figure.*

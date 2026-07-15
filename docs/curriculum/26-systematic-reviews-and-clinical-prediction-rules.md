@@ -61,6 +61,11 @@ Validation must assess both discrimination and calibration. Discrimination (meas
 
 ## Impact Analysis: Does the Rule Actually Change Care for the Better?
 
+![CPR maturity ladder from derivation to external validation to impact trial; process change without patient-outcome ARR is insufficient (original teaching figure).](../assets/figures/cycle12_swarm_ch26_cpr_impact.png)
+
+*Teaching figure (synthetic).* Impact means absolute patient outcomes move—not only that the score was used. Derivation-only CPRs are not pathway tools.
+
+
 Impact analysis is the final, most neglected phase of CPR methodology. Even if a rule is perfectly derived and broadly validated, does deploying it in the clinic improve patient outcomes or resource allocation compared to standard clinical gestalt? Impact analyses require randomized trials or rigorous quasi-experimental designs where clinicians, not just patients, are assigned to use the rule or rely on intuition.
 
 Consider the ABCD2 score for TIA triage. Derived and validated to predict short-term stroke risk, it became ubiquitous. But impact analyses and subsequent prospective cohorts revealed its operational flaws: it often misclassified patients with critical carotid stenosis or atrial fibrillation as 'low risk' because those etiologies don't neatly align with age or blood pressure points. When a CPR replaces a senior clinician's physiologic reasoning with an oversimplified arithmetic checklist, the impact on care can be negative. A rule that predicts well on paper is useless if it falsely reassures the clinician or fails to alter management trajectories.

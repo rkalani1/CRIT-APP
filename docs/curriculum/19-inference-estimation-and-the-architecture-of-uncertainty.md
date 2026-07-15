@@ -88,6 +88,11 @@ Crucially, power is an architectural tool used before data collection to size th
 
 ## The Multiplicity Penalty: Subgroups and Secondary Endpoints
 
+![Multiplicity multiplies expected false positives and claimed significant findings when secondaries and post-hoc tests accumulate (original teaching figure).](../assets/figures/cycle12_swarm_ch19_multiplicity.png)
+
+*Teaching figure (synthetic).* Each extra unadjusted test is an absolute false-discovery risk. Pre-specify, correct, or treat as hypothesis-generating only.
+
+
 If an investigator executes 20 independent tests on data where the true effect is uniformly zero, probability dictates that one test will cross the p < 0.05 threshold purely by chance. In stroke research, the combination of secondary endpoints, functional dichotomies, and intricate subgroup stratifications easily generates dozens of unadjusted comparisons. Without rigorous pre-specification and alpha-spending controls (e.g., hierarchical testing, Bonferroni, Hochberg), the family-wise error rate inflates violently, degrading the literature with false-positive noise.
 
 Subgroup analyses are notoriously vulnerable. An overall trial may be flat, but the investigators discover a 'significant' benefit in right-sided occlusions treated between 3 and 4.5 hours. Without a formal test for interaction demonstrating that the treatment effect genuinely differs across the stratum, such findings are overwhelmingly likely to be statistical illusions born of sampling variation in tiny strata. Treat exploratory subgroup findings as hypotheses requiring independent replication, never as actionable clinical directives.
