@@ -62,6 +62,26 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle232_swarm_ch16_w232_2.png)
+
+*Teaching figure (synthetic).* Cycle-232 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle230_swarm_ch16_w230_2.png)
+
+*Teaching figure (synthetic).* Cycle-230 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle228_swarm_ch16_w228_2.png)
+
+*Teaching figure (synthetic).* Cycle-228 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle226_swarm_ch16_w226_2.png)
+
+*Teaching figure (synthetic).* Cycle-226 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle224_swarm_ch16_w224_2.png)
 
 *Teaching figure (synthetic).* Cycle-224 densify scientific residual (ch15–28).
