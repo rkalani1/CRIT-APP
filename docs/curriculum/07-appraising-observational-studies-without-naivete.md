@@ -116,6 +116,10 @@ Consider an observational registry claiming that a novel neuroprotectant reduces
 
 Do not fetishize E-values. They do not prove causality, they do not address selection bias, and they do not repair misclassification. They merely provide a boundary for skepticism. They are most powerful when combined with formal Quantitative Bias Analysis (QBA), where investigators simulate specific missing data (e.g., simulating unmeasured NIHSS distributions) to see how the absolute point estimates shift under varying assumptions.
 
+![Confounding by indication inflates crude ARR while within-stratum ARR stays modest; E-value ≈1.8 on RR 0.80 is fragile on an absolute residual ledger (original teaching figure).](../assets/figures/cycle5_swarm_ch07_confounding_evalue.png)
+
+*Teaching figure (synthetic).* Treated patients are often sicker; crude pooling invents large absolute benefit. Residual confounding that can manufacture an 8 pp ARR invents NNT ≈ 12—do not invert confounded HRs into pathway NNTs.
+
 ## Administrative Data, EHR Pitfalls, and Measurement Error
 
 Administrative claims and extracted Electronic Health Record (EHR) datasets offer massive statistical power and long-term linkage, but demand a heavy price in phenotype noise. Stroke diagnosis in claims relies on ICD-10 codes (e.g., I63.x for ischemic stroke). While the Positive Predictive Value (PPV) for acute inpatient ischemic stroke is generally acceptable (often 85-90%), the PPV for Transient Ischemic Attack (G45.9) is notoriously unstable, often dropping below 50%. Analyzing TIA outcomes using claims data without rigorous chart-level validation is an exercise in analyzing statistical noise.

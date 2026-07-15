@@ -114,6 +114,10 @@ In a standard DCA plot, the Net Benefit of the prediction model (y-axis) is grap
 
 A prediction model demonstrates genuine clinical utility if, and only if, its Net Benefit curve lies above both the 'Treat All' and 'Treat None' lines across a clinically reasonable range of thresholds. If a stroke model only demonstrates positive Net Benefit at thresholds of 80-90% for a highly consequential surgical intervention, but neurosurgeons actually intervene at a 20% threshold, the model is entirely useless in clinical practice, regardless of its statistical significance or AUROC. DCA forces prediction research out of the realm of abstract mathematics and into the brutal reality of clinical tradeoffs.
 
+![High predicted risk is not a causal license to treat; decision-curve net benefit must beat treat-all and treat-none in the clinical Pt band (original teaching figure).](../assets/figures/cycle5_swarm_ch09_pred_vs_causal_dca.png)
+
+*Teaching figure (synthetic).* Prognostic association (e.g., statin-at-admission OR) ranks risk; only calibrated absolute risk plus utility at a stated threshold justifies deployment. Prediction is not causation for treatment choice.
+
 ## Named Frameworks: TRIPOD and PROBAST
 
 TRIPOD (Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis) serves as the definitive EQUATOR network guideline for reporting prediction research. It acts as a defense against opaque methodology. TRIPOD demands explicit detailing of the study setting, inclusion criteria, rigorous definitions of predictors and outcomes, the explicit handling of missing data (differentiating biased complete-case deletion from multiple imputation), complete model specification, and the transparent reporting of both discrimination and calibration measures with confidence intervals.

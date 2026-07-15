@@ -104,6 +104,10 @@ Acute stroke care adds immense prehospital and transfer complexity. Time from la
 
 The concept of 'target-trial emulation' in observational epidemiology is fundamentally an exercise in index-time discipline. It forces the observational researcher to construct a protocol skeleton that artificially enforces the alignment of eligibility, assignment, and follow-up, just as an RCT would. When you review a paper, checking the alignment of t0 is never optional. Finding a failure here protects you from over-interpreting a complex, machine-learning-adjusted hazard ratio that is temporally incoherent.
 
+![Index-time alignment versus immortal-time misclassification: eligibility, assignment, and outcome clocks must share one t0 (original teaching figure).](../assets/figures/cycle5_swarm_ch03_index_time.png)
+
+*Teaching figure (synthetic).* When discharge starts the clock but rehab attendance weeks later defines exposure, early deaths are forced into the unexposed arm and survival becomes a prerequisite for “treatment.” Landmarking, time-varying exposure, or sequential target-trial emulation restores temporal honesty—never invent NNTs from mis-timed associations.
+
 ## Quantitative Reasoning: Formalizing the Causal Contrast
 
 To move beyond linguistic arguments, we must define the causal contrast quantitatively using potential outcomes notation. Let $Y$ represent the outcome of interest, such as achieving functional independence (mRS 0-2) at 90 days. Let $A$ represent the treatment assignment, where $A=1$ for the active intervention (e.g., tenecteplase) and $A=0$ for the comparator (e.g., alteplase). For any individual patient $i$, we theorize two potential outcomes: $Y_i^{a=1}$, the outcome if they received tenecteplase, and $Y_i^{a=0}$, the outcome if they received alteplase.

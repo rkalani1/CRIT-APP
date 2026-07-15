@@ -150,6 +150,10 @@ To stimulate the board without humiliating novices, the facilitator can use stan
 - 'Name one specific patient on our service this month who would have been excluded from this trial—and explain why that matters.'
 - 'What is the strongest argument that the authors are completely correct? What is the strongest argument that they have overreached?'
 
+![Claim→decision gate with a mandatory absolute-effect slot; protect ≥12 minutes for ARR/NNT before any bottom line (original teaching figure).](../assets/figures/cycle5_swarm_ch15_jc_decision_gate.png)
+
+*Teaching figure (synthetic).* Journal club ends on an action menu only after CER/EER → ARR → NNT/NNH are on the board. Relative spin without the absolute ledger is not a finished session.
+
 ## The Red-Flag Super-Checklist (Shared Scaffold)
 
 Checklists do not replace clinical expertise; they offload working memory so that expertise can focus on synthesis. The following Red-Flag Super-Checklist should serve as a living document that the training program updates continuously. It is provided here as a structural scaffold for rapid deployment.

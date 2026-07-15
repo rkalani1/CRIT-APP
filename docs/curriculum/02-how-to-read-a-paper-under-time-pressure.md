@@ -97,6 +97,10 @@ The protocol strictly demands an action formulation, even if the action is 'reje
 
 Clinical teams can execute the protocol as a relay: one clinician owns the tables and absolute risks, another owns the methods and bias threats, and a third synthesizes the action sentence. Relay reading accelerates the process and trains a shared epidemiologic vocabulary across the department. It fails only when no individual explicitly owns the final action sentence. Always assign that ownership explicitly before starting.
 
+![15-minute triage card stack: validity → absolute (ARR/NNT) → transport → one-sentence action (original teaching figure).](../assets/figures/cycle5_swarm_ch02_triage_stack.png)
+
+*Teaching figure (synthetic).* Compress narrative under pressure; never drop the absolute-effect card. Example ledger: CER 10% → EER 7% (ARR 3 pp, NNT ≈ 33) against ARI 1 pp (NNH 100).
+
 ## Quantitative Reasoning: Estimands, Absolute Effects, and Uncertainty
 
 Rigorous appraisal demands a shift from passive reading of p-values to active calculation of absolute effects. The distinction between relative risk and absolute risk is not academic; it is the mathematical foundation of clinical harm and benefit. A relative risk reduction (RRR) is constant across different baseline risk groups, which mathematically guarantees that it will exaggerate the clinical utility of an intervention in low-risk patients.
