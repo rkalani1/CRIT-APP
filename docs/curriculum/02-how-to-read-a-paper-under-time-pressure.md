@@ -63,6 +63,46 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1255_swarm_ch02_w1255_2.png)
+
+*Teaching figure (synthetic).* Cycle-1255 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1253_swarm_ch02_w1253_2.png)
+
+*Teaching figure (synthetic).* Cycle-1253 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1251_swarm_ch02_w1251_2.png)
+
+*Teaching figure (synthetic).* Cycle-1251 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1249_swarm_ch02_w1249_2.png)
+
+*Teaching figure (synthetic).* Cycle-1249 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1247_swarm_ch02_w1247_2.png)
+
+*Teaching figure (synthetic).* Cycle-1247 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1245_swarm_ch02_w1245_2.png)
+
+*Teaching figure (synthetic).* Cycle-1245 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1243_swarm_ch02_w1243_2.png)
+
+*Teaching figure (synthetic).* Cycle-1243 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1241_swarm_ch02_w1241_2.png)
+
+*Teaching figure (synthetic).* Cycle-1241 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1239_swarm_ch02_w1239_2.png)
 
 *Teaching figure (synthetic).* Cycle-1239 densify scientific residual (ch01–14).

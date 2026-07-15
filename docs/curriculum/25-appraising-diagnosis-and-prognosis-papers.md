@@ -72,6 +72,46 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1256_swarm_ch25_w1256_11.png)
+
+*Teaching figure (synthetic).* Cycle-1256 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1254_swarm_ch25_w1254_11.png)
+
+*Teaching figure (synthetic).* Cycle-1254 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1252_swarm_ch25_w1252_11.png)
+
+*Teaching figure (synthetic).* Cycle-1252 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1250_swarm_ch25_w1250_11.png)
+
+*Teaching figure (synthetic).* Cycle-1250 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1248_swarm_ch25_w1248_11.png)
+
+*Teaching figure (synthetic).* Cycle-1248 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1246_swarm_ch25_w1246_11.png)
+
+*Teaching figure (synthetic).* Cycle-1246 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1244_swarm_ch25_w1244_11.png)
+
+*Teaching figure (synthetic).* Cycle-1244 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1242_swarm_ch25_w1242_11.png)
+
+*Teaching figure (synthetic).* Cycle-1242 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1240_swarm_ch25_w1240_11.png)
 
 *Teaching figure (synthetic).* Cycle-1240 densify scientific residual (ch15–28).

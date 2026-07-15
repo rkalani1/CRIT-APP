@@ -50,6 +50,46 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1255_swarm_ch14_w1255_14.png)
+
+*Teaching figure (synthetic).* Cycle-1255 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1253_swarm_ch14_w1253_14.png)
+
+*Teaching figure (synthetic).* Cycle-1253 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1251_swarm_ch14_w1251_14.png)
+
+*Teaching figure (synthetic).* Cycle-1251 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1249_swarm_ch14_w1249_14.png)
+
+*Teaching figure (synthetic).* Cycle-1249 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1247_swarm_ch14_w1247_14.png)
+
+*Teaching figure (synthetic).* Cycle-1247 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1245_swarm_ch14_w1245_14.png)
+
+*Teaching figure (synthetic).* Cycle-1245 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1243_swarm_ch14_w1243_14.png)
+
+*Teaching figure (synthetic).* Cycle-1243 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1241_swarm_ch14_w1241_14.png)
+
+*Teaching figure (synthetic).* Cycle-1241 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1239_swarm_ch14_w1239_14.png)
 
 *Teaching figure (synthetic).* Cycle-1239 densify scientific residual (ch01–14).
