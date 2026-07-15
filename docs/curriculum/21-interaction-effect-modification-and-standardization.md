@@ -29,6 +29,10 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 - Explain direct and indirect standardization of stroke incidence and mortality rates, applying these techniques to comparative epidemiology.
 - Appraise subgroup claims in stroke literature by evaluating pre-specification, scale dependence, interaction testing, and measurement error.
 
+![Interaction residual: report absolute RERI, not multiplicative p alone (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch21_reri_abs.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Interaction Versus Confounding: Structural Distinctions
 
 ![Additive RERI residual over multiplicative p alone (original teaching figure).](../assets/figures/cycle23_swarm_ch21_reri.png)

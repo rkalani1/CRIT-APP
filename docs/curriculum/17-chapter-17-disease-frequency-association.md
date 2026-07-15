@@ -21,6 +21,10 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 - Identify selection and measurement structures that distort frequency estimates.
 - Translate association language into prediction vs causation templates before acting.
 
+![Disease frequency residual: prevalence is a stock; NNT needs risk or incidence (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch17_ixd_surface.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Conceptual core: frequency first
 
 ![Incidence, prevalence, rate are three absolute units (original teaching figure).](../assets/figures/cycle23_swarm_ch17_three_units.png)

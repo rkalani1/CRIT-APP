@@ -26,6 +26,10 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 - Identify biases inherent in observational harm studies and open-label trials.
 - Synthesize appraisal findings into actionable, structured formats for clinical pathways.
 
+![Therapy residual: plot absolute benefit versus absolute harm on one plane (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch24_benefit_harm_plane.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Three gates for therapy and harm papers
 
 ![Net absolute benefit after safety ARI residual (original teaching figure).](../assets/figures/cycle24_swarm_ch24_net_benefit.png)

@@ -28,6 +28,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 - Formulate bottom-line clinical decisions (Act, Conditional, Watch, No Change) based on rigorous evidentiary synthesis, stripping away abstract spin and press release hype.
 - Transfer the integrated autopsy framework to local journal clubs to mandate epistemological discipline in clinical practice.
 
+![Autopsy residual: validity times absolute magnitude jointly map to action (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch16_autopsy_map.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## The Architecture of the Paper Autopsy
 
 ![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)

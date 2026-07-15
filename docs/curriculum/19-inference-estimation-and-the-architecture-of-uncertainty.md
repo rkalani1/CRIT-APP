@@ -28,6 +28,10 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 - Execute a manual derivation of standard errors and confidence intervals for a risk difference to demystify inferential machinery.
 - Implement rigorous inferential hygiene to prevent mathematical artifacts from masquerading as biologic phenomena.
 
+![Inference residual: absolute ARR precision and decision zones scale with sample size (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch19_arr_ci_n.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## The Pathology of Dichotomania in Clinical Research
 
 ![Absolute ARR precision scales with sample size (original teaching figure).](../assets/figures/cycle23_swarm_ch19_precision_n.png)

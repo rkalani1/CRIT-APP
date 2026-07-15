@@ -30,6 +30,10 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 - Dissect a hyperacute stroke mimic scenario, illustrating the synthesis of clinical priors, serial examination, neuroimaging constraints, and therapy risk-benefit thresholds.
 - Design a personalized 'bias and appraisal' morbidity log to anchor continuous metacognitive development.
 
+![Reasoning residual: absolute Bayes update versus base-rate neglect (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch23_bayes_baserate.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Why Reasoning Quality Is an Evidence Skill
 
 ![Cognitive biases cost absolute probability accuracy (original teaching figure).](../assets/figures/cycle24_swarm_ch23_bias_cost.png)

@@ -25,6 +25,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 - Critique proportional hazards assumptions and the clinical meaning of the hazard ratio over time.
 - Identify the Table 2 fallacy and the hazards of causal over-interpretation of multivariable prediction models.
 
+![Regression residual: constant HR does not mean constant absolute ARR over time (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch20_hr_vs_arr_t.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Mapping Clinical Outcomes to Regression Models
 
 ![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)

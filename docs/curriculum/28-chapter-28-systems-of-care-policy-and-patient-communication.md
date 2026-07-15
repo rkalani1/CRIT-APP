@@ -25,6 +25,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 - Translate relative claims into absolute risks and natural frequencies for shared decision-making.
 - Draft a one-page systems memo that links appraisal conclusions to order-set, metric, and counseling changes.
 
+![Policy residual: absolute frequency communication for systems and consent (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch28_abs_comm.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

@@ -30,6 +30,10 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 - Interpret prognostic results through absolute risk and calibration slopes, demanding precision around time-horizons for neurologic outcomes.
 - Evaluate the applicability of diagnostic tests and prediction rules by linking post-test probabilities or predicted risks to absolute clinical action thresholds.
 
+![Dx/Px residual: absolute post-test probability is not prognostic horizon risk (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch25_dx_px_absolute.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Three gates before you change a pathway
 
 ![Absolute post-test and calibration before action residual (original teaching figure).](../assets/figures/cycle24_swarm_ch25_action_gate.png)

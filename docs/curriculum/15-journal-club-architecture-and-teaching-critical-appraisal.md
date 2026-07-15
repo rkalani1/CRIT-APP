@@ -28,6 +28,10 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 - Execute a fully worked, minute-by-minute run-of-show for a complex stroke trial, incorporating absolute risk reductions (ARR), number needed to treat (NNT), and number needed to harm (NNH).
 - Distinguish prediction from causation during group discussions, ensuring causal language remains strictly proportional to study design.
 
+![Journal club residual: absolute ARR/NNT axis separates disciplined from spin-prone sessions (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch15_jc_radar.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## The Conceptual Core: Why the Default Journal Club Fails
 
 Most neurology training programs possess a designated hour for journal club. Most of these hours fail to teach critical appraisal. The default format typically devolves into 'summary theater': a junior trainee constructs thirty slides restating the background pathophysiology and the abstract, a senior faculty member shares a clinical war story tangentially related to the topic, and the group disperses having covered a paper without interrogating it. The failure is architectural, not moral. When a session lacks explicit time constraints, rotating roles, and a shared epistemic framework, the path of least resistance is to summarize rather than to appraise.

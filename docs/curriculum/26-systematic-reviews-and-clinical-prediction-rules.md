@@ -25,6 +25,10 @@ A clinical prediction rule is proposed for ED triage. Inspect derivation, valida
 - Distinguish mathematical overfitting and poor calibration in derivation cohorts from true transportability using classical stroke examples.
 - Interrogate whether implementing a validated CPR actually improves patient outcomes or clinician behavior compared to baseline clinical gestalt.
 
+![CPR residual: derivation discrimination is not absolute clinical impact ARR (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch26_cpr_impact_path.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Systematic Reviews as Observational Studies of the Literature
 
 ![CPR derivation hype vs absolute impact ARR residual (original teaching figure).](../assets/figures/cycle24_swarm_ch26_cpr_maturity.png)

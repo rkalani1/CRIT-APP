@@ -25,6 +25,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 - Apply Hill's viewpoints not as a definitive causal checklist, but as critical appraisal questions for observational literature.
 - Identify common violations of temporality and exchangeability in stroke research, including reverse causation.
 
+![Causation residual: association strength is not absolute causal ARR credibility (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch18_causal_ladder.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## Introduction: The Causal Gap in Neurological Literature
 
 ![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)

@@ -30,6 +30,10 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 - Construct an appraisal memo that demands disease-specific outcome benefit, refusing detection rates as surrogate endpoints.
 - Link screening mathematics to shared decision-making language suitable for clinic and population-health contexts.
 
+![Screening residual: stage shift is not absolute mortality ARR (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch22_stage_vs_mort.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## The Seduction and Peril of Early Detection
 
 ![Screening absolute benefit vs overdiagnosis burden residual (original teaching figure).](../assets/figures/cycle24_swarm_ch22_screen_ledger.png)

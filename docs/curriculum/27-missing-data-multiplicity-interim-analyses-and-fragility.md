@@ -27,6 +27,10 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 - Identify analytic flexibility and the consequent 'spin' that frames post hoc data exploration as confirmatory evidence.
 - Construct a rigorous journal-club framework to systematically interrogate trial plumbing before advocating practice changes.
 
+![Fragility residual: p less than 0.05 with thin absolute margins remains fragile (original scientific teaching figure).](../assets/figures/cycle26_swarm_ch27_fragility_surface.png)
+
+*Teaching figure (synthetic).* Cycle-26 densify scientific residual.
+
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 ![Thin absolute margins despite p-significance residual (original teaching figure).](../assets/figures/cycle24_swarm_ch27_thin_margin.png)
