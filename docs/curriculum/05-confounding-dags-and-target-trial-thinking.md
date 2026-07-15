@@ -43,6 +43,11 @@ The shift from checklist epidemiology to structural causal inference demands tha
 
 ## Directed Acyclic Graphs (DAGs) as Causal Grammar
 
+![Open backdoor through severity invents crude ARR; closing the path shrinks absolute association (original teaching figure).](../assets/figures/cycle11_swarm_ch05_backdoor_arr.png)
+
+*Teaching figure (synthetic).* DAGs are absolute-effect hygiene: name and close backdoors before any NNT.
+
+
 A directed acyclic graph (DAG) provides the formal, mathematical grammar necessary to express causal assumptions and diagnose confounding. A DAG consists of nodes representing variables and directed edges (arrows) representing assumed causal effects. The graph must be acyclic, meaning no variable can cause itself, either directly or through a feedback loop. In critical appraisal, the DAG is not an ornamental figure added to a manuscript to project sophistication; it is a falsifiable map of the investigator\'s subject-matter knowledge. By explicitly drawing the arrows that exist—and, equally importantly, declaring which arrows do not exist—the analyst makes their causal framework vulnerable to critique.
 
 In a DAG, a path is any sequence of non-intersecting edges connecting the exposure to the outcome, regardless of the direction of the arrowheads. Causal paths are those where all arrows point forward from the exposure to the outcome. Non-causal paths, conversely, contain at least one arrow pointing backward against the flow of time or causation. The primary purpose of causal inference in observational data is to identify and block all non-causal paths while leaving all causal paths open.

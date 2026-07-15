@@ -126,6 +126,11 @@ Virtual participation requires explicit structure. The chat monitor must elevate
 
 ## The Epistemic Question Board
 
+![Epistemic board columns with a mandatory ARR/NNT column dramatically raise complete absolute ledgers (original teaching figure).](../assets/figures/cycle11_swarm_ch15_epistemic_board.png)
+
+*Teaching figure (synthetic).* Visible columns enforce method: no action column without absolute arithmetic.
+
+
 A visible board—whether a physical whiteboard in the conference room or a shared digital document—externalizes the group's thinking. It prevents circular arguments by anchoring the discussion in recorded facts. The scribe or facilitator must populate it in real time.
 
 ```

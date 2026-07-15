@@ -90,6 +90,11 @@ The Brier Score provides an omnibus measure of predictive accuracy, inextricably
 
 ## Development, Overfitting, and Optimism
 
+![Optimism-corrected and external AUROC fall from derivation hype; absolute calibration fails first on overfit models (original teaching figure).](../assets/figures/cycle11_swarm_ch09_optimism_cal.png)
+
+*Teaching figure (synthetic).* Do not counsel or threshold on derivation AUROC. Demand optimism correction and external absolute calibration.
+
+
 When researchers feed a dataset containing 200 acute stroke patients and 40 baseline clinical variables into a multivariable logistic regression or a random forest algorithm, the mathematical machinery will aggressively fit the data. It will inevitably locate patterns that appear to predict the outcome with extraordinary precision. Unfortunately, the vast majority of what it discovers is noise—random statistical fluctuations idiosyncratic to those specific 200 patients.
 
 This phenomenon is overfitting. Apparent performance (the AUROC and calibration metrics calculated on the exact same dataset utilized to train the model) is systematically and severely biased upward. It is an optimistic mathematical illusion. Optimism is defined as the quantitative difference between the apparent performance on the training data and the true performance expected when the model is applied to unseen, exchangeable patients. The primary driver of optimism is a low number of Events Per Variable (EPV). Historical rules of thumb mandated a minimum of 10 events per candidate predictor, though modern simulation studies demonstrate even this is frequently insufficient. While modern penalization methods (like Ridge or Lasso regression) mitigate this, extreme feature-to-event ratios remain computationally fatal. Critically, 'variable' refers to all candidate variables evaluated at any point during the modeling process, not merely the final variables surviving in the published equation. If authors tested 50 variables univariately to identify the 5 that 'worked,' they have spent 50 degrees of freedom, guaranteeing massive optimism.

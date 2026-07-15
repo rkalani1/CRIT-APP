@@ -69,6 +69,11 @@ Teaching anchors (not universal laws): LR+ above ~10 often produces large probab
 
 ## Diagnosis gate 3: Local actionability
 
+![Diagnosis absolute thresholds (test vs treat) and prognosis strata that must change actions—not same pathway for 5% and 15% risk (original teaching figure).](../assets/figures/cycle11_swarm_ch25_action_thresholds.png)
+
+*Teaching figure (synthetic).* Local actionability is absolute: post-test probabilities must cross thresholds; prognostic strata must change monitoring or therapy.
+
+
 Combine the LR with *your* pre-test probability (Bayes) to obtain a post-test probability. Then ask only the operational question: does that probability cross a testing or treatment threshold in *this* system? A negative DWI that lowers brainstem-TIA ischemia probability from 90% to 40% is interesting but useless if dual antiplatelet therapy starts at 10% residual risk—the test failed to cross the action line. Also check logistics: availability, cost, time, and whether LRs remain plausible given spectrum differences.
 
 ## Prognosis gate 1: Trustworthiness

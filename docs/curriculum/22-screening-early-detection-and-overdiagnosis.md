@@ -38,6 +38,11 @@ Neurologists encounter these screening mechanics in three modes: formalized popu
 
 ## Criteria for a Defensible Screening Program
 
+![Absolute screening ledger: few true lives extended versus many overdiagnosed treatments and false-positive workups per 1,000 screened (original teaching figure).](../assets/figures/cycle11_swarm_ch22_nns_overdx.png)
+
+*Teaching figure (synthetic).* Expand screens only after invitation-trial absolute benefit beats overdiagnosis harm in natural frequencies.
+
+
 The classic Wilson and Jungner criteria (1968), updated for contemporary neurovascular realities, provide a rigid filter against unjustified enthusiasm. A defensible program requires a substantial health burden with a recognizable preclinical phase. The screening test must be safe, valid, and acceptable. Most critically, intervention in the preclinical phase must confer a superior prognostic trajectory compared with intervention deployed at the time of clinical presentation, and this marginal benefit must exceed the downstream harms imposed on the screened population.
 
 - The target condition must have a meaningful preclinical window wherein intervention alters natural history.

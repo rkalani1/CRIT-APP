@@ -68,6 +68,11 @@ A cross-sectional study measures exposure and outcome simultaneously. It provide
 
 ## The Active-Comparator New-User (ACNU) Design
 
+![Prevalent-user designs inflate apparent ARR; new-user active-comparator designs restore smaller honest absolute effects (original teaching figure).](../assets/figures/cycle11_swarm_ch07_acnu_arr.png)
+
+*Teaching figure (synthetic).* ACNU is absolute hygiene for observational therapy claims—refuse pathway NNT when residual design bias can invent ARR.
+
+
 The Active-Comparator New-User (ACNU) design is the gold standard architecture in modern pharmacoepidemiology for mitigating confounding by indication. To understand its power, we must first understand the flaws it corrects: prevalent-user bias and unanchored comparisons.
 
 A 'new-user' restriction ensures that follow-up begins precisely at the initiation of therapy. If a study includes prevalent users—patients who have been on a medication for years—it introduces severe bias. Prevalent users have already survived the early hazards of therapy (e.g., early hemorrhagic transformation, acute statin myopathy). They are a highly selected group of biologically tolerant, highly adherent survivors. Comparing these resilient prevalent users to non-users creates a massive healthy-user illusion, artificially inflating the apparent safety and efficacy of the drug. By restricting analysis to incident new users, we capture the true early hazard and align time zero correctly.
