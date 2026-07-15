@@ -66,6 +66,41 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
 
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1386_swarm_ch19_w1386_5.png)
+
+*Teaching figure (synthetic).* Cycle-1386 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1384_swarm_ch19_w1384_5.png)
+
+*Teaching figure (synthetic).* Cycle-1384 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1382_swarm_ch19_w1382_5.png)
+
+*Teaching figure (synthetic).* Cycle-1382 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1380_swarm_ch19_w1380_5.png)
+
+*Teaching figure (synthetic).* Cycle-1380 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1378_swarm_ch19_w1378_5.png)
+
+*Teaching figure (synthetic).* Cycle-1378 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1376_swarm_ch19_w1376_5.png)
+
+*Teaching figure (synthetic).* Cycle-1376 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1374_swarm_ch19_w1374_5.png)
+
+*Teaching figure (synthetic).* Cycle-1374 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1372_swarm_ch19_w1372_5.png)
 
 *Teaching figure (synthetic).* Cycle-1372 densify scientific residual (ch15–28).

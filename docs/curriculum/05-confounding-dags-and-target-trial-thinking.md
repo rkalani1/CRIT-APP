@@ -67,6 +67,41 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1385_swarm_ch05_w1385_5.png)
+
+*Teaching figure (synthetic).* Cycle-1385 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1383_swarm_ch05_w1383_5.png)
+
+*Teaching figure (synthetic).* Cycle-1383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1381_swarm_ch05_w1381_5.png)
+
+*Teaching figure (synthetic).* Cycle-1381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1379_swarm_ch05_w1379_5.png)
+
+*Teaching figure (synthetic).* Cycle-1379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1377_swarm_ch05_w1377_5.png)
+
+*Teaching figure (synthetic).* Cycle-1377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1375_swarm_ch05_w1375_5.png)
+
+*Teaching figure (synthetic).* Cycle-1375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1373_swarm_ch05_w1373_5.png)
+
+*Teaching figure (synthetic).* Cycle-1373 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1371_swarm_ch05_w1371_5.png)
 
 *Teaching figure (synthetic).* Cycle-1371 densify scientific residual (ch01–14).

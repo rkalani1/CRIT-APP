@@ -71,6 +71,41 @@ A clinical prediction rule is proposed for ED triage. Inspect derivation, valida
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1386_swarm_ch26_w1386_12.png)
+
+*Teaching figure (synthetic).* Cycle-1386 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1384_swarm_ch26_w1384_12.png)
+
+*Teaching figure (synthetic).* Cycle-1384 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1382_swarm_ch26_w1382_12.png)
+
+*Teaching figure (synthetic).* Cycle-1382 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1380_swarm_ch26_w1380_12.png)
+
+*Teaching figure (synthetic).* Cycle-1380 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1378_swarm_ch26_w1378_12.png)
+
+*Teaching figure (synthetic).* Cycle-1378 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1376_swarm_ch26_w1376_12.png)
+
+*Teaching figure (synthetic).* Cycle-1376 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1374_swarm_ch26_w1374_12.png)
+
+*Teaching figure (synthetic).* Cycle-1374 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1372_swarm_ch26_w1372_12.png)
 
 *Teaching figure (synthetic).* Cycle-1372 densify scientific residual (ch15–28).

@@ -64,6 +64,41 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Design residual is absolute residual.
 
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1385_swarm_ch07_w1385_7.png)
+
+*Teaching figure (synthetic).* Cycle-1385 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1383_swarm_ch07_w1383_7.png)
+
+*Teaching figure (synthetic).* Cycle-1383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1381_swarm_ch07_w1381_7.png)
+
+*Teaching figure (synthetic).* Cycle-1381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1379_swarm_ch07_w1379_7.png)
+
+*Teaching figure (synthetic).* Cycle-1379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1377_swarm_ch07_w1377_7.png)
+
+*Teaching figure (synthetic).* Cycle-1377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1375_swarm_ch07_w1375_7.png)
+
+*Teaching figure (synthetic).* Cycle-1375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1373_swarm_ch07_w1373_7.png)
+
+*Teaching figure (synthetic).* Cycle-1373 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1371_swarm_ch07_w1371_7.png)
 
 *Teaching figure (synthetic).* Cycle-1371 densify scientific residual (ch01–14).

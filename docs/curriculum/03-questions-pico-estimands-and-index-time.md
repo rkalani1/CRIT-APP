@@ -64,6 +64,41 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1385_swarm_ch03_w1385_3.png)
+
+*Teaching figure (synthetic).* Cycle-1385 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1383_swarm_ch03_w1383_3.png)
+
+*Teaching figure (synthetic).* Cycle-1383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1381_swarm_ch03_w1381_3.png)
+
+*Teaching figure (synthetic).* Cycle-1381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1379_swarm_ch03_w1379_3.png)
+
+*Teaching figure (synthetic).* Cycle-1379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1377_swarm_ch03_w1377_3.png)
+
+*Teaching figure (synthetic).* Cycle-1377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1375_swarm_ch03_w1375_3.png)
+
+*Teaching figure (synthetic).* Cycle-1375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1373_swarm_ch03_w1373_3.png)
+
+*Teaching figure (synthetic).* Cycle-1373 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1371_swarm_ch03_w1371_3.png)
 
 *Teaching figure (synthetic).* Cycle-1371 densify scientific residual (ch01–14).
