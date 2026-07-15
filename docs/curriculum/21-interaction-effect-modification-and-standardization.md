@@ -59,6 +59,10 @@ Direct standardization applies the stratum-specific rates observed in the study 
 
 Indirect standardization reverses the architecture, applying the stratum-specific rates of a reference population to the demographic structure of the study cohort to calculate an expected number of events. The ratio of observed to expected events—the Standardized Mortality Ratio (SMR)—is utilized extensively in quality improvement dashboards and hospital benchmarking, particularly when small numerators make local stratum-specific rates statistically unstable.
 
+![Constant RR=0.75 yields stratum ARR 3 pp vs 10 pp; standardizing those ARRs to young vs older target mixes rewrites population NNT (original teaching figure).](../assets/figures/cycle6_swarm_ch21_standardize_arr.png)
+
+*Teaching figure (synthetic).* Multiplicative homogeneity does not mean additive homogeneity. Reweight stratum-specific absolute effects to *your* age/severity mix before translating a trial ARR into a local pathway NNT—standardization is transport, not decoration.
+
 ## Worked Example: Reconciling Scales in Antiplatelet Efficacy
 
 ### Trial Data Architecture

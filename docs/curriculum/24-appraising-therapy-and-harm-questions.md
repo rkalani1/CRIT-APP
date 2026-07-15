@@ -50,6 +50,10 @@ The Number Needed to Treat (NNT = 1/ARR) and Number Needed to Harm (NNH = 1/ARI)
 
 *Teaching figure (synthetic).* A 30% relative risk reduction plus a fixed 1.5 pp hemorrhage ARI yields a favorable net absolute tradeoff in a high-risk TIA cohort and a near-null or inverted ledger in a low-risk syndrome—while the relative-effect headline is unchanged. Transport ARR/ARI to local baseline risk before pathway adoption.
 
+![Net absolute tradeoff: ARR from fixed RRR 30% versus competing ARI 1.5 pp sICH; break-even CER and high- vs low-risk NNT/NNH ledger (original teaching figure).](../assets/figures/cycle6_swarm_ch24_net_ari_tradeoff.png)
+
+*Teaching figure (synthetic).* Plot ARR − ARI across baseline risk. Below the break-even CER the harm arm dominates despite an unchanged relative headline; force benefit and harm onto one absolute time window before rewriting a pathway.
+
 ## Applicability and Transportability
 
 A trial may possess pristine internal validity yet lack applicability (transportability) to a specific clinical setting. Applicability requires comparing the trial cohort's baseline risk, comorbidities, and demographic profile to the local patient population. Extrapolating the benefits of short-course dual antiplatelet therapy (DAPT) from trials enrolling high-risk minor stroke patients to those with atypical, low-risk syndromes predictably dilutes the ARR while maintaining the ARI for hemorrhage, potentially inverting the risk-benefit ratio.

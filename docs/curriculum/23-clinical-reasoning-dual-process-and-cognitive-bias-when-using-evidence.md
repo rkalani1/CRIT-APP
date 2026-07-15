@@ -107,6 +107,10 @@ Cognitive debiasing cannot rely solely on willpower or metacognitive awareness. 
 
 Structured critical appraisal inherently functions as a debiasing technology. Utilizing a rigid validity–results–applicability scaffold forces a cognitive deceleration, preventing the impulsive leap from abstract perusal to clinical implementation. Clarity regarding the estimand neutralizes bait-and-switch outcome reporting. Strict adherence to interaction testing principles (Chapter 21) mitigates the confirmation bias inherent in dredging subgroups for positive findings. Understanding screening mathematics (Chapter 22) counters the availability-driven impulse to over-investigate incidental findings. These protocols are not bureaucratic hurdles; they are strategically placed System 2 speed bumps in domains where System 1 is known to crash.
 
+![Hide the RRR headline until CER/EER → ARR → NNT are computed; relative-only anchoring over-recruits pathway adopters (original teaching figure).](../assets/figures/cycle6_swarm_ch23_deanchor_rrr.png)
+
+*Teaching figure (synthetic).* Debiasing is choice architecture: cover the relative claim, force the absolute card, then uncover RRR only to check consistency. Same CER 5% and RRR 40% is ARR 2 pp (NNT 50)—relative spin alone is not a decision.
+
 Team dynamics also profoundly influence cognition. Diagnostic momentum is fundamentally a social contagion. Explicitly requesting dissent—'What features of this presentation argue against an ischemic etiology?'—disrupts this momentum and redistributes the cognitive load. Authority gradients are dismantled when senior clinicians openly model probabilistic uncertainty and when junior members are commended for identifying absolute-risk omissions rather than reprimanded for momentarily slowing the clinical workflow.
 
 ## Bedside Bayesian Updating and Action Thresholds

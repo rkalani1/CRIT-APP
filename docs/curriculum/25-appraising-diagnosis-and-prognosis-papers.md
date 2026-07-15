@@ -40,6 +40,10 @@ Whether the paper is a prehospital LVO scale, an automated CTA detector, or a sc
 
 Jumping to a glamorous sensitivity or c-statistic is the classic journal-club failure. Broken methods make pretty numbers decorative. Sound numbers that never cross a local action line remain academic. The rest of this chapter is original CRIT-APP teaching architecture for stroke and neurology—not a reprint of any commercial handbook series.
 
+![Dual three-gate scaffold for diagnosis and prognosis: trustworthiness → absolute effect extraction → local actionability (original teaching figure).](../assets/figures/cycle6_swarm_ch25_dual_gate_scaffold.png)
+
+*Teaching figure (synthetic).* Diagnosis travels as LRs applied to *your* pre-test probability; prognosis travels as horizon-specific absolute risk plus calibration. Prediction is not a causal license to treat—only thresholds that change triage, therapy, or counseling earn pathway space.
+
 ## Diagnosis gate 1: Trustworthiness
 
 Diagnostic estimates fail for structural reasons long before the 2×2 table is interesting.

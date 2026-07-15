@@ -164,6 +164,10 @@ Non-inferiority trials do not attempt to prove a new drug is better. They ask wh
 
 The ITT paradox governs non-inferiority trials. In standard superiority trials, intention-to-treat is statistically conservative; protocol violations and poor adherence blur the distinction between groups, driving the result toward the null hypothesis (no effect). In non-inferiority trials, the null hypothesis is that the drugs are different. Blurring the distinction between groups through poor adherence artificially makes the drugs look identical. Therefore, in non-inferiority designs, ITT is dangerously anti-conservative. Rigorous non-inferiority trials must demonstrate equivalence in both the ITT and the Per-Protocol populations to ensure assay sensitivity.
 
+![Noninferiority margin on the absolute risk-difference scale with upper CI inside δ; ITT dilutes ARR versus per-protocol under crossover (original teaching figure).](../assets/figures/cycle6_swarm_ch06_ni_itt_arr.png)
+
+*Teaching figure (synthetic).* Pre-specify δ in percentage points and judge the entire CI of the risk difference—not a relative margin alone. Crossover shrinks the pragmatic ITT ARR (and inflates NNT) while PP can reintroduce selection; report both estimands and never shop for the prettier absolute effect.
+
 Adaptive platform trials utilize response-adaptive randomization and continuous arm-dropping to maximize efficiency and minimize patient exposure to futile treatments. While statistically brilliant, they introduce complex temporal confounding if the background standard of care shifts during the prolonged enrollment period. Validity depends entirely on ironclad pre-specified adaptation rules and transparent preservation of the family-wise error rate.
 
 ## Checklists and Frameworks: The CONSORT-Minded Sequence

@@ -108,6 +108,10 @@ In clinical neurology, measurement error is profound. Exposure misclassification
 
 Covariate misclassification occurs when structured, vital metrics like the NIHSS are either completely omitted, extracted from free-text clinical notes using faulty natural language processing, or imputed with unacceptably high variance. Appraisal questions regarding information bias must be highly aggressive: Were the outcome assessors rigorously blinded to the treatment assignment? (Unblinded assessment of the mRS via phone call is notoriously subjective and heavily biased toward the intervention). Were the definitions of symptomatic intracranial hemorrhage (sICH) pre-specified and strictly aligned with established, validated criteria (e.g., ECASS III or SITS-MOST)? Was a formal validation subsample utilizing gold-standard chart review performed to confirm the PPV of the administrative codes used in the primary analysis?
 
+![Differential outcome misclassification: optimistic adjudication in the treated arm and over-calling in controls invents ARR (~17 pp observed vs 8 pp true) and halves the NNT (original teaching figure).](../assets/figures/cycle6_swarm_ch04_info_bias_matrix.png)
+
+*Teaching figure (synthetic).* Information bias is not a footnote on p-values—it moves absolute effects. Name the Se/Sp asymmetry across arms before trusting any ARR/NNT; blinded adjudication and equal surveillance are the structural fix.
+
 ## Reporting Bias and Spin
 
 Reporting bias corrupts the broader evidence ecosystem, making it impossible to synthesize the true state of the science. It includes publication bias (the systemic suppression of null or negative trials by authors or journals), selective outcome reporting (publishing only the secondary endpoints that achieved statistical significance while obscuring or minimizing the null primary endpoint), and spin. Spin is the intentional or unintentional use of rhetorical strategies to overstate causal certainty, distract from severe methodological limitations, or falsely elevate the clinical importance of the findings.
