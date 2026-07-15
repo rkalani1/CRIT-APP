@@ -61,6 +61,11 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Same 30% RRR spans NNT from ~8 to ~167 as CER falls—decide on absolute metrics.
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle37_swarm_ch12_nnt_baseline.png)
+
+*Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
+
+
 Clinical literature heavily favors relative measures of effect—relative risk reductions (RRR), odds ratios (OR), and hazard ratios (HR). There are structural, statistical, and psychological reasons for this dominance. Statistically, relative effects are often assumed to be more stable across populations with differing baseline risks. Models like logistic regression natively generate odds ratios, and Cox proportional hazards regression natively generates hazard ratios. Furthermore, relative risk reductions usually appear numerically larger than absolute risk reductions, making them highly attractive for abstracts, press releases, and pharmaceutical marketing.
 
 However, clinical decision-making occurs strictly on the absolute scale. A relative risk reduction of 50% provides no actionable information in isolation. If the baseline risk of a recurrent stroke is 20% over 90 days, a 50% relative reduction eliminates 10 events per 100 patients treated. If the baseline risk is 1%, the exact same 50% relative reduction eliminates only 0.5 events per 100 patients treated. The burden of treatment, the financial cost, and the risk of adverse effects remain constant, but the absolute benefit shrinks by a factor of twenty.

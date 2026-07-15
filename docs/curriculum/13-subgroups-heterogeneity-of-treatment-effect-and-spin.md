@@ -59,6 +59,11 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle37_swarm_ch13_flatrr_hetarr.png)
+
+*Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
+
+
 ## The Epistemology of Subgroups in Neurological Trials
 
 ![Homogeneous RR with heterogeneous absolute ARR across risk strata (original teaching figure).](../assets/figures/cycle22_swarm_ch13_hte_abs.png)

@@ -59,6 +59,11 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Never zero-weight the absolute card.
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle37_swarm_ch02_timebox.png)
+
+*Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
+
+
 Neurologists, stroke specialists, and neurointensivists almost never enjoy uninterrupted afternoons to study a single paper. The realistic unit of reading time is typically twelve to twenty-five minutes: between emergency department consults, before a morning case conference, or immediately after a fellow forwards a manuscript with a note indicating it might change practice. Without a strict method, short reading sessions produce one of two unacceptable outcomes: false confidence, where the reader adopts the abstract's conclusions without appraising the methods, or false modesty, where the reader ignores the literature entirely due to a lack of time. Both represent clinical failures. The goal of this chapter is to instill disciplined speed: a highly structured sequence of extraction that maximizes decision-relevant information per minute while leaving a clear, documented residue of uncertainty.
 
 Speed is not the enemy of rigor; unstructured thoroughness is. Reading a paper from the first word of the introduction to the last word of the discussion is a poor allocation of cognitive resources. It spends scarce attention on rhetorical motivation and mechanistic background, which stroke clinicians already know, while neglecting the supplementary table that defines the exact analytic sample or the precise timing of the intervention. A disciplined method directs your attention to where truth actually resides in a paper—the methods, the flow diagram, and the primary outcome tables—and away from where marketing and narrative spin reside. The IMRaD structure, abstract triage, the figures-and-tables-first extraction, and the timed protocol are complementary instruments. Together, they enact the decision-focused stance of clinical epidemiology under real-world constraints.

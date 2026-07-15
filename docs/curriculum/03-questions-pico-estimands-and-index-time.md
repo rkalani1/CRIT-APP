@@ -56,6 +56,11 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Incomplete estimand kills transportable ARR.
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle37_swarm_ch03_index_arr.png)
+
+*Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
+
+
 Most literature chaos begins as linguistic chaos. In neurology morbidity and mortality conferences, a trainee or attending might ask, 'Is endovascular therapy effective for large core infarcts?' or 'Do patients do better with early clinic follow-up?' or 'Is tenecteplase superior to alteplase?' These are vital curiosities, but they are not answerable research or appraisal questions. They lack a defined population, a specific contrast, a temporal origin, a measured outcome, and a defined summary metric. Critical appraisal does not start with attacking statistics; it starts with repairing the question. If you cannot define what is being estimated, debating the p-value is pure theater. The initial duty of the clinical epidemiologist is to force the clinician to speak in specific, falsifiable causal contrasts.
 
 A cardinal rule that governs all critical appraisal is this: prediction is not causation. This distinction cannot be compromised. A prediction question asks, 'Given that a patient has characteristic X, what is the probability of outcome Y?' A causal question asks, 'If we intervene to change X to X*, how does the probability of outcome Y change?' The clinical query 'Is endovascular therapy beneficial in large core stroke?' is strictly causal. It implies an intervention. If an investigator attempts to answer this with a predictive model showing that large core patients treated with EVT have a 20% chance of functional independence, they have committed a category error. They predicted an outcome under a single condition without contrasting it against the counterfactual condition (medical management alone). Prediction observes the state of nature; causation requires a forced contrast between states.

@@ -60,6 +60,11 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Guidelines need local absolute transport.
 
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle37_swarm_ch10_rr_vs_arr.png)
+
+*Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
+
+
 A systematic review is a scientific investigation in its own right, treating the primary literature as its sampled population. The naive assumption that evidence synthesis is an automatic ascent to higher truth is a dangerous fallacy. Pooling does not wash away bias; it frequently concentrates it, laundering flawed primary studies through the perceived impartiality of complex statistics. A meta-analysis of systematically biased trials yields a highly precise summary of a distorted literature. When clinical practice guidelines uncritically cite that meta-analysis, they industrialize the distortion, embedding it into pathway defaults and electronic health record order sets. Stroke neurology is an intensely guideline-driven specialty—governing decisions such as intravenous thrombolysis windows, blood pressure targets following intracerebral hemorrhage, secondary prevention antithrombotics, and the timing of carotid revascularization. Consequently, the appraisal of evidence synthesis products is a fundamental clinical skill, not an abstract exercise for methodologists or medical librarians.
 
 The synthesis architecture begins with a rigorously defined question. A review asking 'What is the best treatment for acute ischemic stroke?' is unfocused and methodologically bankrupt. Rigorous reviews utilize the PICO framework: Population, Intervention, Comparator, and Outcomes (or PECO for Exposures). For prognostic models, the framework shifts to Population, Index prognostic factor, Outcomes, and Horizon. The exact boundaries of the PICO formulation dictate the scientific validity of the pooling. If a meta-analysis merges trials of early-generation intra-arterial urokinase with modern stent-retriever mechanical thrombectomy under the single umbrella of 'reperfusion therapy,' the resulting pooled effect size is a meaningless chimera. Scope decisions are foundational scientific decisions.
