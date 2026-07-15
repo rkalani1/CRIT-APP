@@ -60,6 +60,11 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Ledger before program adoption.
 
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle38_swarm_ch22_overdx_stack.png)
+
+*Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
+
+
 The proposition that early detection universally improves outcomes is one of medicine’s most deeply entrenched heuristics. In stroke and neurovascular medicine, this rationale drives asymptomatic carotid ultrasound surveillance, widespread magnetic resonance angiography to detect aneurysms in the worried well, and opportunistic screening for subclinical atrial fibrillation. The premise seems unassailable: locate the pathology early, intervene before structural damage occurs, and prevent catastrophe. Yet critical appraisal requires separating detection from benefit. Identifying a lesion earlier is a diagnostic yield; preventing a stroke or rupture is a clinical benefit. The former guarantees neither the latter nor an acceptable ratio of benefit to harm.
 
 Neurologists encounter these screening mechanics in three modes: formalized population screening of asymptomatic cohorts, case-finding in high-risk clinical venues, and opportunistic investigation of incidental findings on imaging obtained for unrelated indications. Across all three modes, absolute risk is the requisite currency. An unruptured 3-millimeter middle cerebral artery aneurysm identified on a screening MRA possesses a vastly different risk architecture than a ruptured aneurysm presenting with subarachnoid hemorrhage. Extrapolating the procedural mandate from the symptomatic arena to the screen-detected arena systematically overestimates benefit and discounts the morbidities of preventive interventions.

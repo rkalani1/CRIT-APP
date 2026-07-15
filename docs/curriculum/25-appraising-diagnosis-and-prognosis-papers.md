@@ -64,6 +64,11 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Never mix diagnostic PPV with prognostic risk@t—horizons and claims differ.
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle38_swarm_ch25_risk_strata.png)
+
+*Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
+
+
 Whether the paper is a prehospital LVO scale, an automated CTA detector, or a score forecasting intracerebral hemorrhage (ICH) expansion, force it through three gates before anything operational moves:
 
 1. **Trustworthiness** — Can this design answer the claimed question without fatal bias for the patients who will actually receive the test or score?

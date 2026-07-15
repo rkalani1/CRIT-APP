@@ -59,6 +59,11 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Hill criteria are absolute-evidence weights; analogy never mints pathway NNT.
 
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle38_swarm_ch18_counterfactual.png)
+
+*Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
+
+
 Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.
 
 Critical appraisal requires a formalized approach to evaluate whether an association reflects a true causal effect. This chapter introduces foundational causal frameworks—counterfactuals, causal pies, and structural biases (confounding, selection bias, information bias)—and reclaims Hill's viewpoints as rigorous appraisal questions rather than a superficial checklist. Mastery of these concepts allows the reader to dissect whether a reported difference in outcomes stems from the treatment itself, flawed study architecture, or the intrinsic baseline differences among patients.

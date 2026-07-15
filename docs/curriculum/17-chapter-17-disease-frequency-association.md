@@ -55,6 +55,11 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* P ≈ I × D is literacy for absolute frequency claims before association talk.
 
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle38_swarm_ch17_incidence.png)
+
+*Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
+
+
 **Incidence** answers: how often do *new* events occur in a defined population
 at risk over a defined time? Stroke services live on incidence thinking—codes
 per week, EVT candidates per month, ICH admissions per year—because operations

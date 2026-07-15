@@ -59,6 +59,11 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Decisions live on additive absolute scale.
 
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle38_swarm_ch21_reri.png)
+
+*Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
+
+
 In clinical epidemiology, interaction (effect modification) and confounding represent fundamentally different structural phenomena. Confounding is a form of bias that distorts the marginal estimate of an exposure-outcome relationship. It arises when a third variable is associated with both the exposure and the outcome, necessitating adjustment or weighting to isolate the causal effect. Effect modification, by contrast, describes a scenario where the magnitude or direction of an effect genuinely varies across strata of a third variable. It is a clinical reality to be documented and analyzed, not a bias to be eliminated.
 
 The stroke literature frequently exhibits linguistic and analytical confusion between these concepts, typically manifesting in phrases such as 'we adjusted for interaction.' Proper methodology requires adjusting for confounders to estimate a uniform effect, and stratifying by effect modifiers to report heterogeneous effects. For example, if the recanalization efficacy of a specific stent retriever varies by clot composition (e.g., erythrocyte-rich versus fibrin-rich), clot composition acts as an effect modifier. Averaging the treatment effect across all clot types obscures essential procedural heterogeneity.
