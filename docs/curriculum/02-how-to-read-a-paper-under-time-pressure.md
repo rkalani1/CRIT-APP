@@ -63,6 +63,11 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle39_swarm_ch02_stoprules.png)
+
+*Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
+
+
 
 Neurologists, stroke specialists, and neurointensivists almost never enjoy uninterrupted afternoons to study a single paper. The realistic unit of reading time is typically twelve to twenty-five minutes: between emergency department consults, before a morning case conference, or immediately after a fellow forwards a manuscript with a note indicating it might change practice. Without a strict method, short reading sessions produce one of two unacceptable outcomes: false confidence, where the reader adopts the abstract's conclusions without appraising the methods, or false modesty, where the reader ignores the literature entirely due to a lack of time. Both represent clinical failures. The goal of this chapter is to instill disciplined speed: a highly structured sequence of extraction that maximizes decision-relevant information per minute while leaving a clear, documented residue of uncertainty.
 

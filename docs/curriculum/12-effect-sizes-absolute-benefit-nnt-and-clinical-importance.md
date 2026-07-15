@@ -65,6 +65,11 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle39_swarm_ch12_mid.png)
+
+*Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
+
+
 
 Clinical literature heavily favors relative measures of effect—relative risk reductions (RRR), odds ratios (OR), and hazard ratios (HR). There are structural, statistical, and psychological reasons for this dominance. Statistically, relative effects are often assumed to be more stable across populations with differing baseline risks. Models like logistic regression natively generate odds ratios, and Cox proportional hazards regression natively generates hazard ratios. Furthermore, relative risk reductions usually appear numerically larger than absolute risk reductions, making them highly attractive for abstracts, press releases, and pharmaceutical marketing.
 

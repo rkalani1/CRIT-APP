@@ -63,6 +63,11 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle39_swarm_ch05_unmeasured.png)
+
+*Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
+
+
 
 In acute stroke neurology, the distinction between prediction and causation is a matter of life and death, yet it is routinely conflated in the medical literature. A predictive model answers the question: 'Given this patient\'s age, admission National Institutes of Health Stroke Scale (NIHSS) score, and initial imaging, what is their absolute probability of achieving functional independence at 90 days?' A causal model answers an entirely different question: 'If we intervene right now to administer intravenous thrombolysis, by what absolute margin will we alter that patient\'s probability of functional independence?' Confounding exclusively threatens the latter. If a researcher only seeks to predict outcomes, any variable that carries information is useful, regardless of its causal status. Confounding is not a statistical nuisance to be algorithmically removed; it is a structural problem defined by the presence of shared causes between the intervention and the outcome.
 
