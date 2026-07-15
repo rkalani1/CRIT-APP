@@ -76,6 +76,26 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle144_swarm_ch24_w144_10.png)
+
+*Teaching figure (synthetic).* Cycle-144 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle142_swarm_ch24_w142_10.png)
+
+*Teaching figure (synthetic).* Cycle-142 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle140_swarm_ch24_w140_10.png)
+
+*Teaching figure (synthetic).* Cycle-140 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle138_swarm_ch24_w138_10.png)
+
+*Teaching figure (synthetic).* Cycle-138 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle136_swarm_ch24_w136_10.png)
 
 *Teaching figure (synthetic).* Cycle-136 densify scientific residual (ch15–28).

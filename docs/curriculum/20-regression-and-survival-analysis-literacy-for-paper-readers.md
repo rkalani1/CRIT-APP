@@ -75,6 +75,26 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle144_swarm_ch20_w144_6.png)
+
+*Teaching figure (synthetic).* Cycle-144 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle142_swarm_ch20_w142_6.png)
+
+*Teaching figure (synthetic).* Cycle-142 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle140_swarm_ch20_w140_6.png)
+
+*Teaching figure (synthetic).* Cycle-140 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle138_swarm_ch20_w138_6.png)
+
+*Teaching figure (synthetic).* Cycle-138 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle136_swarm_ch20_w136_6.png)
 
 *Teaching figure (synthetic).* Cycle-136 densify scientific residual (ch15–28).
