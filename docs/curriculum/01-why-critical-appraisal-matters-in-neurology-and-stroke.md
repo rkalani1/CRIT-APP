@@ -58,6 +58,10 @@ This continuous evidence density exerts significant, often unrecognized professi
 
 ## The Cost of Misreading: Clinical, Operational, and Scientific Consequences
 
+![Misread cascade compounds absolute system cost from RRR hype to capacity loss (original teaching figure).](../assets/figures/cycle21_swarm_ch01_cascade_cost.png)
+
+*Teaching figure (synthetic).* Cascade units are teaching proxies for wasted pathway capacity—force absolute effects early.
+
 ![Absolute opportunity cost of appraisal failure: RRR-only adopt wastes pathway capacity versus ARR/NNT honesty (original teaching figure).](../assets/figures/cycle17_swarm_ch01_spin_cost.png)
 
 *Teaching figure (synthetic).* Spin is not cosmetic—measure regret in absolute pathway units before protocol rewrite.
