@@ -54,6 +54,11 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 *Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle79_swarm_ch01_w79_1.png)
+
+*Teaching figure (synthetic).* Cycle-79 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle77_swarm_ch01_w77_1.png)
 
 *Teaching figure (synthetic).* Cycle-77 densify scientific residual (ch01–14).
