@@ -38,6 +38,10 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Cycle-27 densify scientific residual.
 
+![Funnel of absolute ARR flags small-study bias (original scientific teaching figure).](../assets/figures/cycle29_swarm_ch10_funnel_arr.png)
+
+*Teaching figure (synthetic).* Cycle-29 densify scientific residual.
+
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
 ![Convert pooled RR through local CER to absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch10_local_nnt.png)

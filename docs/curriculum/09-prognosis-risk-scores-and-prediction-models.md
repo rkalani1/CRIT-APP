@@ -38,6 +38,10 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-27 densify scientific residual.
 
+![Reclassification must use event-aware absolute counts (original scientific teaching figure).](../assets/figures/cycle29_swarm_ch09_nri_abs.png)
+
+*Teaching figure (synthetic).* Cycle-29 densify scientific residual.
+
 ## The Demarcation of Prediction from Causal Inference
 
 ![External calibration residual shows absolute risk mispricing (original teaching figure).](../assets/figures/cycle22_swarm_ch09_ext_calib.png)

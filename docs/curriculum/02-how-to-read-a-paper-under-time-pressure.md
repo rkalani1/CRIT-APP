@@ -37,6 +37,10 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-27 densify scientific residual.
 
+![Tables-first absolute path beats abstract-first accuracy under time pressure (original scientific teaching figure).](../assets/figures/cycle29_swarm_ch02_read_order.png)
+
+*Teaching figure (synthetic).* Cycle-29 densify scientific residual.
+
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 ![Triage weights protect absolute ARR under time pressure (original teaching figure).](../assets/figures/cycle22_swarm_ch02_triage_weights.png)

@@ -43,6 +43,10 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-27 densify scientific residual.
 
+![Average ARR hides continuous absolute benefit curve (original scientific teaching figure).](../assets/figures/cycle29_swarm_ch13_continuous_hte.png)
+
+*Teaching figure (synthetic).* Cycle-29 densify scientific residual.
+
 ## The Epistemology of Subgroups in Neurological Trials
 
 ![Homogeneous RR with heterogeneous absolute ARR across risk strata (original teaching figure).](../assets/figures/cycle22_swarm_ch13_hte_abs.png)
