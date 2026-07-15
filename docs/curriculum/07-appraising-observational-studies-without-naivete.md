@@ -46,6 +46,10 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Cycle-29 densify scientific residual.
 
+![Design ladder shrinks absolute residual confounding (original scientific teaching figure).](../assets/figures/cycle31_swarm_ch07_design_ladder.png)
+
+*Teaching figure (synthetic).* Cycle-31 densify scientific residual.
+
 ## Introduction: The Promise and Peril of Observational Evidence
 
 ![ACNU shrinks residual confounding absolute bias vs user/non-user (original teaching figure).](../assets/figures/cycle22_swarm_ch07_acnu_residual.png)

@@ -41,6 +41,10 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-29 densify scientific residual.
 
+![Missing absolute ARR card breaks the five-card chain (original scientific teaching figure).](../assets/figures/cycle31_swarm_ch02_five_card.png)
+
+*Teaching figure (synthetic).* Cycle-31 densify scientific residual.
+
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 ![Triage weights protect absolute ARR under time pressure (original teaching figure).](../assets/figures/cycle22_swarm_ch02_triage_weights.png)

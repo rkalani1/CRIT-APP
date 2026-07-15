@@ -41,6 +41,10 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-29 densify scientific residual.
 
+![Weak target-trial analysis linkage leaks absolute bias (original scientific teaching figure).](../assets/figures/cycle31_swarm_ch05_tte_components.png)
+
+*Teaching figure (synthetic).* Cycle-31 densify scientific residual.
+
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 ![Close backdoor paths before absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch05_dag_close.png)

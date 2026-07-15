@@ -41,6 +41,10 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 
 *Teaching figure (synthetic).* Cycle-29 densify scientific residual.
 
+![Absolute local use needs transport not bias control alone (original scientific teaching figure).](../assets/figures/cycle31_swarm_ch04_transport.png)
+
+*Teaching figure (synthetic).* Cycle-31 densify scientific residual.
+
 ## Introduction: The Two-Part Promise of Validity
 
 When clinicians and methodologists declare a study 'valid,' they frequently conflate two distinct, non-overlapping promises. The first promise is internal validity: within the strict confines of the study's own analytical sample and methodological design, does the computed estimate successfully recover the causal estimand it claims to target, free from systematic distortion? The second promise is external validity (often parsed into generalizability and transportability): does the internally valid estimate hold any relevance for a different population, a different clinical setting, or a distinct system of care?
