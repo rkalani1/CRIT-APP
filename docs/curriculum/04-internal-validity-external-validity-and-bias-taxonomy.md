@@ -65,6 +65,46 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1223_swarm_ch04_w1223_4.png)
+
+*Teaching figure (synthetic).* Cycle-1223 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1221_swarm_ch04_w1221_4.png)
+
+*Teaching figure (synthetic).* Cycle-1221 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1219_swarm_ch04_w1219_4.png)
+
+*Teaching figure (synthetic).* Cycle-1219 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1217_swarm_ch04_w1217_4.png)
+
+*Teaching figure (synthetic).* Cycle-1217 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1215_swarm_ch04_w1215_4.png)
+
+*Teaching figure (synthetic).* Cycle-1215 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1213_swarm_ch04_w1213_4.png)
+
+*Teaching figure (synthetic).* Cycle-1213 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1211_swarm_ch04_w1211_4.png)
+
+*Teaching figure (synthetic).* Cycle-1211 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1209_swarm_ch04_w1209_4.png)
+
+*Teaching figure (synthetic).* Cycle-1209 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1207_swarm_ch04_w1207_4.png)
 
 *Teaching figure (synthetic).* Cycle-1207 densify scientific residual (ch01–14).

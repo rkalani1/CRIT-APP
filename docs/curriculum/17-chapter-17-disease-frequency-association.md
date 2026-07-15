@@ -71,6 +71,46 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1224_swarm_ch17_w1224_3.png)
+
+*Teaching figure (synthetic).* Cycle-1224 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1222_swarm_ch17_w1222_3.png)
+
+*Teaching figure (synthetic).* Cycle-1222 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1220_swarm_ch17_w1220_3.png)
+
+*Teaching figure (synthetic).* Cycle-1220 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1218_swarm_ch17_w1218_3.png)
+
+*Teaching figure (synthetic).* Cycle-1218 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1216_swarm_ch17_w1216_3.png)
+
+*Teaching figure (synthetic).* Cycle-1216 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1214_swarm_ch17_w1214_3.png)
+
+*Teaching figure (synthetic).* Cycle-1214 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1212_swarm_ch17_w1212_3.png)
+
+*Teaching figure (synthetic).* Cycle-1212 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1210_swarm_ch17_w1210_3.png)
+
+*Teaching figure (synthetic).* Cycle-1210 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle1208_swarm_ch17_w1208_3.png)
 
 *Teaching figure (synthetic).* Cycle-1208 densify scientific residual (ch15–28).
