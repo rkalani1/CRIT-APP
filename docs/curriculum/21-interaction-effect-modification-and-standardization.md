@@ -1,6 +1,10 @@
 # Chapter 21. Interaction, Effect Modification, and Standardization
 
 ## Opening
+![Additive vs multiplicative interaction (original).](../assets/figures/swarm3h_interaction_scales.png)
+
+*Additive vs multiplicative interaction (original).*
+
 
 ![Standardization (original).](../assets/figures/fig19_standardization.png)
 

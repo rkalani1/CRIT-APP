@@ -1,6 +1,10 @@
 # Chapter 25. Appraising Diagnosis and Prognosis Papers
 
 ## Opening
+![Spectrum mismatch derivation vs target (original).](../assets/figures/swarm3h_spectrum_mismatch.png)
+
+*Spectrum mismatch derivation vs target (original).*
+
 
 ![ROC operating point (original).](../assets/figures/fig73_roc_operating.png)
 
