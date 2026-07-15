@@ -64,6 +64,26 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle351_swarm_ch03_w351_3.png)
+
+*Teaching figure (synthetic).* Cycle-351 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle349_swarm_ch03_w349_3.png)
+
+*Teaching figure (synthetic).* Cycle-349 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle347_swarm_ch03_w347_3.png)
+
+*Teaching figure (synthetic).* Cycle-347 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle345_swarm_ch03_w345_3.png)
+
+*Teaching figure (synthetic).* Cycle-345 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle343_swarm_ch03_w343_3.png)
 
 *Teaching figure (synthetic).* Cycle-343 densify scientific residual (ch01–14).

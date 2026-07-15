@@ -64,6 +64,26 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Design residual is absolute residual.
 
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle351_swarm_ch07_w351_7.png)
+
+*Teaching figure (synthetic).* Cycle-351 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle349_swarm_ch07_w349_7.png)
+
+*Teaching figure (synthetic).* Cycle-349 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle347_swarm_ch07_w347_7.png)
+
+*Teaching figure (synthetic).* Cycle-347 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle345_swarm_ch07_w345_7.png)
+
+*Teaching figure (synthetic).* Cycle-345 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle343_swarm_ch07_w343_7.png)
 
 *Teaching figure (synthetic).* Cycle-343 densify scientific residual (ch01–14).

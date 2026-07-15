@@ -73,6 +73,26 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle352_swarm_ch27_w352_13.png)
+
+*Teaching figure (synthetic).* Cycle-352 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle350_swarm_ch27_w350_13.png)
+
+*Teaching figure (synthetic).* Cycle-350 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle348_swarm_ch27_w348_13.png)
+
+*Teaching figure (synthetic).* Cycle-348 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle346_swarm_ch27_w346_13.png)
+
+*Teaching figure (synthetic).* Cycle-346 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle344_swarm_ch27_w344_13.png)
 
 *Teaching figure (synthetic).* Cycle-344 densify scientific residual (ch15–28).
