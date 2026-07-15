@@ -67,6 +67,11 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle42_swarm_ch18_mediation.png)
+
+*Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
+
+
 
 
 Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.

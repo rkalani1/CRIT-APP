@@ -72,6 +72,11 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle42_swarm_ch25_horizon.png)
+
+*Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
+
+
 
 
 Whether the paper is a prehospital LVO scale, an automated CTA detector, or a score forecasting intracerebral hemorrhage (ICH) expansion, force it through three gates before anything operational moves:
