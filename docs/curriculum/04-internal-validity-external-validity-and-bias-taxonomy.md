@@ -65,6 +65,16 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle55_swarm_ch04_ext_valid.png)
+
+*Teaching figure (synthetic).* Cycle-55 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle53_swarm_ch04_bias_stack.png)
+
+*Teaching figure (synthetic).* Cycle-53 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle51_swarm_ch04_transport_gap.png)
 
 *Teaching figure (synthetic).* Cycle-51 densify scientific residual (ch01–14).

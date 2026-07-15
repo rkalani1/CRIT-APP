@@ -57,6 +57,16 @@ Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle55_swarm_ch06_blind_bias.png)
+
+*Teaching figure (synthetic).* Cycle-55 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle53_swarm_ch06_itt_pp_gap.png)
+
+*Teaching figure (synthetic).* Cycle-53 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle51_swarm_ch06_conceal_bias.png)
 
 *Teaching figure (synthetic).* Cycle-51 densify scientific residual (ch01–14).
