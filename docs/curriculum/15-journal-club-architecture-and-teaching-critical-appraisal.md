@@ -64,6 +64,26 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle192_swarm_ch15_w192_1.png)
+
+*Teaching figure (synthetic).* Cycle-192 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle190_swarm_ch15_w190_1.png)
+
+*Teaching figure (synthetic).* Cycle-190 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle188_swarm_ch15_w188_1.png)
+
+*Teaching figure (synthetic).* Cycle-188 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle186_swarm_ch15_w186_1.png)
+
+*Teaching figure (synthetic).* Cycle-186 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle184_swarm_ch15_w184_1.png)
 
 *Teaching figure (synthetic).* Cycle-184 densify scientific residual (ch15–28).
