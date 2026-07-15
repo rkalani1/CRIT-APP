@@ -64,6 +64,86 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle920_swarm_ch15_w920_1.png)
+
+*Teaching figure (synthetic).* Cycle-920 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle918_swarm_ch15_w918_1.png)
+
+*Teaching figure (synthetic).* Cycle-918 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle916_swarm_ch15_w916_1.png)
+
+*Teaching figure (synthetic).* Cycle-916 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle914_swarm_ch15_w914_1.png)
+
+*Teaching figure (synthetic).* Cycle-914 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle912_swarm_ch15_w912_1.png)
+
+*Teaching figure (synthetic).* Cycle-912 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle910_swarm_ch15_w910_1.png)
+
+*Teaching figure (synthetic).* Cycle-910 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle908_swarm_ch15_w908_1.png)
+
+*Teaching figure (synthetic).* Cycle-908 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle906_swarm_ch15_w906_1.png)
+
+*Teaching figure (synthetic).* Cycle-906 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle904_swarm_ch15_w904_1.png)
+
+*Teaching figure (synthetic).* Cycle-904 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle902_swarm_ch15_w902_1.png)
+
+*Teaching figure (synthetic).* Cycle-902 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle900_swarm_ch15_w900_1.png)
+
+*Teaching figure (synthetic).* Cycle-900 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle898_swarm_ch15_w898_1.png)
+
+*Teaching figure (synthetic).* Cycle-898 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle896_swarm_ch15_w896_1.png)
+
+*Teaching figure (synthetic).* Cycle-896 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle894_swarm_ch15_w894_1.png)
+
+*Teaching figure (synthetic).* Cycle-894 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle892_swarm_ch15_w892_1.png)
+
+*Teaching figure (synthetic).* Cycle-892 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle890_swarm_ch15_w890_1.png)
+
+*Teaching figure (synthetic).* Cycle-890 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle888_swarm_ch15_w888_1.png)
 
 *Teaching figure (synthetic).* Cycle-888 densify scientific residual (ch15–28).

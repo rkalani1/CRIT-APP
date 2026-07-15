@@ -54,6 +54,86 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 *Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle919_swarm_ch01_w919_1.png)
+
+*Teaching figure (synthetic).* Cycle-919 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle917_swarm_ch01_w917_1.png)
+
+*Teaching figure (synthetic).* Cycle-917 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle915_swarm_ch01_w915_1.png)
+
+*Teaching figure (synthetic).* Cycle-915 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle913_swarm_ch01_w913_1.png)
+
+*Teaching figure (synthetic).* Cycle-913 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle911_swarm_ch01_w911_1.png)
+
+*Teaching figure (synthetic).* Cycle-911 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle909_swarm_ch01_w909_1.png)
+
+*Teaching figure (synthetic).* Cycle-909 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle907_swarm_ch01_w907_1.png)
+
+*Teaching figure (synthetic).* Cycle-907 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle905_swarm_ch01_w905_1.png)
+
+*Teaching figure (synthetic).* Cycle-905 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle903_swarm_ch01_w903_1.png)
+
+*Teaching figure (synthetic).* Cycle-903 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle901_swarm_ch01_w901_1.png)
+
+*Teaching figure (synthetic).* Cycle-901 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle899_swarm_ch01_w899_1.png)
+
+*Teaching figure (synthetic).* Cycle-899 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle897_swarm_ch01_w897_1.png)
+
+*Teaching figure (synthetic).* Cycle-897 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle895_swarm_ch01_w895_1.png)
+
+*Teaching figure (synthetic).* Cycle-895 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle893_swarm_ch01_w893_1.png)
+
+*Teaching figure (synthetic).* Cycle-893 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle891_swarm_ch01_w891_1.png)
+
+*Teaching figure (synthetic).* Cycle-891 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle889_swarm_ch01_w889_1.png)
+
+*Teaching figure (synthetic).* Cycle-889 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle887_swarm_ch01_w887_1.png)
 
 *Teaching figure (synthetic).* Cycle-887 densify scientific residual (ch01–14).
