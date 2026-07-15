@@ -76,6 +76,86 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle504_swarm_ch24_w504_10.png)
+
+*Teaching figure (synthetic).* Cycle-504 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle502_swarm_ch24_w502_10.png)
+
+*Teaching figure (synthetic).* Cycle-502 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle500_swarm_ch24_w500_10.png)
+
+*Teaching figure (synthetic).* Cycle-500 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle498_swarm_ch24_w498_10.png)
+
+*Teaching figure (synthetic).* Cycle-498 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle496_swarm_ch24_w496_10.png)
+
+*Teaching figure (synthetic).* Cycle-496 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle494_swarm_ch24_w494_10.png)
+
+*Teaching figure (synthetic).* Cycle-494 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle492_swarm_ch24_w492_10.png)
+
+*Teaching figure (synthetic).* Cycle-492 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle490_swarm_ch24_w490_10.png)
+
+*Teaching figure (synthetic).* Cycle-490 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle488_swarm_ch24_w488_10.png)
+
+*Teaching figure (synthetic).* Cycle-488 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle486_swarm_ch24_w486_10.png)
+
+*Teaching figure (synthetic).* Cycle-486 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle484_swarm_ch24_w484_10.png)
+
+*Teaching figure (synthetic).* Cycle-484 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle482_swarm_ch24_w482_10.png)
+
+*Teaching figure (synthetic).* Cycle-482 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle480_swarm_ch24_w480_10.png)
+
+*Teaching figure (synthetic).* Cycle-480 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle478_swarm_ch24_w478_10.png)
+
+*Teaching figure (synthetic).* Cycle-478 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle476_swarm_ch24_w476_10.png)
+
+*Teaching figure (synthetic).* Cycle-476 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle474_swarm_ch24_w474_10.png)
+
+*Teaching figure (synthetic).* Cycle-474 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle472_swarm_ch24_w472_10.png)
 
 *Teaching figure (synthetic).* Cycle-472 densify scientific residual (ch15–28).

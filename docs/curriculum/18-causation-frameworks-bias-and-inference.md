@@ -75,6 +75,86 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle504_swarm_ch18_w504_4.png)
+
+*Teaching figure (synthetic).* Cycle-504 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle502_swarm_ch18_w502_4.png)
+
+*Teaching figure (synthetic).* Cycle-502 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle500_swarm_ch18_w500_4.png)
+
+*Teaching figure (synthetic).* Cycle-500 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle498_swarm_ch18_w498_4.png)
+
+*Teaching figure (synthetic).* Cycle-498 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle496_swarm_ch18_w496_4.png)
+
+*Teaching figure (synthetic).* Cycle-496 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle494_swarm_ch18_w494_4.png)
+
+*Teaching figure (synthetic).* Cycle-494 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle492_swarm_ch18_w492_4.png)
+
+*Teaching figure (synthetic).* Cycle-492 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle490_swarm_ch18_w490_4.png)
+
+*Teaching figure (synthetic).* Cycle-490 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle488_swarm_ch18_w488_4.png)
+
+*Teaching figure (synthetic).* Cycle-488 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle486_swarm_ch18_w486_4.png)
+
+*Teaching figure (synthetic).* Cycle-486 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle484_swarm_ch18_w484_4.png)
+
+*Teaching figure (synthetic).* Cycle-484 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle482_swarm_ch18_w482_4.png)
+
+*Teaching figure (synthetic).* Cycle-482 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle480_swarm_ch18_w480_4.png)
+
+*Teaching figure (synthetic).* Cycle-480 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle478_swarm_ch18_w478_4.png)
+
+*Teaching figure (synthetic).* Cycle-478 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle476_swarm_ch18_w476_4.png)
+
+*Teaching figure (synthetic).* Cycle-476 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle474_swarm_ch18_w474_4.png)
+
+*Teaching figure (synthetic).* Cycle-474 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle472_swarm_ch18_w472_4.png)
 
 *Teaching figure (synthetic).* Cycle-472 densify scientific residual (ch15–28).
