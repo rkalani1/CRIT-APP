@@ -30,6 +30,10 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Therapy residual: net absolute benefit isosurfaces of ARR versus ARI (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch24_net_isobars.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Three gates for therapy and harm papers
 
 ![Net absolute benefit after safety ARI residual (original teaching figure).](../assets/figures/cycle24_swarm_ch24_net_benefit.png)

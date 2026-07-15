@@ -32,6 +32,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Autopsy residual: fatal absolute flaws dominate reject decisions (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch16_flaw_stack.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## The Architecture of the Paper Autopsy
 
 ![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)

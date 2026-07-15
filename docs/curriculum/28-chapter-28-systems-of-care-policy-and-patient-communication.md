@@ -29,6 +29,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Systems residual: process minutes translate into absolute outcome percentages (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch28_d2n_absolute.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

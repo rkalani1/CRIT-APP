@@ -29,6 +29,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Regression residual: Table-2 adjustment can erase pathway absolute effects (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch20_table2_decomp.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Mapping Clinical Outcomes to Regression Models
 
 ![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)

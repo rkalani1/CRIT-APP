@@ -34,6 +34,10 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Screening residual: overdiagnosis can dwarf absolute mortality ARR (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch22_overdx_vs_arr.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## The Seduction and Peril of Early Detection
 
 ![Screening absolute benefit vs overdiagnosis burden residual (original teaching figure).](../assets/figures/cycle24_swarm_ch22_screen_ledger.png)

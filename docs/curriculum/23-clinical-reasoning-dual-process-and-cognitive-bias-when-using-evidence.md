@@ -34,6 +34,10 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Reasoning residual: dual-process absolute error widens when base rates shift (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch23_dual_process_error.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Why Reasoning Quality Is an Evidence Skill
 
 ![Cognitive biases cost absolute probability accuracy (original teaching figure).](../assets/figures/cycle24_swarm_ch23_bias_cost.png)

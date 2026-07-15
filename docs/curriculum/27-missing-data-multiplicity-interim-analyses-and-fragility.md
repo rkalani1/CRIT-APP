@@ -31,6 +31,10 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Missing-data residual: MNAR can dominate absolute effect estimates (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch27_missingness_bias.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 ![Thin absolute margins despite p-significance residual (original teaching figure).](../assets/figures/cycle24_swarm_ch27_thin_margin.png)

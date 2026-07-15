@@ -29,6 +29,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Causation residual: average causal ARR needs design, not observed association alone (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch18_counterfactual.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Introduction: The Causal Gap in Neurological Literature
 
 ![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)

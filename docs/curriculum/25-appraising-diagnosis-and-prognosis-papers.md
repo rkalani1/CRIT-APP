@@ -34,6 +34,10 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Dx/Px residual: external sites degrade absolute calibration slope (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch25_calib_transport.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Three gates before you change a pathway
 
 ![Absolute post-test and calibration before action residual (original teaching figure).](../assets/figures/cycle24_swarm_ch25_action_gate.png)

@@ -33,6 +33,10 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-26 densify scientific residual.
 
+![Standardization residual: standardized absolute rates compare populations fairly (original scientific teaching figure).](../assets/figures/cycle28_swarm_ch21_standardization.png)
+
+*Teaching figure (synthetic).* Cycle-28 densify scientific residual.
+
 ## Interaction Versus Confounding: Structural Distinctions
 
 ![Additive RERI residual over multiplicative p alone (original teaching figure).](../assets/figures/cycle23_swarm_ch21_reri.png)
