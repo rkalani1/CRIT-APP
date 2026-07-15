@@ -127,6 +127,11 @@ Furthermore, one must relentlessly police the language of abstracts. Abstracts f
 
 ## Collider Stratification Bias (Conceptual Core)
 
+![Collider conditioning (e.g., ICU admission) opens a biasing path and can invert absolute ARR (original teaching figure).](../assets/figures/cycle13_swarm_ch04_collider.png)
+
+*Teaching figure (synthetic).* Never condition on common effects of treatment and severity when estimating absolute treatment benefit.
+
+
 Collider stratification bias is the most conceptually difficult, yet profoundly important, error in clinical research. A collider is a variable that is causally influenced by two or more other variables. In a directed acyclic graph (DAG), it represents a node where two causal arrowheads collide ($A 
 ightarrow C \leftarrow Y$). The central, unbreakable rule of causal inference is: conditioning on a collider—whether by stratification, restriction, or multivariable regression adjustment—opens a non-causal path between the variables that cause it, inducing a spurious, artificial association. You must never adjust for a collider.
 

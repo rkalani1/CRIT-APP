@@ -83,6 +83,11 @@ Metric hygiene for stroke leadership:
 
 ## Shared Decision-Making and Absolute Risks
 
+![Shared decision-making with natural frequencies (ARR and ARI per 100) outperforms relative-only consent language (original teaching figure).](../assets/figures/cycle13_swarm_ch28_sdm_freq.png)
+
+*Teaching figure (synthetic).* “Out of 100 patients like you…” is the operational absolute unit for consent—not RRR alone.
+
+
 In the modern era of neurovascular therapeutics, ethical patient care requires rigorous shared decision-making grounded in transparent statistical communication. A frequent failure in bedside translation is the reliance on relative risk reductions, which invariably exaggerate the perceived efficacy of an intervention.
 
 Informing a patient that patent foramen ovale closure “reduces the risk of recurrent stroke by 50%” is mathematically accurate but clinically deceptive if their absolute baseline risk is merely 2% over five years. An absolute risk reduction of 1% yields a number needed to treat of 100, a reality that profoundly alters a patient's risk calculus when weighed against procedural complications and lifelong antiplatelet requirements.

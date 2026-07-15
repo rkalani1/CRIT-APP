@@ -33,6 +33,11 @@ Critical appraisal requires a formalized approach to evaluate whether an associa
 
 ## Counterfactuals and Potential Outcomes
 
+![Counterfactual pair Y(1) vs Y(0) defines ATE ≈ ARR for binary events—only after identification closes backdoors (original teaching figure).](../assets/figures/cycle13_swarm_ch18_counterfactual.png)
+
+*Teaching figure (synthetic).* Association RD is not causal ARR. Refuse absolute treat claims when the counterfactual contrast is unidentified.
+
+
 The counterfactual framework, or potential outcomes model, provides the theoretical scaffolding for modern causal inference. Imagine a patient with an acute M1 occlusion. Under this framework, the patient has two theoretical, mutually exclusive potential outcomes: Y(1), their 90-day modified Rankin Scale (mRS) if they undergo endovascular thrombectomy, and Y(0), their mRS if they receive medical management alone. The individual causal effect is the contrast between Y(1) and Y(0).
 
 The fundamental problem of causal inference is that we can only ever observe one of these potential outcomes. If the patient undergoes thrombectomy, Y(1) is factual and observed, while Y(0) becomes counterfactual and unobserved. Because we cannot measure individual causal effects, we rely on population-level estimates, comparing the average outcome of a treated group against the average outcome of an untreated group.

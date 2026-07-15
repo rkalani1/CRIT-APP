@@ -66,6 +66,11 @@ Finally, dichotomy shopping is a fatal threat to type I error control. If invest
 
 ## Shift Analysis and the Proportional Odds Assumption
 
+![Ordinal mRS shift moves mass toward better scores; dichotomized ARR can hide absolute changes in severe disability tails (original teaching figure).](../assets/figures/cycle13_swarm_ch11_ordinal_shift.png)
+
+*Teaching figure (synthetic).* Report ordinal absolute distributions, not only mRS 0–2 ARR. A binary win that worsens mRS 5–6 tails is not a clean pathway victory.
+
+
 To avoid the catastrophic information loss of dichotomization, modern acute stroke trials (e.g., IST-3, MR CLEAN, EXTEND-IA TNK) utilize ordinal shift analyses. A shift analysis asks a holistic question: does the intervention improve the entire distribution of functional scores across all levels of the mRS? The standard statistical engine for this is Proportional Odds Logistic Regression (POLR). Rather than fitting a single logistic curve, POLR fits a series of parallel curves for every possible cumulative cutpoint of the mRS.
 
 The fundamental mathematical requirement of POLR is the proportional odds assumption. This assumption dictates that the treatment effect—the odds ratio—must be identical across all possible dichotomous splits of the scale. In formal terms, the odds ratio for achieving an mRS <= 0 versus > 0 must be exactly the same as the odds ratio for achieving mRS <= 1 versus > 1, mRS <= 2 versus > 2, and so on. When this assumption holds, the model yields a single, highly efficient 'common odds ratio'. For example, a common odds ratio of 1.5 implies that, regardless of where you draw the line of 'success' on the mRS, the odds of ending up on the better side of that line are increased by 50 percent.

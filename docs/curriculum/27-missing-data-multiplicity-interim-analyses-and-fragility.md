@@ -59,6 +59,11 @@ This behavior capitalizes on analytic flexibility. The 'garden of forking paths'
 
 ## Interim Analyses and Early Stopping
 
+![Interim ARR path can freeze an inflated absolute effect at early looks versus completed-trial ARR (original teaching figure).](../assets/figures/cycle13_swarm_ch27_early_stop.png)
+
+*Teaching figure (synthetic).* Early stopping for benefit tends to overestimate absolute effects—pair stopped ARR with bias awareness and MCID.
+
+
 Adaptive trial designs frequently employ interim analyses, governed by Data and Safety Monitoring Boards (DSMBs), to stop trials early for overwhelming efficacy, futility, or harm. While ethically justified, early stopping for benefit introduces systematic bias. A trial halted early for efficacy has often caught a random high in the sampling distribution, resulting in a grossly exaggerated point estimate of the treatment effect. Subsequent meta-analyses invariably show 'regression to the truth,' with attenuated effect sizes.
 
 Appraisers must distinguish between strict alpha-spending boundaries (e.g., O'Brien-Fleming, which requires massive evidence early on) and liberal boundaries. Furthermore, stopping for futility does not prove equivalence; it merely confirms that the trial is unlikely to demonstrate the pre-specified absolute difference. Undisclosed interim 'peeks' at the data without statistical penalty are fatal to the integrity of the reported p-value.

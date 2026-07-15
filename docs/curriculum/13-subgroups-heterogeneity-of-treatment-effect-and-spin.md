@@ -123,6 +123,11 @@ Any variable used for subgroup stratification must be an immutable baseline char
 
 ## Spin in the Literature: Detection and Diagnosis
 
+![Industry-adjacent spin patterns (relative headlines, subgroup rescue, composite inflation) collapse after absolute + HTE audit (original teaching figure).](../assets/figures/cycle13_swarm_ch13_spin_audit.png)
+
+*Teaching figure (synthetic).* Force absolute primary effects and pre-specified interaction tests before any “practice-changing” language.
+
+
 Spin is defined as the intentional or subconscious distortion of research findings to render them more favorable, robust, or clinically practice-changing than the raw data can scientifically justify. In the realm of subgroups and interaction testing, spin functions as the primary vector for medical misinformation.
 
 The most ubiquitous manifestation of subgroup spin occurs when a trial entirely fails to meet its primary endpoint, yet the abstract aggressively highlights a 'statistically significant' benefit discovered within a highly specific, underpowered subgroup. The abstract will inevitably read: 'Overall, Experimental Drug X did not significantly improve 90-day mRS. However, in patients treated within exactly 3.5 hours, Drug X demonstrated a robust improvement in functional independence (p=0.03).' This constitutes a severe failure of reporting ethics. The abstract artificially elevates an exploratory, highly probable false-positive finding generated from statistical noise to the status of a primary, actionable conclusion. Adjectives like 'robust' or 'compelling' are PR-slop deployed to camouflage extreme statistical fragility.
