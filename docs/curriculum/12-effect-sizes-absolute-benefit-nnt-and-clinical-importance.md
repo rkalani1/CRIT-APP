@@ -81,6 +81,10 @@ Now consider the harm. The perioperative risk of stroke or death (ARI) for CEA i
 
 ## Number Needed to Treat (NNT) and Number Needed to Harm (NNH)
 
+![Paired absolute ARR benefit vs ARI harm residual ledger (original teaching figure).](../assets/figures/cycle21_swarm_ch12_arr_ari_pair.png)
+
+*Teaching figure (synthetic).* Net absolute = ARR − ARI on one horizon before NNT talk.
+
 ![NNT explodes toward infinity as ARR approaches the null—honest when ARR CI includes 0 (original teaching figure).](../assets/figures/cycle14_swarm_ch12_nnt_explode.png)
 
 *Teaching figure (synthetic).* Never pathway-rewrite on a point NNT when the absolute CI kisses zero.

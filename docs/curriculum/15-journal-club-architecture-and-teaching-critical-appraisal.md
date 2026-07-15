@@ -54,6 +54,10 @@ Recommendation: The vast majority of standing weekly or biweekly journal clubs s
 
 ## Quantitative Reasoning and Terminology at the Board
 
+![Journal club spin detector absolute stops board (original teaching figure).](../assets/figures/cycle21_swarm_ch15_spin_detector.png)
+
+*Teaching figure (synthetic).* Any stop fires → no action sentence until resolved.
+
 The journal club must enforce absolute mathematical clarity. Do not allow relative terms to stand alone. If a trainee reports 'a 50% reduction in stroke,' the facilitator must immediately ask for the absolute baseline risk. A 50% reduction from 2% to 1% is vastly different from 50% to 25%. Establish a shared vocabulary for the whiteboard.
 
 - ARR (Absolute Risk Reduction): The arithmetic difference in event rates between the control and intervention groups. Also termed Risk Difference (RD).

@@ -40,6 +40,10 @@ A practical mantra to anchor your thinking throughout this chapter: sensitivity 
 
 ## The Diagnostic 2×2 Table and Quantitative Reasoning
 
+![Threshold absolute Se/Sp tradeoff: choose utility operating point (original teaching figure).](../assets/figures/cycle21_swarm_ch08_threshold_tradeoff.png)
+
+*Teaching figure (synthetic).* Youden is not destiny—pick the absolute threshold that matches harm weights.
+
 The architecture of diagnostic accuracy rests on the 2×2 contingency table, which cross-tabulates the results of the index test against the reference standard. Every binary test evaluated against a binary reference standard yields four mutually exclusive counts: true positives (TP), false positives (FP), true negatives (TN), and false negatives (FN). Let D+ represent the true presence of the target condition according to the reference standard, and D− represent its absence. Let T+ represent a positive index test result, and T− represent a negative result. The marginal totals of the table represent the total number of diseased patients (TP + FN) and the total number of non-diseased patients (TN + FP). All fundamental diagnostic metrics are derived from these four cells.
 
 Sensitivity, also known as the true positive rate, is the probability of a positive test given the presence of the disease: Pr(T+ | D+). It is calculated as TP / (TP + FN). Sensitivity asks: among all people who truly have the target condition, what fraction tested positive? Specificity, or the true negative rate, is the probability of a negative test given the absence of the disease: Pr(T− | D−). It is calculated as TN / (TN + FP). Specificity asks: among all people who truly do not have the condition, what fraction tested negative. The complement of sensitivity is the false negative rate, calculated as 1 − sensitivity, or FN / (TP + FN). The complement of specificity is the false positive rate, calculated as 1 − specificity, or FP / (TN + FP).

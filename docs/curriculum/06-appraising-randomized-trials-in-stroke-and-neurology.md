@@ -55,6 +55,10 @@ Inspect the baseline characteristics table specifically looking for imbalances t
 
 ## Blinding: A Stakeholder-Specific Matrix
 
+![Unblinded co-intervention differential invents absolute ARR (original teaching figure).](../assets/figures/cycle21_swarm_ch06_coint_abs.png)
+
+*Teaching figure (synthetic).* Equalize co-interventions or attribute contamination before ITT NNT.
+
 Blinding (or masking) is rarely a binary grade of 'double-blind' or 'open-label.' It is a highly specific matrix of stakeholders. Appraisers must explicitly define the blinding status of the patient, the treating clinician, the endpoint assessor, the adverse event adjudicator, the statistician, and the manuscript writer. Each unblinded role introduces a highly specific, mechanistically distinct bias pathway. You must specify how the lack of blinding in each role corrupts the specific estimand of interest.
 
 Unblinded patients report systematically worse subjective outcomes in the control arm due to disappointment and lack of placebo effect. Unblinded clinicians provide differential co-interventions. If a clinician knows a patient received mechanical thrombectomy, they may target stricter blood pressure parameters, pursue more aggressive intensive care support, and order earlier physical therapy consultations. This performance bias conflates the isolated effect of the endovascular procedure with the unmeasured package of superior supportive care. Unblinded assessors systematically rate the intervention group more favorably on subjective scales like the modified Rankin Scale (mRS), subconsciously shifting borderline cases into favorable categories based on their belief in the treatment.

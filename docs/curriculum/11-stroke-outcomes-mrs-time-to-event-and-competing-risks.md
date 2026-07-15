@@ -66,6 +66,10 @@ Finally, dichotomy shopping is a fatal threat to type I error control. If invest
 
 ## Shift Analysis and the Proportional Odds Assumption
 
+![Ordinal mRS shift with absolute utility-weighted gain (original teaching figure).](../assets/figures/cycle21_swarm_ch11_utility_shift.png)
+
+*Teaching figure (synthetic).* Report Δ expected utility alongside dichotomized ARR.
+
 ![Ordinal mRS shift moves mass toward better scores; dichotomized ARR can hide absolute changes in severe disability tails (original teaching figure).](../assets/figures/cycle13_swarm_ch11_ordinal_shift.png)
 
 *Teaching figure (synthetic).* Report ordinal absolute distributions, not only mRS 0–2 ARR. A binary win that worsens mRS 5–6 tails is not a clean pathway victory.
