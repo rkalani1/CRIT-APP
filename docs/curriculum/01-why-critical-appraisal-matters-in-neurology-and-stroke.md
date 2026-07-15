@@ -54,6 +54,46 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 *Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1433_swarm_ch01_w1433_1.png)
+
+*Teaching figure (synthetic).* Cycle-1433 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1431_swarm_ch01_w1431_1.png)
+
+*Teaching figure (synthetic).* Cycle-1431 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1429_swarm_ch01_w1429_1.png)
+
+*Teaching figure (synthetic).* Cycle-1429 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1427_swarm_ch01_w1427_1.png)
+
+*Teaching figure (synthetic).* Cycle-1427 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1425_swarm_ch01_w1425_1.png)
+
+*Teaching figure (synthetic).* Cycle-1425 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1423_swarm_ch01_w1423_1.png)
+
+*Teaching figure (synthetic).* Cycle-1423 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1421_swarm_ch01_w1421_1.png)
+
+*Teaching figure (synthetic).* Cycle-1421 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1419_swarm_ch01_w1419_1.png)
+
+*Teaching figure (synthetic).* Cycle-1419 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1417_swarm_ch01_w1417_1.png)
 
 *Teaching figure (synthetic).* Cycle-1417 densify scientific residual (ch01–14).

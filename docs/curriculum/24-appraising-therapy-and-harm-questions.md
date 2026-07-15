@@ -76,6 +76,46 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1434_swarm_ch24_w1434_10.png)
+
+*Teaching figure (synthetic).* Cycle-1434 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1432_swarm_ch24_w1432_10.png)
+
+*Teaching figure (synthetic).* Cycle-1432 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1430_swarm_ch24_w1430_10.png)
+
+*Teaching figure (synthetic).* Cycle-1430 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1428_swarm_ch24_w1428_10.png)
+
+*Teaching figure (synthetic).* Cycle-1428 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1426_swarm_ch24_w1426_10.png)
+
+*Teaching figure (synthetic).* Cycle-1426 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1424_swarm_ch24_w1424_10.png)
+
+*Teaching figure (synthetic).* Cycle-1424 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1422_swarm_ch24_w1422_10.png)
+
+*Teaching figure (synthetic).* Cycle-1422 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1420_swarm_ch24_w1420_10.png)
+
+*Teaching figure (synthetic).* Cycle-1420 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1418_swarm_ch24_w1418_10.png)
 
 *Teaching figure (synthetic).* Cycle-1418 densify scientific residual (ch15–28).
