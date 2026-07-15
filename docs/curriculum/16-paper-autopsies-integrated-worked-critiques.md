@@ -34,6 +34,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Multi-autopsy absolute verdict board: RCT adapt, obs wait, AI reject deploy, shopped estimand reject (original teaching figure).](../assets/figures/cycle19_swarm_ch16_verdict_board.png)
+
+*Teaching figure (synthetic).* Each autopsy closes with an absolute action verb—not a vague “interesting paper.”
+
 Integrated appraisal is slower than abstract skimming and faster than regret after a pathway change based on statistical spin. Autopsies train the slower skill until it becomes a rapid reflex. The educational standard is not cruelty to authors; it is fairness to patients. A paper can be honest, important, and still structurally incapable of justifying the practice change its abstract implies. Autopsy language must be precise, proportionate, and entirely free of ad hominem attack. When we identify a 'fatal flaw,' we mean the architecture of the paper cannot support a particular causal or deployment claim—we are not passing judgment on the authors' careers.
 
 ```

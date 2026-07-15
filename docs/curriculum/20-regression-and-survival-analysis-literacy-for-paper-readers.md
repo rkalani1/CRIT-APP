@@ -27,6 +27,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 ## Mapping Clinical Outcomes to Regression Models
 
+![Hazard ratio stays flat while absolute risk difference grows over follow-up—convert HR to risk@t (original teaching figure).](../assets/figures/cycle19_swarm_ch20_hr_vs_arr.png)
+
+*Teaching figure (synthetic).* Survival literacy ends on absolute cumulative risk, not HR alone.
+
 Statistical regression quantifies the relationship between exposures and outcomes while conditionally isolating the effects from modeled covariates. The choice of regression model is dictated by the distribution and temporal nature of the dependent variable. Readers must verify that authors selected the correct functional form before trusting the reported coefficients.
 
 Linear regression requires a continuous dependent variable. In stroke literature, this often includes infarct volume, door-to-needle time, or quantitative scales like the NIHSS (when treated as continuous, despite its ordinal nature). The output is a beta coefficient, representing the absolute difference in the outcome per one-unit change in the predictor, holding other covariates constant. Linear models assume the residuals are normally distributed and homoscedastic. A common error occurs when highly skewed data, such as length of hospital stay, are analyzed via linear regression without prior log-transformation or the use of generalized linear models.

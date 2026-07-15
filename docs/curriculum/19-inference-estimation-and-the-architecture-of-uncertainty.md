@@ -30,6 +30,10 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 ## The Pathology of Dichotomania in Clinical Research
 
+![CI width absolute decision zones: harm possible, below MCID, clinically important ARR bands (original teaching figure).](../assets/figures/cycle19_swarm_ch19_ci_zones.png)
+
+*Teaching figure (synthetic).* Judge the whole ARR interval against MCID—not a binary p-value.
+
 ![Four absolute ARR confidence-interval stories that p<0.05 dichotomania collapses into two useless bins (original teaching figure).](../assets/figures/cycle14_swarm_ch19_dichotomania.png)
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.

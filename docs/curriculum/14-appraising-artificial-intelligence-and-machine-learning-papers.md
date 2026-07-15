@@ -62,6 +62,10 @@ Examine demographic and structural representation. If an algorithm is trained pr
 
 ## Information Leakage and the Integrity of Data Splits
 
+![Leakage invents AUROC 0.96; clean holdout and external sites reveal residual absolute performance (original teaching figure).](../assets/figures/cycle19_swarm_ch14_leakage_abs.png)
+
+*Teaching figure (synthetic).* Demand timestamp-honest splits before any absolute PPV or deploy claim.
+
 ![Leakage inflates AUROC; clean holdout and external sites fall, and claimed PPV collapses to local absolute reality (original teaching figure).](../assets/figures/cycle12_swarm_ch14_leakage_ppv.png)
 
 *Teaching figure (synthetic).* Leakage is an absolute-performance crime. Demand timestamp-honest splits and local PPV before any autonomous alert language.

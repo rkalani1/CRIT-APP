@@ -23,6 +23,10 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 ## Conceptual core: frequency first
 
+![Absolute reservoir: prevalence is a stock, incidence a flow; NNT needs risk/incidence not crude prevalence alone (original teaching figure).](../assets/figures/cycle19_swarm_ch17_reservoir_abs.png)
+
+*Teaching figure (synthetic).* P ≈ I × D is literacy for absolute frequency claims before association talk.
+
 **Incidence** answers: how often do *new* events occur in a defined population
 at risk over a defined time? Stroke services live on incidence thinking—codes
 per week, EVT candidates per month, ICH admissions per year—because operations

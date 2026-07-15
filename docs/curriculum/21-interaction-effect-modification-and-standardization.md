@@ -62,6 +62,10 @@ Furthermore, interaction estimates are highly vulnerable to misclassification of
 
 ## Standardization of Rates for Comparative Epidemiology
 
+![Crude absolute rates mislead across sites; age-standardization converges residual rates (original teaching figure).](../assets/figures/cycle19_swarm_ch21_std_rates.png)
+
+*Teaching figure (synthetic).* Compare absolute rates only after a common standard—or transport fails.
+
 While interaction concerns subgroup effects within a single cohort, standardization techniques address the comparability of aggregate event rates across distinct populations. Crude rates (e.g., unadjusted regional stroke mortality) are inherently confounded by demographic composition. A region with a heavily aged demographic structure will manifest a higher crude stroke incidence than a younger region, rendering direct comparison of the unadjusted rates epidemiologically meaningless.
 
 Direct standardization applies the stratum-specific rates observed in the study populations to the demographic distribution of a single, external reference standard. The resulting standardized rate isolates the difference in disease force by neutralizing the compositional variance. This technique is essential for comparing longitudinal incidence trends across decades where the underlying population age structure has shifted.

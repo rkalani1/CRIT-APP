@@ -27,6 +27,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 ## Introduction: The Causal Gap in Neurological Literature
 
+![Bradford Hill residual weighted toward absolute ARR, temporality, dose–response, and experiment—not analogy alone (original teaching figure).](../assets/figures/cycle19_swarm_ch18_hill_abs.png)
+
+*Teaching figure (synthetic).* Hill criteria are absolute-evidence weights; analogy never mints pathway NNT.
+
 Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.
 
 Critical appraisal requires a formalized approach to evaluate whether an association reflects a true causal effect. This chapter introduces foundational causal frameworks—counterfactuals, causal pies, and structural biases (confounding, selection bias, information bias)—and reclaims Hill's viewpoints as rigorous appraisal questions rather than a superficial checklist. Mastery of these concepts allows the reader to dissect whether a reported difference in outcomes stems from the treatment itself, flawed study architecture, or the intrinsic baseline differences among patients.
