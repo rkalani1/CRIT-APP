@@ -48,6 +48,10 @@ Pathology in reasoning does not stem from either system inherently, but from the
 - System 2 liabilities: Analytic paralysis, cognitive fatigue, and the generation of elaborate rationalizations to defend System 1 intuitions (motivated reasoning).
 - Metacognitive regulation: The capacity to deliberately toggle between these systems constitutes a discrete, trainable clinical competency.
 
+![Urgency × uncertainty dual-process switch for evidence use (original teaching figure).](../assets/figures/cycle1_ch23_urgency_uncertainty.png)
+
+*Teaching figure (synthetic).* High-urgency, low-uncertainty stroke codes can safely ride calibrated System 1. High uncertainty—whether at the bedside or in a pathway decision—needs a forced System 2 gate. The right panel shows the largest drop in inappropriate decisions when System 2 is mandated in ambiguous, abstract-driven, or policy-changing contexts.
+
 Evidence consumption exhibits a parallel dual-process dichotomy. Scanning a journal article for statistical significance indicators constitutes System 1 appraisal. Systematically calculating the number needed to treat (NNT), evaluating attrition bias, and mapping trial demographics to the local population represents System 2 appraisal. Departments that exclusively prize rapid, superficial literature summaries cultivate System 1 habits. Conversely, systems requiring a structured absolute-effect analysis prior to protocol modification enforce System 2 discipline without compromising efficiency in emergency contexts.
 
 ## Cognitive Biases Distorting Neurologic Diagnosis and Evidence Integration
@@ -55,6 +59,10 @@ Evidence consumption exhibits a parallel dual-process dichotomy. Scanning a jour
 ### Anchoring
 
 Anchoring represents a disproportionate adherence to an initial piece of information. A triage designation of 'acute stroke' establishes a profound cognitive anchor, often enduring even as the patient demonstrates fluctuating, functional, or non-vascular symptomatology. In the literature, a relative risk reduction of 45% published in a prominent abstract anchors the reader's perception of efficacy, overshadowing the subsequent revelation that the absolute risk reduction is a mere 1.2%. Neutralizing anchors demands the deliberate generation of competing hypotheses and the rigid translation of all statistical claims into natural frequencies.
+
+![RRR abstract anchor versus forced ARR/NNT translation (original teaching figure).](../assets/figures/cycle1_ch23_rrr_anchor.png)
+
+*Teaching figure (synthetic).* Identical trial arithmetic: RRR 45% versus ARR 1.2% (NNT ≈ 83). Subjective “large benefit” ratings collapse once absolute translation is mandatory. Treat relative-only abstract framing as a System 1 trap, not a clinical summary.
 
 ### Availability
 

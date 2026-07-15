@@ -39,11 +39,19 @@ When meta-analysis is justified, the choice of model matters. A fixed-effect mod
 
 Statistical heterogeneity (e.g., I-squared statistic) quantifies the proportion of variation across studies due to true differences rather than chance. A high I-squared (e.g., >50%) should halt reflex pooling and prompt subgroup analysis or meta-regression to explain the variance. If five trials show massive benefit and five show harm, the meta-analytic average of 'no effect' obscures the vital truth that the intervention's effect depends entirely on a yet-unidentified covariate.
 
+![Heterogeneous trials: random-effects pooling can invent a meaningless null average (original teaching figure).](../assets/figures/cycle1_ch26_i2_pooling.png)
+
+*Teaching figure (synthetic).* Early-window trials favor treatment; late-window trials harm; mixed-dosing trials scatter. A random-effects diamond near RR = 1 with I² ≈ 78% is arithmetic, not a patient. Stratify, explain, or refuse the pool—do not treat precise garbage as certainty.
+
 ## Clinical Prediction Rules: Derivation and the Trap of Overfitting
 
 A Clinical Prediction Rule (CPR) quantifies the contributions of multiple variables to estimate diagnosis or prognosis. The CPR lifecycle demands three distinct phases: derivation, validation, and impact analysis. The derivation phase identifies predictors and fits a statistical model. The cardinal sin of derivation is overfitting—building a mathematical model that perfectly contours to the random noise of the local dataset but fails utterly when exposed to new patients. Overfitting occurs when investigators force too many variables into a model with too few outcome events. A classic rule of thumb requires at least 10 (and preferably more) outcome events per candidate predictor.
 
 Stroke neurology is plagued by a surplus of derived, overfitted prediction models. A prognostic score for ICH expansion derived on 150 patients with 30 expansion events, which churned 20 variables through automated stepwise regression to find 4 'significant' predictors, is mathematical fiction. It has captured the idiosyncrasies of that specific cohort in that specific hospital in that specific year, not generalizable neurovascular biology.
+
+![Events-per-variable: derivation optimism versus external discrimination and calibration (original teaching figure).](../assets/figures/cycle1_ch26_epv_overfit.png)
+
+*Teaching figure (synthetic).* As events per candidate predictor (EPV) fall, derivation c-statistics inflate while external discrimination and calibration slope collapse. Demand EPV, external validation, and calibration plots—not only a hometown AUC—before adopting a stroke CPR.
 
 ## Validation: Narrow, Broad, and the Limits of Transportability
 

@@ -62,6 +62,10 @@ The metric of door-to-needle time for intravenous thrombolysis serves as a prima
 
 This dynamic exemplifies Goodhart's Law, where a measure ceases to be useful once it becomes a strict target. Academic neurologists must critique metric frameworks that fail to accommodate legitimate clinical variance, ensuring that the drive for algorithmic compliance does not subvert the physician's duty to practice individualized medicine.
 
+![Goodhart on the stroke clock: door-to-needle falls while mimic treatment and sICH rise (original teaching figure).](../assets/figures/cycle1_ch28_goodhart_dtn.png)
+
+*Teaching figure (synthetic).* After hard DTN targets, median door-to-needle improves quarter by quarter while the fraction of thrombolysis given to mimics—and sICH among treated—creeps upward. A green process dashboard can hide harm; pair velocity with appropriateness and safety audits.
+
 Metric hygiene for stroke leadership:
 
 - Pair velocity metrics (door-to-needle, door-to-puncture) with safety and appropriateness audits (mimic treatment rate, sICH, futile transfers).
