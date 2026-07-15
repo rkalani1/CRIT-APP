@@ -75,6 +75,26 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle280_swarm_ch21_w280_7.png)
+
+*Teaching figure (synthetic).* Cycle-280 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle278_swarm_ch21_w278_7.png)
+
+*Teaching figure (synthetic).* Cycle-278 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle276_swarm_ch21_w276_7.png)
+
+*Teaching figure (synthetic).* Cycle-276 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle274_swarm_ch21_w274_7.png)
+
+*Teaching figure (synthetic).* Cycle-274 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle272_swarm_ch21_w272_7.png)
 
 *Teaching figure (synthetic).* Cycle-272 densify scientific residual (ch15–28).

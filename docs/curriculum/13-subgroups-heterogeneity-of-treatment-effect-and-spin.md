@@ -63,6 +63,26 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-43 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle279_swarm_ch13_w279_13.png)
+
+*Teaching figure (synthetic).* Cycle-279 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle277_swarm_ch13_w277_13.png)
+
+*Teaching figure (synthetic).* Cycle-277 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle275_swarm_ch13_w275_13.png)
+
+*Teaching figure (synthetic).* Cycle-275 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle273_swarm_ch13_w273_13.png)
+
+*Teaching figure (synthetic).* Cycle-273 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle271_swarm_ch13_w271_13.png)
 
 *Teaching figure (synthetic).* Cycle-271 densify scientific residual (ch01–14).
