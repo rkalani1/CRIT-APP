@@ -60,6 +60,10 @@ What would change my mind:
 Owner / review date (if operational):
 ```
 
+![Four-bucket paper-autopsy decision matrix (original teaching figure).](../assets/figures/cycle1_ch16_decision_matrix.png)
+
+*Teaching figure.* Every autopsy must end in one of four operational buckets—not “interesting.” Map claim capacity, absolute effects, and transportability before rewriting a pathway.
+
 ## Autopsy A — The EVT-Like RCT (CLEAR-PATH 7–18 Hour Trial)
 
 ### A1. Trial Architecture and Clinical Stake

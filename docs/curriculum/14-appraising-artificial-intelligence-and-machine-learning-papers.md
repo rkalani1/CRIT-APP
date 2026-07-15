@@ -80,6 +80,10 @@ Scanner shift (or covariate shift) occurs due to physical differences in image a
 
 Prevalence shift (or prior probability shift) mathematically destroys positive predictive value. Suppose an LVO detector is trained on an enriched dataset where 50% of patients underwent thrombectomy. The algorithm achieves a sensitivity of 95% and a specificity of 90%. If deployed in a community emergency department where the true prevalence of LVO is 3%, Bayes' theorem dictates a catastrophic drop in performance. Out of 1,000 community scans, there are 30 true LVOs and 970 non-LVOs. The algorithm correctly identifies 28 true positives but generates 97 false positives. The positive predictive value (PPV) is 28 / (28 + 97) = 22.4%. Nearly 80% of alerts are false alarms, guaranteeing alert fatigue and systemic failure. Spectrum bias in training guarantees prevalence shift in deployment.
 
+![Prevalence shift collapses PPV at fixed sensitivity and specificity (original teaching figure).](../assets/figures/cycle1_ch14_prevalence_ppv.png)
+
+*Teaching figure (synthetic).* Discrimination metrics that look excellent on an enriched derivation set can yield community PPV near 20%. Always recompute natural frequencies at the intended deployment prevalence before endorsing alert workflows.
+
 Concept drift occurs when the fundamental relationship between input features and clinical outcomes changes over time. A model trained to predict functional independence after stroke using data from 2010 will perform poorly in 2026, because the advent of modern stent retrievers and extended time window criteria fundamentally altered the outcome trajectory for specific patient phenotypes. Algorithms are historical artifacts; they capture medical practice at the exact moment the data was frozen. Therefore, demand external validation. Internal validation (a random split of a single-center dataset) measures only the model's ability to interpolate within a narrow environment. True external validation requires geographically distinct cohorts to prove that the model has learned the disease, not the hospital.
 
 ## Quantitative Reasoning: Metrics, Calibration, and Operating Points

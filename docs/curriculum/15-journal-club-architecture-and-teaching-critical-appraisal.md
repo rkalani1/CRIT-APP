@@ -102,6 +102,10 @@ JOURNAL CLUB AGENDA (45-60 min)
 
 This agenda is adaptable. For diagnostic or clinical AI papers, swap the 'allocation/blinding' segment for an interrogation of the reference standard, spectrum bias, and the strict isolation of the validation split (as detailed in Chapter 14). For observational papers, substitute the randomization block with an analysis of confounding control, time-zero alignment, and target trial emulation. The temporal architecture remains constant; only the labels change.
 
+![Timeboxed 45–60 minute journal-club agenda protecting methods and absolute effects (original teaching figure).](../assets/figures/cycle1_ch15_jc_agenda.png)
+
+*Teaching figure.* The visual timebox is the intervention: without it, background pathophysiology expands until methods and ARR/NNT vanish. Anchor the hour on estimand → validity → absolute results → applicability → Act/Conditional/Watch/No change.
+
 ## Role Distribution: Preventing Hierarchy Monologues
 
 Roles transform a passive audience into a team of co-appraisers. If one trainee prepares everything, the rest of the room disengages. Rotating roles ensures that no individual is permanently pigeonholed as 'the statistics person' or 'the slide reader,' and it forces faculty to listen rather than lecture.

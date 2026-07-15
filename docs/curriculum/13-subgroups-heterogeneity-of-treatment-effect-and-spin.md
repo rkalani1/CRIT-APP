@@ -53,6 +53,10 @@ However, the presence and magnitude of HTE depend entirely on the mathematical s
 
 Now translate this constant relative effect into absolute clinical outcomes for two distinct subgroups. Subgroup A (severe strokes) has a baseline mortality risk under control of 50%. Applying the constant RR of 0.80, their risk under treatment drops to 40%. The Absolute Risk Reduction (ARR) is 10%, translating to a Number Needed to Treat (NNT) of 10. Subgroup B (mild strokes) has a baseline mortality risk under control of 5%. Applying the identical RR of 0.80, their risk under treatment drops to 4%. The ARR is a mere 1%, translating to an NNT of 100. On the absolute scale—the additive scale—there is massive heterogeneity of treatment effect. Because clinical decision-making relies on weighing the absolute benefits against fixed absolute harms, absolute HTE is what ultimately dictates bedside practice. Trialists often report no HTE because their logistic regression models (multiplicative scale) show no interaction, blinding the reader to the critical variance in absolute benefit driven by baseline risk.
 
+![Constant relative risk produces large absolute HTE via baseline risk (original teaching figure).](../assets/figures/cycle1_ch13_abs_vs_rel_hte.png)
+
+*Teaching figure (synthetic).* Multiplicative homogeneity (RR 0.80 everywhere) coexists with NNT 10 versus NNT 100. Bedside decisions track absolute effects; demand ARR stratified by baseline risk even when interaction tests on the relative scale are null.
+
 ## Interaction Tests vs. Stratum-Specific Inference
 
 The single most pervasive statistical error in the neurology literature is the assertion of heterogeneity based on comparing stratum-specific p-values. Investigators will routinely claim that a treatment is effective in males but not females because the male subgroup showed a statistically significant benefit (p = 0.03) while the female subgroup did not (p = 0.15). This is a profound mathematical fallacy. It is the error of testing whether the effect differs from zero within each group, rather than testing whether the effects differ from each other.
@@ -62,6 +66,10 @@ To formally test for HTE, the investigator must perform an interaction test. In 
 Why is examining stratum-specific p-values so deceptive? Consider a trial evaluating a novel antiplatelet agent in 1000 patients, yielding an overall significant benefit. The cohort is split by biological sex: 750 men and 250 women. Assume the true underlying treatment effect (Risk Ratio) is perfectly identical in both sexes at RR = 0.75. Because the male subgroup possesses three times the sample size, its confidence interval is narrow and excludes 1.0, generating a significant p-value. The female subgroup, severely underpowered, generates a wide confidence interval that crosses 1.0, yielding a non-significant p-value. The point estimates are identical. The formal interaction p-value is 1.0. Yet, authors and clinicians routinely commit the 'Significance Fallacy' by concluding the drug only works in men. The difference in significance is entirely an artifact of sample size and statistical power, not biological reality.
 
 A forest plot is a visual trap for this exact error. Readers visually scan down the right margin of the plot, hunting for any confidence interval that crosses the vertical line of null effect. When they locate one, they immediately label that subgroup a 'non-responder' population. This is statistically illiterate. Wide confidence intervals in small subgroups are mathematically guaranteed to cross the null line regardless of the true underlying treatment effect. The absence of evidence within an underpowered stratum is not evidence of the absence of an effect.
+
+![Stratum p-value fallacy: identical risk ratios with unequal precision (original teaching figure).](../assets/figures/cycle1_ch13_stratum_pvalue_fallacy.png)
+
+*Teaching figure (synthetic).* Men and women share RR 0.75; only sample size differs. Declaring sex-specific efficacy from divergent stratum p-values without a significant interaction term is a power artifact, not biology.
 
 ## Multiplicity and the Garden of Forking Paths
 

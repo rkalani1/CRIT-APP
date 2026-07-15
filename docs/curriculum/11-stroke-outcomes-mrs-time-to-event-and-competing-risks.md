@@ -60,6 +60,10 @@ Using Odds Ratios (OR) for dichotomized outcomes when the event is common drasti
 
 Finally, dichotomy shopping is a fatal threat to type I error control. If investigators pre-specify mRS 0-1, review the data, fail to achieve statistical significance, and subsequently publish the trial highlighting mRS 0-2 as a 'post-hoc responder analysis', they have invalidated the trial's inferential integrity. Rigorous appraisal requires verifying that the published primary endpoint matches the clinicaltrials.gov registration exactly.
 
+![Dichotomized mRS can hide clinically meaningful ordinal shifts (original teaching figure).](../assets/figures/cycle1_ch11_dichotomy_loss.png)
+
+*Teaching figure (synthetic).* The left panel shows a treatment that moves substantial mass from mRS 4 to mRS 3—often the difference between facility dependence and assisted home living. The right panel collapses the same data at the conventional mRS 0–2 cutpoint and nearly extinguishes the absolute risk reduction. Always inspect full stacked distributions before accepting a dichotomous primary endpoint narrative.
+
 ## Shift Analysis and the Proportional Odds Assumption
 
 To avoid the catastrophic information loss of dichotomization, modern acute stroke trials (e.g., IST-3, MR CLEAN, EXTEND-IA TNK) utilize ordinal shift analyses. A shift analysis asks a holistic question: does the intervention improve the entire distribution of functional scores across all levels of the mRS? The standard statistical engine for this is Proportional Odds Logistic Regression (POLR). Rather than fitting a single logistic curve, POLR fits a series of parallel curves for every possible cumulative cutpoint of the mRS.
@@ -97,6 +101,10 @@ If investigators apply a standard Kaplan-Meier estimator to analyze recurrent st
 To handle competing risks, statisticians deploy two distinct frameworks. The Cause-Specific Hazard (CSH) evaluates the instantaneous rate of recurrence strictly among patients who are currently alive and event-free. CSH removes dead patients from the denominator entirely. This is the correct estimand for answering biological and etiologic questions (e.g., 'Does this antiplatelet agent inhibit platelet aggregation and prevent clots in living vasculature?').
 
 Conversely, the Fine-Gray Subdistribution Hazard (SDH) modifies the risk set by keeping patients who die from competing causes in the denominator infinitely. Because they remain in the denominator without ever accumulating recurrent stroke events, the calculated risk reflects the real-world probability of experiencing the event. The SDH is used to calculate the Cumulative Incidence Function (CIF). This is the correct estimand for absolute clinical prognosis and resource allocation (e.g., 'What is the absolute probability this specific patient will have a recurrent stroke and require readmission over the next 12 months?'). Appraisers must verify that the chosen model matches the clinical question.
+
+![Naive Kaplan–Meier versus competing-risk cumulative incidence for recurrent stroke (original teaching figure).](../assets/figures/cycle1_ch11_km_vs_cif.png)
+
+*Teaching figure (synthetic).* Treating death as ordinary censoring invents an immortal risk set and overstates nonfatal recurrence. Prefer the cumulative incidence function when counseling patients or powering secondary-prevention studies in high-mortality cohorts.
 
 ## Fully Worked Example: A Numeric Life Table and Subdistribution Calculation
 
