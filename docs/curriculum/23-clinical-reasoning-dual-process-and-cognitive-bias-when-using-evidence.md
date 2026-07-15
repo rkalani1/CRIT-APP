@@ -60,6 +60,46 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Debias with natural frequencies.
 
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1450_swarm_ch23_w1450_9.png)
+
+*Teaching figure (synthetic).* Cycle-1450 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1448_swarm_ch23_w1448_9.png)
+
+*Teaching figure (synthetic).* Cycle-1448 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1446_swarm_ch23_w1446_9.png)
+
+*Teaching figure (synthetic).* Cycle-1446 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1444_swarm_ch23_w1444_9.png)
+
+*Teaching figure (synthetic).* Cycle-1444 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1442_swarm_ch23_w1442_9.png)
+
+*Teaching figure (synthetic).* Cycle-1442 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1440_swarm_ch23_w1440_9.png)
+
+*Teaching figure (synthetic).* Cycle-1440 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1438_swarm_ch23_w1438_9.png)
+
+*Teaching figure (synthetic).* Cycle-1438 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1436_swarm_ch23_w1436_9.png)
+
+*Teaching figure (synthetic).* Cycle-1436 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle1434_swarm_ch23_w1434_9.png)
 
 *Teaching figure (synthetic).* Cycle-1434 densify scientific residual (ch15–28).
