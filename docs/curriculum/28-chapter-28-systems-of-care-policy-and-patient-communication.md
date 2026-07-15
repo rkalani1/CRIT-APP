@@ -45,6 +45,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-34 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle36_swarm_ch28_d2n.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

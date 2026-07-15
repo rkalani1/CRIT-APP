@@ -48,6 +48,10 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-34 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle36_swarm_ch15_throughput.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## The Conceptual Core: Why the Default Journal Club Fails
 
 Most neurology training programs possess a designated hour for journal club. Most of these hours fail to teach critical appraisal. The default format typically devolves into 'summary theater': a junior trainee constructs thirty slides restating the background pathophysiology and the abstract, a senior faculty member shares a clinical war story tangentially related to the topic, and the group disperses having covered a paper without interrogating it. The failure is architectural, not moral. When a session lacks explicit time constraints, rotating roles, and a shared epistemic framework, the path of least resistance is to summarize rather than to appraise.
