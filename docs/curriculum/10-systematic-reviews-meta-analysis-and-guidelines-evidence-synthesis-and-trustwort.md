@@ -60,6 +60,26 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Guidelines need local absolute transport.
 
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle335_swarm_ch10_w335_10.png)
+
+*Teaching figure (synthetic).* Cycle-335 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle333_swarm_ch10_w333_10.png)
+
+*Teaching figure (synthetic).* Cycle-333 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle331_swarm_ch10_w331_10.png)
+
+*Teaching figure (synthetic).* Cycle-331 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle329_swarm_ch10_w329_10.png)
+
+*Teaching figure (synthetic).* Cycle-329 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle327_swarm_ch10_w327_10.png)
 
 *Teaching figure (synthetic).* Cycle-327 densify scientific residual (ch01–14).
