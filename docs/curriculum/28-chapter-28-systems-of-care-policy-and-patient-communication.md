@@ -75,6 +75,46 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle384_swarm_ch28_w384_14.png)
+
+*Teaching figure (synthetic).* Cycle-384 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle382_swarm_ch28_w382_14.png)
+
+*Teaching figure (synthetic).* Cycle-382 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle380_swarm_ch28_w380_14.png)
+
+*Teaching figure (synthetic).* Cycle-380 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle378_swarm_ch28_w378_14.png)
+
+*Teaching figure (synthetic).* Cycle-378 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle376_swarm_ch28_w376_14.png)
+
+*Teaching figure (synthetic).* Cycle-376 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle374_swarm_ch28_w374_14.png)
+
+*Teaching figure (synthetic).* Cycle-374 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle372_swarm_ch28_w372_14.png)
+
+*Teaching figure (synthetic).* Cycle-372 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle370_swarm_ch28_w370_14.png)
+
+*Teaching figure (synthetic).* Cycle-370 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle368_swarm_ch28_w368_14.png)
 
 *Teaching figure (synthetic).* Cycle-368 densify scientific residual (ch15–28).

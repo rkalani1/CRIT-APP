@@ -62,6 +62,46 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle384_swarm_ch16_w384_2.png)
+
+*Teaching figure (synthetic).* Cycle-384 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle382_swarm_ch16_w382_2.png)
+
+*Teaching figure (synthetic).* Cycle-382 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle380_swarm_ch16_w380_2.png)
+
+*Teaching figure (synthetic).* Cycle-380 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle378_swarm_ch16_w378_2.png)
+
+*Teaching figure (synthetic).* Cycle-378 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle376_swarm_ch16_w376_2.png)
+
+*Teaching figure (synthetic).* Cycle-376 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle374_swarm_ch16_w374_2.png)
+
+*Teaching figure (synthetic).* Cycle-374 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle372_swarm_ch16_w372_2.png)
+
+*Teaching figure (synthetic).* Cycle-372 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle370_swarm_ch16_w370_2.png)
+
+*Teaching figure (synthetic).* Cycle-370 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle368_swarm_ch16_w368_2.png)
 
 *Teaching figure (synthetic).* Cycle-368 densify scientific residual (ch15–28).

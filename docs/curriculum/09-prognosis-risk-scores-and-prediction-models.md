@@ -64,6 +64,46 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle383_swarm_ch09_w383_9.png)
+
+*Teaching figure (synthetic).* Cycle-383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle381_swarm_ch09_w381_9.png)
+
+*Teaching figure (synthetic).* Cycle-381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle379_swarm_ch09_w379_9.png)
+
+*Teaching figure (synthetic).* Cycle-379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle377_swarm_ch09_w377_9.png)
+
+*Teaching figure (synthetic).* Cycle-377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle375_swarm_ch09_w375_9.png)
+
+*Teaching figure (synthetic).* Cycle-375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle373_swarm_ch09_w373_9.png)
+
+*Teaching figure (synthetic).* Cycle-373 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle371_swarm_ch09_w371_9.png)
+
+*Teaching figure (synthetic).* Cycle-371 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle369_swarm_ch09_w369_9.png)
+
+*Teaching figure (synthetic).* Cycle-369 densify scientific residual.
+
+
 ![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle367_swarm_ch09_w367_9.png)
 
 *Teaching figure (synthetic).* Cycle-367 densify scientific residual (ch01–14).

@@ -67,6 +67,46 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle383_swarm_ch05_w383_5.png)
+
+*Teaching figure (synthetic).* Cycle-383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle381_swarm_ch05_w381_5.png)
+
+*Teaching figure (synthetic).* Cycle-381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle379_swarm_ch05_w379_5.png)
+
+*Teaching figure (synthetic).* Cycle-379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle377_swarm_ch05_w377_5.png)
+
+*Teaching figure (synthetic).* Cycle-377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle375_swarm_ch05_w375_5.png)
+
+*Teaching figure (synthetic).* Cycle-375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle373_swarm_ch05_w373_5.png)
+
+*Teaching figure (synthetic).* Cycle-373 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle371_swarm_ch05_w371_5.png)
+
+*Teaching figure (synthetic).* Cycle-371 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle369_swarm_ch05_w369_5.png)
+
+*Teaching figure (synthetic).* Cycle-369 densify scientific residual.
+
+
 ![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle367_swarm_ch05_w367_5.png)
 
 *Teaching figure (synthetic).* Cycle-367 densify scientific residual (ch01–14).

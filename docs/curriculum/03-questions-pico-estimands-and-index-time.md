@@ -64,6 +64,46 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle383_swarm_ch03_w383_3.png)
+
+*Teaching figure (synthetic).* Cycle-383 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle381_swarm_ch03_w381_3.png)
+
+*Teaching figure (synthetic).* Cycle-381 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle379_swarm_ch03_w379_3.png)
+
+*Teaching figure (synthetic).* Cycle-379 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle377_swarm_ch03_w377_3.png)
+
+*Teaching figure (synthetic).* Cycle-377 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle375_swarm_ch03_w375_3.png)
+
+*Teaching figure (synthetic).* Cycle-375 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle373_swarm_ch03_w373_3.png)
+
+*Teaching figure (synthetic).* Cycle-373 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle371_swarm_ch03_w371_3.png)
+
+*Teaching figure (synthetic).* Cycle-371 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle369_swarm_ch03_w369_3.png)
+
+*Teaching figure (synthetic).* Cycle-369 densify scientific residual.
+
+
 ![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle367_swarm_ch03_w367_3.png)
 
 *Teaching figure (synthetic).* Cycle-367 densify scientific residual (ch01–14).
