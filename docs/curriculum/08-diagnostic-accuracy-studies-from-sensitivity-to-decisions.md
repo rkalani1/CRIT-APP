@@ -64,6 +64,86 @@ A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verifica
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle823_swarm_ch08_w823_8.png)
+
+*Teaching figure (synthetic).* Cycle-823 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle821_swarm_ch08_w821_8.png)
+
+*Teaching figure (synthetic).* Cycle-821 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle819_swarm_ch08_w819_8.png)
+
+*Teaching figure (synthetic).* Cycle-819 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle817_swarm_ch08_w817_8.png)
+
+*Teaching figure (synthetic).* Cycle-817 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle815_swarm_ch08_w815_8.png)
+
+*Teaching figure (synthetic).* Cycle-815 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle813_swarm_ch08_w813_8.png)
+
+*Teaching figure (synthetic).* Cycle-813 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle811_swarm_ch08_w811_8.png)
+
+*Teaching figure (synthetic).* Cycle-811 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle809_swarm_ch08_w809_8.png)
+
+*Teaching figure (synthetic).* Cycle-809 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle807_swarm_ch08_w807_8.png)
+
+*Teaching figure (synthetic).* Cycle-807 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle805_swarm_ch08_w805_8.png)
+
+*Teaching figure (synthetic).* Cycle-805 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle803_swarm_ch08_w803_8.png)
+
+*Teaching figure (synthetic).* Cycle-803 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle801_swarm_ch08_w801_8.png)
+
+*Teaching figure (synthetic).* Cycle-801 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle799_swarm_ch08_w799_8.png)
+
+*Teaching figure (synthetic).* Cycle-799 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle797_swarm_ch08_w797_8.png)
+
+*Teaching figure (synthetic).* Cycle-797 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle795_swarm_ch08_w795_8.png)
+
+*Teaching figure (synthetic).* Cycle-795 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle793_swarm_ch08_w793_8.png)
+
+*Teaching figure (synthetic).* Cycle-793 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle791_swarm_ch08_w791_8.png)
 
 *Teaching figure (synthetic).* Cycle-791 densify scientific residual (ch01–14).
