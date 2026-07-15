@@ -67,6 +67,46 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1127_swarm_ch05_w1127_5.png)
+
+*Teaching figure (synthetic).* Cycle-1127 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1125_swarm_ch05_w1125_5.png)
+
+*Teaching figure (synthetic).* Cycle-1125 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1123_swarm_ch05_w1123_5.png)
+
+*Teaching figure (synthetic).* Cycle-1123 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1121_swarm_ch05_w1121_5.png)
+
+*Teaching figure (synthetic).* Cycle-1121 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1119_swarm_ch05_w1119_5.png)
+
+*Teaching figure (synthetic).* Cycle-1119 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1117_swarm_ch05_w1117_5.png)
+
+*Teaching figure (synthetic).* Cycle-1117 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1115_swarm_ch05_w1115_5.png)
+
+*Teaching figure (synthetic).* Cycle-1115 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1113_swarm_ch05_w1113_5.png)
+
+*Teaching figure (synthetic).* Cycle-1113 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle1111_swarm_ch05_w1111_5.png)
 
 *Teaching figure (synthetic).* Cycle-1111 densify scientific residual (ch01–14).

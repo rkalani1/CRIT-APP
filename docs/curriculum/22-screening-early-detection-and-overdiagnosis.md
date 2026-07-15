@@ -64,6 +64,46 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1128_swarm_ch22_w1128_8.png)
+
+*Teaching figure (synthetic).* Cycle-1128 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1126_swarm_ch22_w1126_8.png)
+
+*Teaching figure (synthetic).* Cycle-1126 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1124_swarm_ch22_w1124_8.png)
+
+*Teaching figure (synthetic).* Cycle-1124 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1122_swarm_ch22_w1122_8.png)
+
+*Teaching figure (synthetic).* Cycle-1122 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1120_swarm_ch22_w1120_8.png)
+
+*Teaching figure (synthetic).* Cycle-1120 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1118_swarm_ch22_w1118_8.png)
+
+*Teaching figure (synthetic).* Cycle-1118 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1116_swarm_ch22_w1116_8.png)
+
+*Teaching figure (synthetic).* Cycle-1116 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1114_swarm_ch22_w1114_8.png)
+
+*Teaching figure (synthetic).* Cycle-1114 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle1112_swarm_ch22_w1112_8.png)
 
 *Teaching figure (synthetic).* Cycle-1112 densify scientific residual (ch15–28).

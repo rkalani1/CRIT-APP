@@ -64,6 +64,46 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1128_swarm_ch15_w1128_1.png)
+
+*Teaching figure (synthetic).* Cycle-1128 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1126_swarm_ch15_w1126_1.png)
+
+*Teaching figure (synthetic).* Cycle-1126 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1124_swarm_ch15_w1124_1.png)
+
+*Teaching figure (synthetic).* Cycle-1124 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1122_swarm_ch15_w1122_1.png)
+
+*Teaching figure (synthetic).* Cycle-1122 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1120_swarm_ch15_w1120_1.png)
+
+*Teaching figure (synthetic).* Cycle-1120 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1118_swarm_ch15_w1118_1.png)
+
+*Teaching figure (synthetic).* Cycle-1118 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1116_swarm_ch15_w1116_1.png)
+
+*Teaching figure (synthetic).* Cycle-1116 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1114_swarm_ch15_w1114_1.png)
+
+*Teaching figure (synthetic).* Cycle-1114 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1112_swarm_ch15_w1112_1.png)
 
 *Teaching figure (synthetic).* Cycle-1112 densify scientific residual (ch15–28).
