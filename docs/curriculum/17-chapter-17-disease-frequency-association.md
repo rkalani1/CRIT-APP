@@ -71,6 +71,26 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle128_swarm_ch17_w128_3.png)
+
+*Teaching figure (synthetic).* Cycle-128 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle126_swarm_ch17_w126_3.png)
+
+*Teaching figure (synthetic).* Cycle-126 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle124_swarm_ch17_w124_3.png)
+
+*Teaching figure (synthetic).* Cycle-124 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle122_swarm_ch17_w122_3.png)
+
+*Teaching figure (synthetic).* Cycle-122 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle120_swarm_ch17_w120_3.png)
 
 *Teaching figure (synthetic).* Cycle-120 densify scientific residual (ch15–28).

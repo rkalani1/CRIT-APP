@@ -75,6 +75,26 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle128_swarm_ch18_w128_4.png)
+
+*Teaching figure (synthetic).* Cycle-128 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle126_swarm_ch18_w126_4.png)
+
+*Teaching figure (synthetic).* Cycle-126 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle124_swarm_ch18_w124_4.png)
+
+*Teaching figure (synthetic).* Cycle-124 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle122_swarm_ch18_w122_4.png)
+
+*Teaching figure (synthetic).* Cycle-122 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle120_swarm_ch18_w120_4.png)
 
 *Teaching figure (synthetic).* Cycle-120 densify scientific residual (ch15–28).

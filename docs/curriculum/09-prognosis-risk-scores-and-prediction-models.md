@@ -64,6 +64,26 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle127_swarm_ch09_w127_9.png)
+
+*Teaching figure (synthetic).* Cycle-127 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle125_swarm_ch09_w125_9.png)
+
+*Teaching figure (synthetic).* Cycle-125 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle123_swarm_ch09_w123_9.png)
+
+*Teaching figure (synthetic).* Cycle-123 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle121_swarm_ch09_w121_9.png)
+
+*Teaching figure (synthetic).* Cycle-121 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle119_swarm_ch09_w119_9.png)
 
 *Teaching figure (synthetic).* Cycle-119 densify scientific residual (ch01–14).

@@ -63,6 +63,26 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle127_swarm_ch02_w127_2.png)
+
+*Teaching figure (synthetic).* Cycle-127 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle125_swarm_ch02_w125_2.png)
+
+*Teaching figure (synthetic).* Cycle-125 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle123_swarm_ch02_w123_2.png)
+
+*Teaching figure (synthetic).* Cycle-123 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle121_swarm_ch02_w121_2.png)
+
+*Teaching figure (synthetic).* Cycle-121 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle119_swarm_ch02_w119_2.png)
 
 *Teaching figure (synthetic).* Cycle-119 densify scientific residual (ch01–14).
