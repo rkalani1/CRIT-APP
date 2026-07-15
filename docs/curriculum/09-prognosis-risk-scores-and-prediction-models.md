@@ -64,6 +64,86 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle471_swarm_ch09_w471_9.png)
+
+*Teaching figure (synthetic).* Cycle-471 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle469_swarm_ch09_w469_9.png)
+
+*Teaching figure (synthetic).* Cycle-469 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle467_swarm_ch09_w467_9.png)
+
+*Teaching figure (synthetic).* Cycle-467 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle465_swarm_ch09_w465_9.png)
+
+*Teaching figure (synthetic).* Cycle-465 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle463_swarm_ch09_w463_9.png)
+
+*Teaching figure (synthetic).* Cycle-463 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle461_swarm_ch09_w461_9.png)
+
+*Teaching figure (synthetic).* Cycle-461 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle459_swarm_ch09_w459_9.png)
+
+*Teaching figure (synthetic).* Cycle-459 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle457_swarm_ch09_w457_9.png)
+
+*Teaching figure (synthetic).* Cycle-457 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle455_swarm_ch09_w455_9.png)
+
+*Teaching figure (synthetic).* Cycle-455 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle453_swarm_ch09_w453_9.png)
+
+*Teaching figure (synthetic).* Cycle-453 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle451_swarm_ch09_w451_9.png)
+
+*Teaching figure (synthetic).* Cycle-451 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle449_swarm_ch09_w449_9.png)
+
+*Teaching figure (synthetic).* Cycle-449 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle447_swarm_ch09_w447_9.png)
+
+*Teaching figure (synthetic).* Cycle-447 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle445_swarm_ch09_w445_9.png)
+
+*Teaching figure (synthetic).* Cycle-445 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle443_swarm_ch09_w443_9.png)
+
+*Teaching figure (synthetic).* Cycle-443 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle441_swarm_ch09_w441_9.png)
+
+*Teaching figure (synthetic).* Cycle-441 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle439_swarm_ch09_w439_9.png)
 
 *Teaching figure (synthetic).* Cycle-439 densify scientific residual (ch01–14).

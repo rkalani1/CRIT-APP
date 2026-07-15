@@ -62,6 +62,86 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle472_swarm_ch16_w472_2.png)
+
+*Teaching figure (synthetic).* Cycle-472 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle470_swarm_ch16_w470_2.png)
+
+*Teaching figure (synthetic).* Cycle-470 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle468_swarm_ch16_w468_2.png)
+
+*Teaching figure (synthetic).* Cycle-468 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle466_swarm_ch16_w466_2.png)
+
+*Teaching figure (synthetic).* Cycle-466 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle464_swarm_ch16_w464_2.png)
+
+*Teaching figure (synthetic).* Cycle-464 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle462_swarm_ch16_w462_2.png)
+
+*Teaching figure (synthetic).* Cycle-462 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle460_swarm_ch16_w460_2.png)
+
+*Teaching figure (synthetic).* Cycle-460 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle458_swarm_ch16_w458_2.png)
+
+*Teaching figure (synthetic).* Cycle-458 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle456_swarm_ch16_w456_2.png)
+
+*Teaching figure (synthetic).* Cycle-456 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle454_swarm_ch16_w454_2.png)
+
+*Teaching figure (synthetic).* Cycle-454 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle452_swarm_ch16_w452_2.png)
+
+*Teaching figure (synthetic).* Cycle-452 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle450_swarm_ch16_w450_2.png)
+
+*Teaching figure (synthetic).* Cycle-450 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle448_swarm_ch16_w448_2.png)
+
+*Teaching figure (synthetic).* Cycle-448 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle446_swarm_ch16_w446_2.png)
+
+*Teaching figure (synthetic).* Cycle-446 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle444_swarm_ch16_w444_2.png)
+
+*Teaching figure (synthetic).* Cycle-444 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle442_swarm_ch16_w442_2.png)
+
+*Teaching figure (synthetic).* Cycle-442 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle440_swarm_ch16_w440_2.png)
 
 *Teaching figure (synthetic).* Cycle-440 densify scientific residual (ch15–28).

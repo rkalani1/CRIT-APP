@@ -75,6 +75,86 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle472_swarm_ch21_w472_7.png)
+
+*Teaching figure (synthetic).* Cycle-472 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle470_swarm_ch21_w470_7.png)
+
+*Teaching figure (synthetic).* Cycle-470 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle468_swarm_ch21_w468_7.png)
+
+*Teaching figure (synthetic).* Cycle-468 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle466_swarm_ch21_w466_7.png)
+
+*Teaching figure (synthetic).* Cycle-466 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle464_swarm_ch21_w464_7.png)
+
+*Teaching figure (synthetic).* Cycle-464 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle462_swarm_ch21_w462_7.png)
+
+*Teaching figure (synthetic).* Cycle-462 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle460_swarm_ch21_w460_7.png)
+
+*Teaching figure (synthetic).* Cycle-460 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle458_swarm_ch21_w458_7.png)
+
+*Teaching figure (synthetic).* Cycle-458 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle456_swarm_ch21_w456_7.png)
+
+*Teaching figure (synthetic).* Cycle-456 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle454_swarm_ch21_w454_7.png)
+
+*Teaching figure (synthetic).* Cycle-454 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle452_swarm_ch21_w452_7.png)
+
+*Teaching figure (synthetic).* Cycle-452 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle450_swarm_ch21_w450_7.png)
+
+*Teaching figure (synthetic).* Cycle-450 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle448_swarm_ch21_w448_7.png)
+
+*Teaching figure (synthetic).* Cycle-448 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle446_swarm_ch21_w446_7.png)
+
+*Teaching figure (synthetic).* Cycle-446 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle444_swarm_ch21_w444_7.png)
+
+*Teaching figure (synthetic).* Cycle-444 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle442_swarm_ch21_w442_7.png)
+
+*Teaching figure (synthetic).* Cycle-442 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle440_swarm_ch21_w440_7.png)
 
 *Teaching figure (synthetic).* Cycle-440 densify scientific residual (ch15–28).
