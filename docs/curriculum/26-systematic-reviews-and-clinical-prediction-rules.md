@@ -71,6 +71,46 @@ A clinical prediction rule is proposed for ED triage. Inspect derivation, valida
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1304_swarm_ch26_w1304_12.png)
+
+*Teaching figure (synthetic).* Cycle-1304 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1302_swarm_ch26_w1302_12.png)
+
+*Teaching figure (synthetic).* Cycle-1302 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1300_swarm_ch26_w1300_12.png)
+
+*Teaching figure (synthetic).* Cycle-1300 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1298_swarm_ch26_w1298_12.png)
+
+*Teaching figure (synthetic).* Cycle-1298 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1296_swarm_ch26_w1296_12.png)
+
+*Teaching figure (synthetic).* Cycle-1296 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1294_swarm_ch26_w1294_12.png)
+
+*Teaching figure (synthetic).* Cycle-1294 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1292_swarm_ch26_w1292_12.png)
+
+*Teaching figure (synthetic).* Cycle-1292 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1290_swarm_ch26_w1290_12.png)
+
+*Teaching figure (synthetic).* Cycle-1290 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle1288_swarm_ch26_w1288_12.png)
 
 *Teaching figure (synthetic).* Cycle-1288 densify scientific residual (ch15–28).

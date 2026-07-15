@@ -75,6 +75,46 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1304_swarm_ch18_w1304_4.png)
+
+*Teaching figure (synthetic).* Cycle-1304 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1302_swarm_ch18_w1302_4.png)
+
+*Teaching figure (synthetic).* Cycle-1302 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1300_swarm_ch18_w1300_4.png)
+
+*Teaching figure (synthetic).* Cycle-1300 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1298_swarm_ch18_w1298_4.png)
+
+*Teaching figure (synthetic).* Cycle-1298 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1296_swarm_ch18_w1296_4.png)
+
+*Teaching figure (synthetic).* Cycle-1296 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1294_swarm_ch18_w1294_4.png)
+
+*Teaching figure (synthetic).* Cycle-1294 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1292_swarm_ch18_w1292_4.png)
+
+*Teaching figure (synthetic).* Cycle-1292 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1290_swarm_ch18_w1290_4.png)
+
+*Teaching figure (synthetic).* Cycle-1290 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 18 (original scientific teaching figure).](../assets/figures/cycle1288_swarm_ch18_w1288_4.png)
 
 *Teaching figure (synthetic).* Cycle-1288 densify scientific residual (ch15–28).
