@@ -71,6 +71,86 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle536_swarm_ch17_w536_3.png)
+
+*Teaching figure (synthetic).* Cycle-536 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle534_swarm_ch17_w534_3.png)
+
+*Teaching figure (synthetic).* Cycle-534 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle532_swarm_ch17_w532_3.png)
+
+*Teaching figure (synthetic).* Cycle-532 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle530_swarm_ch17_w530_3.png)
+
+*Teaching figure (synthetic).* Cycle-530 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle528_swarm_ch17_w528_3.png)
+
+*Teaching figure (synthetic).* Cycle-528 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle526_swarm_ch17_w526_3.png)
+
+*Teaching figure (synthetic).* Cycle-526 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle524_swarm_ch17_w524_3.png)
+
+*Teaching figure (synthetic).* Cycle-524 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle522_swarm_ch17_w522_3.png)
+
+*Teaching figure (synthetic).* Cycle-522 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle520_swarm_ch17_w520_3.png)
+
+*Teaching figure (synthetic).* Cycle-520 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle518_swarm_ch17_w518_3.png)
+
+*Teaching figure (synthetic).* Cycle-518 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle516_swarm_ch17_w516_3.png)
+
+*Teaching figure (synthetic).* Cycle-516 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle514_swarm_ch17_w514_3.png)
+
+*Teaching figure (synthetic).* Cycle-514 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle512_swarm_ch17_w512_3.png)
+
+*Teaching figure (synthetic).* Cycle-512 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle510_swarm_ch17_w510_3.png)
+
+*Teaching figure (synthetic).* Cycle-510 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle508_swarm_ch17_w508_3.png)
+
+*Teaching figure (synthetic).* Cycle-508 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle506_swarm_ch17_w506_3.png)
+
+*Teaching figure (synthetic).* Cycle-506 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 17 (original scientific teaching figure).](../assets/figures/cycle504_swarm_ch17_w504_3.png)
 
 *Teaching figure (synthetic).* Cycle-504 densify scientific residual (ch15–28).

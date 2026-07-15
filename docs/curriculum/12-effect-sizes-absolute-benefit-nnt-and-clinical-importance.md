@@ -69,6 +69,86 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle535_swarm_ch12_w535_12.png)
+
+*Teaching figure (synthetic).* Cycle-535 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle533_swarm_ch12_w533_12.png)
+
+*Teaching figure (synthetic).* Cycle-533 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle531_swarm_ch12_w531_12.png)
+
+*Teaching figure (synthetic).* Cycle-531 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle529_swarm_ch12_w529_12.png)
+
+*Teaching figure (synthetic).* Cycle-529 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle527_swarm_ch12_w527_12.png)
+
+*Teaching figure (synthetic).* Cycle-527 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle525_swarm_ch12_w525_12.png)
+
+*Teaching figure (synthetic).* Cycle-525 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle523_swarm_ch12_w523_12.png)
+
+*Teaching figure (synthetic).* Cycle-523 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle521_swarm_ch12_w521_12.png)
+
+*Teaching figure (synthetic).* Cycle-521 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle519_swarm_ch12_w519_12.png)
+
+*Teaching figure (synthetic).* Cycle-519 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle517_swarm_ch12_w517_12.png)
+
+*Teaching figure (synthetic).* Cycle-517 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle515_swarm_ch12_w515_12.png)
+
+*Teaching figure (synthetic).* Cycle-515 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle513_swarm_ch12_w513_12.png)
+
+*Teaching figure (synthetic).* Cycle-513 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle511_swarm_ch12_w511_12.png)
+
+*Teaching figure (synthetic).* Cycle-511 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle509_swarm_ch12_w509_12.png)
+
+*Teaching figure (synthetic).* Cycle-509 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle507_swarm_ch12_w507_12.png)
+
+*Teaching figure (synthetic).* Cycle-507 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle505_swarm_ch12_w505_12.png)
+
+*Teaching figure (synthetic).* Cycle-505 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle503_swarm_ch12_w503_12.png)
 
 *Teaching figure (synthetic).* Cycle-503 densify scientific residual (ch01–14).
