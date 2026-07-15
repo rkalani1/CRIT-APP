@@ -56,6 +56,10 @@ Neurovascular screening proposals frequently fail these criteria. Identifying un
 
 Lead-time bias is the artificial inflation of survival time driven solely by an earlier date of diagnosis. If screening detects an asymptomatic malformation five years earlier than it would have manifested clinically, but prophylactic treatment is ineffective, the patient’s absolute lifespan remains unchanged. Yet, five-year survival metrics calculated from the date of diagnosis will indicate dramatic improvement. Survival from diagnosis is intrinsically flawed in screening evaluations; valid appraisals mandate outcome assessment clocked from randomization to screening versus usual care.
 
+![Lead-time bias: earlier diagnosis lengthens survival-from-diagnosis without moving the death date (original teaching figure).](../assets/figures/cycle2_ch22_lead_time_bias.png)
+
+*Teaching figure (synthetic).* Screen detection five years earlier doubles “survival from diagnosis” (10 vs 5 years) while the calendar date of death is identical—pure labeling, zero life-years gained. Any screening claim that reports only post-diagnosis survival without a randomized clock from invitation is uninterpretable.
+
 ### Length-Time Bias
 
 Length-time bias stems from disease heterogeneity. Indolent, slowly progressive pathologies persist in the asymptomatic phase longer than aggressive, rapidly fatal variants. Consequently, point-in-time screening preferentially captures benign lesions. A screening cohort of unruptured aneurysms is structurally enriched for stable, low-risk morphologies. Comparing the outcomes of this screen-detected cohort against clinically detected cases (which are enriched for aggressive biology) falsely credits the screening program for excellent outcomes that actually reflect baseline cohort indolence.

@@ -53,6 +53,10 @@ For appraisal, adopt the compatibility interpretation: the confidence interval d
 
 Under estimation culture, an absolute risk reduction (ARR) of 3.0% (95% CI, −1.0% to 7.0%) is never dismissed as 'negative.' It is accurately characterized as structurally imprecise data compatible with both a clinically vital 7.0% absolute benefit and a trivial 1.0% absolute harm. Conversely, an ARR of 0.2% (95% CI, 0.1% to 0.3%) is statistically significant but clinically microscopic. Decision-making requires overlaying the interval against the minimum clinically important difference, not just the null value.
 
+![Four synthetic absolute-risk CIs classified against the null and a minimum clinically important difference (original teaching figure).](../assets/figures/cycle2_ch19_ci_compatibility.png)
+
+*Teaching figure (synthetic).* Interval A rules out both the null and an MCID miss—actionable if valid. Interval B is “nonsignificant” yet compatible with large benefit *and* small harm—imprecise, not negative. Interval C is significant but clinically tiny. Interval D keeps harm on the table. Dichotomania at p = 0.05 collapses these four distinct decision problems into two useless bins.
+
 ```
 THE ESTIMATION HEURISTIC
 ------------------------

@@ -65,6 +65,10 @@ The fragility index operationalizes the vulnerability of a statistically signifi
 
 If a dual-antiplatelet trial claims superiority based on a p-value of 0.043, but a fragility index of 3 indicates that merely three more strokes in the active arm would erase the significance, the evidentiary foundation is incredibly brittle. When the number of patients lost to follow-up exceeds the fragility index, the trial's conclusion rests entirely on untestable missing-data assumptions. While the fragility index has mathematical limitations and should not replace confidence intervals, it is an unparalleled heuristic for deflating statistical hubris.
 
+![Fragility index versus lost-to-follow-up counts: when LTFU exceeds FI, significance is assumption-bound (original teaching figure).](../assets/figures/cycle2_ch27_fragility_ltfu.png)
+
+*Teaching figure (synthetic).* Trial P has FI well above LTFU—more robust to missing outcomes. Trials Q and R have LTFU ≥ FI, so a handful of unobserved events (or MNAR disability) can erase “significance.” Always pair the fragility index with the missing-primary-outcome count and demand tipping-point sensitivity before rewriting stroke pathways.
+
 ## Analytic Flexibility and the Architecture of Spin
 
 Analytic flexibility provides the raw material for spin—the systemic rhetorical distortion of trial results. Spin occurs when authors emphasize relative risk reductions while obscuring marginal absolute differences, elevate unadjusted secondary findings to the abstract's conclusion, or frame statistically non-significant primary outcomes as 'trends toward benefit.' Spin is the clinical translation of p-hacking.

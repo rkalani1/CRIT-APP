@@ -55,6 +55,10 @@ When an observed association deviates from the true causal effect, the discrepan
 
 Confounding occurs when a third variable, the confounder, is a common cause of both the exposure and the outcome. This creates a spurious 'backdoor path' that mimics a causal relationship. For example, in an observational study evaluating a novel oral anticoagulant versus warfarin, older age and chronic kidney disease might independently dictate both the choice of the novel drug (exposure) and an increased risk of hemorrhagic transformation (outcome). If not rigorously adjusted for, the analysis will falsely attribute the adverse outcomes directly to the drug.
 
+![E-value curve: how strong residual confounding must be to nullify an observed risk ratio (original teaching figure).](../assets/figures/cycle2_ch18_evalue_tipping.png)
+
+*Teaching figure (synthetic).* The E-value translates an observed RR into the minimum confounder–outcome and confounder–exposure association that could fully explain the finding away. Modest RRs (≈1.2–1.5) evaporate under weak residual confounding; large RRs demand stronger alternative explanations. The metric is a sensitivity probe—not a causal proof and not a fix for selection or measurement bias.
+
 ### Selection Bias: Conditioning on a Collider
 
 While confounding stems from common causes, structural selection bias often arises from conditioning on a common effect, known as a collider. If a study restricts its analysis to patients who survive the initial 30 days post-stroke (survivor bias), it conditions on survival. Because both intensive care therapies and unmeasured physiological resilience independently cause survival, analyzing only the survivors induces a non-causal association between the therapies and resilience. Selection bias also occurs in biomarker research when cohorts are restricted to those with complete MRI follow-up; patients who tolerate and complete MRIs systematically differ from those who drop out due to severe cognitive decline or death.

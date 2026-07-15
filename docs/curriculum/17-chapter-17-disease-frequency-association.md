@@ -103,6 +103,10 @@ In hyperacute stroke care, short-window risks dominate (door-to-needle, 24-hour 
 90-day mRS). In secondary prevention, person-time rates reappear. Appraisal asks which
 clock the authors actually used and whether the comparator used the same clock.
 
+![Same incidence rate yields different cumulative risks by follow-up window; never mix rates and risks without conversion (original teaching figure).](../assets/figures/cycle2_ch17_rate_vs_risk.png)
+
+*Teaching figure (synthetic).* A constant incidence rate of 0.20 per person-year maps to very different cumulative risks at 30, 90, 180, and 365 days. The naive “rate × time” shortcut overstates risk at longer horizons. When a secondary-prevention abstract quotes events per 100 person-years next to a 90-day trial risk, demand conversion onto one clock before comparing.
+
 ## From association table to decision sentence
 
 After computing RD/RR/OR, force one sentence:

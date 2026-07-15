@@ -46,6 +46,10 @@ Relative measures, such as hazard ratios and relative risks, are mathematically 
 
 The Number Needed to Treat (NNT = 1/ARR) and Number Needed to Harm (NNH = 1/ARI) provide intuitive metrics for the risk-benefit tradeoff. However, these metrics are meaningless without an explicit time horizon and outcome definition. A statement like 'NNT of 12' is uninterpretable; 'NNT of 12 to prevent one disabling stroke over 90 days' is actionable. Furthermore, precision is paramount. The 95% confidence intervals around the ARR and ARI define the range of plausible effects and dictate whether a point estimate is robust or dangerously fragile.
 
+![Absolute benefit versus absolute harm at high versus low baseline risk under a fixed relative benefit (original teaching figure).](../assets/figures/cycle2_ch24_benefit_harm_tradeoff.png)
+
+*Teaching figure (synthetic).* A 30% relative risk reduction plus a fixed 1.5 pp hemorrhage ARI yields a favorable net absolute tradeoff in a high-risk TIA cohort and a near-null or inverted ledger in a low-risk syndrome—while the relative-effect headline is unchanged. Transport ARR/ARI to local baseline risk before pathway adoption.
+
 ## Applicability and Transportability
 
 A trial may possess pristine internal validity yet lack applicability (transportability) to a specific clinical setting. Applicability requires comparing the trial cohort's baseline risk, comorbidities, and demographic profile to the local patient population. Extrapolating the benefits of short-course dual antiplatelet therapy (DAPT) from trials enrolling high-risk minor stroke patients to those with atypical, low-risk syndromes predictably dilutes the ARR while maintaining the ARI for hemorrhage, potentially inverting the risk-benefit ratio.
