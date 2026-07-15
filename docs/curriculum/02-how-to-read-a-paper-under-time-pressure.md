@@ -63,6 +63,86 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle791_swarm_ch02_w791_2.png)
+
+*Teaching figure (synthetic).* Cycle-791 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle789_swarm_ch02_w789_2.png)
+
+*Teaching figure (synthetic).* Cycle-789 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle787_swarm_ch02_w787_2.png)
+
+*Teaching figure (synthetic).* Cycle-787 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle785_swarm_ch02_w785_2.png)
+
+*Teaching figure (synthetic).* Cycle-785 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle783_swarm_ch02_w783_2.png)
+
+*Teaching figure (synthetic).* Cycle-783 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle781_swarm_ch02_w781_2.png)
+
+*Teaching figure (synthetic).* Cycle-781 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle779_swarm_ch02_w779_2.png)
+
+*Teaching figure (synthetic).* Cycle-779 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle777_swarm_ch02_w777_2.png)
+
+*Teaching figure (synthetic).* Cycle-777 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle775_swarm_ch02_w775_2.png)
+
+*Teaching figure (synthetic).* Cycle-775 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle773_swarm_ch02_w773_2.png)
+
+*Teaching figure (synthetic).* Cycle-773 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle771_swarm_ch02_w771_2.png)
+
+*Teaching figure (synthetic).* Cycle-771 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle769_swarm_ch02_w769_2.png)
+
+*Teaching figure (synthetic).* Cycle-769 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle767_swarm_ch02_w767_2.png)
+
+*Teaching figure (synthetic).* Cycle-767 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle765_swarm_ch02_w765_2.png)
+
+*Teaching figure (synthetic).* Cycle-765 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle763_swarm_ch02_w763_2.png)
+
+*Teaching figure (synthetic).* Cycle-763 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle761_swarm_ch02_w761_2.png)
+
+*Teaching figure (synthetic).* Cycle-761 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle759_swarm_ch02_w759_2.png)
 
 *Teaching figure (synthetic).* Cycle-759 densify scientific residual (ch01–14).
