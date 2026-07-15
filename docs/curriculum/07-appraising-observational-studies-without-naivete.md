@@ -34,6 +34,10 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 - Identify and dissect prevalent-user bias and the depletion of susceptibles in long-term observational registries.
 - Audit observational studies for mediator and collider adjustment errors that destroy causal estimation.
 
+![Observational residual: absolute estimates need propensity overlap / positivity (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch07_positivity_overlap.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Introduction: The Promise and Peril of Observational Evidence
 
 ![ACNU shrinks residual confounding absolute bias vs user/non-user (original teaching figure).](../assets/figures/cycle22_swarm_ch07_acnu_residual.png)

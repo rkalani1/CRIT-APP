@@ -32,6 +32,10 @@ Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpo
 - Translate trial estimands regarding functional independence into absolute effect measures (ARR, NNT) for bedside communication.
 - Critique composite endpoints in neurology literature using formal frameworks for component weighting and directional consistency.
 
+![Outcomes residual: absolute cumulative incidence differences under competing risks (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch11_competing_cif.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Conceptual Core: Outcomes Encode Values and Statistical Power
 
 Stroke research lives and dies by its endpoints. An intervention's success or failure is never an absolute truth; it is strictly conditional on the mathematical structure of the outcome variable chosen by the investigators. A neuroprotective trial can be deemed a massive success if disability is coded as modified Rankin Scale (mRS) 0-2 versus 3-6, yet utterly fail if the threshold is shifted to mRS 0-1 versus 2-6. Similarly, whether recurrent stroke is analyzed with death as a censoring event or as a competing risk fundamentally alters the absolute incidence reported to patients. Outcome choice is therefore both a profound values judgment and a strict methodologic design choice. Critical appraisal without endpoint literacy is merely cargo-cult evidence-based medicine: you will correctly recite intention-to-treat protocols and blinding checklists while entirely missing the fact that the primary endpoint is mathematically incapable of answering the clinical question at hand.

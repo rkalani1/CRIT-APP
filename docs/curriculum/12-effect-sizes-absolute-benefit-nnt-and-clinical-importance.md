@@ -31,6 +31,10 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 - Apply the Absolute Effect Translation Checklist to fully worked trial scenarios.
 - Critique common failure modes, including the misinterpretation of odds ratios as risk ratios for common clinical outcomes.
 
+![Effect-size residual: absolute benefit, harm, and net share one horizon (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch12_net_horizon.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Conceptual Core: The Imperative of Absolute Effects
 
 ![RRR stays flat while ARR and NNT scale with baseline risk—refuse relative-only marketing (original teaching figure).](../assets/figures/cycle17_swarm_ch12_rrr_vs_arr.png)

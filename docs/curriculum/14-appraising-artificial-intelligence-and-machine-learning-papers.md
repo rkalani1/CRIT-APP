@@ -30,6 +30,10 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 - Apply the underlying principles of the TRIPOD-AI and PROBAST frameworks to structure critical appraisal, utilizing them to identify fatal methodological flaws rather than treating them as rigid, arithmetic checklists.
 - Execute a comprehensive, step-by-step appraisal of a diagnostic imaging algorithm and a multivariable prognostic machine learning paper, isolating the mechanisms by which flawed designs produce mathematically impressive but clinically dangerous metrics.
 
+![AI residual: discrimination without absolute outcome impact is incomplete; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch14_auroc_vs_impact.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## The Conceptual Core: Prediction, Causation, and Utility
 
 ![AI residual: AUROC without absolute outcome impact is incomplete (original teaching figure).](../assets/figures/cycle23_swarm_ch14_impact_gap.png)

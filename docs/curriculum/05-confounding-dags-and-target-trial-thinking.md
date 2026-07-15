@@ -29,6 +29,10 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 - Critique the 'Table 1 Fallacy' and the inappropriate causal interpretation of multivariable regression coefficients for covariates.
 - Assess the residual threat of unmeasured confounding using quantitative reasoning rather than categorical dismissal.
 
+![DAG residual: absolute ARR stabilizes only after backdoors are closed (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch05_backdoor_arr_curve.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 ![Close backdoor paths before absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch05_dag_close.png)

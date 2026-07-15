@@ -29,6 +29,10 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 - Identify and bypass common failure modes in speed reading, such as adopting authors' discussion claims without verifying the corresponding methods and results.
 - Draft concise, unambiguous action sentences that translate paper findings into strict clinical pathway decisions or specific patient counseling scripts.
 
+![Time-pressure residual: structured reading reaches absolute action threshold; abstract skim does not (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch02_time_insight_curve.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 ![Triage weights protect absolute ARR under time pressure (original teaching figure).](../assets/figures/cycle22_swarm_ch02_triage_weights.png)

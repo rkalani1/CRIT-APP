@@ -29,6 +29,10 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 - Produce a structured, actionable validity assessment that separates internal causal failure from mere transportability gaps.
 - Recognize and articulate pitfalls in validity appraisal, specifically the conflation of predictive modeling with causal inference.
 
+![Bias taxonomy residual: each domain shifts absolute effect on a signed scale (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch04_bias_vectors.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Introduction: The Two-Part Promise of Validity
 
 When clinicians and methodologists declare a study 'valid,' they frequently conflate two distinct, non-overlapping promises. The first promise is internal validity: within the strict confines of the study's own analytical sample and methodological design, does the computed estimate successfully recover the causal estimand it claims to target, free from systematic distortion? The second promise is external validity (often parsed into generalizability and transportability): does the internally valid estimate hold any relevance for a different population, a different clinical setting, or a distinct system of care?

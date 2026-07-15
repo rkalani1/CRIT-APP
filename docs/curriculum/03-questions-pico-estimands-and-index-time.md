@@ -26,6 +26,10 @@ A family already saw the press release. Your job is translation: map the paper t
 - Evaluate eligibility criteria not merely as safety guards, but as fundamental parameters defining the causal target.
 - Identify neighbor questions that appear relevant but address different clinical decisions or temporal horizons.
 
+![Estimand clock: index time and intercurrent policy required for transportable absolute ARR (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch03_estimand_clock.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
 ![Estimand completeness residual: intercurrent and absolute summary often missing (original teaching figure).](../assets/figures/cycle22_swarm_ch03_estimand_complete.png)

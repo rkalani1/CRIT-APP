@@ -35,6 +35,10 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 - Deconstruct a fully worked numerical example of a false-positive subgroup finding, translating the statistical artifact into a bedside decision-making caveat.
 - Apply the rule that prediction is not causation when analyzing baseline subgroups, and recognize how conditioning on post-randomization variables induces collider stratification bias.
 
+![Subgroup residual: homogeneous RR does not imply homogeneous absolute ARR (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch13_hte_scales.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## The Epistemology of Subgroups in Neurological Trials
 
 ![Homogeneous RR with heterogeneous absolute ARR across risk strata (original teaching figure).](../assets/figures/cycle22_swarm_ch13_hte_abs.png)

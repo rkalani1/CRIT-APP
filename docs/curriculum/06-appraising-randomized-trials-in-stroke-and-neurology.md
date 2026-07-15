@@ -29,6 +29,10 @@ Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation 
 - 8. Appraise the evolution of the comparator arm, judging how historical shifts in baseline secondary prevention and reperfusion alter the transportability of legacy trial findings to contemporary practice.
 - 9. Execute a formal, CONSORT-minded structured appraisal of published stroke randomized controlled trials to determine true bedside readiness.
 
+![RCT residual: absolute ARR lives in the outcome denominator, not the screen (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch06_attrition_arr.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## The Epistemology of the Randomized Trial in Stroke
 
 The randomized controlled trial sits atop the evidence hierarchy not by historical tradition or arbitrary consensus, but due to a singular mathematical property: when executed flawlessly, randomization balances both measured and unmeasured baseline prognostic factors in expectation. This is the exclusive mechanism in clinical epidemiology that breaks the causal arrow between patient characteristics and treatment assignment. In observational data, a patient receives a therapy because a clinician predicted they would benefit, or because they were deemed physiologically capable of tolerating the intervention. This generates intractable confounding by indication, meaning the treatment assignment is hopelessly entangled with the underlying baseline risk of the outcome. Prediction is not causation. A machine learning model might flawlessly predict that stroke patients receiving mechanical ventilation have astronomically higher mortality rates, but that associational correlation contains zero causal information regarding the efficacy of the ventilator itself. Randomization replaces clinician intent and predictive assignment with a stochastic, mathematical coin flip.

@@ -30,6 +30,10 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 - Recognize common failure modes in evidence synthesis, including the ecological fallacy in meta-regression and the danger of up-weighting small, biased trials in random-effects models.
 - Translate meta-analytic findings and guideline recommendations into patient-centered clinical discussions without conflating prediction with causal mechanisms.
 
+![Meta residual: pooled RR incomplete without local absolute ARR/NNT transport (original scientific teaching figure).](../assets/figures/cycle25_swarm_ch10_forest_local_arr.png)
+
+*Teaching figure (synthetic).* Cycle-25 densify scientific residual.
+
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
 ![Convert pooled RR through local CER to absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch10_local_nnt.png)
