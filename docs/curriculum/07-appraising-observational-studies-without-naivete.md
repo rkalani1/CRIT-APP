@@ -14,6 +14,10 @@
 
 *Immortal time bias schematic (original).*
 
+![Immortal-time misclassification deflates exposed event risk and invents absolute benefit (original teaching figure).](../assets/figures/cycle18_swarm_ch07_immortal_abs.png)
+
+*Teaching figure (synthetic).* Landmark or clone–censor before trusting any observational ARR/NNT.
+
 A registry paper claims a drug is associated with lower readmission. Treat association as a starting hypothesis, not a green light for automatic order panels.
 
 

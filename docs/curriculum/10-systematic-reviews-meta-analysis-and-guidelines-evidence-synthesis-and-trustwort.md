@@ -119,6 +119,10 @@ Once certainty is securely established, the panel determines the strength of the
 
 ## Pitfalls and Failure Modes in Evidence Synthesis
 
+![Publication bias funnel residual: small-study asymmetry inflates published absolute ARR vs large-trial truth (original teaching figure).](../assets/figures/cycle18_swarm_ch10_funnel_abs.png)
+
+*Teaching figure (synthetic).* Correct absolute RD/NNT for small-study bias before guideline strength talk.
+
 - Garbage In, Garbage Out (GIGO): Pooling fundamentally confounded observational data yields a highly precise, statistically significant, but causally false estimate. The synthesis flawlessly inherits the flawed causal structure of its worst inputs.
 - The Ecological Fallacy in Meta-Regression: Regressing trial-level summary statistics (like average age or median time-to-treatment) against effect sizes. Study-level relationships consistently fail to mirror patient-level biology. Prediction at the group level strictly does not equal causation at the individual level.
 - The Random-Effects Paradox: Automatically shifting to a random-effects model when statistical heterogeneity (I-squared) breaches an arbitrary threshold. This mathematically penalizes massive, precise mega-trials and artificially inflates the influence of small, noisy, single-center studies highly susceptible to publication bias.

@@ -66,6 +66,10 @@ Instrumental variables present a unique case. An instrument is a variable that c
 
 ## Target-Trial Emulation: The Framework for Observational Causal Inference
 
+![Target-trial fidelity scorecard: broken t0 invents naive ARR; aligned emulation restores residual absolute effect (original teaching figure).](../assets/figures/cycle18_swarm_ch05_tte_abs.png)
+
+*Teaching figure (synthetic).* Eligibility and assignment failures mint fake absolute benefit—score each protocol element before NNT.
+
 Observational data can only yield valid causal estimates if the analysis successfully emulates a hypothetical pragmatic randomized trial. Miguel Hernán and James Robins formalized this discipline as 'target-trial emulation.' When appraising an observational stroke study, the reader must forcefully extract the implied trial protocol from the manuscript. If the authors cannot clearly define the trial they are attempting to emulate, they are unlikely to have estimated a well-defined causal effect. The emulation framework demands strict specification of seven core elements. Every deviation between the observational dataset and the ideal target trial represents a potential source of irremediable bias.
 
 - Eligibility criteria: Must mirror those of a prospective trial, defined solely using information available prior to or at time zero.

@@ -55,6 +55,10 @@ When designing your own research, reverse the standard error: define the target 
 
 ## Named Frameworks: PICO, PECO, and the Architecture of Clinical Contrasts
 
+![PECO absolute exposure contrast board: population @ t0, strategies, outcome horizon → ARR (original teaching figure).](../assets/figures/cycle18_swarm_ch03_peco_abs.png)
+
+*Teaching figure (synthetic).* Write PECO before any relative effect claim; absolute summary closes the board.
+
 PICO is the classical scaffolding for interventional clinical questions: Population, Intervention, Comparator, Outcome. PECO adapts this framework for exposure-based questions that dominate observational epidemiology: Population, Exposure, Comparator, Outcome. While both are technically incomplete as full causal estimands, they serve as exceptional first-pass compression tools. They force the user to articulate the absolute minimum components required to assess a clinical contrast. If you cannot write a complete PICO sentence, you do not have a question.
 
 - Population: Must be anatomically and temporally specific. 'Adults with anterior-circulation LVO presenting 6-24 hours after last known well with target mismatch.'

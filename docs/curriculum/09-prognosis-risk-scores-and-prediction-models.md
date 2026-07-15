@@ -66,6 +66,10 @@ The prediction horizon is the specific future time point at which the outcome is
 
 ## Quantitative Reasoning: Discrimination
 
+![Discrimination ranks patients; absolute treat policy needs calibrated thresholds—pred≠cause (original teaching figure).](../assets/figures/cycle18_swarm_ch09_disc_vs_decision.png)
+
+*Teaching figure (synthetic).* High AUROC is not a treat license; thresholds and causal ARR are separate claims.
+
 Discrimination quantifies a prediction model's ability to separate patients who experience the outcome from those who do not. It asks a strictly relative question: Does the algorithm consistently assign higher predicted probabilities to the cohort of patients who actually suffer the event compared to those who remain event-free?
 
 For binary outcomes, discrimination is almost universally quantified by the c-statistic (concordance statistic), which is mathematically equivalent to the Area Under the Receiver Operating Characteristic curve (AUROC). To comprehend the c-statistic precisely, consider all possible pairs of patients in a dataset where exactly one patient experienced the event and the other did not. A pair is deemed 'concordant' if the model assigned a higher predicted probability to the patient who had the event. The c-statistic is simply the proportion of these pairs that are concordant. The formula is: c = (Number of concordant pairs + 0.5 * Number of tied pairs) / (Total discordant and concordant pairs).

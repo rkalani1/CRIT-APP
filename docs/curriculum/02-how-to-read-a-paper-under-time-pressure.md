@@ -112,6 +112,10 @@ Clinical teams can execute the protocol as a relay: one clinician owns the table
 
 ## Quantitative Reasoning: Estimands, Absolute Effects, and Uncertainty
 
+![Time-box residual: protect absolute F&T and action minutes in the 20-minute protocol (original teaching figure).](../assets/figures/cycle18_swarm_ch02_timebox_abs.png)
+
+*Teaching figure (synthetic).* Compress narrative, never absolute extraction or the adopt/reject sentence.
+
 Rigorous appraisal demands a shift from passive reading of p-values to active calculation of absolute effects. The distinction between relative risk and absolute risk is not academic; it is the mathematical foundation of clinical harm and benefit. A relative risk reduction (RRR) is constant across different baseline risk groups, which mathematically guarantees that it will exaggerate the clinical utility of an intervention in low-risk patients.
 
 Define your symbols and calculations explicitly. Let $E(Y|A=1)$ be the expected rate of the outcome $Y$ under the intervention $A=1$. Let $E(Y|A=0)$ be the expected rate of the outcome under the control condition $A=0$. The Absolute Risk Reduction (ARR) is $E(Y|A=0) - E(Y|A=1)$ for a bad outcome. The Number Needed to Treat (NNT) is strictly defined as $1 / ARR$. The Number Needed to Harm (NNH) is defined as $1 / ARI$ (Absolute Risk Increase), where $ARI = E(Y_{harm}|A=1) - E(Y_{harm}|A=0)$.

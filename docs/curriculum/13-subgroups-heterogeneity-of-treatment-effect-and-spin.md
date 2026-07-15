@@ -123,6 +123,11 @@ Any variable used for subgroup stratification must be an immutable baseline char
 
 ## Spin in the Literature: Detection and Diagnosis
 
+![Subgroup spin ladder: fish p, hide stratum ARR/NNT, market 'works only in X'—stop for interaction + absolute ledger (original teaching figure).](../assets/figures/cycle18_swarm_ch13_subgroup_spin.png)
+
+*Teaching figure (synthetic).* HTE claims require pre-spec interaction and stratum absolute risks, not RR theater.
+
+
 ![Industry-adjacent spin patterns (relative headlines, subgroup rescue, composite inflation) collapse after absolute + HTE audit (original teaching figure).](../assets/figures/cycle13_swarm_ch13_spin_audit.png)
 
 *Teaching figure (synthetic).* Force absolute primary effects and pre-specified interaction tests before any “practice-changing” language.
