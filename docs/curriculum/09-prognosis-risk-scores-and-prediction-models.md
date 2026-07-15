@@ -64,6 +64,46 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1287_swarm_ch09_w1287_9.png)
+
+*Teaching figure (synthetic).* Cycle-1287 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1285_swarm_ch09_w1285_9.png)
+
+*Teaching figure (synthetic).* Cycle-1285 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1283_swarm_ch09_w1283_9.png)
+
+*Teaching figure (synthetic).* Cycle-1283 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1281_swarm_ch09_w1281_9.png)
+
+*Teaching figure (synthetic).* Cycle-1281 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1279_swarm_ch09_w1279_9.png)
+
+*Teaching figure (synthetic).* Cycle-1279 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1277_swarm_ch09_w1277_9.png)
+
+*Teaching figure (synthetic).* Cycle-1277 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1275_swarm_ch09_w1275_9.png)
+
+*Teaching figure (synthetic).* Cycle-1275 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1273_swarm_ch09_w1273_9.png)
+
+*Teaching figure (synthetic).* Cycle-1273 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 09 (original scientific teaching figure).](../assets/figures/cycle1271_swarm_ch09_w1271_9.png)
 
 *Teaching figure (synthetic).* Cycle-1271 densify scientific residual (ch01–14).

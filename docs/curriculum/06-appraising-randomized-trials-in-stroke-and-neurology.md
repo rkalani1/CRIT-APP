@@ -57,6 +57,46 @@ Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1287_swarm_ch06_w1287_6.png)
+
+*Teaching figure (synthetic).* Cycle-1287 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1285_swarm_ch06_w1285_6.png)
+
+*Teaching figure (synthetic).* Cycle-1285 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1283_swarm_ch06_w1283_6.png)
+
+*Teaching figure (synthetic).* Cycle-1283 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1281_swarm_ch06_w1281_6.png)
+
+*Teaching figure (synthetic).* Cycle-1281 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1279_swarm_ch06_w1279_6.png)
+
+*Teaching figure (synthetic).* Cycle-1279 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1277_swarm_ch06_w1277_6.png)
+
+*Teaching figure (synthetic).* Cycle-1277 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1275_swarm_ch06_w1275_6.png)
+
+*Teaching figure (synthetic).* Cycle-1275 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1273_swarm_ch06_w1273_6.png)
+
+*Teaching figure (synthetic).* Cycle-1273 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1271_swarm_ch06_w1271_6.png)
 
 *Teaching figure (synthetic).* Cycle-1271 densify scientific residual (ch01–14).

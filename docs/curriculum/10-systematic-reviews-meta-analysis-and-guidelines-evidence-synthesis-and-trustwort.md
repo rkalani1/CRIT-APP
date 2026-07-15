@@ -60,6 +60,46 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Guidelines need local absolute transport.
 
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1287_swarm_ch10_w1287_10.png)
+
+*Teaching figure (synthetic).* Cycle-1287 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1285_swarm_ch10_w1285_10.png)
+
+*Teaching figure (synthetic).* Cycle-1285 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1283_swarm_ch10_w1283_10.png)
+
+*Teaching figure (synthetic).* Cycle-1283 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1281_swarm_ch10_w1281_10.png)
+
+*Teaching figure (synthetic).* Cycle-1281 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1279_swarm_ch10_w1279_10.png)
+
+*Teaching figure (synthetic).* Cycle-1279 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1277_swarm_ch10_w1277_10.png)
+
+*Teaching figure (synthetic).* Cycle-1277 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1275_swarm_ch10_w1275_10.png)
+
+*Teaching figure (synthetic).* Cycle-1275 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1273_swarm_ch10_w1273_10.png)
+
+*Teaching figure (synthetic).* Cycle-1273 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle1271_swarm_ch10_w1271_10.png)
 
 *Teaching figure (synthetic).* Cycle-1271 densify scientific residual (ch01–14).
