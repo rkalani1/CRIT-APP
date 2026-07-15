@@ -64,6 +64,46 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1095_swarm_ch03_w1095_3.png)
+
+*Teaching figure (synthetic).* Cycle-1095 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1093_swarm_ch03_w1093_3.png)
+
+*Teaching figure (synthetic).* Cycle-1093 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1091_swarm_ch03_w1091_3.png)
+
+*Teaching figure (synthetic).* Cycle-1091 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1089_swarm_ch03_w1089_3.png)
+
+*Teaching figure (synthetic).* Cycle-1089 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1087_swarm_ch03_w1087_3.png)
+
+*Teaching figure (synthetic).* Cycle-1087 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1085_swarm_ch03_w1085_3.png)
+
+*Teaching figure (synthetic).* Cycle-1085 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1083_swarm_ch03_w1083_3.png)
+
+*Teaching figure (synthetic).* Cycle-1083 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1081_swarm_ch03_w1081_3.png)
+
+*Teaching figure (synthetic).* Cycle-1081 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1079_swarm_ch03_w1079_3.png)
 
 *Teaching figure (synthetic).* Cycle-1079 densify scientific residual (ch01–14).

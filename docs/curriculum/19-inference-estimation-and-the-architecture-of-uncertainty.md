@@ -66,6 +66,46 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
 
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1096_swarm_ch19_w1096_5.png)
+
+*Teaching figure (synthetic).* Cycle-1096 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1094_swarm_ch19_w1094_5.png)
+
+*Teaching figure (synthetic).* Cycle-1094 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1092_swarm_ch19_w1092_5.png)
+
+*Teaching figure (synthetic).* Cycle-1092 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1090_swarm_ch19_w1090_5.png)
+
+*Teaching figure (synthetic).* Cycle-1090 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1088_swarm_ch19_w1088_5.png)
+
+*Teaching figure (synthetic).* Cycle-1088 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1086_swarm_ch19_w1086_5.png)
+
+*Teaching figure (synthetic).* Cycle-1086 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1084_swarm_ch19_w1084_5.png)
+
+*Teaching figure (synthetic).* Cycle-1084 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1082_swarm_ch19_w1082_5.png)
+
+*Teaching figure (synthetic).* Cycle-1082 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1080_swarm_ch19_w1080_5.png)
 
 *Teaching figure (synthetic).* Cycle-1080 densify scientific residual (ch15–28).

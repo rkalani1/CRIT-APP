@@ -75,6 +75,46 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1096_swarm_ch21_w1096_7.png)
+
+*Teaching figure (synthetic).* Cycle-1096 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1094_swarm_ch21_w1094_7.png)
+
+*Teaching figure (synthetic).* Cycle-1094 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1092_swarm_ch21_w1092_7.png)
+
+*Teaching figure (synthetic).* Cycle-1092 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1090_swarm_ch21_w1090_7.png)
+
+*Teaching figure (synthetic).* Cycle-1090 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1088_swarm_ch21_w1088_7.png)
+
+*Teaching figure (synthetic).* Cycle-1088 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1086_swarm_ch21_w1086_7.png)
+
+*Teaching figure (synthetic).* Cycle-1086 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1084_swarm_ch21_w1084_7.png)
+
+*Teaching figure (synthetic).* Cycle-1084 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1082_swarm_ch21_w1082_7.png)
+
+*Teaching figure (synthetic).* Cycle-1082 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1080_swarm_ch21_w1080_7.png)
 
 *Teaching figure (synthetic).* Cycle-1080 densify scientific residual (ch15–28).
