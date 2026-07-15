@@ -72,6 +72,86 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1080_swarm_ch25_w1080_11.png)
+
+*Teaching figure (synthetic).* Cycle-1080 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1078_swarm_ch25_w1078_11.png)
+
+*Teaching figure (synthetic).* Cycle-1078 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1076_swarm_ch25_w1076_11.png)
+
+*Teaching figure (synthetic).* Cycle-1076 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1074_swarm_ch25_w1074_11.png)
+
+*Teaching figure (synthetic).* Cycle-1074 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1072_swarm_ch25_w1072_11.png)
+
+*Teaching figure (synthetic).* Cycle-1072 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1070_swarm_ch25_w1070_11.png)
+
+*Teaching figure (synthetic).* Cycle-1070 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1068_swarm_ch25_w1068_11.png)
+
+*Teaching figure (synthetic).* Cycle-1068 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1066_swarm_ch25_w1066_11.png)
+
+*Teaching figure (synthetic).* Cycle-1066 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1064_swarm_ch25_w1064_11.png)
+
+*Teaching figure (synthetic).* Cycle-1064 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1062_swarm_ch25_w1062_11.png)
+
+*Teaching figure (synthetic).* Cycle-1062 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1060_swarm_ch25_w1060_11.png)
+
+*Teaching figure (synthetic).* Cycle-1060 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1058_swarm_ch25_w1058_11.png)
+
+*Teaching figure (synthetic).* Cycle-1058 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1056_swarm_ch25_w1056_11.png)
+
+*Teaching figure (synthetic).* Cycle-1056 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1054_swarm_ch25_w1054_11.png)
+
+*Teaching figure (synthetic).* Cycle-1054 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1052_swarm_ch25_w1052_11.png)
+
+*Teaching figure (synthetic).* Cycle-1052 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1050_swarm_ch25_w1050_11.png)
+
+*Teaching figure (synthetic).* Cycle-1050 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1048_swarm_ch25_w1048_11.png)
 
 *Teaching figure (synthetic).* Cycle-1048 densify scientific residual (ch15–28).

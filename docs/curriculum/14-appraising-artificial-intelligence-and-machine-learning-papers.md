@@ -50,6 +50,86 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1079_swarm_ch14_w1079_14.png)
+
+*Teaching figure (synthetic).* Cycle-1079 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1077_swarm_ch14_w1077_14.png)
+
+*Teaching figure (synthetic).* Cycle-1077 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1075_swarm_ch14_w1075_14.png)
+
+*Teaching figure (synthetic).* Cycle-1075 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1073_swarm_ch14_w1073_14.png)
+
+*Teaching figure (synthetic).* Cycle-1073 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1071_swarm_ch14_w1071_14.png)
+
+*Teaching figure (synthetic).* Cycle-1071 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1069_swarm_ch14_w1069_14.png)
+
+*Teaching figure (synthetic).* Cycle-1069 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1067_swarm_ch14_w1067_14.png)
+
+*Teaching figure (synthetic).* Cycle-1067 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1065_swarm_ch14_w1065_14.png)
+
+*Teaching figure (synthetic).* Cycle-1065 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1063_swarm_ch14_w1063_14.png)
+
+*Teaching figure (synthetic).* Cycle-1063 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1061_swarm_ch14_w1061_14.png)
+
+*Teaching figure (synthetic).* Cycle-1061 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1059_swarm_ch14_w1059_14.png)
+
+*Teaching figure (synthetic).* Cycle-1059 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1057_swarm_ch14_w1057_14.png)
+
+*Teaching figure (synthetic).* Cycle-1057 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1055_swarm_ch14_w1055_14.png)
+
+*Teaching figure (synthetic).* Cycle-1055 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1053_swarm_ch14_w1053_14.png)
+
+*Teaching figure (synthetic).* Cycle-1053 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1051_swarm_ch14_w1051_14.png)
+
+*Teaching figure (synthetic).* Cycle-1051 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1049_swarm_ch14_w1049_14.png)
+
+*Teaching figure (synthetic).* Cycle-1049 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle1047_swarm_ch14_w1047_14.png)
 
 *Teaching figure (synthetic).* Cycle-1047 densify scientific residual (ch01–14).

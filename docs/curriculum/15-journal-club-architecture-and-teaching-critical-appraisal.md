@@ -64,6 +64,86 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1080_swarm_ch15_w1080_1.png)
+
+*Teaching figure (synthetic).* Cycle-1080 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1078_swarm_ch15_w1078_1.png)
+
+*Teaching figure (synthetic).* Cycle-1078 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1076_swarm_ch15_w1076_1.png)
+
+*Teaching figure (synthetic).* Cycle-1076 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1074_swarm_ch15_w1074_1.png)
+
+*Teaching figure (synthetic).* Cycle-1074 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1072_swarm_ch15_w1072_1.png)
+
+*Teaching figure (synthetic).* Cycle-1072 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1070_swarm_ch15_w1070_1.png)
+
+*Teaching figure (synthetic).* Cycle-1070 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1068_swarm_ch15_w1068_1.png)
+
+*Teaching figure (synthetic).* Cycle-1068 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1066_swarm_ch15_w1066_1.png)
+
+*Teaching figure (synthetic).* Cycle-1066 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1064_swarm_ch15_w1064_1.png)
+
+*Teaching figure (synthetic).* Cycle-1064 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1062_swarm_ch15_w1062_1.png)
+
+*Teaching figure (synthetic).* Cycle-1062 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1060_swarm_ch15_w1060_1.png)
+
+*Teaching figure (synthetic).* Cycle-1060 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1058_swarm_ch15_w1058_1.png)
+
+*Teaching figure (synthetic).* Cycle-1058 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1056_swarm_ch15_w1056_1.png)
+
+*Teaching figure (synthetic).* Cycle-1056 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1054_swarm_ch15_w1054_1.png)
+
+*Teaching figure (synthetic).* Cycle-1054 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1052_swarm_ch15_w1052_1.png)
+
+*Teaching figure (synthetic).* Cycle-1052 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1050_swarm_ch15_w1050_1.png)
+
+*Teaching figure (synthetic).* Cycle-1050 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1048_swarm_ch15_w1048_1.png)
 
 *Teaching figure (synthetic).* Cycle-1048 densify scientific residual (ch15–28).

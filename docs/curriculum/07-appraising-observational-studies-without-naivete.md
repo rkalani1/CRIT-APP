@@ -64,6 +64,86 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Design residual is absolute residual.
 
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1079_swarm_ch07_w1079_7.png)
+
+*Teaching figure (synthetic).* Cycle-1079 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1077_swarm_ch07_w1077_7.png)
+
+*Teaching figure (synthetic).* Cycle-1077 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1075_swarm_ch07_w1075_7.png)
+
+*Teaching figure (synthetic).* Cycle-1075 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1073_swarm_ch07_w1073_7.png)
+
+*Teaching figure (synthetic).* Cycle-1073 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1071_swarm_ch07_w1071_7.png)
+
+*Teaching figure (synthetic).* Cycle-1071 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1069_swarm_ch07_w1069_7.png)
+
+*Teaching figure (synthetic).* Cycle-1069 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1067_swarm_ch07_w1067_7.png)
+
+*Teaching figure (synthetic).* Cycle-1067 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1065_swarm_ch07_w1065_7.png)
+
+*Teaching figure (synthetic).* Cycle-1065 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1063_swarm_ch07_w1063_7.png)
+
+*Teaching figure (synthetic).* Cycle-1063 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1061_swarm_ch07_w1061_7.png)
+
+*Teaching figure (synthetic).* Cycle-1061 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1059_swarm_ch07_w1059_7.png)
+
+*Teaching figure (synthetic).* Cycle-1059 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1057_swarm_ch07_w1057_7.png)
+
+*Teaching figure (synthetic).* Cycle-1057 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1055_swarm_ch07_w1055_7.png)
+
+*Teaching figure (synthetic).* Cycle-1055 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1053_swarm_ch07_w1053_7.png)
+
+*Teaching figure (synthetic).* Cycle-1053 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1051_swarm_ch07_w1051_7.png)
+
+*Teaching figure (synthetic).* Cycle-1051 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1049_swarm_ch07_w1049_7.png)
+
+*Teaching figure (synthetic).* Cycle-1049 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1047_swarm_ch07_w1047_7.png)
 
 *Teaching figure (synthetic).* Cycle-1047 densify scientific residual (ch01–14).
