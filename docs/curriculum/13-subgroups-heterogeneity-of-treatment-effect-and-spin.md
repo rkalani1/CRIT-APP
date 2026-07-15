@@ -1,6 +1,10 @@
 # Chapter 13. Subgroups, Heterogeneity of Treatment Effect, and Spin
 
 ## Opening
+![Subgroup credibility probes (original).](../assets/figures/crit_fig_subgroup_probes.png)
+
+*Subgroup credibility probes (original).*
+
 
 ![Spin detector checklist graphic (original).](../assets/figures/fig37_spin_detector.png)
 

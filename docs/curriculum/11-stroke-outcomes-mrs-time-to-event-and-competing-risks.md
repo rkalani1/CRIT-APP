@@ -1,6 +1,10 @@
 # Chapter 11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks
 
 ## Opening
+![mRS ordinal ladder (original teaching graphic).](../assets/figures/crit_fig_mrs_ladder.png)
+
+*mRS ordinal ladder (original teaching graphic).*
+
 
 ![Competing risks (original).](../assets/figures/fig31_competing_risks.png)
 
