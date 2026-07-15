@@ -64,6 +64,11 @@ A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verifica
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle51_swarm_ch08_treat_thresh.png)
+
+*Teaching figure (synthetic).* Cycle-51 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle49_swarm_ch08_posttest.png)
 
 *Teaching figure (synthetic).* Cycle-49 densify scientific residual (ch01–14).
