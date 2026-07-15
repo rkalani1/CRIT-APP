@@ -37,6 +37,10 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Policy changes must show absolute outcome and equity metrics (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch28_system_metrics.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Pathway Change and De-Implementation
 
 ![Policy absolute communication checklist residual (original teaching figure).](../assets/figures/cycle24_swarm_ch28_policy_comm.png)

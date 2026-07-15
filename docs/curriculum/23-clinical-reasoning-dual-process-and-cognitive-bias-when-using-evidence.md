@@ -42,6 +42,10 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Absolute checklists cut cognitive probability error (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch23_debias.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Why Reasoning Quality Is an Evidence Skill
 
 ![Cognitive biases cost absolute probability accuracy (original teaching figure).](../assets/figures/cycle24_swarm_ch23_bias_cost.png)

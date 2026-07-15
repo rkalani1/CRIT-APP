@@ -39,6 +39,10 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Early stopping can lock inflated absolute effects (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch27_interim_arr.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 ![Thin absolute margins despite p-significance residual (original teaching figure).](../assets/figures/cycle24_swarm_ch27_thin_margin.png)

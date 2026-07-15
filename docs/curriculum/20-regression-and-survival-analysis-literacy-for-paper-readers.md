@@ -37,6 +37,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Log-odds beta is not absolute ARR without baseline risk (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch20_beta_to_rd.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Mapping Clinical Outcomes to Regression Models
 
 ![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)

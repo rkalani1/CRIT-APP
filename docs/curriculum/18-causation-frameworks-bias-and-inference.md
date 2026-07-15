@@ -37,6 +37,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Absolute ARR is the endpoint of causal credibility (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch18_cred_path.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Introduction: The Causal Gap in Neurological Literature
 
 ![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)

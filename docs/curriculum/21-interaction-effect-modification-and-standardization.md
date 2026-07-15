@@ -41,6 +41,10 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Joint absolute risks for additive interaction (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch21_joint_risks.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Interaction Versus Confounding: Structural Distinctions
 
 ![Additive RERI residual over multiplicative p alone (original teaching figure).](../assets/figures/cycle23_swarm_ch21_reri.png)

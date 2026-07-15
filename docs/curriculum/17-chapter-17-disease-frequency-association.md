@@ -33,6 +33,10 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![RD RR OR from absolute two-by-two cell counts (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch17_twobytwo.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## Conceptual core: frequency first
 
 ![Incidence, prevalence, rate are three absolute units (original teaching figure).](../assets/figures/cycle23_swarm_ch17_three_units.png)

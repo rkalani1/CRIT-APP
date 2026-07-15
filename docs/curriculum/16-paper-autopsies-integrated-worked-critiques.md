@@ -40,6 +40,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Cycle-30 densify scientific residual.
 
+![Absolute action confidence falls with fatal flaw burden (original scientific teaching figure).](../assets/figures/cycle32_swarm_ch16_flaw_action_curve.png)
+
+*Teaching figure (synthetic).* Cycle-32 densify scientific residual.
+
 ## The Architecture of the Paper Autopsy
 
 ![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)
