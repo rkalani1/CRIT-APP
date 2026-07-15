@@ -63,6 +63,46 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-43 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1369_swarm_ch13_w1369_13.png)
+
+*Teaching figure (synthetic).* Cycle-1369 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1367_swarm_ch13_w1367_13.png)
+
+*Teaching figure (synthetic).* Cycle-1367 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1365_swarm_ch13_w1365_13.png)
+
+*Teaching figure (synthetic).* Cycle-1365 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1363_swarm_ch13_w1363_13.png)
+
+*Teaching figure (synthetic).* Cycle-1363 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1361_swarm_ch13_w1361_13.png)
+
+*Teaching figure (synthetic).* Cycle-1361 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1359_swarm_ch13_w1359_13.png)
+
+*Teaching figure (synthetic).* Cycle-1359 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1357_swarm_ch13_w1357_13.png)
+
+*Teaching figure (synthetic).* Cycle-1357 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1355_swarm_ch13_w1355_13.png)
+
+*Teaching figure (synthetic).* Cycle-1355 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1353_swarm_ch13_w1353_13.png)
 
 *Teaching figure (synthetic).* Cycle-1353 densify scientific residual (ch01–14).
