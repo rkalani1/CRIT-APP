@@ -75,6 +75,26 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle304_swarm_ch28_w304_14.png)
+
+*Teaching figure (synthetic).* Cycle-304 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle302_swarm_ch28_w302_14.png)
+
+*Teaching figure (synthetic).* Cycle-302 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle300_swarm_ch28_w300_14.png)
+
+*Teaching figure (synthetic).* Cycle-300 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle298_swarm_ch28_w298_14.png)
+
+*Teaching figure (synthetic).* Cycle-298 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle296_swarm_ch28_w296_14.png)
 
 *Teaching figure (synthetic).* Cycle-296 densify scientific residual (ch15–28).
