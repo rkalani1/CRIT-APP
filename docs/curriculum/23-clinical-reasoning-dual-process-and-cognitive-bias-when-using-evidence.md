@@ -56,6 +56,11 @@ Evidence consumption exhibits a parallel dual-process dichotomy. Scanning a jour
 
 ## Cognitive Biases Distorting Neurologic Diagnosis and Evidence Integration
 
+![Availability bias inflates subjective sICH risk; forced absolute base-rate card collapses the estimate toward epidemiologic ARI (original teaching figure).](../assets/figures/cycle10_swarm_ch23_base_rate.png)
+
+*Teaching figure (synthetic).* Debias with natural frequencies: write ARI/NNH beside vivid case memory before withholding indicated therapy.
+
+
 ### Anchoring
 
 Anchoring represents a disproportionate adherence to an initial piece of information. A triage designation of 'acute stroke' establishes a profound cognitive anchor, often enduring even as the patient demonstrates fluctuating, functional, or non-vascular symptomatology. In the literature, a relative risk reduction of 45% published in a prominent abstract anchors the reader's perception of efficacy, overshadowing the subsequent revelation that the absolute risk reduction is a mere 1.2%. Neutralizing anchors demands the deliberate generation of competing hypotheses and the rigid translation of all statistical claims into natural frequencies.

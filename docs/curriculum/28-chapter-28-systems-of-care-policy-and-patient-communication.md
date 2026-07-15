@@ -102,6 +102,11 @@ For 100 people like you, over [time horizon]:
 
 ## From Paper to Policy: One-Page Systems Memo
 
+![Systems memo absolute action strip: decision, ARR/ARI ledger, transport package, equity by access, 90-day audit metric (original teaching figure).](../assets/figures/cycle10_swarm_ch28_systems_memo.png)
+
+*Teaching figure (synthetic).* Policy language without absolute effects and equity strata is unfinished. Implementation readiness rises when the memo carries ARR/NNT and an audit outcome.
+
+
 ```
 SYSTEMS MEMO — EVIDENCE TO PATHWAY
 ==================================

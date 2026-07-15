@@ -78,6 +78,11 @@ In a twenty-minute protocol review or journal club preparation, this four-bin ta
 
 ## Selection Bias: Mechanisms and Stroke Examples
 
+![Selection funnel shrinks the analyzed set and invents absolute benefit versus the true target ARR (original teaching figure).](../assets/figures/cycle10_swarm_ch04_selection_funnel.png)
+
+*Teaching figure (synthetic).* Who consents and who remains complete-case is not a random subsample. Selection can double claimed ARR—name the funnel before trusting any NNT.
+
+
 ![Teaching DAGs: confounding is a common-cause fork; selection bias is conditioning on a common-effect collider (original teaching figure).](../assets/figures/cycle3_swarm_ch04_selection_vs_confounding.png)
 
 *Teaching figure (synthetic).* Left: severity opens a backdoor path treatment ← severity → outcome—block with pre-exposure adjustment. Right: restricting to patients who enter the analytic sample (S=1) when both exposure and outcome-related factors cause inclusion invents a non-causal association. Naming the structure prevents the amateur habit of calling every problem “confounding.” Absolute transport (ARR/NNT in *your* case-mix) is a separate question after internal validity.

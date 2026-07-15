@@ -37,6 +37,11 @@ The stroke literature frequently exhibits linguistic and analytical confusion be
 
 ## Scale Dependence: Additive and Multiplicative Frameworks
 
+![Constant RR=0.75 yields different stratum ARRs—no multiplicative interaction yet clear additive absolute HTE (original teaching figure).](../assets/figures/cycle10_swarm_ch21_add_vs_mult.png)
+
+*Teaching figure (synthetic).* Clinical decisions live on the additive absolute scale. Homogeneous RR still produces heterogeneous NNT by baseline risk.
+
+
 Interaction is not an absolute property of the data; it is mathematically tethered to the scale of analysis. Two frameworks predominate: the additive scale (evaluating rate or risk differences) and the multiplicative scale (evaluating risk, odds, or hazard ratios). Data demonstrating perfect homogeneity on one scale often exhibit marked interaction on the other. This property routinely complicates the interpretation of trial data where baseline risks vary significantly.
 
 Assume a trial of intensive lipid lowering in secondary stroke prevention yields a relative risk of 0.75 across all investigated subgroups. Multiplicative homogeneity is satisfied. However, if the baseline five-year stroke risk is 20% in patients with severe intracranial atherosclerosis and 8% in patients with cryptogenic stroke, the absolute risk reductions diverge (5.0% versus 2.0%, respectively). Although the multiplicative model detects no interaction, the additive scale demonstrates substantial effect modification.

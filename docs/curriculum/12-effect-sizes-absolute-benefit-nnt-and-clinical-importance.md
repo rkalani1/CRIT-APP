@@ -127,6 +127,11 @@ Modern clinical epidemiology demands a shift from hypothesis testing to estimati
 
 ## Named Framework: The Absolute Effect Translation Checklist
 
+![Net absolute benefit: high vs low baseline ARR against fixed ARI, plus absolute translation checklist (original teaching figure).](../assets/figures/cycle10_swarm_ch12_net_benefit.png)
+
+*Teaching figure (synthetic).* Net clinical benefit is ARR − ARI on one horizon. Relative language without the absolute ledger cannot authorize a pathway rewrite.
+
+
 When reading a trial abstract, results section, or meta-analysis, deploy this sequential checklist to strip away relative framing, avoid spin, and establish the absolute clinical reality. Memorize this sequence.
 
 1. Identify the Metric: Is the primary result reported as an RR, OR, HR, or IRR? Verify that the authors are not calling an OR a Risk Ratio.

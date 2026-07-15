@@ -118,6 +118,11 @@ To emulate the target trial, time-zero must be set exactly at the point of clini
 
 ## Autopsy C — The Imaging AI Model (RapidLVO-Net)
 
+![AI autopsy absolute recon: AUROC hype vs local PPV, net benefit, and silent-failure rate (original teaching figure).](../assets/figures/cycle10_swarm_ch16_ai_autopsy.png)
+
+*Teaching figure (synthetic).* Autopsies of AI papers end on prevalence-conditioned absolute metrics and a human-in-loop action—not on AUROC alone. Prediction is not autonomous triage.
+
+
 ### C1. Model Architecture and Clinical Stake
 
 RapidLVO-Net describes a convolutional neural network designed for automated large vessel occlusion (LVO) detection on computed tomography angiography (CTA). The abstract broadcasts a test set AUROC of 0.96 and claims 'external validation' demonstrates outperformance over radiologists, implying readiness for autonomous triage and queue preemption. The clinical stake is whether to hardwire this algorithm into the acute stroke pathway, bypassing human radiology reads for immediate EVT team activation.

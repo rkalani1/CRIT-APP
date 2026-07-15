@@ -89,6 +89,11 @@ Appraisers must demand that authors present sensitivity, specificity, and predic
 
 ## Pitfalls and Failure Modes: Spectrum Bias
 
+![Spectrum bias moves Se/Sp across healthy-vs-severe, consecutive suspected, and mild gray-zone cohorts—and rewrites absolute post-test risk at the same prior (original teaching figure).](../assets/figures/cycle10_swarm_ch08_spectrum_bias.png)
+
+*Teaching figure (synthetic).* Accuracy metrics are spectrum-conditioned. Transport LRs only after matching the gray zone of intended use; extreme contrasts manufacture dazzling but unusable absolute post-test probabilities.
+
+
 Diagnostic accuracy is not an immutable physical constant of a test; it is deeply contingent on the composition of the study population. Spectrum bias occurs when the study population's mix of disease severity and alternative diagnoses systematically differs from the clinical population in which the test will ultimately be deployed. Because sensitivity and specificity are calculated based on the diseased and non-diseased cohorts present in the study, altering the spectrum of those cohorts artificially inflates or deflates the metrics.
 
 The classic, egregious form of spectrum bias arises in case-control diagnostic designs. Researchers identify a cohort of unambiguous, severe cases (e.g., patients with massive, dense middle cerebral artery territory infarctions on MRI) and compare them to a cohort of perfectly healthy volunteers. This extreme phenotypic separation makes the diagnostic task trivial. Any biomarker or clinical scale will demonstrate near-perfect sensitivity and specificity. When the test is subsequently deployed in an undifferentiated emergency department population—which includes small lacunar infarcts, complex migraines, functional neurological disorders, and seizures—the test's performance collapses because the 'gray zone' of overlapping phenotypes was entirely excluded from the derivation study.
