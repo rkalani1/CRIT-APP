@@ -35,6 +35,10 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Effect-size residual: absolute NNT inherits asymmetric uncertainty from ARR CI (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch12_nnt_uncertainty.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## Conceptual Core: The Imperative of Absolute Effects
 
 ![RRR stays flat while ARR and NNT scale with baseline risk—refuse relative-only marketing (original teaching figure).](../assets/figures/cycle17_swarm_ch12_rrr_vs_arr.png)

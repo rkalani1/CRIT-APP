@@ -34,6 +34,10 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Meta residual: high I-squared widens absolute prediction intervals (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch10_i2_pi_width.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
 ![Convert pooled RR through local CER to absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch10_local_nnt.png)

@@ -32,6 +32,10 @@ A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verifica
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Diagnostic residual: LR maps pre-test absolute risk to post-test absolute risk (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch08_lr_ladder.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## Conceptual Core: Diagnosis as a Decision Under Uncertainty
 
 Diagnostic research does not exist in a separate moral or epistemological universe from therapeutic research. A diagnostic test matters exclusively insofar as it changes probabilities enough to alter actions—whether those actions are to administer tenecteplase, withhold anticoagulation, image further, transfer to a comprehensive stroke center, or reassure the patient. Vascular neurology is saturated with diagnostic claims. The literature overflows with prehospital large-vessel occlusion (LVO) clinical screens, automated CT angiography readings, CT perfusion core and penumbra algorithms, MRI diffusion-weighted imaging (DWI) protocols for transient ischemic attack (TIA) workups, high-resolution vessel-wall imaging techniques, continuous EEG criteria for subtle status epilepticus, and machine-learning hemorrhage detectors. Many of these papers report impressive sensitivities or large areas under the receiver operating characteristic (ROC) curve without ever demonstrating that a clinician's decision threshold would actually move. The appraiser must remain stubbornly anchored to the clinical decision.

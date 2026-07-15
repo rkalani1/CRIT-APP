@@ -34,6 +34,10 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Prognosis residual: high AUROC with miscalibration misprices absolute risk (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch09_disc_vs_calib.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## The Demarcation of Prediction from Causal Inference
 
 ![External calibration residual shows absolute risk mispricing (original teaching figure).](../assets/figures/cycle22_swarm_ch09_ext_calib.png)

@@ -39,6 +39,10 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Subgroup residual: overall null absolute primary with exploratory spin strata (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch13_spin_forest.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## The Epistemology of Subgroups in Neurological Trials
 
 ![Homogeneous RR with heterogeneous absolute ARR across risk strata (original teaching figure).](../assets/figures/cycle22_swarm_ch13_hte_abs.png)

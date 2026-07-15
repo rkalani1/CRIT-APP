@@ -30,6 +30,10 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Question residual: incomplete PICO or estimand blocks absolute ARR transport (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch03_pico_heatmap.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
 ![Estimand completeness residual: intercurrent and absolute summary often missing (original teaching figure).](../assets/figures/cycle22_swarm_ch03_estimand_complete.png)

@@ -33,6 +33,10 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Speed residual: rushed readers starve the absolute ARR table (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch02_minute_budget.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 ![Triage weights protect absolute ARR under time pressure (original teaching figure).](../assets/figures/cycle22_swarm_ch02_triage_weights.png)

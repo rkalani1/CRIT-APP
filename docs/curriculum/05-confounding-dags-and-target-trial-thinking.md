@@ -33,6 +33,10 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-25 densify scientific residual.
 
+![Confounding residual: target-trial completeness shrinks absolute bias (original scientific teaching figure).](../assets/figures/cycle27_swarm_ch05_target_trial_bias.png)
+
+*Teaching figure (synthetic).* Cycle-27 densify scientific residual.
+
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 ![Close backdoor paths before absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch05_dag_close.png)
