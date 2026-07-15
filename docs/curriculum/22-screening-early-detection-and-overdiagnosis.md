@@ -64,6 +64,26 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle320_swarm_ch22_w320_8.png)
+
+*Teaching figure (synthetic).* Cycle-320 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle318_swarm_ch22_w318_8.png)
+
+*Teaching figure (synthetic).* Cycle-318 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle316_swarm_ch22_w316_8.png)
+
+*Teaching figure (synthetic).* Cycle-316 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle314_swarm_ch22_w314_8.png)
+
+*Teaching figure (synthetic).* Cycle-314 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle312_swarm_ch22_w312_8.png)
 
 *Teaching figure (synthetic).* Cycle-312 densify scientific residual (ch15–28).

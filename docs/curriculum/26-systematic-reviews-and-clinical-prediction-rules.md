@@ -71,6 +71,26 @@ A clinical prediction rule is proposed for ED triage. Inspect derivation, valida
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle320_swarm_ch26_w320_12.png)
+
+*Teaching figure (synthetic).* Cycle-320 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle318_swarm_ch26_w318_12.png)
+
+*Teaching figure (synthetic).* Cycle-318 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle316_swarm_ch26_w316_12.png)
+
+*Teaching figure (synthetic).* Cycle-316 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle314_swarm_ch26_w314_12.png)
+
+*Teaching figure (synthetic).* Cycle-314 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 26 (original scientific teaching figure).](../assets/figures/cycle312_swarm_ch26_w312_12.png)
 
 *Teaching figure (synthetic).* Cycle-312 densify scientific residual (ch15–28).
