@@ -64,6 +64,46 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Design residual is absolute residual.
 
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1417_swarm_ch07_w1417_7.png)
+
+*Teaching figure (synthetic).* Cycle-1417 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1415_swarm_ch07_w1415_7.png)
+
+*Teaching figure (synthetic).* Cycle-1415 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1413_swarm_ch07_w1413_7.png)
+
+*Teaching figure (synthetic).* Cycle-1413 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1411_swarm_ch07_w1411_7.png)
+
+*Teaching figure (synthetic).* Cycle-1411 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1409_swarm_ch07_w1409_7.png)
+
+*Teaching figure (synthetic).* Cycle-1409 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1407_swarm_ch07_w1407_7.png)
+
+*Teaching figure (synthetic).* Cycle-1407 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1405_swarm_ch07_w1405_7.png)
+
+*Teaching figure (synthetic).* Cycle-1405 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1403_swarm_ch07_w1403_7.png)
+
+*Teaching figure (synthetic).* Cycle-1403 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 07 (original scientific teaching figure).](../assets/figures/cycle1401_swarm_ch07_w1401_7.png)
 
 *Teaching figure (synthetic).* Cycle-1401 densify scientific residual (ch01–14).

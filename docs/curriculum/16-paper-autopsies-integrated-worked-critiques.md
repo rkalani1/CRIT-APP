@@ -62,6 +62,46 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1418_swarm_ch16_w1418_2.png)
+
+*Teaching figure (synthetic).* Cycle-1418 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1416_swarm_ch16_w1416_2.png)
+
+*Teaching figure (synthetic).* Cycle-1416 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1414_swarm_ch16_w1414_2.png)
+
+*Teaching figure (synthetic).* Cycle-1414 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1412_swarm_ch16_w1412_2.png)
+
+*Teaching figure (synthetic).* Cycle-1412 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1410_swarm_ch16_w1410_2.png)
+
+*Teaching figure (synthetic).* Cycle-1410 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1408_swarm_ch16_w1408_2.png)
+
+*Teaching figure (synthetic).* Cycle-1408 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1406_swarm_ch16_w1406_2.png)
+
+*Teaching figure (synthetic).* Cycle-1406 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1404_swarm_ch16_w1404_2.png)
+
+*Teaching figure (synthetic).* Cycle-1404 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1402_swarm_ch16_w1402_2.png)
 
 *Teaching figure (synthetic).* Cycle-1402 densify scientific residual (ch15–28).
