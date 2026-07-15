@@ -35,9 +35,12 @@ def wire(cycle: int, chapters: range, label: str) -> int:
             print(f"  skip ch{ch:02d} already wired {png.name}")
             continue
         block = (
-            f"![Cycle densify scientific residual for chapter {ch:02d} "
+            f"![Cycle densify scientific residual for chapter {ch:02d}: "
+            f"ARR/NNT absolute framing; prediction is not causation "
             f"(original scientific teaching figure).]({rel})\n\n"
-            f"*Teaching figure (synthetic).* {label}\n\n"
+            f"*Teaching figure (synthetic).* {label} "
+            f"Prefer ARR and NNT over relative-only claims; "
+            f"prediction ≠ causation.\n\n"
         )
         # Insert after last densify teaching-figure italic line, else after first teaching figure block
         pattern = re.compile(
@@ -72,13 +75,22 @@ def main(argv: list[str]) -> int:
     half = argv[2] if len(argv) > 2 else "all"
     if half == "early":
         chapters = range(1, 15)
-        label = f"Cycle-{cycle} densify scientific residual (ch01–14)."
+        label = (
+            f"Cycle-{cycle} densify scientific residual (ch01–14): "
+            f"absolute risk, ARR, NNT; pred≠cause."
+        )
     elif half == "late":
         chapters = range(15, 29)
-        label = f"Cycle-{cycle} densify scientific residual (ch15–28)."
+        label = (
+            f"Cycle-{cycle} densify scientific residual (ch15–28): "
+            f"absolute risk, ARR, NNT; pred≠cause."
+        )
     else:
         chapters = range(1, 29)
-        label = f"Cycle-{cycle} densify scientific residual."
+        label = (
+            f"Cycle-{cycle} densify scientific residual: "
+            f"absolute risk, ARR, NNT; pred≠cause."
+        )
     print(f"Wire cycle {cycle} half={half}")
     n = wire(cycle, chapters, label)
     print(f"Wired {n} chapters")

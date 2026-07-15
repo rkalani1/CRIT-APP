@@ -75,6 +75,11 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 21: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1470_swarm_ch21_w1470_7.png)
+
+*Teaching figure (synthetic).* Cycle-1470 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
 ![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle1467_swarm_ch21_w1467_7.png)
 
 *Teaching figure (synthetic).* Cycle-1467 densify scientific residual (ch15–28).

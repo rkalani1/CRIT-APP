@@ -76,6 +76,11 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 24: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1470_swarm_ch24_w1470_10.png)
+
+*Teaching figure (synthetic).* Cycle-1470 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
 ![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle1467_swarm_ch24_w1467_10.png)
 
 *Teaching figure (synthetic).* Cycle-1467 densify scientific residual (ch15–28).

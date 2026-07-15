@@ -66,6 +66,11 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
 
+![Cycle densify scientific residual for chapter 19: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1470_swarm_ch19_w1470_5.png)
+
+*Teaching figure (synthetic).* Cycle-1470 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
 ![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1467_swarm_ch19_w1467_5.png)
 
 *Teaching figure (synthetic).* Cycle-1467 densify scientific residual (ch15–28).
