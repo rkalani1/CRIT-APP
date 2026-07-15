@@ -64,6 +64,31 @@ A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verifica
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1353_swarm_ch08_w1353_8.png)
+
+*Teaching figure (synthetic).* Cycle-1353 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1351_swarm_ch08_w1351_8.png)
+
+*Teaching figure (synthetic).* Cycle-1351 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1349_swarm_ch08_w1349_8.png)
+
+*Teaching figure (synthetic).* Cycle-1349 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1347_swarm_ch08_w1347_8.png)
+
+*Teaching figure (synthetic).* Cycle-1347 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1345_swarm_ch08_w1345_8.png)
+
+*Teaching figure (synthetic).* Cycle-1345 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1343_swarm_ch08_w1343_8.png)
 
 *Teaching figure (synthetic).* Cycle-1343 densify scientific residual (ch01–14).

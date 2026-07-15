@@ -75,6 +75,31 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-46 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1354_swarm_ch28_w1354_14.png)
+
+*Teaching figure (synthetic).* Cycle-1354 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1352_swarm_ch28_w1352_14.png)
+
+*Teaching figure (synthetic).* Cycle-1352 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1350_swarm_ch28_w1350_14.png)
+
+*Teaching figure (synthetic).* Cycle-1350 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1348_swarm_ch28_w1348_14.png)
+
+*Teaching figure (synthetic).* Cycle-1348 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1346_swarm_ch28_w1346_14.png)
+
+*Teaching figure (synthetic).* Cycle-1346 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle1344_swarm_ch28_w1344_14.png)
 
 *Teaching figure (synthetic).* Cycle-1344 densify scientific residual (ch15–28).
