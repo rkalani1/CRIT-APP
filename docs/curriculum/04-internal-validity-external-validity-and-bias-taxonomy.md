@@ -65,6 +65,86 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle855_swarm_ch04_w855_4.png)
+
+*Teaching figure (synthetic).* Cycle-855 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle853_swarm_ch04_w853_4.png)
+
+*Teaching figure (synthetic).* Cycle-853 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle851_swarm_ch04_w851_4.png)
+
+*Teaching figure (synthetic).* Cycle-851 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle849_swarm_ch04_w849_4.png)
+
+*Teaching figure (synthetic).* Cycle-849 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle847_swarm_ch04_w847_4.png)
+
+*Teaching figure (synthetic).* Cycle-847 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle845_swarm_ch04_w845_4.png)
+
+*Teaching figure (synthetic).* Cycle-845 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle843_swarm_ch04_w843_4.png)
+
+*Teaching figure (synthetic).* Cycle-843 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle841_swarm_ch04_w841_4.png)
+
+*Teaching figure (synthetic).* Cycle-841 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle839_swarm_ch04_w839_4.png)
+
+*Teaching figure (synthetic).* Cycle-839 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle837_swarm_ch04_w837_4.png)
+
+*Teaching figure (synthetic).* Cycle-837 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle835_swarm_ch04_w835_4.png)
+
+*Teaching figure (synthetic).* Cycle-835 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle833_swarm_ch04_w833_4.png)
+
+*Teaching figure (synthetic).* Cycle-833 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle831_swarm_ch04_w831_4.png)
+
+*Teaching figure (synthetic).* Cycle-831 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle829_swarm_ch04_w829_4.png)
+
+*Teaching figure (synthetic).* Cycle-829 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle827_swarm_ch04_w827_4.png)
+
+*Teaching figure (synthetic).* Cycle-827 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle825_swarm_ch04_w825_4.png)
+
+*Teaching figure (synthetic).* Cycle-825 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle823_swarm_ch04_w823_4.png)
 
 *Teaching figure (synthetic).* Cycle-823 densify scientific residual (ch01–14).
