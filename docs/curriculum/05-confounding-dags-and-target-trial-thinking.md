@@ -49,6 +49,10 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle35_swarm_ch05_closure.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 ![Close backdoor paths before absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch05_dag_close.png)

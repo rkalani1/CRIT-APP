@@ -46,6 +46,10 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle35_swarm_ch03_pico_miss.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
 ![Estimand completeness residual: intercurrent and absolute summary often missing (original teaching figure).](../assets/figures/cycle22_swarm_ch03_estimand_complete.png)

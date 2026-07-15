@@ -51,6 +51,10 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle35_swarm_ch12_nntcurve.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Conceptual Core: The Imperative of Absolute Effects
 
 ![RRR stays flat while ARR and NNT scale with baseline risk—refuse relative-only marketing (original teaching figure).](../assets/figures/cycle17_swarm_ch12_rrr_vs_arr.png)

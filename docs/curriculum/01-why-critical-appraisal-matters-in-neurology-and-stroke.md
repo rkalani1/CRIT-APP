@@ -50,6 +50,10 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle35_swarm_ch01_protocol_errors.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Introduction: The Clinical Imperative of Critical Appraisal in Neurology
 
 It is 07:10 on a Thursday morning. The overnight resident hands you three PDFs before sign-out: a multicenter endovascular therapy (EVT) trial published online at 02:00 with an accompanying glowing press release; a large claims-database analysis concluding that a specific dual antiplatelet regimen is 'associated with lower thirty-day readmission' after minor stroke; and a secondary-prevention meta-analysis that reports a statistically significant relative risk reduction without displaying absolute event rates in the abstract. The attending on call asks, almost casually, 'Does any of this change what we do today?' That question is not an academic exercise. Within the next twelve hours, your team will decide whether to expand late-window EVT selection criteria, revise dual antiplatelet duration protocols for patients presenting with transient ischemic attacks, and counsel a patient whose family has already read the press release on their mobile devices.

@@ -50,6 +50,10 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle35_swarm_ch10_cumarr.png)
+
+*Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
+
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
 ![Convert pooled RR through local CER to absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch10_local_nnt.png)
