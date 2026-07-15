@@ -168,16 +168,16 @@ Diagnostic claims only matter when they alter probabilities enough to change cli
 
 ## Practice and reflection
 
-1. 1. From a recently published stroke diagnostic paper, manually reconstruct the 2×2 contingency table and independently calculate sensitivity, specificity, PPV, NPV, LR+, and LR-.
-2. 2. Using the calculated likelihood ratios, perform Bayes updating to determine post-test probabilities at prevalences of 2%, 15%, and 45%. State explicitly how clinical actions might differ across these three settings.
-3. 3. Identify one potential mechanism of verification bias and one potential mechanism of spectrum bias in a CTA or LVO-scale study. Propose a rigorous methodological design fix for each.
-4. 4. Critique an abstract that reports only an AUC and a p-value for a novel diagnostic biomarker. Write three distinct clinical questions regarding threshold utility and calibration that the AUC entirely fails to answer.
-5. 5. Draft a concise, one-paragraph systems recommendation for your local stroke network using hypothetical likelihood ratios, your institution's specific LVO base rate, and the estimated costs and risks of inter-facility transfer.
-6. 6. Explain mathematically how imperfect inter-rater reliability of CTA interpretation (acting as the reference standard) could bias the measured sensitivity of a novel clinical LVO scale, and specify the likely direction of the distortion.
-7. 7. Construct a hypothetical scenario demonstrating incorporation bias in a study evaluating the diagnostic accuracy of continuous EEG for subtle status epilepticus.
-8. 8. Calculate the required sample size and minimum number of target events required to safely evaluate a 12-variable logistic regression diagnostic model without severe overfitting.
-9. 9. Define the 'test threshold' and 'treatment threshold' in the context of initiating dual antiplatelet therapy for a suspected high-risk TIA. How does the NNH of major hemorrhage alter these thresholds?
-10. 10. Apply the QUADAS-2 framework to a seminal diagnostic study of your choice. Document your assessment of the Risk of Bias and Applicability specifically for the 'Patient Selection' domain.
+1. From a recently published stroke diagnostic paper, manually reconstruct the 2×2 contingency table and independently calculate sensitivity, specificity, PPV, NPV, LR+, and LR-.
+2. Using the calculated likelihood ratios, perform Bayes updating to determine post-test probabilities at prevalences of 2%, 15%, and 45%. State explicitly how clinical actions might differ across these three settings.
+3. Identify one potential mechanism of verification bias and one potential mechanism of spectrum bias in a CTA or LVO-scale study. Propose a rigorous methodological design fix for each.
+4. Critique an abstract that reports only an AUC and a p-value for a novel diagnostic biomarker. Write three distinct clinical questions regarding threshold utility and calibration that the AUC entirely fails to answer.
+5. Draft a concise, one-paragraph systems recommendation for your local stroke network using hypothetical likelihood ratios, your institution's specific LVO base rate, and the estimated costs and risks of inter-facility transfer.
+6. Explain mathematically how imperfect inter-rater reliability of CTA interpretation (acting as the reference standard) could bias the measured sensitivity of a novel clinical LVO scale, and specify the likely direction of the distortion.
+7. Construct a hypothetical scenario demonstrating incorporation bias in a study evaluating the diagnostic accuracy of continuous EEG for subtle status epilepticus.
+8. Calculate the required sample size and minimum number of target events required to safely evaluate a 12-variable logistic regression diagnostic model without severe overfitting.
+9. Define the 'test threshold' and 'treatment threshold' in the context of initiating dual antiplatelet therapy for a suspected high-risk TIA. How does the NNH of major hemorrhage alter these thresholds?
+10. Apply the QUADAS-2 framework to a seminal diagnostic study of your choice. Document your assessment of the Risk of Bias and Applicability specifically for the 'Patient Selection' domain.
 
 ---
 

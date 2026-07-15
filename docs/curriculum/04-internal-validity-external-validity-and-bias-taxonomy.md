@@ -78,6 +78,10 @@ In a twenty-minute protocol review or journal club preparation, this four-bin ta
 
 ## Selection Bias: Mechanisms and Stroke Examples
 
+![Teaching DAGs: confounding is a common-cause fork; selection bias is conditioning on a common-effect collider (original teaching figure).](../assets/figures/cycle3_swarm_ch04_selection_vs_confounding.png)
+
+*Teaching figure (synthetic).* Left: severity opens a backdoor path treatment ← severity → outcome—block with pre-exposure adjustment. Right: restricting to patients who enter the analytic sample (S=1) when both exposure and outcome-related factors cause inclusion invents a non-causal association. Naming the structure prevents the amateur habit of calling every problem “confounding.” Absolute transport (ARR/NNT in *your* case-mix) is a separate question after internal validity.
+
 Selection bias is a structural flaw arising when the probability of a patient being included in the final analytical dataset is influenced by both the exposure and the outcome (or by unmeasured causes of the exposure and outcome). Mathematically, this is equivalent to conditioning on a collider ($S=1$, where $S$ is an indicator for selection into the study). If the exposure and the outcome both cause selection, looking only at the selected stratum mathematically guarantees a spurious association between exposure and outcome, even if none exists in truth.
 
 In randomized trials, baseline selection into the trial affects transportability, but differential attrition—selection out of the trial after randomization—destroys internal validity. If missing 90-day mRS scores are more common in the surgical arm because patients with severe strokes die or withdraw consent, the remaining patients are a biased, structurally healthier subset. Analyzing only the 'completers' induces massive selection bias that invalidates the ITT principle.

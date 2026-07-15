@@ -107,6 +107,10 @@ In hyperacute stroke care, short-window risks dominate (door-to-needle, 24-hour 
 90-day mRS). In secondary prevention, person-time rates reappear. Appraisal asks which
 clock the authors actually used and whether the comparator used the same clock.
 
+![Person-time accrual in an open cohort: incidence rate equals new events divided by total time at risk (original teaching figure).](../assets/figures/cycle3_swarm_ch17_person_time.png)
+
+*Teaching figure (synthetic).* Each horizontal line is a patient contributing person-time until an incident event (X) or administrative/censor end (square). Incidence density = events ÷ person-years (here ≈ 0.67 per person-year). Do not quote this rate next to a closed-cohort 90-day risk without conversion. Frequency grammar is not causation: association tables still need a prediction-vs-cause sentence before pathway change.
+
 ![Same incidence rate yields different cumulative risks by follow-up window; never mix rates and risks without conversion (original teaching figure).](../assets/figures/cycle2_ch17_rate_vs_risk.png)
 
 *Teaching figure (synthetic).* A constant incidence rate of 0.20 per person-year maps to very different cumulative risks at 30, 90, 180, and 365 days. The naive “rate × time” shortcut overstates risk at longer horizons. When a secondary-prevention abstract quotes events per 100 person-years next to a 90-day trial risk, demand conversion onto one clock before comparing.
