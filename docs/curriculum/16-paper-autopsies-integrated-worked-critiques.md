@@ -62,6 +62,86 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
 
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1048_swarm_ch16_w1048_2.png)
+
+*Teaching figure (synthetic).* Cycle-1048 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1046_swarm_ch16_w1046_2.png)
+
+*Teaching figure (synthetic).* Cycle-1046 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1044_swarm_ch16_w1044_2.png)
+
+*Teaching figure (synthetic).* Cycle-1044 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1042_swarm_ch16_w1042_2.png)
+
+*Teaching figure (synthetic).* Cycle-1042 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1040_swarm_ch16_w1040_2.png)
+
+*Teaching figure (synthetic).* Cycle-1040 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1038_swarm_ch16_w1038_2.png)
+
+*Teaching figure (synthetic).* Cycle-1038 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1036_swarm_ch16_w1036_2.png)
+
+*Teaching figure (synthetic).* Cycle-1036 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1034_swarm_ch16_w1034_2.png)
+
+*Teaching figure (synthetic).* Cycle-1034 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1032_swarm_ch16_w1032_2.png)
+
+*Teaching figure (synthetic).* Cycle-1032 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1030_swarm_ch16_w1030_2.png)
+
+*Teaching figure (synthetic).* Cycle-1030 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1028_swarm_ch16_w1028_2.png)
+
+*Teaching figure (synthetic).* Cycle-1028 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1026_swarm_ch16_w1026_2.png)
+
+*Teaching figure (synthetic).* Cycle-1026 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1024_swarm_ch16_w1024_2.png)
+
+*Teaching figure (synthetic).* Cycle-1024 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1022_swarm_ch16_w1022_2.png)
+
+*Teaching figure (synthetic).* Cycle-1022 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1020_swarm_ch16_w1020_2.png)
+
+*Teaching figure (synthetic).* Cycle-1020 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1018_swarm_ch16_w1018_2.png)
+
+*Teaching figure (synthetic).* Cycle-1018 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 16 (original scientific teaching figure).](../assets/figures/cycle1016_swarm_ch16_w1016_2.png)
 
 *Teaching figure (synthetic).* Cycle-1016 densify scientific residual (ch15–28).

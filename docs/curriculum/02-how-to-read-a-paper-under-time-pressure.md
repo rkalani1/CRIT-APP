@@ -63,6 +63,86 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1047_swarm_ch02_w1047_2.png)
+
+*Teaching figure (synthetic).* Cycle-1047 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1045_swarm_ch02_w1045_2.png)
+
+*Teaching figure (synthetic).* Cycle-1045 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1043_swarm_ch02_w1043_2.png)
+
+*Teaching figure (synthetic).* Cycle-1043 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1041_swarm_ch02_w1041_2.png)
+
+*Teaching figure (synthetic).* Cycle-1041 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1039_swarm_ch02_w1039_2.png)
+
+*Teaching figure (synthetic).* Cycle-1039 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1037_swarm_ch02_w1037_2.png)
+
+*Teaching figure (synthetic).* Cycle-1037 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1035_swarm_ch02_w1035_2.png)
+
+*Teaching figure (synthetic).* Cycle-1035 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1033_swarm_ch02_w1033_2.png)
+
+*Teaching figure (synthetic).* Cycle-1033 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1031_swarm_ch02_w1031_2.png)
+
+*Teaching figure (synthetic).* Cycle-1031 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1029_swarm_ch02_w1029_2.png)
+
+*Teaching figure (synthetic).* Cycle-1029 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1027_swarm_ch02_w1027_2.png)
+
+*Teaching figure (synthetic).* Cycle-1027 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1025_swarm_ch02_w1025_2.png)
+
+*Teaching figure (synthetic).* Cycle-1025 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1023_swarm_ch02_w1023_2.png)
+
+*Teaching figure (synthetic).* Cycle-1023 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1021_swarm_ch02_w1021_2.png)
+
+*Teaching figure (synthetic).* Cycle-1021 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1019_swarm_ch02_w1019_2.png)
+
+*Teaching figure (synthetic).* Cycle-1019 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1017_swarm_ch02_w1017_2.png)
+
+*Teaching figure (synthetic).* Cycle-1017 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 02 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch02_w1015_2.png)
 
 *Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).

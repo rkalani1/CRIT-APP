@@ -54,6 +54,86 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 *Teaching figure (synthetic).* Cycle-35/36 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1047_swarm_ch01_w1047_1.png)
+
+*Teaching figure (synthetic).* Cycle-1047 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1045_swarm_ch01_w1045_1.png)
+
+*Teaching figure (synthetic).* Cycle-1045 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1043_swarm_ch01_w1043_1.png)
+
+*Teaching figure (synthetic).* Cycle-1043 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1041_swarm_ch01_w1041_1.png)
+
+*Teaching figure (synthetic).* Cycle-1041 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1039_swarm_ch01_w1039_1.png)
+
+*Teaching figure (synthetic).* Cycle-1039 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1037_swarm_ch01_w1037_1.png)
+
+*Teaching figure (synthetic).* Cycle-1037 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1035_swarm_ch01_w1035_1.png)
+
+*Teaching figure (synthetic).* Cycle-1035 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1033_swarm_ch01_w1033_1.png)
+
+*Teaching figure (synthetic).* Cycle-1033 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1031_swarm_ch01_w1031_1.png)
+
+*Teaching figure (synthetic).* Cycle-1031 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1029_swarm_ch01_w1029_1.png)
+
+*Teaching figure (synthetic).* Cycle-1029 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1027_swarm_ch01_w1027_1.png)
+
+*Teaching figure (synthetic).* Cycle-1027 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1025_swarm_ch01_w1025_1.png)
+
+*Teaching figure (synthetic).* Cycle-1025 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1023_swarm_ch01_w1023_1.png)
+
+*Teaching figure (synthetic).* Cycle-1023 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1021_swarm_ch01_w1021_1.png)
+
+*Teaching figure (synthetic).* Cycle-1021 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1019_swarm_ch01_w1019_1.png)
+
+*Teaching figure (synthetic).* Cycle-1019 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1017_swarm_ch01_w1017_1.png)
+
+*Teaching figure (synthetic).* Cycle-1017 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 01 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch01_w1015_1.png)
 
 *Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).

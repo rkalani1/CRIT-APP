@@ -68,6 +68,86 @@ Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpo
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1047_swarm_ch11_w1047_11.png)
+
+*Teaching figure (synthetic).* Cycle-1047 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1045_swarm_ch11_w1045_11.png)
+
+*Teaching figure (synthetic).* Cycle-1045 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1043_swarm_ch11_w1043_11.png)
+
+*Teaching figure (synthetic).* Cycle-1043 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1041_swarm_ch11_w1041_11.png)
+
+*Teaching figure (synthetic).* Cycle-1041 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1039_swarm_ch11_w1039_11.png)
+
+*Teaching figure (synthetic).* Cycle-1039 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1037_swarm_ch11_w1037_11.png)
+
+*Teaching figure (synthetic).* Cycle-1037 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1035_swarm_ch11_w1035_11.png)
+
+*Teaching figure (synthetic).* Cycle-1035 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1033_swarm_ch11_w1033_11.png)
+
+*Teaching figure (synthetic).* Cycle-1033 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1031_swarm_ch11_w1031_11.png)
+
+*Teaching figure (synthetic).* Cycle-1031 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1029_swarm_ch11_w1029_11.png)
+
+*Teaching figure (synthetic).* Cycle-1029 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1027_swarm_ch11_w1027_11.png)
+
+*Teaching figure (synthetic).* Cycle-1027 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1025_swarm_ch11_w1025_11.png)
+
+*Teaching figure (synthetic).* Cycle-1025 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1023_swarm_ch11_w1023_11.png)
+
+*Teaching figure (synthetic).* Cycle-1023 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1021_swarm_ch11_w1021_11.png)
+
+*Teaching figure (synthetic).* Cycle-1021 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1019_swarm_ch11_w1019_11.png)
+
+*Teaching figure (synthetic).* Cycle-1019 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1017_swarm_ch11_w1017_11.png)
+
+*Teaching figure (synthetic).* Cycle-1017 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch11_w1015_11.png)
 
 *Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).
