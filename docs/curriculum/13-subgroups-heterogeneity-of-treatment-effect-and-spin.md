@@ -63,6 +63,86 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-43 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch13_w1015_13.png)
+
+*Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1013_swarm_ch13_w1013_13.png)
+
+*Teaching figure (synthetic).* Cycle-1013 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1011_swarm_ch13_w1011_13.png)
+
+*Teaching figure (synthetic).* Cycle-1011 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1009_swarm_ch13_w1009_13.png)
+
+*Teaching figure (synthetic).* Cycle-1009 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1007_swarm_ch13_w1007_13.png)
+
+*Teaching figure (synthetic).* Cycle-1007 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1005_swarm_ch13_w1005_13.png)
+
+*Teaching figure (synthetic).* Cycle-1005 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1003_swarm_ch13_w1003_13.png)
+
+*Teaching figure (synthetic).* Cycle-1003 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle1001_swarm_ch13_w1001_13.png)
+
+*Teaching figure (synthetic).* Cycle-1001 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle999_swarm_ch13_w999_13.png)
+
+*Teaching figure (synthetic).* Cycle-999 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle997_swarm_ch13_w997_13.png)
+
+*Teaching figure (synthetic).* Cycle-997 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle995_swarm_ch13_w995_13.png)
+
+*Teaching figure (synthetic).* Cycle-995 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle993_swarm_ch13_w993_13.png)
+
+*Teaching figure (synthetic).* Cycle-993 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle991_swarm_ch13_w991_13.png)
+
+*Teaching figure (synthetic).* Cycle-991 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle989_swarm_ch13_w989_13.png)
+
+*Teaching figure (synthetic).* Cycle-989 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle987_swarm_ch13_w987_13.png)
+
+*Teaching figure (synthetic).* Cycle-987 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle985_swarm_ch13_w985_13.png)
+
+*Teaching figure (synthetic).* Cycle-985 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle983_swarm_ch13_w983_13.png)
 
 *Teaching figure (synthetic).* Cycle-983 densify scientific residual (ch01–14).

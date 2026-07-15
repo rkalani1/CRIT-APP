@@ -57,6 +57,86 @@ Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation 
 
 *Teaching figure (synthetic).* Cycle-37 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch06_w1015_6.png)
+
+*Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1013_swarm_ch06_w1013_6.png)
+
+*Teaching figure (synthetic).* Cycle-1013 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1011_swarm_ch06_w1011_6.png)
+
+*Teaching figure (synthetic).* Cycle-1011 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1009_swarm_ch06_w1009_6.png)
+
+*Teaching figure (synthetic).* Cycle-1009 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1007_swarm_ch06_w1007_6.png)
+
+*Teaching figure (synthetic).* Cycle-1007 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1005_swarm_ch06_w1005_6.png)
+
+*Teaching figure (synthetic).* Cycle-1005 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1003_swarm_ch06_w1003_6.png)
+
+*Teaching figure (synthetic).* Cycle-1003 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle1001_swarm_ch06_w1001_6.png)
+
+*Teaching figure (synthetic).* Cycle-1001 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle999_swarm_ch06_w999_6.png)
+
+*Teaching figure (synthetic).* Cycle-999 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle997_swarm_ch06_w997_6.png)
+
+*Teaching figure (synthetic).* Cycle-997 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle995_swarm_ch06_w995_6.png)
+
+*Teaching figure (synthetic).* Cycle-995 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle993_swarm_ch06_w993_6.png)
+
+*Teaching figure (synthetic).* Cycle-993 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle991_swarm_ch06_w991_6.png)
+
+*Teaching figure (synthetic).* Cycle-991 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle989_swarm_ch06_w989_6.png)
+
+*Teaching figure (synthetic).* Cycle-989 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle987_swarm_ch06_w987_6.png)
+
+*Teaching figure (synthetic).* Cycle-987 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle985_swarm_ch06_w985_6.png)
+
+*Teaching figure (synthetic).* Cycle-985 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 06 (original scientific teaching figure).](../assets/figures/cycle983_swarm_ch06_w983_6.png)
 
 *Teaching figure (synthetic).* Cycle-983 densify scientific residual (ch01–14).

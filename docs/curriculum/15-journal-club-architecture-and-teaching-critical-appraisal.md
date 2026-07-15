@@ -64,6 +64,86 @@ You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decis
 
 *Teaching figure (synthetic).* Cycle-42 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1016_swarm_ch15_w1016_1.png)
+
+*Teaching figure (synthetic).* Cycle-1016 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1014_swarm_ch15_w1014_1.png)
+
+*Teaching figure (synthetic).* Cycle-1014 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1012_swarm_ch15_w1012_1.png)
+
+*Teaching figure (synthetic).* Cycle-1012 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1010_swarm_ch15_w1010_1.png)
+
+*Teaching figure (synthetic).* Cycle-1010 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1008_swarm_ch15_w1008_1.png)
+
+*Teaching figure (synthetic).* Cycle-1008 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1006_swarm_ch15_w1006_1.png)
+
+*Teaching figure (synthetic).* Cycle-1006 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1004_swarm_ch15_w1004_1.png)
+
+*Teaching figure (synthetic).* Cycle-1004 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1002_swarm_ch15_w1002_1.png)
+
+*Teaching figure (synthetic).* Cycle-1002 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle1000_swarm_ch15_w1000_1.png)
+
+*Teaching figure (synthetic).* Cycle-1000 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle998_swarm_ch15_w998_1.png)
+
+*Teaching figure (synthetic).* Cycle-998 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle996_swarm_ch15_w996_1.png)
+
+*Teaching figure (synthetic).* Cycle-996 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle994_swarm_ch15_w994_1.png)
+
+*Teaching figure (synthetic).* Cycle-994 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle992_swarm_ch15_w992_1.png)
+
+*Teaching figure (synthetic).* Cycle-992 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle990_swarm_ch15_w990_1.png)
+
+*Teaching figure (synthetic).* Cycle-990 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle988_swarm_ch15_w988_1.png)
+
+*Teaching figure (synthetic).* Cycle-988 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle986_swarm_ch15_w986_1.png)
+
+*Teaching figure (synthetic).* Cycle-986 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 15 (original scientific teaching figure).](../assets/figures/cycle984_swarm_ch15_w984_1.png)
 
 *Teaching figure (synthetic).* Cycle-984 densify scientific residual (ch15–28).

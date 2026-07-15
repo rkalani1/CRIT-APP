@@ -66,6 +66,86 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
 
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1016_swarm_ch19_w1016_5.png)
+
+*Teaching figure (synthetic).* Cycle-1016 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1014_swarm_ch19_w1014_5.png)
+
+*Teaching figure (synthetic).* Cycle-1014 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1012_swarm_ch19_w1012_5.png)
+
+*Teaching figure (synthetic).* Cycle-1012 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1010_swarm_ch19_w1010_5.png)
+
+*Teaching figure (synthetic).* Cycle-1010 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1008_swarm_ch19_w1008_5.png)
+
+*Teaching figure (synthetic).* Cycle-1008 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1006_swarm_ch19_w1006_5.png)
+
+*Teaching figure (synthetic).* Cycle-1006 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1004_swarm_ch19_w1004_5.png)
+
+*Teaching figure (synthetic).* Cycle-1004 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1002_swarm_ch19_w1002_5.png)
+
+*Teaching figure (synthetic).* Cycle-1002 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle1000_swarm_ch19_w1000_5.png)
+
+*Teaching figure (synthetic).* Cycle-1000 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle998_swarm_ch19_w998_5.png)
+
+*Teaching figure (synthetic).* Cycle-998 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle996_swarm_ch19_w996_5.png)
+
+*Teaching figure (synthetic).* Cycle-996 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle994_swarm_ch19_w994_5.png)
+
+*Teaching figure (synthetic).* Cycle-994 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle992_swarm_ch19_w992_5.png)
+
+*Teaching figure (synthetic).* Cycle-992 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle990_swarm_ch19_w990_5.png)
+
+*Teaching figure (synthetic).* Cycle-990 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle988_swarm_ch19_w988_5.png)
+
+*Teaching figure (synthetic).* Cycle-988 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle986_swarm_ch19_w986_5.png)
+
+*Teaching figure (synthetic).* Cycle-986 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle984_swarm_ch19_w984_5.png)
 
 *Teaching figure (synthetic).* Cycle-984 densify scientific residual (ch15–28).

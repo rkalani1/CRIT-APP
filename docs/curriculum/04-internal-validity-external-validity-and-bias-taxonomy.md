@@ -65,6 +65,86 @@ Quality meeting: someone proposes adopting an outside center protocol based on o
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1015_swarm_ch04_w1015_4.png)
+
+*Teaching figure (synthetic).* Cycle-1015 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1013_swarm_ch04_w1013_4.png)
+
+*Teaching figure (synthetic).* Cycle-1013 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1011_swarm_ch04_w1011_4.png)
+
+*Teaching figure (synthetic).* Cycle-1011 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1009_swarm_ch04_w1009_4.png)
+
+*Teaching figure (synthetic).* Cycle-1009 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1007_swarm_ch04_w1007_4.png)
+
+*Teaching figure (synthetic).* Cycle-1007 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1005_swarm_ch04_w1005_4.png)
+
+*Teaching figure (synthetic).* Cycle-1005 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1003_swarm_ch04_w1003_4.png)
+
+*Teaching figure (synthetic).* Cycle-1003 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle1001_swarm_ch04_w1001_4.png)
+
+*Teaching figure (synthetic).* Cycle-1001 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle999_swarm_ch04_w999_4.png)
+
+*Teaching figure (synthetic).* Cycle-999 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle997_swarm_ch04_w997_4.png)
+
+*Teaching figure (synthetic).* Cycle-997 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle995_swarm_ch04_w995_4.png)
+
+*Teaching figure (synthetic).* Cycle-995 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle993_swarm_ch04_w993_4.png)
+
+*Teaching figure (synthetic).* Cycle-993 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle991_swarm_ch04_w991_4.png)
+
+*Teaching figure (synthetic).* Cycle-991 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle989_swarm_ch04_w989_4.png)
+
+*Teaching figure (synthetic).* Cycle-989 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle987_swarm_ch04_w987_4.png)
+
+*Teaching figure (synthetic).* Cycle-987 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle985_swarm_ch04_w985_4.png)
+
+*Teaching figure (synthetic).* Cycle-985 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 04 (original scientific teaching figure).](../assets/figures/cycle983_swarm_ch04_w983_4.png)
 
 *Teaching figure (synthetic).* Cycle-983 densify scientific residual (ch01–14).
