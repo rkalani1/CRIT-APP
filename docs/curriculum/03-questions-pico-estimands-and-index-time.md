@@ -64,6 +64,46 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1175_swarm_ch03_w1175_3.png)
+
+*Teaching figure (synthetic).* Cycle-1175 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1173_swarm_ch03_w1173_3.png)
+
+*Teaching figure (synthetic).* Cycle-1173 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1171_swarm_ch03_w1171_3.png)
+
+*Teaching figure (synthetic).* Cycle-1171 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1169_swarm_ch03_w1169_3.png)
+
+*Teaching figure (synthetic).* Cycle-1169 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1167_swarm_ch03_w1167_3.png)
+
+*Teaching figure (synthetic).* Cycle-1167 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1165_swarm_ch03_w1165_3.png)
+
+*Teaching figure (synthetic).* Cycle-1165 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1163_swarm_ch03_w1163_3.png)
+
+*Teaching figure (synthetic).* Cycle-1163 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1161_swarm_ch03_w1161_3.png)
+
+*Teaching figure (synthetic).* Cycle-1161 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 03 (original scientific teaching figure).](../assets/figures/cycle1159_swarm_ch03_w1159_3.png)
 
 *Teaching figure (synthetic).* Cycle-1159 densify scientific residual (ch01–14).

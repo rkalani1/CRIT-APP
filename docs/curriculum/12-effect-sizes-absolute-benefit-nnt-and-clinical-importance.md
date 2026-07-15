@@ -69,6 +69,46 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1175_swarm_ch12_w1175_12.png)
+
+*Teaching figure (synthetic).* Cycle-1175 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1173_swarm_ch12_w1173_12.png)
+
+*Teaching figure (synthetic).* Cycle-1173 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1171_swarm_ch12_w1171_12.png)
+
+*Teaching figure (synthetic).* Cycle-1171 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1169_swarm_ch12_w1169_12.png)
+
+*Teaching figure (synthetic).* Cycle-1169 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1167_swarm_ch12_w1167_12.png)
+
+*Teaching figure (synthetic).* Cycle-1167 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1165_swarm_ch12_w1165_12.png)
+
+*Teaching figure (synthetic).* Cycle-1165 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1163_swarm_ch12_w1163_12.png)
+
+*Teaching figure (synthetic).* Cycle-1163 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1161_swarm_ch12_w1161_12.png)
+
+*Teaching figure (synthetic).* Cycle-1161 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle1159_swarm_ch12_w1159_12.png)
 
 *Teaching figure (synthetic).* Cycle-1159 densify scientific residual (ch01–14).
