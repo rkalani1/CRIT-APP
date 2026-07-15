@@ -45,6 +45,10 @@ You have eleven minutes before rounds. The abstract says practice-changing. This
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![ARR capture saturates before deep bias scan under time pressure (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch02_saturate.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 ![Triage weights protect absolute ARR under time pressure (original teaching figure).](../assets/figures/cycle22_swarm_ch02_triage_weights.png)

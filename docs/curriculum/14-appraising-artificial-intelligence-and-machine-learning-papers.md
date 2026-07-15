@@ -46,6 +46,10 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Temporal validation of absolute AI impact (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch14_temporal.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## The Conceptual Core: Prediction, Causation, and Utility
 
 ![AI residual: AUROC without absolute outcome impact is incomplete (original teaching figure).](../assets/figures/cycle23_swarm_ch14_impact_gap.png)

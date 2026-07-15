@@ -45,6 +45,10 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Closing minimal adjustment set shrinks absolute residual bias (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch05_adjustment_set.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 ![Close backdoor paths before absolute NNT (original teaching figure).](../assets/figures/cycle22_swarm_ch05_dag_close.png)

@@ -46,6 +46,10 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Absolute action bands for predicted risk; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch09_action_bands.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## The Demarcation of Prediction from Causal Inference
 
 ![External calibration residual shows absolute risk mispricing (original teaching figure).](../assets/figures/cycle22_swarm_ch09_ext_calib.png)

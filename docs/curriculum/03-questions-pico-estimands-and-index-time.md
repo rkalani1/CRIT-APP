@@ -42,6 +42,10 @@ A family already saw the press release. Your job is translation: map the paper t
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Intercurrent strategy changes absolute ARR (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch03_intercurrent.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
 ![Estimand completeness residual: intercurrent and absolute summary often missing (original teaching figure).](../assets/figures/cycle22_swarm_ch03_estimand_complete.png)

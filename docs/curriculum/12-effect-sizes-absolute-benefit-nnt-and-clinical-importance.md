@@ -47,6 +47,10 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Absolute ARR heat map equals RRR times CER (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch12_arr_heat.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## Conceptual Core: The Imperative of Absolute Effects
 
 ![RRR stays flat while ARR and NNT scale with baseline risk—refuse relative-only marketing (original teaching figure).](../assets/figures/cycle17_swarm_ch12_rrr_vs_arr.png)

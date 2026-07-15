@@ -50,6 +50,10 @@ A registry paper claims a drug is associated with lower readmission. Treat assoc
 
 *Teaching figure (synthetic).* Cycle-31 densify scientific residual.
 
+![Longer washout reduces absolute prevalent-user bias (original scientific teaching figure).](../assets/figures/cycle33_swarm_ch07_washout.png)
+
+*Teaching figure (synthetic).* Cycle-33 densify scientific residual.
+
 ## Introduction: The Promise and Peril of Observational Evidence
 
 ![ACNU shrinks residual confounding absolute bias vs user/non-user (original teaching figure).](../assets/figures/cycle22_swarm_ch07_acnu_residual.png)
