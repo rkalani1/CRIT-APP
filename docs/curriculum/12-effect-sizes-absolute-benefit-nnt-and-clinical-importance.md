@@ -69,6 +69,26 @@ Marketing quotes a 25% relative reduction. Convert to absolute risk difference a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle223_swarm_ch12_w223_12.png)
+
+*Teaching figure (synthetic).* Cycle-223 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle221_swarm_ch12_w221_12.png)
+
+*Teaching figure (synthetic).* Cycle-221 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle219_swarm_ch12_w219_12.png)
+
+*Teaching figure (synthetic).* Cycle-219 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle217_swarm_ch12_w217_12.png)
+
+*Teaching figure (synthetic).* Cycle-217 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 12 (original scientific teaching figure).](../assets/figures/cycle215_swarm_ch12_w215_12.png)
 
 *Teaching figure (synthetic).* Cycle-215 densify scientific residual (ch01–14).
