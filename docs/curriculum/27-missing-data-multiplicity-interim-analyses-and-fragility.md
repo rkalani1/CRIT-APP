@@ -73,6 +73,46 @@ Interim looks early and the primary endpoint is fragile. Ask missingness, multip
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1144_swarm_ch27_w1144_13.png)
+
+*Teaching figure (synthetic).* Cycle-1144 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1142_swarm_ch27_w1142_13.png)
+
+*Teaching figure (synthetic).* Cycle-1142 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1140_swarm_ch27_w1140_13.png)
+
+*Teaching figure (synthetic).* Cycle-1140 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1138_swarm_ch27_w1138_13.png)
+
+*Teaching figure (synthetic).* Cycle-1138 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1136_swarm_ch27_w1136_13.png)
+
+*Teaching figure (synthetic).* Cycle-1136 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1134_swarm_ch27_w1134_13.png)
+
+*Teaching figure (synthetic).* Cycle-1134 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1132_swarm_ch27_w1132_13.png)
+
+*Teaching figure (synthetic).* Cycle-1132 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1130_swarm_ch27_w1130_13.png)
+
+*Teaching figure (synthetic).* Cycle-1130 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 27 (original scientific teaching figure).](../assets/figures/cycle1128_swarm_ch27_w1128_13.png)
 
 *Teaching figure (synthetic).* Cycle-1128 densify scientific residual (ch15–28).

@@ -75,6 +75,46 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1144_swarm_ch20_w1144_6.png)
+
+*Teaching figure (synthetic).* Cycle-1144 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1142_swarm_ch20_w1142_6.png)
+
+*Teaching figure (synthetic).* Cycle-1142 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1140_swarm_ch20_w1140_6.png)
+
+*Teaching figure (synthetic).* Cycle-1140 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1138_swarm_ch20_w1138_6.png)
+
+*Teaching figure (synthetic).* Cycle-1138 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1136_swarm_ch20_w1136_6.png)
+
+*Teaching figure (synthetic).* Cycle-1136 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1134_swarm_ch20_w1134_6.png)
+
+*Teaching figure (synthetic).* Cycle-1134 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1132_swarm_ch20_w1132_6.png)
+
+*Teaching figure (synthetic).* Cycle-1132 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1130_swarm_ch20_w1130_6.png)
+
+*Teaching figure (synthetic).* Cycle-1130 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle1128_swarm_ch20_w1128_6.png)
 
 *Teaching figure (synthetic).* Cycle-1128 densify scientific residual (ch15–28).
