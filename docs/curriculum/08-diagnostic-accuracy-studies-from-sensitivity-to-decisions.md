@@ -64,6 +64,46 @@ A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verifica
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1271_swarm_ch08_w1271_8.png)
+
+*Teaching figure (synthetic).* Cycle-1271 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1269_swarm_ch08_w1269_8.png)
+
+*Teaching figure (synthetic).* Cycle-1269 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1267_swarm_ch08_w1267_8.png)
+
+*Teaching figure (synthetic).* Cycle-1267 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1265_swarm_ch08_w1265_8.png)
+
+*Teaching figure (synthetic).* Cycle-1265 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1263_swarm_ch08_w1263_8.png)
+
+*Teaching figure (synthetic).* Cycle-1263 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1261_swarm_ch08_w1261_8.png)
+
+*Teaching figure (synthetic).* Cycle-1261 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1259_swarm_ch08_w1259_8.png)
+
+*Teaching figure (synthetic).* Cycle-1259 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1257_swarm_ch08_w1257_8.png)
+
+*Teaching figure (synthetic).* Cycle-1257 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 08 (original scientific teaching figure).](../assets/figures/cycle1255_swarm_ch08_w1255_8.png)
 
 *Teaching figure (synthetic).* Cycle-1255 densify scientific residual (ch01–14).
