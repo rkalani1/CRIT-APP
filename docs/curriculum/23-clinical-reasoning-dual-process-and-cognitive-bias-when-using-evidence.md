@@ -60,6 +60,26 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Debias with natural frequencies.
 
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle168_swarm_ch23_w168_9.png)
+
+*Teaching figure (synthetic).* Cycle-168 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle166_swarm_ch23_w166_9.png)
+
+*Teaching figure (synthetic).* Cycle-166 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle164_swarm_ch23_w164_9.png)
+
+*Teaching figure (synthetic).* Cycle-164 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle162_swarm_ch23_w162_9.png)
+
+*Teaching figure (synthetic).* Cycle-162 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle160_swarm_ch23_w160_9.png)
 
 *Teaching figure (synthetic).* Cycle-160 densify scientific residual (ch15–28).
