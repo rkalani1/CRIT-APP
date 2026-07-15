@@ -74,6 +74,11 @@ Appraisers must distinguish between strict alpha-spending boundaries (e.g., O'Br
 
 ## The Fragility Index: Stress-Testing Statistical Significance
 
+![Fragility index residual: few event flips can null absolute ARR despite p<0.05 (original teaching figure).](../assets/figures/cycle20_swarm_ch27_fragility_abs.png)
+
+*Teaching figure (synthetic).* Stress-test the absolute ledger—FI and FQ before pathway lock.
+
+
 The fragility index operationalizes the vulnerability of a statistically significant dichotomous outcome. It calculates the minimum number of patients whose status would have to flip from 'non-event' to 'event' in the treatment arm to render the trial result statistically non-significant (p >= 0.05). In acute stroke trials, where sample sizes are often modest (e.g., N=200 per arm) and absolute risk reductions sit in the 5-10% range, the fragility index is frequently in the single digits.
 
 If a dual-antiplatelet trial claims superiority based on a p-value of 0.043, but a fragility index of 3 indicates that merely three more strokes in the active arm would erase the significance, the evidentiary foundation is incredibly brittle. When the number of patients lost to follow-up exceeds the fragility index, the trial's conclusion rests entirely on untestable missing-data assumptions. While the fragility index has mathematical limitations and should not replace confidence intervals, it is an unparalleled heuristic for deflating statistical hubris.

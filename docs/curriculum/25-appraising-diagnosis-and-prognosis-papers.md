@@ -58,6 +58,10 @@ Diagnostic estimates fail for structural reasons long before the 2×2 table is i
 
 ## Diagnosis gate 2: Effect extraction
 
+![Diagnostic absolute LR update vs prognostic absolute risks across horizons (original teaching figure).](../assets/figures/cycle20_swarm_ch25_lr_horizon_abs.png)
+
+*Teaching figure (synthetic).* Gate 2 extracts absolute quantities—post-test % or risk@t—not Se alone.
+
 Rebuild the 2×2 from raw counts. Sensitivity and specificity describe performance inside a fixed study mixture; they do not answer the bedside question alone. Positive and negative predictive values answer it—and they collapse when prevalence changes. Porting a PPV from a comprehensive center with ~30% LVO prevalence into a community EMS stream at ~5% is a category error dressed as evidence-based medicine.
 
 Likelihood ratios (LRs) are the portable currency:

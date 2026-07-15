@@ -66,6 +66,10 @@ System capacity profoundly influences applicability. The impressive outcomes of 
 
 ## Complexities: Composites and Surrogates
 
+![Composite absolute residual: soft revasc components can dominate headline ARR while death barely moves (original teaching figure).](../assets/figures/cycle20_swarm_ch24_composite_abs.png)
+
+*Teaching figure (synthetic).* Disaggregate absolute component ARR before pathway adoption.
+
 Composite endpoints aggregate multiple clinical events to increase statistical power. However, they frequently mix outcomes of vastly different clinical importance. A statistically significant reduction in a composite endpoint driven entirely by a reduction in silent asymptomatic infarcts or urgent revascularizations—while disabling strokes remain unchanged—is a common pitfall. Rigorous appraisal requires disaggregating the composite and analyzing the absolute event rates for the patient-important components.
 
 ![Composite primary disaggregated into absolute component rates: significance driven mostly by urgent revascularization, not disabling stroke (original teaching figure).](../assets/figures/cycle2_swarm_ch24_composite_disagg.png)

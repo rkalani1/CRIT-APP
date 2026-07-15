@@ -83,6 +83,10 @@ Metric hygiene for stroke leadership:
 
 ## Shared Decision-Making and Absolute Risks
 
+![Shared decision absolute frequencies per 100: pair ARR/NNT with harm ARI/NNH in plain language (original teaching figure).](../assets/figures/cycle20_swarm_ch28_sdm_abs.png)
+
+*Teaching figure (synthetic).* Consent talks numbers out of 100—not relative percentages alone.
+
 ![Shared decision-making with natural frequencies (ARR and ARI per 100) outperforms relative-only consent language (original teaching figure).](../assets/figures/cycle13_swarm_ch28_sdm_freq.png)
 
 *Teaching figure (synthetic).* “Out of 100 patients like you…” is the operational absolute unit for consent—not RRR alone.

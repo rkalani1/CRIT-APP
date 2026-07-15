@@ -33,6 +33,10 @@ Publication bias—the file-drawer problem—is the foundational threat to any l
 
 ## Meta-Analysis: The Arithmetic of Pooling and the Threat of Heterogeneity
 
+![Prediction interval for next-study absolute ARR can include null even when pooled mean looks precise (original teaching figure).](../assets/figures/cycle20_swarm_ch26_pi_abs.png)
+
+*Teaching figure (synthetic).* Transport absolute effects with PI honesty—not only the pooled point.
+
 Systematic review is the method of assembling the evidence; meta-analysis is the statistical arithmetic of pooling it. They are not synonymous. Many systematic reviews should conclude without a meta-analysis if the underlying studies are too disparate. Pooling uncombinable trials—giving thrombolytics at 3 hours versus 6 hours, or using different dosing regimens—creates an arithmetic mean of apples and oranges that represents no clinically real patient. Clinical heterogeneity (differences in patients, interventions, or outcomes) must dictate statistical choices.
 
 When meta-analysis is justified, the choice of model matters. A fixed-effect model assumes a single true effect size across all studies, with variance arising only from sample size. This is almost never true in stroke neurology. A random-effects model assumes a distribution of true effects, accounting for between-study variance. While more conservative, a random-effects model does not fix the underlying sin of pooling garbage. A tight confidence interval around a pooled estimate derived from flawed primary trials is a dangerous illusion of certainty. Precision is not validity. Garbage in, precise garbage out.

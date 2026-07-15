@@ -38,6 +38,11 @@ The stroke service represents a particularly dense heuristic environment. Struct
 
 ## Dual Process: System 1 and System 2 in Cerebrovascular Practice
 
+![Absolute probability path crosses test and treat thresholds after LR updates (original teaching figure).](../assets/figures/cycle20_swarm_ch23_threshold_abs.png)
+
+*Teaching figure (synthetic).* Dual-process actions are absolute-threshold crossings, not vibe checks.
+
+
 System 1 cognition operates via rapid, automatic, and associative mechanisms requiring minimal conscious effort. It is the architecture that identifies a dense middle cerebral artery sign instantaneously or choreographs a hyperacute stroke code based on a classic hemiparetic presentation. Clinical expertise relies heavily on well-calibrated System 1 networks trained through vast, supervised clinical exposure. Conversely, System 2 cognition is deliberative, sequential, and highly resource-intensive. It is required when recalculating a pre-test probability after uncovering a remote history of complex migraine, or when explicitly extracting absolute risk reductions from a manuscript that reports only adjusted hazard ratios.
 
 Pathology in reasoning does not stem from either system inherently, but from their misallocation. Deploying System 2 to calculate individual NIHSS items in a catastrophic, unambiguous basilar occlusion squanders irrecoverable ischemic time. Conversely, relying on System 1 to accept a top-line abstract conclusion ('Treatment X significantly reduces disability') without interrogating the absolute risk and the fragility index leads to systemic overtreatment. The competent clinician executes a dynamic switching protocol: defaulting to System 1 heuristics when clinical cues are prototypical and base rates are robust, while forcing System 2 engagement when data streams conflict, base rates are marginal, or the impending intervention carries irreversible, high-magnitude risks.
