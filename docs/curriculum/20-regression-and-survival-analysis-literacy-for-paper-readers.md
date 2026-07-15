@@ -61,6 +61,10 @@ The foundational requirement of the Cox model is the proportional hazards (PH) a
 
 *Teaching figure (synthetic).* Early peri-procedural excess events followed by late protection produce crossing Kaplan–Meier curves and a violated proportional-hazards assumption. Quoting one time-averaged HR conceals both phases. Demand absolute risks at clinically meaningful landmarks (e.g., day 30 and day 365), PH diagnostics, and—when needed—RMST or split-period models.
 
+![RMST difference is the area between survival curves—absolute days gained to a horizon—contrasted with opaque HR 0.70 and landmark mortality ARR (original teaching figure).](../assets/figures/cycle9_swarm_ch20_rmst.png)
+
+*Teaching figure (synthetic).* When proportional hazards fail or counseling needs time units, report restricted mean survival time differences alongside landmark ARR/NNT. An HR is not an absolute life-year claim.
+
 ## Model Assumptions and the Table 2 Fallacy
 
 Regression models are engines for statistical adjustment, but they cannot manufacture causal inference from inherently flawed observational data. A multivariable model isolates the association of an exposure with the outcome, conditional on the other variables in the model. This is distinct from isolating the true causal effect. If unmeasured confounders exist, or if the investigators inappropriately adjust for colliders or intermediates in the causal pathway, the resulting adjusted coefficient will remain biased.

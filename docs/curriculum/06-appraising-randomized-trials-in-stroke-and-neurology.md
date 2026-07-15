@@ -82,6 +82,10 @@ Intention-to-treat (ITT) dictates that patients are analyzed in the exact group 
 
 Modified ITT (mITT) and Per-Protocol (PP) analyses execute post-randomization exclusions. They might exclude patients who did not receive the study drug, who crossed over, or who were later deemed ineligible. This is structurally catastrophic. Post-randomization adherence is conditional on unmeasured physiological variables. By excluding non-adherent patients, the analysis conditions on a collider, instantly reintroducing confounding by indication. A naive per-protocol analysis that drops non-adherers is strictly observational data masquerading as randomized data. A positive per-protocol analysis paired with a null ITT analysis provides exactly zero causal evidence of efficacy; it merely proves that healthier, compliant patients have better outcomes.
 
+![Analysis-set shopping: ITT ARR is diluted by nonadherence while mITT/PP can inflate absolute effects after post-randomization exclusions (original teaching figure).](../assets/figures/cycle9_swarm_ch06_mitt_dilution.png)
+
+*Teaching figure (synthetic).* Primary policy estimand stays ITT. Report mITT/PP as sensitivity only—never replace the ITT NNT with a prettier complier absolute effect.
+
 ## Attrition, Missing Data, and Loss to Follow-Up
 
 Randomization successfully balances baseline covariates, but it possesses zero capacity to salvage differential missingness at the 90-day endpoint. If the intervention arm loses 10% of its patients to follow-up, and the control arm loses 2%, the Average Treatment Effect is hopelessly biased. The exchangeability assumption is severed. A highly significant p-value calculated on the remaining, highly selected cohort is mathematically meaningless regarding the original randomized population.

@@ -99,6 +99,10 @@ When interpreting a subgroup claim presented in relative terms, you must forcefu
 
 Crucially, even if the relative effects are perfectly constant, massive absolute HTE will naturally arise from variations in baseline risk. If the relative risk reduction is a constant 20% (RR 0.80) across all patients, the severe cohort (baseline 20%) secures an ARR of 4% (NNT 25), while the mild cohort (baseline 4%) secures an ARR of only 0.8% (NNT 125). Trialists frequently and erroneously claim 'greater biological efficacy' in severe disease when the underlying relative mechanism is perfectly homogeneous. The arithmetic of baseline risk guarantees greater absolute benefit. Clinicians must expect this baseline-driven absolute HTE. The fundamental rule applies: prediction is not causation. A baseline variable predicts the underlying risk, which mechanically dictates the absolute magnitude of a constant relative causal effect.
 
+![Spin bait: noisy relative subgroup RRRs versus absolute stratum ARRs under homogeneous RRR—baseline risk, not cherry forest plots, drives absolute HTE (original teaching figure).](../assets/figures/cycle9_swarm_ch13_spin_hte.png)
+
+*Teaching figure (synthetic).* Demand a pre-specified interaction test and absolute strata. Relative subgroup noise is not biological HTE; constant RRR still yields different NNTs by baseline risk.
+
 ## Quantitative vs. Qualitative Interaction
 
 Interactions are formally classified into two distinct categories: quantitative and qualitative. A quantitative interaction implies that the treatment effect varies in magnitude across different subgroups, but the direction of the effect remains consistent. For example, the treatment is beneficial in all age groups, but the absolute magnitude of the benefit is significantly larger in younger patients. Quantitative interactions are exceedingly common, almost entirely driven by varying baseline risk profiles, and rarely alter the fundamental binary decision to offer a life-saving therapy. They are, however, essential for nuanced shared decision-making and prioritizing scarce resources.

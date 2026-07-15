@@ -87,6 +87,10 @@ In 1965, Austin Bradford Hill proposed nine 'viewpoints' to help distinguish cau
 - Biologic Gradient (Dose-Response): Does increased exposure strictly correlate with increased outcome severity? Note that sicker patients receiving higher drug doses can artificially create this gradient through confounding by indication.
 - Plausibility and Coherence: Does the claim align with established pathophysiology? While necessary for hypothesis generation, human storytelling is highly adaptable, and plausibility can be engineered for almost any outcome post hoc.
 
+![Causation checklist ends on absolute action: strong RR associations shrink after confounding control and only become pathway ARR/NNT after experimental or target-trial credibility (original teaching figure).](../assets/figures/cycle9_swarm_ch18_causation_abs.png)
+
+*Teaching figure (synthetic).* Hill viewpoints are interrogations, not a scorecard. Association strength is not an absolute treat license—compute ARR only after causal architecture survives.
+
 ## Clinical Synthesis and Application
 
 When dissecting a neurological study, the appraiser must strip away the rhetoric and identify the counterfactual question being asked. If the claim is causal, verify that the exposure is a distinct, actionable intervention rather than an immutable patient characteristic. Trace the study's architecture for open backdoor paths (confounding), inappropriate conditioning (selection bias), and corrupted data streams (information bias). Use Hill's viewpoints to systematically doubt the findings.

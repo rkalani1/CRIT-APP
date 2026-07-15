@@ -77,6 +77,10 @@ If a dual-antiplatelet trial claims superiority based on a p-value of 0.043, but
 
 *Teaching figure (synthetic).* Trial P has FI well above LTFU—more robust to missing outcomes. Trials Q and R have LTFU ≥ FI, so a handful of unobserved events (or MNAR disability) can erase “significance.” Always pair the fragility index with the missing-primary-outcome count and demand tipping-point sensitivity before rewriting stroke pathways.
 
+![Fragility index of a few flipped events can erase p<0.05 while ARR still sits below MCID; if missing outcomes exceed fragility, absolute claims are assumption-bound (original teaching figure).](../assets/figures/cycle9_swarm_ch27_fragility.png)
+
+*Teaching figure (synthetic).* Stress-test significance in event counts and against MCID. Statistically fragile *and* clinically modest results do not rewrite pathways.
+
 ## Analytic Flexibility and the Architecture of Spin
 
 Analytic flexibility provides the raw material for spin—the systemic rhetorical distortion of trial results. Spin occurs when authors emphasize relative risk reductions while obscuring marginal absolute differences, elevate unadjusted secondary findings to the abstract's conclusion, or frame statistically non-significant primary outcomes as 'trends toward benefit.' Spin is the clinical translation of p-hacking.

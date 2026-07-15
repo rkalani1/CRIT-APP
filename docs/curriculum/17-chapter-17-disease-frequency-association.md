@@ -57,6 +57,10 @@ needs the **absolute** story; meta-analysis math often travels in RR/OR space.
 
 *Teaching figure (synthetic).* Hold the risk ratio fixed at 2.0 while unexposed risk climbs: the odds ratio inflates as the outcome becomes common. The right panel restates the chapter 2×2 (RD 5 pp, RR 2.0, OR ≈ 2.11). Use RD for counseling; treat OR ≈ RR only when events are rare.
 
+![Natural-frequency association table (r1 10%, r0 5%) yields RD 5 pp, RR 2.0, OR ≈2.11; same RR maps to different absolute RD as baseline rises (original teaching figure).](../assets/figures/cycle9_swarm_ch17_rd_vs_rr.png)
+
+*Teaching figure (synthetic).* Frequency first, then association. Bedside action lives on the risk difference; multiplicative RR alone hides baseline burden.
+
 ## Pitfalls specific to neurology and stroke data
 
 1. **Wrong denominator** — counting only admitted patients when the research
