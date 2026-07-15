@@ -72,6 +72,16 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle56_swarm_ch25_dx_path.png)
+
+*Teaching figure (synthetic).* Cycle-56 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle54_swarm_ch25_strata_cal.png)
+
+*Teaching figure (synthetic).* Cycle-54 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle52_swarm_ch25_horizon_prog.png)
 
 *Teaching figure (synthetic).* Cycle-52 densify scientific residual (ch15–28).
