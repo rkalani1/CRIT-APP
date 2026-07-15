@@ -60,6 +60,11 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 24 (original scientific teaching figure).](../assets/figures/cycle40_swarm_ch24_benefit_harm.png)
+
+*Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
+
+
 
 Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity (can the design support a causal claim?), the magnitude and precision of absolute results, and applicability to the local clinical context. This CRIT-APP sequence prevents premature adoption of flawed data and reflexive rejection of valid evidence. It forces the reader past abstract spin and p-value theater into trial architecture, absolute effect sizes, and bedside tradeoffs.
 

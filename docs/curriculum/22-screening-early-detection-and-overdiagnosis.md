@@ -64,6 +64,11 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 22 (original scientific teaching figure).](../assets/figures/cycle40_swarm_ch22_net_screen.png)
+
+*Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
+
+
 
 The proposition that early detection universally improves outcomes is one of medicine’s most deeply entrenched heuristics. In stroke and neurovascular medicine, this rationale drives asymptomatic carotid ultrasound surveillance, widespread magnetic resonance angiography to detect aneurysms in the worried well, and opportunistic screening for subclinical atrial fibrillation. The premise seems unassailable: locate the pathology early, intervene before structural damage occurs, and prevent catastrophe. Yet critical appraisal requires separating detection from benefit. Identifying a lesion earlier is a diagnostic yield; preventing a stroke or rupture is a clinical benefit. The former guarantees neither the latter nor an acceptable ratio of benefit to harm.
 

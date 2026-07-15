@@ -59,6 +59,11 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 28 (original scientific teaching figure).](../assets/figures/cycle40_swarm_ch28_sdm.png)
+
+*Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
+
+
 
 The integration of new evidence into institutional pathways requires more than simply writing novel orders. Often, the most formidable barrier in vascular neurology is de-implementation—the deliberate process of abandoning entrenched practices that high-quality evidence has proven ineffective or harmful. Clinical pathways become deeply institutionalized. The routine ordering of extensive hypercoagulable panels in unselected older stroke patients, or the continuation of sliding-scale insulin without basal coverage in acute stroke units, frequently persists long after the literature has debunked their utility.
 

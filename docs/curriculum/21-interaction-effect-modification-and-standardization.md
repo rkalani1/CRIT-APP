@@ -63,6 +63,11 @@ An interaction claim says the drug works only on one scale. Demand which scale, 
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 21 (original scientific teaching figure).](../assets/figures/cycle40_swarm_ch21_std.png)
+
+*Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
+
+
 
 In clinical epidemiology, interaction (effect modification) and confounding represent fundamentally different structural phenomena. Confounding is a form of bias that distorts the marginal estimate of an exposure-outcome relationship. It arises when a third variable is associated with both the exposure and the outcome, necessitating adjustment or weighting to isolate the causal effect. Effect modification, by contrast, describes a scenario where the magnitude or direction of an effect genuinely varies across strata of a third variable. It is a clinical reality to be documented and analyzed, not a bias to be eliminated.
 
