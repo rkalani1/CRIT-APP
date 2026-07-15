@@ -68,6 +68,46 @@ Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpo
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1319_swarm_ch11_w1319_11.png)
+
+*Teaching figure (synthetic).* Cycle-1319 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1317_swarm_ch11_w1317_11.png)
+
+*Teaching figure (synthetic).* Cycle-1317 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1315_swarm_ch11_w1315_11.png)
+
+*Teaching figure (synthetic).* Cycle-1315 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1313_swarm_ch11_w1313_11.png)
+
+*Teaching figure (synthetic).* Cycle-1313 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1311_swarm_ch11_w1311_11.png)
+
+*Teaching figure (synthetic).* Cycle-1311 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1309_swarm_ch11_w1309_11.png)
+
+*Teaching figure (synthetic).* Cycle-1309 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1307_swarm_ch11_w1307_11.png)
+
+*Teaching figure (synthetic).* Cycle-1307 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1305_swarm_ch11_w1305_11.png)
+
+*Teaching figure (synthetic).* Cycle-1305 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1303_swarm_ch11_w1303_11.png)
 
 *Teaching figure (synthetic).* Cycle-1303 densify scientific residual (ch01–14).
