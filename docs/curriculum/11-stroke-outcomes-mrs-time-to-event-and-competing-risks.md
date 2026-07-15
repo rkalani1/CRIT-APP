@@ -68,6 +68,41 @@ Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpo
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1159_swarm_ch11_w1159_11.png)
+
+*Teaching figure (synthetic).* Cycle-1159 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1157_swarm_ch11_w1157_11.png)
+
+*Teaching figure (synthetic).* Cycle-1157 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1155_swarm_ch11_w1155_11.png)
+
+*Teaching figure (synthetic).* Cycle-1155 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1153_swarm_ch11_w1153_11.png)
+
+*Teaching figure (synthetic).* Cycle-1153 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1151_swarm_ch11_w1151_11.png)
+
+*Teaching figure (synthetic).* Cycle-1151 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1149_swarm_ch11_w1149_11.png)
+
+*Teaching figure (synthetic).* Cycle-1149 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1147_swarm_ch11_w1147_11.png)
+
+*Teaching figure (synthetic).* Cycle-1147 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle1145_swarm_ch11_w1145_11.png)
 
 *Teaching figure (synthetic).* Cycle-1145 densify scientific residual (ch01–14).

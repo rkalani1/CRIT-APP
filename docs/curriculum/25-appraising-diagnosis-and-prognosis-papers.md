@@ -72,6 +72,41 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 *Teaching figure (synthetic).* Cycle-40 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1160_swarm_ch25_w1160_11.png)
+
+*Teaching figure (synthetic).* Cycle-1160 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1158_swarm_ch25_w1158_11.png)
+
+*Teaching figure (synthetic).* Cycle-1158 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1156_swarm_ch25_w1156_11.png)
+
+*Teaching figure (synthetic).* Cycle-1156 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1154_swarm_ch25_w1154_11.png)
+
+*Teaching figure (synthetic).* Cycle-1154 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1152_swarm_ch25_w1152_11.png)
+
+*Teaching figure (synthetic).* Cycle-1152 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1150_swarm_ch25_w1150_11.png)
+
+*Teaching figure (synthetic).* Cycle-1150 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1148_swarm_ch25_w1148_11.png)
+
+*Teaching figure (synthetic).* Cycle-1148 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 25 (original scientific teaching figure).](../assets/figures/cycle1146_swarm_ch25_w1146_11.png)
 
 *Teaching figure (synthetic).* Cycle-1146 densify scientific residual (ch15–28).
