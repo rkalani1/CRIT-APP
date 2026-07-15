@@ -64,6 +64,106 @@ Screening expansion is proposed for silent infarcts on MRI. Before scaling a pro
 
 *Teaching figure (synthetic).* Cycle-38 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1550_swarm_ch22_w1550_8.png)
+
+*Teaching figure (synthetic).* Cycle-1550 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1548_swarm_ch22_w1548_8.png)
+
+*Teaching figure (synthetic).* Cycle-1548 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1546_swarm_ch22_w1546_8.png)
+
+*Teaching figure (synthetic).* Cycle-1546 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1544_swarm_ch22_w1544_8.png)
+
+*Teaching figure (synthetic).* Cycle-1544 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1542_swarm_ch22_w1542_8.png)
+
+*Teaching figure (synthetic).* Cycle-1542 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1540_swarm_ch22_w1540_8.png)
+
+*Teaching figure (synthetic).* Cycle-1540 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1538_swarm_ch22_w1538_8.png)
+
+*Teaching figure (synthetic).* Cycle-1538 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1536_swarm_ch22_w1536_8.png)
+
+*Teaching figure (synthetic).* Cycle-1536 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1534_swarm_ch22_w1534_8.png)
+
+*Teaching figure (synthetic).* Cycle-1534 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1532_swarm_ch22_w1532_8.png)
+
+*Teaching figure (synthetic).* Cycle-1532 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1530_swarm_ch22_w1530_8.png)
+
+*Teaching figure (synthetic).* Cycle-1530 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1528_swarm_ch22_w1528_8.png)
+
+*Teaching figure (synthetic).* Cycle-1528 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1526_swarm_ch22_w1526_8.png)
+
+*Teaching figure (synthetic).* Cycle-1526 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1524_swarm_ch22_w1524_8.png)
+
+*Teaching figure (synthetic).* Cycle-1524 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1522_swarm_ch22_w1522_8.png)
+
+*Teaching figure (synthetic).* Cycle-1522 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1520_swarm_ch22_w1520_8.png)
+
+*Teaching figure (synthetic).* Cycle-1520 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1518_swarm_ch22_w1518_8.png)
+
+*Teaching figure (synthetic).* Cycle-1518 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1516_swarm_ch22_w1516_8.png)
+
+*Teaching figure (synthetic).* Cycle-1516 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1514_swarm_ch22_w1514_8.png)
+
+*Teaching figure (synthetic).* Cycle-1514 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
+![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1512_swarm_ch22_w1512_8.png)
+
+*Teaching figure (synthetic).* Cycle-1512 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
+
+
 ![Cycle densify scientific residual for chapter 22: ARR/NNT absolute framing; prediction is not causation (original scientific teaching figure).](../assets/figures/cycle1510_swarm_ch22_w1510_8.png)
 
 *Teaching figure (synthetic).* Cycle-1510 densify scientific residual (ch15–28): absolute risk, ARR, NNT; pred≠cause. Prefer ARR and NNT over relative-only claims; prediction ≠ causation.
