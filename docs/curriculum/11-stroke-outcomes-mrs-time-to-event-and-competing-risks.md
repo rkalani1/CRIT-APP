@@ -68,6 +68,11 @@ Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpo
 
 *Teaching figure (synthetic).* Cycle-41 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle73_swarm_ch11_w73_11.png)
+
+*Teaching figure (synthetic).* Cycle-73 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 11 (original scientific teaching figure).](../assets/figures/cycle71_swarm_ch11_w71_11.png)
 
 *Teaching figure (synthetic).* Cycle-71 densify scientific residual (ch01–14).
