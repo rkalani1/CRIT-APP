@@ -50,6 +50,10 @@ The required methodological solutions are entirely divergent. Random error is mi
 
 ## Internal Validity: Defining the Boundary
 
+![Internal validity asks whether ARR is causal here; external validity asks whether local NNT remains honest after transport (original teaching figure).](../assets/figures/cycle17_swarm_ch04_int_ext_abs.png)
+
+*Teaching figure (synthetic).* Bias taxonomy ends on absolute transport of ARR/NNT—not a validity badge alone.
+
 Internal validity is defined as the structural credibility of the causal inference for the exact population analyzed, under the exact design implemented. It asks a singular question: did the study accurately measure what it claimed to measure for the patients actually enrolled? For a randomized controlled trial (RCT), internal validity relies on the physical mechanisms of the experiment. This includes cryptographic allocation concealment to prevent selection bias at baseline, uncompromised randomization integrity to ensure baseline exchangeability, rigorous blinding of outcome assessors to prevent differential information bias, nearly complete follow-up to block attrition bias, strict adherence to the intention-to-treat (ITT) principle for evaluating the primary treatment policy estimand, and flawless protocol fidelity.
 
 For observational research, internal validity hinges on whether the analytical design successfully emulates a coherent target trial. This requires precise alignment of index time (time zero), appropriate and accurate classification of the exposure, and the rigorous statistical control of the major confounding and selection processes that render the exposure groups nonexchangeable. Failure at any of these nodes destroys internal validity. Observational studies using prevalent users instead of incident (new) users, or studies defining exposure based on events that occur in the future relative to the index time, suffer from catastrophic internal validity failures before the first regression model is even specified.

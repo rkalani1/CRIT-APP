@@ -38,6 +38,10 @@ This chapter provides a portable, aggressive, and highly structured architecture
 
 ## Defining the Goal Before Sending the Invite
 
+![Journal club absolute roles board: quant owns CER/EER/ARR/NNT/NNH; action owner closes adopt/adapt/wait/reject (original teaching figure).](../assets/figures/cycle17_swarm_ch15_jc_roles_abs.png)
+
+*Teaching figure (synthetic).* Assign the absolute ledger and the action sentence before the PDF opens.
+
 A primary reason journal clubs fail is goal confusion. Faculty arrive expecting a deep dive into trial methodology; residents arrive wanting the clinical bottom line for the wards; researchers arrive wanting to debate the biological plausibility. Mixing these goals without labeling them generates frustration. The objective of the session must be declared explicitly.
 
 - Skill Goal: Practice a specific appraisal mechanism (e.g., identifying intention-to-treat violations, detecting spin, interrogating subgroup claims, or interpreting diagnostic confidence intervals).

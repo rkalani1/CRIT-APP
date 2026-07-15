@@ -58,6 +58,10 @@ This continuous evidence density exerts significant, often unrecognized professi
 
 ## The Cost of Misreading: Clinical, Operational, and Scientific Consequences
 
+![Absolute opportunity cost of appraisal failure: RRR-only adopt wastes pathway capacity versus ARR/NNT honesty (original teaching figure).](../assets/figures/cycle17_swarm_ch01_spin_cost.png)
+
+*Teaching figure (synthetic).* Spin is not cosmetic—measure regret in absolute pathway units before protocol rewrite.
+
 ![Relative-only misreading overtreats low-ARR patients; absolute DFR board cuts wasted treatment (original teaching figure).](../assets/figures/cycle11_swarm_ch01_misread_cost.png)
 
 *Teaching figure (synthetic).* Misreading costs lives of capacity and patients. Force absolute effects before pathway rewrite.

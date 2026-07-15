@@ -115,6 +115,10 @@ Conversely, the Fine-Gray Subdistribution Hazard (SDH) modifies the risk set by 
 
 *Teaching figure (synthetic).* Counsel and power on CIF absolute risks. Naive KM invents recurrence probability in an immortal world; transporting that inflated rate into NNT overstates pathway benefit.
 
+![Absolute CIF for stroke vs naive 1−KM overstatement when death competes across 90 days (original teaching figure).](../assets/figures/cycle17_swarm_ch11_cif_vs_km.png)
+
+*Teaching figure (synthetic).* Report cumulative incidence under competing risks before converting to ARR/NNT.
+
 ## Fully Worked Example: A Numeric Life Table and Subdistribution Calculation
 
 To build exact numerical intuition for competing risks, we will perform a manual life-table calculation. Consider a pedagogical cohort of N=1,000 acute ischemic stroke patients discharged from a comprehensive stroke center. The primary event of interest is Recurrent Ischemic Stroke (RIS). The competing event is Death (D) from any cause prior to recurrence. We track the cohort over 1 year, divided into two broad intervals for arithmetic simplicity: Interval 1 (0 to 30 days) and Interval 2 (31 to 365 days).

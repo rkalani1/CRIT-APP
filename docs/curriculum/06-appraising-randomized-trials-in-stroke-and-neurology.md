@@ -71,6 +71,10 @@ Independent adjudication committees evaluate secondary endpoints and critical sa
 
 ## Estimands and Analysis Sets: ITT, Modified ITT, and the Per-Protocol Illusion
 
+![ITT vs per-protocol absolute residual: crossover widens PP ARR inflation above honest ITT (original teaching figure).](../assets/figures/cycle17_swarm_ch06_itt_pp_arr.png)
+
+*Teaching figure (synthetic).* Policy NNT stays on ITT; PP absolute gains grow with crossover and reintroduce selection.
+
 ![ITT vs per-protocol: different questions (original teaching figure).](../assets/figures/fig42_itt_vs_pp.png)
 
 *Intention-to-treat answers the effect of assignment and preserves randomization; per-protocol answers an adherence-conditional question and often reintroduces confounding. Original teaching figure.*

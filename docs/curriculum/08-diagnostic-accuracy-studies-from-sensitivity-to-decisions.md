@@ -50,6 +50,10 @@ Accuracy is defined as the total number of correct classifications divided by th
 
 ## Prevalence Dependence: The Predictive Value Trap
 
+![Spectrum shifts Se/Sp across settings; same nominal accuracy yields different absolute PPV by prevalence (original teaching figure).](../assets/figures/cycle17_swarm_ch08_spectrum_abs.png)
+
+*Teaching figure (synthetic).* Spectrum bias rewrites absolute post-test risk—never transport PPV without local base rate.
+
 ![PPV and NPV versus prevalence at fixed sensitivity and specificity (original teaching figure).](../assets/figures/fig06_ppv_prevalence.png)
 
 *Same test performance, different base rates: PPV rises with prevalence while NPV falls; never transport a published PPV to a new population without re-applying Bayes. Original teaching figure.*
