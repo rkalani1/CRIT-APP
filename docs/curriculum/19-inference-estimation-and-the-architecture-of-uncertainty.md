@@ -66,6 +66,26 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 *Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
 
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle328_swarm_ch19_w328_5.png)
+
+*Teaching figure (synthetic).* Cycle-328 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle326_swarm_ch19_w326_5.png)
+
+*Teaching figure (synthetic).* Cycle-326 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle324_swarm_ch19_w324_5.png)
+
+*Teaching figure (synthetic).* Cycle-324 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle322_swarm_ch19_w322_5.png)
+
+*Teaching figure (synthetic).* Cycle-322 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 19 (original scientific teaching figure).](../assets/figures/cycle320_swarm_ch19_w320_5.png)
 
 *Teaching figure (synthetic).* Cycle-320 densify scientific residual (ch15–28).
