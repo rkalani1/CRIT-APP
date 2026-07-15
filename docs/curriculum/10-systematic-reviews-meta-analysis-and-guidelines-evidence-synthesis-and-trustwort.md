@@ -60,6 +60,86 @@ A living systematic review drops at 06:00 with a favorable pooled OR. Check incl
 
 *Teaching figure (synthetic).* Guidelines need local absolute transport.
 
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle663_swarm_ch10_w663_10.png)
+
+*Teaching figure (synthetic).* Cycle-663 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle661_swarm_ch10_w661_10.png)
+
+*Teaching figure (synthetic).* Cycle-661 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle659_swarm_ch10_w659_10.png)
+
+*Teaching figure (synthetic).* Cycle-659 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle657_swarm_ch10_w657_10.png)
+
+*Teaching figure (synthetic).* Cycle-657 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle655_swarm_ch10_w655_10.png)
+
+*Teaching figure (synthetic).* Cycle-655 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle653_swarm_ch10_w653_10.png)
+
+*Teaching figure (synthetic).* Cycle-653 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle651_swarm_ch10_w651_10.png)
+
+*Teaching figure (synthetic).* Cycle-651 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle649_swarm_ch10_w649_10.png)
+
+*Teaching figure (synthetic).* Cycle-649 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle647_swarm_ch10_w647_10.png)
+
+*Teaching figure (synthetic).* Cycle-647 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle645_swarm_ch10_w645_10.png)
+
+*Teaching figure (synthetic).* Cycle-645 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle643_swarm_ch10_w643_10.png)
+
+*Teaching figure (synthetic).* Cycle-643 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle641_swarm_ch10_w641_10.png)
+
+*Teaching figure (synthetic).* Cycle-641 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle639_swarm_ch10_w639_10.png)
+
+*Teaching figure (synthetic).* Cycle-639 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle637_swarm_ch10_w637_10.png)
+
+*Teaching figure (synthetic).* Cycle-637 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle635_swarm_ch10_w635_10.png)
+
+*Teaching figure (synthetic).* Cycle-635 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle633_swarm_ch10_w633_10.png)
+
+*Teaching figure (synthetic).* Cycle-633 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 10 (original scientific teaching figure).](../assets/figures/cycle631_swarm_ch10_w631_10.png)
 
 *Teaching figure (synthetic).* Cycle-631 densify scientific residual (ch01–14).
