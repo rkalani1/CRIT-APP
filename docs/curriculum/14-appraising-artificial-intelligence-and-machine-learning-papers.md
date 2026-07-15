@@ -50,6 +50,26 @@ An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the 
 
 *Teaching figure (synthetic).* Cycle-33 densify scientific residual.
 
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle271_swarm_ch14_w271_14.png)
+
+*Teaching figure (synthetic).* Cycle-271 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle269_swarm_ch14_w269_14.png)
+
+*Teaching figure (synthetic).* Cycle-269 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle267_swarm_ch14_w267_14.png)
+
+*Teaching figure (synthetic).* Cycle-267 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle265_swarm_ch14_w265_14.png)
+
+*Teaching figure (synthetic).* Cycle-265 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 14 (original scientific teaching figure).](../assets/figures/cycle263_swarm_ch14_w263_14.png)
 
 *Teaching figure (synthetic).* Cycle-263 densify scientific residual (ch01–14).
