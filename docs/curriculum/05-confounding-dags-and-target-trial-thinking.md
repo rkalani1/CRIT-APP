@@ -67,6 +67,16 @@ A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is a
 
 *Teaching figure (synthetic).* Cycle-39 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle87_swarm_ch05_w87_5.png)
+
+*Teaching figure (synthetic).* Cycle-87 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle85_swarm_ch05_w85_5.png)
+
+*Teaching figure (synthetic).* Cycle-85 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 05 (original scientific teaching figure).](../assets/figures/cycle83_swarm_ch05_w83_5.png)
 
 *Teaching figure (synthetic).* Cycle-83 densify scientific residual (ch01–14).
