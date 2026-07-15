@@ -72,6 +72,10 @@ The eligibility criteria must prevent the inclusion of future information. If a 
 
 The causal contrast specifies the exact estimand. The observational analogue of intention-to-treat (ITT) evaluates the effect of initiating a treatment strategy at time zero, regardless of subsequent adherence. This is generally the safest estimand because it avoids conditioning on post-baseline adherence, which is frequently confounded by evolving disease severity. Estimating a per-protocol effect—the effect of strictly adhering to the strategy—requires complex methods like inverse probability weighting for time-varying confounding, as standard regression will suffer from severe collider bias.
 
+![Clone–censor–weight restores a strategy contrast at aligned t0; naive immortal-time ARR collapses after landmarking or IPCW (original teaching figure).](../assets/figures/cycle7_swarm_ch05_clone_censor.png)
+
+*Teaching figure (synthetic).* Time-varying treatment starts require explicit strategies, artificial censoring at deviation, and weights—not credit for survival before exposure. Absolute effects often shrink from double-digit crude ARR to single-digit honest ARR; do not invert confounded HRs into pathway NNTs.
+
 ## The Pathologies of Time Zero and Immortal Time
 
 Time zero is the Achilles heel of retrospective stroke epidemiology. In a properly executed randomized clinical trial, three events occur synchronously at time zero: the determination of patient eligibility, the assignment to a treatment strategy, and the beginning of the follow-up clock for outcome ascertainment. This synchronization guarantees that no future information contaminates the baseline state and that all patients, regardless of assignment, have an equal opportunity to experience the outcome from the moment the clock starts. In observational databases—particularly claims data and electronic health record registries—investigators frequently fail to align these three events, leading to catastrophic structural biases.

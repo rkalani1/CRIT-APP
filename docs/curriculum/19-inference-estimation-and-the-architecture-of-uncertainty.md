@@ -57,6 +57,10 @@ Under estimation culture, an absolute risk reduction (ARR) of 3.0% (95% CI, −1
 
 *Teaching figure (synthetic).* Interval A rules out both the null and an MCID miss—actionable if valid. Interval B is “nonsignificant” yet compatible with large benefit *and* small harm—imprecise, not negative. Interval C is significant but clinically tiny. Interval D keeps harm on the table. Dichotomania at p = 0.05 collapses these four distinct decision problems into two useless bins.
 
+![Precision without honesty: narrow biased ARR CIs miss the true absolute effect while wide honest intervals still straddle decision thresholds (original teaching figure).](../assets/figures/cycle7_swarm_ch19_precision_bias_arr.png)
+
+*Teaching figure (synthetic).* Estimation culture is not “narrower is better.” A precise wrong ARR rewrites pathways faster than an imprecise honest one. If the ARR CI includes 0, the NNT interval runs to infinity—say so explicitly.
+
 ```
 THE ESTIMATION HEURISTIC
 ------------------------

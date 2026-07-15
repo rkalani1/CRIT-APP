@@ -111,6 +111,10 @@ When a trial reports a statistically significant result, the CI strictly exclude
 
 Never look solely at the point estimate. The width and location of the confidence interval relative to your patient's minimal important threshold dictate the decision.
 
+![ARR confidence intervals judged against MCID; when the ARR CI includes 0 the NNT compatibility interval explodes to infinity (original teaching figure).](../assets/figures/cycle7_swarm_ch12_mcid_ci_nnt.png)
+
+*Teaching figure (synthetic).* Clinical importance is an absolute-scale question. Overlay the MCID on the ARR interval, then translate to NNT only when the lower bound still excludes zero—otherwise state that the NNT CI runs to ∞.
+
 ## P-values versus Estimation and Clinical Importance
 
 The p-value estimates the probability of obtaining data at least as extreme as those observed, assuming that the null hypothesis is true and all methodological assumptions hold exactly. It is a measure of statistical surprise. It does not measure the size of the treatment effect, nor does it measure the probability that the null hypothesis is false, nor does it measure the probability that the results were due to chance.

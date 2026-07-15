@@ -60,6 +60,10 @@ Lead-time bias is the artificial inflation of survival time driven solely by an 
 
 *Teaching figure (synthetic).* Screen detection five years earlier doubles “survival from diagnosis” (10 vs 5 years) while the calendar date of death is identical—pure labeling, zero life-years gained. Any screening claim that reports only post-diagnosis survival without a randomized clock from invitation is uninterpretable.
 
+![Lead-time lengthens survival-from-diagnosis without moving death; absolute overdiagnosis and false-positive workups can dwarf true early cures per 1,000 screened (original teaching figure).](../assets/figures/cycle7_swarm_ch22_lead_time_harm.png)
+
+*Teaching figure (synthetic).* Pair the lead-time cartoon with an absolute harm ledger. Demand invitation-trial mortality/disability benefit and natural-frequency overdiagnosis counts before expanding a neurovascular screen.
+
 ### Length-Time Bias
 
 Length-time bias stems from disease heterogeneity. Indolent, slowly progressive pathologies persist in the asymptomatic phase longer than aggressive, rapidly fatal variants. Consequently, point-in-time screening preferentially captures benign lesions. A screening cohort of unruptured aneurysms is structurally enriched for stable, low-risk morphologies. Comparing the outcomes of this screen-detected cohort against clinically detected cases (which are enriched for aggressive biology) falsely credits the screening program for excellent outcomes that actually reflect baseline cohort indolence.

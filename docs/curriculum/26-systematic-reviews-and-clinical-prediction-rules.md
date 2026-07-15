@@ -71,6 +71,9 @@ The modern literature is saturated with systematic reviews of prediction models.
 
 When reading these reviews, the critical takeaway is rarely to adopt the 'winning' score. The takeaway is to recognize that we do not need more derivation studies. The field requires head-to-head external validation of existing scores on large, independent, modern datasets, followed by rigorous trials of their clinical impact. Until then, use CPRs to augment, not replace, clinical judgment, and always verify if the absolute risks predicted by the score match the current era of care.
 
+![SR credibility ladder ends on pooled ARR/NNT transport; CPR derivation can look calibrated while external sites misprice absolute risk (original teaching figure).](../assets/figures/cycle7_swarm_ch26_sr_cpr_ladder.png)
+
+*Teaching figure (synthetic).* Climb risk-of-bias and protocol rungs before trusting a pooled absolute effect. For CPRs, demand external calibration—not only AUROC—before inventing pathway NNTs from derivation strata.
 
 ![fig74_ps_overlap.png original teaching graphic](../assets/figures/fig74_ps_overlap.png)
 

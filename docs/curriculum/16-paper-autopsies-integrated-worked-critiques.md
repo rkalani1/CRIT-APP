@@ -112,6 +112,10 @@ To emulate the target trial, time-zero must be set exactly at the point of clini
 - Methodological veto: Fatal immortal time bias due to time-zero misalignment; uncontrolled confounding by indication and frailty.
 - What would change mind: A rigorously designed target trial emulation utilizing a clone-censor-weight approach, or a cluster-randomized trial of early IRF pathways.
 
+![Autopsy absolute recon sheet: claim → estimand → threat rank → crude vs aligned ARR → action; press-release RRR cannot survive unit honesty (original teaching figure).](../assets/figures/cycle7_swarm_ch16_autopsy_recon.png)
+
+*Teaching figure (synthetic).* Every observational autopsy ends on an absolute rebuild. Crude double-digit ARR often collapses after t0 alignment; harms stay on the ledger. Verdicts without ARR/ARI are unfinished.
+
 ## Autopsy C — The Imaging AI Model (RapidLVO-Net)
 
 ### C1. Model Architecture and Clinical Stake

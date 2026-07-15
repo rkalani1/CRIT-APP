@@ -58,6 +58,10 @@ Transport questions to force onto the board:
 
 *Teaching figure (synthetic).* A trial ARR of ~10 pp for functional independence is not free-floating. Operator volume, imaging speed, ICU titration, and transfer discipline carry the effect; expected absolute benefit shrinks—and NNT rises—as the package breaks at the spoke.
 
+![Access delay decays absolute benefit under a fixed relative protocol; equity ledger shows rural long-haul net ARR can invert against fixed procedural ARI (original teaching figure).](../assets/figures/cycle7_swarm_ch28_equity_arr_delay.png)
+
+*Teaching figure (synthetic).* Systems memos must stratify expected ARR by access—not only quote the trial relative effect. Same pathway language, unequal absolute benefit, and sometimes net harm when delay erodes benefit while ARI stays fixed.
+
 ## Quality Metrics Versus High-Fidelity Evidence
 
 Quality metrics, often enforced by national certifying bodies and pay-for-performance models, aim to standardize care delivery. However, rigid adherence to these targets can generate perverse incentives that conflict with nuanced, evidence-based medicine.
