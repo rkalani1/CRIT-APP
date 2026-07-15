@@ -120,6 +120,10 @@ Do not fetishize E-values. They do not prove causality, they do not address sele
 
 *Teaching figure (synthetic).* Treated patients are often sicker; crude pooling invents large absolute benefit. Residual confounding that can manufacture an 8 pp ARR invents NNT ≈ 12—do not invert confounded HRs into pathway NNTs.
 
+![Tipping sensitivity: unmeasured confounder imbalance can invent the entire observed ARR; when residual confounding nulls absolute benefit, refuse pathway NNT (original teaching figure).](../assets/figures/cycle8_swarm_ch07_tipping_arr.png)
+
+*Teaching figure (synthetic).* Move from E-value on the relative scale to quantitative bias analysis on the absolute scale. If a plausible confounder can tip ARR to 0, the observational signal is not an operational NNT.
+
 ## Administrative Data, EHR Pitfalls, and Measurement Error
 
 Administrative claims and extracted Electronic Health Record (EHR) datasets offer massive statistical power and long-term linkage, but demand a heavy price in phenotype noise. Stroke diagnosis in claims relies on ICD-10 codes (e.g., I63.x for ischemic stroke). While the Positive Predictive Value (PPV) for acute inpatient ischemic stroke is generally acceptable (often 85-90%), the PPV for Transient Ischemic Attack (G45.9) is notoriously unstable, often dropping below 50%. Analyzing TIA outcomes using claims data without rigorous chart-level validation is an exercise in analyzing statistical noise.

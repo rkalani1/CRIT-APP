@@ -64,6 +64,10 @@ In a random-effects model (frequently using the DerSimonian-Laird or Restricted 
 
 *Teaching figure (synthetic).* When τ² enters the denominator, relative weights shift away from the mega-trial toward noisy small studies. Always convert any pooled RR into local ARR/NNT; meta-regression subgroups remain observational (prediction ≠ causation).
 
+![Study ARRs with pooled mean CI versus a wider prediction interval for the next study; if the PI includes 0, guideline action must stay conditional (original teaching figure).](../assets/figures/cycle8_swarm_ch10_pred_interval_arr.png)
+
+*Teaching figure (synthetic).* A tight mean CI can coexist with a prediction interval that still includes null or harm. Transport absolute effects with heterogeneity honesty—not only the pooled point.
+
 ## Fully Worked Example: Pooling Dual Antiplatelet Therapy in Minor Stroke
 
 Scenario: You are evaluating a meta-analysis of dual antiplatelet therapy (DAPT) versus aspirin monotherapy for the prevention of recurrent stroke within 90 days following a high-risk TIA or minor acute ischemic stroke. Two major randomized controlled trials dominate the literature. You will compute the fixed-effect pooled risk ratio (RR), construct the 95% confidence interval, and critically convert the relative effect into absolute clinical metrics (ARR and NNT) based on baseline risk.

@@ -143,6 +143,10 @@ The fourth failure mode involves surrogate endpoints. In stroke research, angiog
 
 The fifth failure mode is missing the index time mismatch in observational pharmacoepidemiology. If an observational study defines 'exposure' as filling a prescription within 30 days of discharge, patients must survive and remain stroke-free long enough to fill the prescription. This guarantees immortal time bias, artificially making the drug appear highly effective. Extracting the precise index time during the methods review instantly neutralizes this bias.
 
+![Time-pressure red-flag stops (no denominator, RRR-only primary, shopped analysis set, action without NNT/ARI) protect the absolute ledger in a 15-minute budget (original teaching figure).](../assets/figures/cycle8_swarm_ch02_redflag_stop.png)
+
+*Teaching figure (synthetic).* Under time pressure, STOP rules beat speed-reading. If absolute denominators, horizon, or harm ARI are missing, refuse pathway language until the ledger exists.
+
 ## Clinical and Epidemiologic Notes
 
 Time pressure is itself a pervasive epidemiologic exposure in modern clinical systems. Rushed, uncritical adoption of incompletely transported evidence generates massive, unwarranted practice variation. These transient practice patterns subsequently appear in large observational datasets as 'era effects' or 'center effects', severely confusing future comparative effectiveness research. Disciplined, structured short reads possess second-order scientific value: they act as a buffer against hype cycles, ensuring that practice variation is driven by genuine patient heterogeneity rather than by the chaotic spread of unappraised abstracts.

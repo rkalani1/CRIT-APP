@@ -118,6 +118,10 @@ Roles transform a passive audience into a team of co-appraisers. If one trainee 
 - Scribe (Optional but recommended): Captures the question board contents, the final decision, and any dissents onto a shared permanent document for institutional memory.
 - Process Observer (Monthly): Notes the equity of airtime, tracks who speaks (gender, seniority), and debriefs the facilitator afterward to improve inclusion.
 
+![Journal-club role cards: facilitator, absolute officer (ARR/NNT), threat officer, action scribe—sessions with absolute ownership complete the ledger far more often (original teaching figure).](../assets/figures/cycle8_swarm_ch15_role_cards.png)
+
+*Teaching figure (synthetic).* Role design is debiasing infrastructure. No bottom line without the absolute officer’s sign-off; hierarchy monologues without ARR/NNT are unfinished teaching.
+
 Virtual participation requires explicit structure. The chat monitor must elevate written questions. To counter the dominance of the physical room, grant remote participants the first right of response during each major segment transition. Faculty silence is a powerful tool; after asking a question, count to five mentally. If faculty immediately fill the silence, they teach trainees that participation is unnecessary.
 
 ## The Epistemic Question Board

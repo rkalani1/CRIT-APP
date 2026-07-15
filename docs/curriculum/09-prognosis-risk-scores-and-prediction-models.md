@@ -60,6 +60,10 @@ Electronic health record models are uniquely vulnerable to stealth leakage. A bi
 
 The prediction horizon is the specific future time point at which the outcome is ascertained. A prediction of mortality at seven days represents a fundamentally different biological construct than mortality at one year. The horizon must align with the clinical decision being made at time zero. Furthermore, the predictors (features) must be rigidly defined, reproducible across different health systems, and measured without knowledge of the future outcome. When dealing with continuous predictors such as age, systolic blood pressure, or glucose, categorization (e.g., dichotomizing age at 80 years) is a destructive practice. It discards immense amounts of information, slashes statistical power, and enforces a biologically implausible assumption of a flat risk profile on either side of the arbitrary threshold. Continuous relationships must be modeled using splines or fractional polynomials to preserve the natural density of the clinical data.
 
+![Horizon-specific absolute cumulative risks for high- vs low-risk strata; deployment needs calibration at that horizon plus an action that changes care—not a causal treat license (original teaching figure).](../assets/figures/cycle8_swarm_ch09_horizon_risk.png)
+
+*Teaching figure (synthetic).* Prognosis is a calendar of absolute risks, not a single AUROC. Match the horizon to the decision, recalibrate to local mix, and remember prediction ≠ causation for treatment choice.
+
 ## Quantitative Reasoning: Discrimination
 
 Discrimination quantifies a prediction model's ability to separate patients who experience the outcome from those who do not. It asks a strictly relative question: Does the algorithm consistently assign higher predicted probabilities to the cohort of patients who actually suffer the event compared to those who remain event-free?

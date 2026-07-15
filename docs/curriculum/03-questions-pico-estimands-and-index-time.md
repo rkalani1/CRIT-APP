@@ -89,6 +89,10 @@ A pragmatic, treatment-policy estimand sentence for acute stroke might read: 'In
 
 Estimand mismatch is a primary diagnostic finding in critical appraisal. When an abstract strongly implies a pragmatic, treatment-policy benefit (suggesting you should offer this drug to everyone), but the only statistically significant result in the paper is a per-protocol or hypothetical estimand that excludes non-adherent patients or those who suffered early complications, the authors are selling a product they did not test. You must evaluate the paper based on the estimand they actually estimated, not the one they claim in the discussion.
 
+![Composite headline ARR can be driven by urgent revascularization while disabling stroke barely moves—disaggregate absolute components on the estimand board (original teaching figure).](../assets/figures/cycle8_swarm_ch03_composite_component.png)
+
+*Teaching figure (synthetic).* Specify population, strategies, outcome hierarchy, and summary measure before debating p-values. Prefer component ARRs with a named horizon; composite spin is an estimand failure, not a rounding issue.
+
 ## Index Time (t0) and the Chronology of Causation
 
 Index time, or time zero (t0), is the exact moment when the clock starts on a causal analysis. For a causal contrast to be valid, three distinct chronologies must perfectly align at t0: the moment the patient meets all eligibility criteria, the moment the treatment or exposure is assigned, and the moment follow-up for the outcome begins. If these three clocks are desynchronized by even a few hours, structural bias instantly infects the analysis. In randomized controlled trials, t0 is enforced rigorously by the act of randomization. This forced alignment is precisely why RCTs feel 'clean' and resilient to certain biases.
