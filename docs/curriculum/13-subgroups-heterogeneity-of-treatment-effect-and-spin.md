@@ -37,6 +37,10 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 ## The Epistemology of Subgroups in Neurological Trials
 
+![Homogeneous RR with heterogeneous absolute ARR across risk strata (original teaching figure).](../assets/figures/cycle22_swarm_ch13_hte_abs.png)
+
+*Teaching figure (synthetic).* HTE for decisions is absolute-first.
+
 Stroke trials enroll heterogeneous cohorts by design. An endovascular thrombectomy (EVT) trial mixes proximal M1 occlusions with tandem lesions, varying core volumes, differing collateral grades, and highly variable times from last known well. Secondary stroke prevention trials aggregate large artery atherosclerosis, lacunar infarcts, and cardioembolic sources into single massive cohorts. When clinicians read the primary results of these trials, the immediate instinct is to ask: 'Does this average treatment effect apply to the specific patient in front of me?' The instinct to individualize care is clinically correct. However, the mechanism by which the medical literature attempts to answer this question—subgroup analysis—is fundamentally flawed by statistical noise, unpenalized multiplicity, and motivated reasoning.
 
 Heterogeneity of treatment effect (HTE) refers to non-random, genuine differences in the magnitude or direction of a treatment's effect across different patient populations. When real, HTE is critical for targeting therapies to those who benefit most and sparing those who only incur harm or financial toxicity. When false, HTE leads to devastating clinical errors: either denying life-saving therapy to a subgroup that falsely appeared to have no benefit (a false negative), or exposing a subgroup to dangerous interventions based on a statistical fluke (a false positive). The history of neurology is littered with treatments delayed or denied because a subgroup analysis suggested futility in a specific demographic, only for subsequent trials to prove the effect was uniform.

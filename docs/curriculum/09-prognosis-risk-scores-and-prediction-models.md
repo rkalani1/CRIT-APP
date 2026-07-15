@@ -32,6 +32,10 @@ A prognostic score promises discharge planning precision. Demand calibration in 
 
 ## The Demarcation of Prediction from Causal Inference
 
+![External calibration residual shows absolute risk mispricing (original teaching figure).](../assets/figures/cycle22_swarm_ch09_ext_calib.png)
+
+*Teaching figure (synthetic).* Counsel only on calibrated absolute risk.
+
 Clinical neurology generates scoring systems at a relentless pace. The National Institutes of Health Stroke Scale (NIHSS) originated as a reproducible severity measure but rapidly mutated into a prognostic heuristic. The ICH Score predicts thirty-day mortality after intracerebral hemorrhage. The ABCD2 score stratifies the short-term probability of stroke following a transient ischemic attack. Modern machine learning algorithms digest raw non-contrast computed tomography images to predict large vessel occlusion, while others aggregate electronic health record data to forecast malignant cerebral edema. Despite this saturation, the fundamental error committed by clinicians and researchers alike is conflating a prediction model with a causal model. This conflation routinely poisons journal clubs and distorts clinical guidelines.
 
 A prediction paper claims that a mathematical function of inputs, measured at a strict index time, maps to the probability of a future state with a quantified degree of accuracy. It operates entirely within the domain of joint probability distributions. It does not claim that intervening on those input variables will change the outcome. A causal treatment paper, by contrast, claims that changing an exposure directly alters the trajectory of the outcome, operating within the domain of counterfactuals (as established in Chapter 3). The distinction is absolute and non-negotiable.

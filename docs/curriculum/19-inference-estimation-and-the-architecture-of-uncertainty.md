@@ -30,6 +30,10 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 ## The Pathology of Dichotomania in Clinical Research
 
+![Absolute ARR precision scales with sample size (original teaching figure).](../assets/figures/cycle23_swarm_ch19_precision_n.png)
+
+*Teaching figure (synthetic).* Wide CI is an absolute decision fact.
+
 ![CI width absolute decision zones: harm possible, below MCID, clinically important ARR bands (original teaching figure).](../assets/figures/cycle19_swarm_ch19_ci_zones.png)
 
 *Teaching figure (synthetic).* Judge the whole ARR interval against MCID—not a binary p-value.

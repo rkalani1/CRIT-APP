@@ -27,6 +27,10 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 ## Mapping Clinical Outcomes to Regression Models
 
+![Table-2 fallacy distorts pathway absolute claims (original teaching figure).](../assets/figures/cycle23_swarm_ch20_table2.png)
+
+*Teaching figure (synthetic).* Do not adjust mediators as confounders.
+
 ![Hazard ratio stays flat while absolute risk difference grows over follow-up—convert HR to risk@t (original teaching figure).](../assets/figures/cycle19_swarm_ch20_hr_vs_arr.png)
 
 *Teaching figure (synthetic).* Survival literacy ends on absolute cumulative risk, not HR alone.

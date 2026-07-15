@@ -32,6 +32,10 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 ## Three gates before you change a pathway
 
+![Absolute post-test and calibration before action residual (original teaching figure).](../assets/figures/cycle24_swarm_ch25_action_gate.png)
+
+*Teaching figure (synthetic).* Gate 2 is absolute extraction.
+
 ![Diagnosis vs prognosis absolute horizons: post-test disease probability is not future event risk (original teaching figure).](../assets/figures/cycle16_swarm_ch25_dx_px_horizons.png)
 
 *Teaching figure (synthetic).* Never mix diagnostic PPV with prognostic risk@t—horizons and claims differ.

@@ -32,6 +32,10 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 ## Why Reasoning Quality Is an Evidence Skill
 
+![Cognitive biases cost absolute probability accuracy (original teaching figure).](../assets/figures/cycle24_swarm_ch23_bias_cost.png)
+
+*Teaching figure (synthetic).* Debias with natural frequencies.
+
 Critical appraisal curricula traditionally conceptualize the reader as a dispassionate analyst in a sterile environment. Clinical reality contradicts this model. Literature informs practice on the margins of sign-out, amidst the cacophony of the emergency bay, or when confronted by a patient wielding a press release. Under these conditions, the clinician’s cognitive architecture—specifically the interplay between rapid pattern-matching heuristics and deliberative analytics—determines which evidence is utilized, which is distorted, and which is ignored entirely. Cognitive bias is not an intellectual defect isolated to novices; it is a fundamental property of human judgment executing under high cognitive load, time scarcity, and emotional valence. Appraisal methodologies that fail to account for the neurobiology of decision-making remain academic abstractions. When explicitly fused with dual-process theory, however, appraisal transforms into an essential patient safety mechanism.
 
 The stroke service represents a particularly dense heuristic environment. Structural time pressures are severe. Stroke mimics abound, yet reperfusion therapies demand rapid deployment. Neuroimaging provides vivid, conceptually dominating inputs that can easily override subtle clinical incongruities. Outcomes are high-stakes and frequently binary, amplifying hindsight and outcome biases during subsequent morbidity reviews. This chapter delineates the mechanisms of System 1 and System 2 reasoning, taxonomizes the cognitive biases that corrupt evidence translation, illustrates how superficial appraisal compounds these errors, and constructs debiasing frameworks rooted in structured interpretation and Bayesian logic.

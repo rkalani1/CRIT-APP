@@ -28,6 +28,10 @@ Therapy and harm are presented on mismatched scales. Force both benefit and blee
 
 ## Three gates for therapy and harm papers
 
+![Net absolute benefit after safety ARI residual (original teaching figure).](../assets/figures/cycle24_swarm_ch24_net_benefit.png)
+
+*Teaching figure (synthetic).* Pair ARR with ARI.
+
 Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity (can the design support a causal claim?), the magnitude and precision of absolute results, and applicability to the local clinical context. This CRIT-APP sequence prevents premature adoption of flawed data and reflexive rejection of valid evidence. It forces the reader past abstract spin and p-value theater into trial architecture, absolute effect sizes, and bedside tradeoffs.
 
 Therapy questions evaluate whether an intervention improves outcomes worth having; harm questions evaluate whether an exposure causes adverse events worth avoiding. Randomized trials remain the default for therapeutic efficacy, yet they are often underpowered for rare or delayed harms, so observational designs still require disciplined appraisal. In both domains the goal is the same: quantify benefit–harm tradeoffs in absolute terms before rewriting a pathway.

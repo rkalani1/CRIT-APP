@@ -30,6 +30,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 ## The Architecture of the Paper Autopsy
 
+![Fatal/major/minor flaw maps to reject/adapt/wait absolute actions (original teaching figure).](../assets/figures/cycle23_swarm_ch16_flaw_action.png)
+
+*Teaching figure (synthetic).* Autopsy ends in a verb.
+
 ![Paper autopsy absolute residual checklist: pred≠cause, t0 alignment, CER/EER, residual confounding, then NNT/NNH action (original teaching figure).](../assets/figures/cycle16_swarm_ch16_autopsy_abs.png)
 
 *Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.

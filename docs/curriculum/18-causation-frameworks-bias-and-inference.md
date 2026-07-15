@@ -27,6 +27,10 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 ## Introduction: The Causal Gap in Neurological Literature
 
+![Association to causal ARR credibility ladder (original teaching figure).](../assets/figures/cycle23_swarm_ch18_assoc_to_arr.png)
+
+*Teaching figure (synthetic).* Pred≠cause; association≠ARR.
+
 ![Bradford Hill residual weighted toward absolute ARR, temporality, dose–response, and experiment—not analogy alone (original teaching figure).](../assets/figures/cycle19_swarm_ch18_hill_abs.png)
 
 *Teaching figure (synthetic).* Hill criteria are absolute-evidence weights; analogy never mints pathway NNT.
