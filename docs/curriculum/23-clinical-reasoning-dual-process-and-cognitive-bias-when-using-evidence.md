@@ -60,6 +60,66 @@ A confident consultant overrules the evidence with System-1 certainty. Use dual-
 
 *Teaching figure (synthetic).* Debias with natural frequencies.
 
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle408_swarm_ch23_w408_9.png)
+
+*Teaching figure (synthetic).* Cycle-408 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle406_swarm_ch23_w406_9.png)
+
+*Teaching figure (synthetic).* Cycle-406 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle404_swarm_ch23_w404_9.png)
+
+*Teaching figure (synthetic).* Cycle-404 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle402_swarm_ch23_w402_9.png)
+
+*Teaching figure (synthetic).* Cycle-402 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle400_swarm_ch23_w400_9.png)
+
+*Teaching figure (synthetic).* Cycle-400 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle398_swarm_ch23_w398_9.png)
+
+*Teaching figure (synthetic).* Cycle-398 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle396_swarm_ch23_w396_9.png)
+
+*Teaching figure (synthetic).* Cycle-396 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle394_swarm_ch23_w394_9.png)
+
+*Teaching figure (synthetic).* Cycle-394 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle392_swarm_ch23_w392_9.png)
+
+*Teaching figure (synthetic).* Cycle-392 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle390_swarm_ch23_w390_9.png)
+
+*Teaching figure (synthetic).* Cycle-390 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle388_swarm_ch23_w388_9.png)
+
+*Teaching figure (synthetic).* Cycle-388 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle386_swarm_ch23_w386_9.png)
+
+*Teaching figure (synthetic).* Cycle-386 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 23 (original scientific teaching figure).](../assets/figures/cycle384_swarm_ch23_w384_9.png)
 
 *Teaching figure (synthetic).* Cycle-384 densify scientific residual (ch15–28).

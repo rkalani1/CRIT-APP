@@ -63,6 +63,66 @@ A slide claims benefit only in women under 70. Subgroup forests invite storytell
 
 *Teaching figure (synthetic).* Cycle-43 densify scientific residual (ch01–14).
 
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle407_swarm_ch13_w407_13.png)
+
+*Teaching figure (synthetic).* Cycle-407 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle405_swarm_ch13_w405_13.png)
+
+*Teaching figure (synthetic).* Cycle-405 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle403_swarm_ch13_w403_13.png)
+
+*Teaching figure (synthetic).* Cycle-403 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle401_swarm_ch13_w401_13.png)
+
+*Teaching figure (synthetic).* Cycle-401 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle399_swarm_ch13_w399_13.png)
+
+*Teaching figure (synthetic).* Cycle-399 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle397_swarm_ch13_w397_13.png)
+
+*Teaching figure (synthetic).* Cycle-397 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle395_swarm_ch13_w395_13.png)
+
+*Teaching figure (synthetic).* Cycle-395 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle393_swarm_ch13_w393_13.png)
+
+*Teaching figure (synthetic).* Cycle-393 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle391_swarm_ch13_w391_13.png)
+
+*Teaching figure (synthetic).* Cycle-391 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle389_swarm_ch13_w389_13.png)
+
+*Teaching figure (synthetic).* Cycle-389 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle387_swarm_ch13_w387_13.png)
+
+*Teaching figure (synthetic).* Cycle-387 densify scientific residual (ch01–14).
+
+
+![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle385_swarm_ch13_w385_13.png)
+
+*Teaching figure (synthetic).* Cycle-385 densify scientific residual (ch01–14).
+
+
 ![Cycle densify scientific residual for chapter 13 (original scientific teaching figure).](../assets/figures/cycle383_swarm_ch13_w383_13.png)
 
 *Teaching figure (synthetic).* Cycle-383 densify scientific residual (ch01–14).
