@@ -88,6 +88,10 @@ For diagnostic and imaging papers, the F&T-First method remains dominant: seek 2
 
 ## Named Frameworks: The 20-Minute Action Protocol
 
+![20-minute absolute ledger order: CER/EER → ARR → NNT before any RRR layer; stop if RRR-only primary (original teaching figure).](../assets/figures/cycle15_swarm_ch02_abs_ledger_order.png)
+
+*Teaching figure (synthetic).* Sequence protects the absolute ledger under time pressure—never let relative marketing outrun denominators.
+
 The 20-minute protocol is engineered for a single original research paper with immediate decision relevance. It is not designed for drafting a formal peer-review referee report, nor for leisurely academic reading. It is designed to produce an actionable, documented extract that can guide a departmental protocol update. Times are approximate; the strict sequence of extraction matters significantly more than the stopwatch. If you have only ten minutes, compress the duration of each block rather than omitting the final action formulation.
 
 - Minutes 0–2 (Triage & Context): Evaluate the title, design label, trial registration ID, and funding/conflicts of interest. Complete abstract triage. Write the exact clinical decision at stake in one sentence.

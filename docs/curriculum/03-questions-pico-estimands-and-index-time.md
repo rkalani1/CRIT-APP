@@ -70,6 +70,10 @@ Common PICO failures in neurology involve unspecified comparators and composite 
 
 ## The Estimand Framework: ICH E9(R1) in Neurologic Practice
 
+![Estimand board: population vs enrolled vs analytic set can rewrite absolute ARR for the same intervention (original teaching figure).](../assets/figures/cycle15_swarm_ch03_estimand_abs_board.png)
+
+*Teaching figure (synthetic).* Write population, strategies, endpoint horizon, and absolute summary before minting any NNT.
+
 ![Intercurrent-event strategy (treatment-policy vs hypothetical vs composite) rewrites the absolute ARR (original teaching figure).](../assets/figures/cycle12_swarm_ch03_intercurrent_arr.png)
 
 *Teaching figure (synthetic).* The estimand sentence must name the intercurrent strategy; abstract–methods mismatch is spin on the absolute scale.

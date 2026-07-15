@@ -43,6 +43,10 @@ The shift from checklist epidemiology to structural causal inference demands tha
 
 ## Directed Acyclic Graphs (DAGs) as Causal Grammar
 
+![Open backdoor invents crude absolute benefit; closed severity path restores residual ARR before any NNT (original teaching figure).](../assets/figures/cycle15_swarm_ch05_backdoor_residual.png)
+
+*Teaching figure (synthetic).* Structural residual ledger: close severity→treatment and severity→outcome forks before trusting absolute ARR.
+
 ![Open backdoor through severity invents crude ARR; closing the path shrinks absolute association (original teaching figure).](../assets/figures/cycle11_swarm_ch05_backdoor_arr.png)
 
 *Teaching figure (synthetic).* DAGs are absolute-effect hygiene: name and close backdoors before any NNT.

@@ -68,6 +68,10 @@ In a random-effects model (frequently using the DerSimonian-Laird or Restricted 
 
 *Teaching figure (synthetic).* A tight mean CI can coexist with a prediction interval that still includes null or harm. Transport absolute effects with heterogeneity honesty—not only the pooled point.
 
+![Relative RR forest looks homogeneous while absolute ARR forest ranks high-risk populations first (original teaching figure).](../assets/figures/cycle15_swarm_ch10_forest_abs_rd.png)
+
+*Teaching figure (synthetic).* Pool and report absolute RD/NNT for decision transport—not RR alone.
+
 ## Fully Worked Example: Pooling Dual Antiplatelet Therapy in Minor Stroke
 
 Scenario: You are evaluating a meta-analysis of dual antiplatelet therapy (DAPT) versus aspirin monotherapy for the prevention of recurrent stroke within 90 days following a high-risk TIA or minor acute ischemic stroke. Two major randomized controlled trials dominate the literature. You will compute the fixed-effect pooled risk ratio (RR), construct the 95% confidence interval, and critically convert the relative effect into absolute clinical metrics (ARR and NNT) based on baseline risk.

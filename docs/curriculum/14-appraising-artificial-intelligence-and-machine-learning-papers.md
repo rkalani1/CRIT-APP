@@ -109,6 +109,10 @@ Algorithms output continuous probabilities, but clinical actions are binary: you
 
 *Teaching figure (synthetic).* Operating points are utility choices, not Youden conveniences. Deploy only when net benefit beats treat-all/none in the local threshold band and a silent-failure monitoring plan exists.
 
+![AUROC ranking can reverse under absolute net clinical benefit—utility, not discrimination alone, drives deploy/don't (original teaching figure).](../assets/figures/cycle15_swarm_ch14_auroc_vs_nb.png)
+
+*Teaching figure (synthetic).* AUROC ≠ absolute decision value; demand threshold-specific net benefit against treat-all/none.
+
 ## Human Comparison Fairness and Workflow Claims
 
 Claims that an algorithm 'outperforms clinicians' are ubiquitous, highly publicized, and frequently built on artificial methodological handicaps. When evaluating a human-versus-machine trial, the reader must ruthlessly interrogate the symmetry of the contest. Information asymmetry is the most common flaw. If the algorithm was granted access to a perfectly registered, motion-corrected 3D CTA volume, while the human comparator was forced to read a static 2D image without panning, windowing, or zooming capabilities, the comparison is fraudulent. Similarly, if the algorithm incorporates structured electronic health record data (e.g., precise onset time, NIHSS subscores) while the radiologist is provided only a blank requisition form, the contest measures the value of information, not the superiority of the algorithm.

@@ -78,6 +78,10 @@ Furthermore, AUROC is perilously insensitive to localized performance and highly
 
 ## Quantitative Reasoning: Calibration
 
+![Absolute calibration bands: predicted vs observed risk; high score is for counseling, not a treat license without causal ARR (original teaching figure).](../assets/figures/cycle15_swarm_ch09_calib_abs_bands.png)
+
+*Teaching figure (synthetic).* Pred ≠ cause: calibrate absolute risk freely; invent pathway NNTs only from causal contrasts.
+
 Calibration measures the degree of agreement between estimated probabilities and the actual observed frequencies of the outcome. It asks the definitive absolute question: If the model dictates that a patient has a 20% risk of symptomatic intracerebral hemorrhage, and we assemble 100 identical patients, do approximately 20 of them actually bleed?
 
 Calibration is the single most critical metric for any prediction model intended to guide clinical decision-making, direct resource allocation, or facilitate patient counseling. A poorly calibrated model with a high AUROC is actively dangerous; it dispenses incorrect absolute risks with unwarranted mathematical confidence. Calibration must be assessed across multiple dimensions.

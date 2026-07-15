@@ -60,6 +60,10 @@ Because U influences both the probability of treatment (A) and the likelihood of
 
 ## Design Architectures: Cohort, Case-Control, and Cross-Sectional
 
+![Case-control sampling yields OR, not cohort risks; pathway NNT requires external absolute baseline CER (original teaching figure).](../assets/figures/cycle15_swarm_ch07_or_not_nnt.png)
+
+*Teaching figure (synthetic).* Refuse absolute NNT minted from case-control OR alone—convert only after an honest external baseline risk.
+
 A cohort study samples based on exposure status (or defines a baseline population) and follows patients forward in time for incident outcomes. The fundamental scientific direction is exposure-to-outcome. It is the premier observational design for estimating incidence risks, incidence rates, absolute risk differences (ARR), and rate ratios. Crucially, the distinction between 'prospective' and 'retrospective' cohort studies refers only to the timing of data collection relative to the investigator, not the scientific direction. A retrospective cohort still moves logically from exposure to outcome; it simply utilizes pre-existing data. When well-executed, a cohort study can effectively emulate a target trial.
 
 A case-control study samples based on outcome status (cases with the disease, controls without) and looks backward in time to ascertain prior exposure. It is highly efficient for rare outcomes, where a cohort would require massive sample sizes and decades of follow-up. A case-control study directly estimates the Odds Ratio (OR). Under the rare disease assumption, or when using incidence-density sampling, the OR mathematically approximates the Risk Ratio (RR) or Incidence Rate Ratio (IRR). However, in stroke neurology, outcomes like 90-day mortality or functional dependence (mRS > 2) are not rare; they often exceed 30%. In these scenarios, the OR dramatically overstates the RR. Furthermore, standard case-control studies cannot directly estimate absolute risks or ARR unless they are nested within a cohort with known sampling fractions.
