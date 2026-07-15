@@ -30,6 +30,11 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 ## The Pathology of Dichotomania in Clinical Research
 
+![Four absolute ARR confidence-interval stories that p<0.05 dichotomania collapses into two useless bins (original teaching figure).](../assets/figures/cycle14_swarm_ch19_dichotomania.png)
+
+*Teaching figure (synthetic).* Overlay MCID and the null on the absolute interval—significance is not clinical importance.
+
+
 Neurologic literature remains deeply afflicted by dichotomania—the compulsive categorization of continuous evidence into 'positive' or 'negative' bins based on an arbitrary mathematical boundary, typically alpha = 0.05. This cognitive distortion causes clinicians to equate a p-value of 0.04 with definitive truth and a p-value of 0.06 with statistical noise. The reality is that chance is a continuous threat to precision, and treating inferential statistics as a categorical verdict fundamentally misunderstands the architecture of uncertainty.
 
 Statistical inference is an exercise in estimation, not adjudication. The goal of a clinical trial is not to prove that an effect is exactly zero or not zero, but to estimate the magnitude of the effect and quantify the precision of that estimate. By elevating the p-value above the confidence interval, readers systematically ignore the clinical importance of the point estimate and the plausible range of alternative truths contained within the data. A rigorously designed but imprecise study of absolute benefits is infinitely more useful for patient care than a highly significant, massively confounded artifact.

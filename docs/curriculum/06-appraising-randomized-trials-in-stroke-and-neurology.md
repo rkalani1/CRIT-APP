@@ -176,6 +176,11 @@ Adaptive platform trials utilize response-adaptive randomization and continuous 
 
 ## Checklists and Frameworks: The CONSORT-Minded Sequence
 
+![CONSORT-minded appraisal sequence ending on absolute RD/NNT quantitation (original teaching figure).](../assets/figures/cycle14_swarm_ch06_consort_abs.png)
+
+*Teaching figure (synthetic).* Population → assignment → strategies → blinding → absolute arithmetic. No CONSORT-minded read ends on p alone.
+
+
 Memorizing the 25-item CONSORT checklist numbers is pedagogical waste. Advanced clinicians must instead internalize the structural causal sequence. When dissecting a publication, enforce this chronological framework:
 
 - 1. Target Population & Setting: Who was excluded? Does the strict eligibility criteria match the physiology of the patient in your ED?

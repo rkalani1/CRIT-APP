@@ -102,6 +102,11 @@ on the same absolute scale.
 
 ## Rate vs risk (precision language)
 
+![Risk (cumulative %) versus rate (per person-time)—NNT needs risk ARR, not crude rates alone (original teaching figure).](../assets/figures/cycle14_swarm_ch17_risk_rate.png)
+
+*Teaching figure (synthetic).* Precision language protects absolute decisions: match the unit to the estimand.
+
+
 A **risk** (incidence proportion) needs a closed cohort and a fixed window: “8% had
 recurrent stroke by day 90.” A **rate** (incidence rate) needs person-time: “12 events
 per 100 person-years.” Mixing them produces nonsense comparisons—for example, quoting

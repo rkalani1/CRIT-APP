@@ -77,6 +77,11 @@ Now consider the harm. The perioperative risk of stroke or death (ARI) for CEA i
 
 ## Number Needed to Treat (NNT) and Number Needed to Harm (NNH)
 
+![NNT explodes toward infinity as ARR approaches the null—honest when ARR CI includes 0 (original teaching figure).](../assets/figures/cycle14_swarm_ch12_nnt_explode.png)
+
+*Teaching figure (synthetic).* Never pathway-rewrite on a point NNT when the absolute CI kisses zero.
+
+
 The Number Needed to Treat (NNT) translates the ARR into a frequency format. It represents the average number of patients who must receive the treatment to prevent one additional adverse outcome. The formula is simple: NNT = 1 / ARR, where ARR is expressed as a decimal, not a percentage.
 
 If a trial reports an ARR of 0.04 (4 percentage points), the NNT = 1 / 0.04 = 25. You must treat 25 patients to prevent one event.

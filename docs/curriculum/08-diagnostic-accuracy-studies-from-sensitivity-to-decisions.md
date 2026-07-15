@@ -69,6 +69,11 @@ Now, deploy the exact same algorithm in a rural primary care clinic evaluating n
 
 ## Likelihood Ratios and Bayesian Updating
 
+![LR+ = 5 maps pre-test probability to absolute post-test risk; natural-frequency endpoints at prior 20% (original teaching figure).](../assets/figures/cycle14_swarm_ch08_lr_post.png)
+
+*Teaching figure (synthetic).* LRs are portable; post-test probabilities are local absolute decisions.
+
+
 Likelihood ratios (LRs) decouple the test's informational weight from the prevalence, providing a mathematically portable metric that clinicians can apply to any patient. The positive likelihood ratio (LR+) is the ratio of the true positive rate to the false positive rate: Sensitivity / (1 − Specificity). It indicates how many times more likely a positive test result will occur in a patient with the disease compared to a patient without the disease. The negative likelihood ratio (LR−) is the ratio of the false negative rate to the true negative rate: (1 − Sensitivity) / Specificity. It indicates how many times more likely a negative test result will occur in a patient with the disease compared to one without.
 
 To perform Bayes updating with likelihood ratios, probabilities must be converted to odds. The pre-test odds of disease are calculated as Prevalence / (1 − Prevalence). The post-test odds are simply the pre-test odds multiplied by the appropriate likelihood ratio: Post-test odds = Pre-test odds × LR. Finally, the post-test odds are converted back to a post-test probability: Post-test odds / (1 + Post-test odds). This multiplicative arithmetic is mathematically exact and avoids the cognitive trap of attempting to directly multiply a pre-test probability by a sensitivity percentage, an operation that yields meaningless numbers.

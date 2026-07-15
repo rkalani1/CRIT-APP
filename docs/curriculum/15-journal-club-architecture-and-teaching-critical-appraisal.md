@@ -165,6 +165,11 @@ To stimulate the board without humiliating novices, the facilitator can use stan
 
 ## The Red-Flag Super-Checklist (Shared Scaffold)
 
+![Red-flag absolute stops: no CER/EER, relative-only primary, missing ARI, shopped analysis set, action without NNT horizon (original teaching figure).](../assets/figures/cycle14_swarm_ch15_redflag_abs.png)
+
+*Teaching figure (synthetic).* Any STOP freezes the bottom line until the absolute ledger is complete.
+
+
 Checklists do not replace clinical expertise; they offload working memory so that expertise can focus on synthesis. The following Red-Flag Super-Checklist should serve as a living document that the training program updates continuously. It is provided here as a structural scaffold for rapid deployment.
 
 ```
