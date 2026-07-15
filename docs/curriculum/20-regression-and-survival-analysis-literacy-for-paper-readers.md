@@ -75,6 +75,86 @@ A Cox model dump fills the supplement. Translate hazards into absolute risks ove
 
 *Teaching figure (synthetic).* Cycle-44 densify scientific residual (ch15–28).
 
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle952_swarm_ch20_w952_6.png)
+
+*Teaching figure (synthetic).* Cycle-952 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle950_swarm_ch20_w950_6.png)
+
+*Teaching figure (synthetic).* Cycle-950 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle948_swarm_ch20_w948_6.png)
+
+*Teaching figure (synthetic).* Cycle-948 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle946_swarm_ch20_w946_6.png)
+
+*Teaching figure (synthetic).* Cycle-946 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle944_swarm_ch20_w944_6.png)
+
+*Teaching figure (synthetic).* Cycle-944 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle942_swarm_ch20_w942_6.png)
+
+*Teaching figure (synthetic).* Cycle-942 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle940_swarm_ch20_w940_6.png)
+
+*Teaching figure (synthetic).* Cycle-940 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle938_swarm_ch20_w938_6.png)
+
+*Teaching figure (synthetic).* Cycle-938 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle936_swarm_ch20_w936_6.png)
+
+*Teaching figure (synthetic).* Cycle-936 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle934_swarm_ch20_w934_6.png)
+
+*Teaching figure (synthetic).* Cycle-934 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle932_swarm_ch20_w932_6.png)
+
+*Teaching figure (synthetic).* Cycle-932 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle930_swarm_ch20_w930_6.png)
+
+*Teaching figure (synthetic).* Cycle-930 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle928_swarm_ch20_w928_6.png)
+
+*Teaching figure (synthetic).* Cycle-928 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle926_swarm_ch20_w926_6.png)
+
+*Teaching figure (synthetic).* Cycle-926 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle924_swarm_ch20_w924_6.png)
+
+*Teaching figure (synthetic).* Cycle-924 densify scientific residual (ch15–28).
+
+
+![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle922_swarm_ch20_w922_6.png)
+
+*Teaching figure (synthetic).* Cycle-922 densify scientific residual (ch15–28).
+
+
 ![Cycle densify scientific residual for chapter 20 (original scientific teaching figure).](../assets/figures/cycle920_swarm_ch20_w920_6.png)
 
 *Teaching figure (synthetic).* Cycle-920 densify scientific residual (ch15–28).
