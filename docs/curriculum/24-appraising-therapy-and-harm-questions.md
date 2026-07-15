@@ -42,6 +42,10 @@ The analytical estimand must align with the clinical question. The intention-to-
 
 ## Interpreting Results: Absolute Risk and Precision
 
+![Paired absolute benefit–harm ledger: ARR/NNT beside ARI/NNH on one horizon (original teaching figure).](../assets/figures/cycle16_swarm_ch24_nnt_nnh_ledger.png)
+
+*Teaching figure (synthetic).* Therapy appraisal is incomplete without both NNT and NNH at the stated horizon.
+
 Relative measures, such as hazard ratios and relative risks, are mathematically stable across diverse populations but obscure the clinical impact of an intervention. Clinical decision-making requires absolute metrics: Absolute Risk Reduction (ARR) for benefits and Absolute Risk Increase (ARI) for harms. These absolute differences depend entirely on the baseline risk of the population. A 30% relative risk reduction yields a massive ARR in a patient with a recent high-risk TIA, but a negligible ARR in a patient with isolated asymptomatic carotid stenosis.
 
 The Number Needed to Treat (NNT = 1/ARR) and Number Needed to Harm (NNH = 1/ARI) provide intuitive metrics for the risk-benefit tradeoff. However, these metrics are meaningless without an explicit time horizon and outcome definition. A statement like 'NNT of 12' is uninterpretable; 'NNT of 12 to prevent one disabling stroke over 90 days' is actionable. Furthermore, precision is paramount. The 95% confidence intervals around the ARR and ARI define the range of plausible effects and dictate whether a point estimate is robust or dangerously fragile.

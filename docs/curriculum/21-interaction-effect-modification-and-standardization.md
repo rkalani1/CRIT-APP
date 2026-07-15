@@ -37,6 +37,10 @@ The stroke literature frequently exhibits linguistic and analytical confusion be
 
 ## Scale Dependence: Additive and Multiplicative Frameworks
 
+![Additive interaction on absolute risk: joint exposure exceeds additive expectation; RERI and high-risk ARR drive decisions (original teaching figure).](../assets/figures/cycle16_swarm_ch21_additive_interaction.png)
+
+*Teaching figure (synthetic).* Effect modification for care is additive-first—homogeneous RR can still hide large absolute HTE.
+
 ![Constant RR=0.75 yields different stratum ARRs—no multiplicative interaction yet clear additive absolute HTE (original teaching figure).](../assets/figures/cycle10_swarm_ch21_add_vs_mult.png)
 
 *Teaching figure (synthetic).* Clinical decisions live on the additive absolute scale. Homogeneous RR still produces heterogeneous NNT by baseline risk.

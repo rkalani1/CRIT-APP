@@ -32,6 +32,10 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 ## Three gates before you change a pathway
 
+![Diagnosis vs prognosis absolute horizons: post-test disease probability is not future event risk (original teaching figure).](../assets/figures/cycle16_swarm_ch25_dx_px_horizons.png)
+
+*Teaching figure (synthetic).* Never mix diagnostic PPV with prognostic risk@t—horizons and claims differ.
+
 Whether the paper is a prehospital LVO scale, an automated CTA detector, or a score forecasting intracerebral hemorrhage (ICH) expansion, force it through three gates before anything operational moves:
 
 1. **Trustworthiness** — Can this design answer the claimed question without fatal bias for the patients who will actually receive the test or score?

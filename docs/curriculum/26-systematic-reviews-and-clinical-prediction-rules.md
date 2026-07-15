@@ -61,6 +61,10 @@ Validation must assess both discrimination and calibration. Discrimination (meas
 
 ## Impact Analysis: Does the Rule Actually Change Care for the Better?
 
+![CPR impact residual: reclassification % is not enough—demand absolute events prevented vs caused (original teaching figure).](../assets/figures/cycle16_swarm_ch26_cpr_impact_abs.png)
+
+*Teaching figure (synthetic).* Impact = hard absolute outcome Δ, not NRI theater alone.
+
 ![CPR maturity ladder from derivation to external validation to impact trial; process change without patient-outcome ARR is insufficient (original teaching figure).](../assets/figures/cycle12_swarm_ch26_cpr_impact.png)
 
 *Teaching figure (synthetic).* Impact means absolute patient outcomes move—not only that the score was used. Derivation-only CPRs are not pathway tools.

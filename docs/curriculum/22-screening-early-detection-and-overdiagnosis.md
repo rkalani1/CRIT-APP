@@ -57,6 +57,10 @@ Neurovascular screening proposals frequently fail these criteria. Identifying un
 
 ## Lead-Time, Length-Time, and Overdiagnosis Biases
 
+![Screening absolute ledger: incidence spike without mortality win; overdiagnosis excess and false positives dwarf true benefit (original teaching figure).](../assets/figures/cycle16_swarm_ch22_overdiag_abs.png)
+
+*Teaching figure (synthetic).* Demand absolute mortality benefit versus overdiagnosis counts—not survival-from-diagnosis.
+
 ### Lead-Time Bias
 
 Lead-time bias is the artificial inflation of survival time driven solely by an earlier date of diagnosis. If screening detects an asymptomatic malformation five years earlier than it would have manifested clinically, but prophylactic treatment is ineffective, the patient’s absolute lifespan remains unchanged. Yet, five-year survival metrics calculated from the date of diagnosis will indicate dramatic improvement. Survival from diagnosis is intrinsically flawed in screening evaluations; valid appraisals mandate outcome assessment clocked from randomization to screening versus usual care.

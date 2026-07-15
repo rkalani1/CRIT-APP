@@ -30,6 +30,10 @@ Three synthetic paper autopsies sit in the appendix of this curriculum. Practice
 
 ## The Architecture of the Paper Autopsy
 
+![Paper autopsy absolute residual checklist: pred≠cause, t0 alignment, CER/EER, residual confounding, then NNT/NNH action (original teaching figure).](../assets/figures/cycle16_swarm_ch16_autopsy_abs.png)
+
+*Teaching figure (synthetic).* Autopsy ends on the absolute residual ledger—refuse pathway NNT when any stop fires.
+
 Integrated appraisal is slower than abstract skimming and faster than regret after a pathway change based on statistical spin. Autopsies train the slower skill until it becomes a rapid reflex. The educational standard is not cruelty to authors; it is fairness to patients. A paper can be honest, important, and still structurally incapable of justifying the practice change its abstract implies. Autopsy language must be precise, proportionate, and entirely free of ad hominem attack. When we identify a 'fatal flaw,' we mean the architecture of the paper cannot support a particular causal or deployment claim—we are not passing judgment on the authors' careers.
 
 ```
