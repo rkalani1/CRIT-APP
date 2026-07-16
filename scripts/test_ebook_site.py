@@ -59,6 +59,17 @@ class EbookSiteTests(unittest.TestCase):
         self.assertNotIn("update-protocol.md", index)
         self.assertLess(len(index), 12000)
 
+    def test_raw_html_routes_target_rendered_pages(self) -> None:
+        index = (self.docs / "index.md").read_text(encoding="utf-8")
+        raw_hrefs = re.findall(r"<a\b[^>]*\bhref=[\"']([^\"']+)", index, re.I)
+        bad = [href for href in raw_hrefs if href.split("#", 1)[0].endswith(".md")]
+        self.assertEqual(bad, [], f"raw HTML links bypass MkDocs rewriting: {bad}")
+
+    def test_source_link_does_not_trigger_release_api_poll(self) -> None:
+        index = (self.docs / "index.md").read_text(encoding="utf-8")
+        self.assertNotRegex(self.yml, r"(?m)^repo_url:")
+        self.assertRegex(index, r"https://github\.com/rkalani1/(?:CRIT-APP|ML)")
+
     def test_chapters_exist(self) -> None:
         ch = [
             p
@@ -95,6 +106,137 @@ class EbookSiteTests(unittest.TestCase):
         )
         self.assertIn(".md-header", css)
         self.assertIn("display: none", css)
+        self.assertIn("prefers-reduced-motion", css)
+
+    def test_navigation_labels_are_not_truncated(self) -> None:
+        nav = self.yml.split("nav:", 1)[-1]
+        self.assertNotIn("...", nav)
+        self.assertNotIn("…", nav)
+
+    def test_figure_density_and_asset_integrity(self) -> None:
+        image_re = re.compile(r"!\[[^\]]*\]\(([^)\s]+)")
+        chapters = sorted((self.docs / "curriculum").glob("*.md"))
+        for chapter in chapters:
+            refs = image_re.findall(chapter.read_text(encoding="utf-8"))
+            self.assertLessEqual(len(refs), 20, f"{chapter.name} has {len(refs)} raster figures")
+            for ref in refs:
+                if re.match(r"(?:https?:)?//", ref):
+                    continue
+                target = (chapter.parent / ref).resolve()
+                self.assertTrue(target.is_file(), f"{chapter.name} has missing image {ref}")
+        assets = [
+            path
+            for path in (self.docs / "assets" / "figures").rglob("*")
+            if path.is_file() and path.suffix.lower() in {".png", ".jpg", ".jpeg", ".webp", ".svg"}
+        ]
+        self.assertLessEqual(len(assets), 300, f"figure asset ceiling exceeded: {len(assets)}")
+        size = sum(path.stat().st_size for path in assets)
+        self.assertLessEqual(size, 25 * 1024 * 1024, f"figure assets total {size / 1024 / 1024:.2f} MiB")
+
+        source_blob = "\n".join(
+            path.read_text(encoding="utf-8", errors="replace")
+            for suffix in ("*.md", "*.css")
+            for path in self.docs.rglob(suffix)
+        )
+        orphan_assets = [path.name for path in assets if path.name not in source_blob]
+        self.assertEqual(
+            orphan_assets,
+            [],
+            f"unreferenced figure assets should not ship: {orphan_assets}",
+        )
+
+    def test_no_densifier_residue(self) -> None:
+        bad_names = []
+        for path in (self.docs / "assets" / "figures").glob("*"):
+            if re.search(r"(?i)(?:^|_)cycle\d{3,}(?:_|$)", path.name):
+                bad_names.append(path.name)
+            if re.match(r"(?i)^cycle[123]", path.name):
+                bad_names.append(path.name)
+        self.assertEqual(bad_names, [], f"continuous densifier assets remain: {bad_names[:5]}")
+
+    def test_retired_mutators_are_absent(self) -> None:
+        retired = {
+            "build_ebook_site.py", "build_web_edition.py", "build_from_docx.py",
+            "expand_chapters.py", "wire_unused_figures.py", "embed_figures.py",
+            "render_concept_figures.py", "cycle2_caption_art.py", "deep_originality_scan.py",
+        }
+        present = sorted(path.name for path in (self.root / "scripts").glob("*.py") if path.name in retired)
+        self.assertEqual(present, [], f"retired destructive mutators remain: {present}")
+
+    def test_evidence_register_is_explicitly_bounded(self) -> None:
+        register = self.docs / "evidence-register.md"
+        self.assertTrue(register.is_file(), "evidence register missing")
+        text = register.read_text(encoding="utf-8")
+        self.assertGreaterEqual(text.count("Primary-source spot-check 2026-07-15"), 10)
+        self.assertIn("needs confirmation", text)
+        self.assertIn("assets/figures/manifest.json", text)
+
+    def test_known_content_regressions_stay_fixed(self) -> None:
+        chapters = {
+            path.name: path.read_text(encoding="utf-8")
+            for path in (self.docs / "curriculum").glob("*.md")
+        }
+        blob = "\n".join(chapters.values())
+        if self.root.name.upper() == "CRIT-APP":
+            for false_claim in (
+                "RRR) is constant across different baseline risk groups",
+                "assume RR roughly equals HR",
+                "OR = 11.4",
+                "Absolute effects are causally identifiable",
+                "## Advanced Application in Clinical Practice",
+                "Precision is essentially infinite",
+                "will result in a cumulative risk reduction that is much smaller than 30%",
+                "which invariably exaggerate the perceived efficacy",
+                "HR of 0.50 reduces the treated rate",
+                "hazard ratios) are generally more transportable",
+                "unambiguous net benefit",
+                "mathematically stable across diverse populations",
+                "Three synthetic paper autopsies sit in the appendix",
+                "statistical theory guarantees that one of them",
+                "virtually guarantees a false positive",
+                "guaranteeing exchangeability at baseline",
+                "answer initiation-policy questions without bias",
+                "mathematically stable across varying baseline risks",
+                "absolute gold standard of synthesis",
+                "initial observational proof for mechanical thrombectomy",
+                "You must treat 25 patients to prevent one event",
+                "Exactly 50 patients must be treated",
+                "mathematically guarantees a spurious association",
+                "The trial is definitively negative",
+                "mathematically trivial to declare non-inferiority",
+                "A Per-Protocol analysis is mandatory",
+                "guaranteed neurocognitive and psychiatric toxicities",
+                "Internal validation proves only",
+                "The absolute risks are trustworthy",
+                "formally consider palliation",
+            ):
+                self.assertNotIn(false_claim, blob)
+            self.assertNotRegex(blob, r"(?m)^[ \t]*\d+\.[ \t]+\d+\.")
+            self.assertNotRegex(blob, r"(?m)^(?:ightarrow|eq)\b")
+            self.assertFalse(
+                any(ord(char) < 32 and char not in "\n\r\t" for char in blob),
+                "curriculum contains embedded control characters",
+            )
+            self.assertIn("10/418", chapters["12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.md"])
+            self.assertIn("an HR is not a risk ratio", blob)
+            self.assertIn("not automatically causally identified or transportable", blob)
+            self.assertIn("Five synthetic paper autopsies appear in this chapter", blob)
+            self.assertIn("O/E = 270/240 = 1.125", blob)
+            self.assertIn("Aalen–Johansen cumulative incidence", blob)
+        elif self.root.name.upper() == "ML":
+            self.assertNotIn("ml_concept_", blob)
+            for false_claim in (
+                "positive definite (a local minimum)",
+                "rolling downhill is guaranteed to find it",
+                "correction matters only for the first tens of steps",
+                "PSI ≳ 0.2 is a material alarm",
+                "rule of thumb often near 0.2-0.4",
+            ):
+                self.assertNotIn(false_claim, blob)
+            math = chapters["00-mathematical-foundations-for-machine-learning.md"]
+            self.assertIn("∇f(1, 1) = (6, 4) ≠ 𝟎", math)
+            self.assertIn("therefore is not a local minimum", math)
+            self.assertIn("Convergence of gradient descent is a separate result", math)
 
     def test_no_figure_concept_admonitions(self) -> None:
         hits = 0

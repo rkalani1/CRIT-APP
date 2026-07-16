@@ -1,18 +1,13 @@
 site_name: Critical Appraisal for Neurologists
 site_description: Open-source ebook on critical appraisal for neurology and stroke.
 site_url: https://rkalani1.github.io/CRIT-APP/
-repo_url: https://github.com/rkalani1/CRIT-APP
-repo_name: rkalani1/CRIT-APP
-edit_uri: ''
 copyright: 'Open-source ebook · CC BY 4.0 content · ISC site code · Educational only
   — not medical advice.
 
   '
 theme:
   name: material
-  font:
-    text: Source Sans 3
-    code: JetBrains Mono
+  font: false
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
@@ -53,7 +48,6 @@ markdown_extensions:
 - md_in_html
 extra_javascript:
 - javascripts/mathjax.js
-- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
 - stylesheets/extra.css
 extra:
@@ -62,6 +56,7 @@ extra:
     link: https://github.com/rkalani1/CRIT-APP
 nav:
 - Introduction: index.md
+- Evidence register: evidence-register.md
 - Book:
   - 01. Why Critical Appraisal Matters in Neurology and Stroke: curriculum/01-why-critical-appraisal-matters-in-neurology-and-stroke.md
   - 02. How to Read a Paper Under Time Pressure: curriculum/02-how-to-read-a-paper-under-time-pressure.md

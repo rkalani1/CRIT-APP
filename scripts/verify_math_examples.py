@@ -68,6 +68,20 @@ def main() -> int:
     checks.append(("ch10_arr10", near(arr, 0.0305, 0.001), f"{arr:.4f}"))
     checks.append(("ch10_nnt10", near(nnt, 33, 1.0), f"{nnt:.1f}"))
 
+    # Ch09 REPERFUSE-3 grouped calibration example
+    expected_events = 300 * 0.05 + 400 * 0.15 + 200 * 0.40 + 100 * 0.85
+    observed_events = 15 + 80 + 90 + 85
+    oe_ratio = observed_events / expected_events
+    checks.append(("ch09_expected_events", near(expected_events, 240, 1e-12), f"{expected_events:.0f}"))
+    checks.append(("ch09_observed_events", near(observed_events, 270, 1e-12), f"{observed_events:.0f}"))
+    checks.append(("ch09_oe_ratio", near(oe_ratio, 1.125, 1e-12), f"{oe_ratio:.3f}"))
+
+    # Ch11 two-interval competing-risk illustration
+    net_risk = 1 - (1 - 40 / 1000) * (1 - 25 / 900)
+    cumulative_incidence = 40 / 1000 + (900 / 1000) * (25 / 900)
+    checks.append(("ch11_net_risk", near(net_risk, 0.066667, 1e-6), f"{net_risk:.6f}"))
+    checks.append(("ch11_cif", near(cumulative_incidence, 0.065, 1e-12), f"{cumulative_incidence:.6f}"))
+
     # Ch08 diagnostic 2x2 teaching: sens 80% example numbers if present in spirit
     # TP=80 FN=20 FP=150 TN=650 → sens=0.8 spec≈0.8125 PPV≈0.348... wait use residual values
     # Residual cited: sens 80%, PPV 42.9% — verify that combo
