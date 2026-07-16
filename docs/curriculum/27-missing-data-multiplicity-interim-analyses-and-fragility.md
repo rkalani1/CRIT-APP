@@ -17,16 +17,6 @@
 Interim looks early and the primary endpoint is fragile. Ask missingness, multiplicity, and what would reverse the conclusion with a few events.
 
 
-## Learning objectives
-
-- Classify missing data mechanisms (MCAR, MAR, MNAR) and map their implications onto neurologic follow-up.
-- Critique last observation carried forward (LOCF) and complete-case analysis as analytically hazardous in acute stroke trials.
-- Appraise statistical multiplicity—ranging from unadjusted secondary endpoint sweeps to hidden subgroup analyses.
-- Interpret interim analyses and the distinct biases introduced by early stopping for benefit versus early stopping for futility or harm.
-- Deploy the fragility index and related heuristics to stress-test the robustness of dichotomous endpoints in modest-sized stroke trials.
-- Identify analytic flexibility and the consequent 'spin' that frames post hoc data exploration as confirmatory evidence.
-- Construct a rigorous journal-club framework to systematically interrogate trial plumbing before advocating practice changes.
-
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
 Physicians are conditioned to inspect randomization, blinding, and primary endpoint definitions with extreme care, yet often ignore the analytic plumbing that underwrites the reported p-value. A trial claiming a revolutionary endovascular therapy benefit may harbor missing 90-day modified Rankin Scale (mRS) data on 10% of the cohort, undocumented alpha spending across multiple interim peeks, and a dozen unadjusted secondary endpoints mined for significance. This is not mere statistical pedantry. These methodological choices determine whether a reported hazard ratio reflects a stable biological truth or a fragile statistical mirage.

@@ -17,19 +17,6 @@
 A registry paper claims a drug is associated with lower readmission. Treat association as a starting hypothesis, not a green light for automatic order panels.
 
 
-## Learning objectives
-
-- Reconstruct the implicit target trial for any observational analysis to determine whether the causal question is well-defined.
-- Distinguish cohort, case-control, and cross-sectional architectures by their sampling mechanisms and the specific absolute or relative parameters they estimate.
-- Apply the active-comparator new-user (ACNU) framework to evaluate attempts to mitigate confounding by indication in pharmacoepidemiology.
-- Diagnose immortal time bias and guarantee-time bias in registry data, and evaluate proposed solutions including landmark analysis and time-dependent covariates.
-- Quantify the threat of residual confounding using E-values and formal quantitative bias analysis, replacing vague hand-waving with numeric bounds.
-- Differentiate predictive associations from causal effects rigorously; prediction does not equal causation, and conflating them guarantees clinical error.
-- Anticipate the severe limitations of claims data and electronic health records, specifically concerning phenotype accuracy, missing stroke severity (NIHSS), and surveillance bias.
-- Execute a numeric reconstruction of a flawed observational study to demonstrate how survival artifacts masquerade as treatment efficacy.
-- Identify and dissect prevalent-user bias and the depletion of susceptibles in long-term observational registries.
-- Audit observational studies for mediator and collider adjustment errors that destroy causal estimation.
-
 ## Introduction: The Promise and Peril of Observational Evidence
 
 Observational studies are not failed randomized controlled trials. They are the primary source of evidence for harms, rare exposures, long-term outcomes, real-world practice variation, and the clinical trajectories of populations that trials systematically exclude. Simultaneously, they are the main source of confounded narratives that travel faster than scientific corrections. The naive reader treats a large, statistically significant adjusted hazard ratio derived from an observational database as a precise estimate of a treatment effect. The nihilistic reader, reacting to the replication crisis, reflexively dismisses every non-randomized result as pure bias. This chapter trains a third, strictly professional stance: design-aware appraisal. This approach scores how closely a study approximates a well-defined causal contrast and isolates the specific residual threats that remain.

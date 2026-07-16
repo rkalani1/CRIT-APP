@@ -17,19 +17,6 @@
 An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the label matches the clinical decision the tool will actually drive.
 
 
-## Learning objectives
-
-- Define the exact clinical task, the specific decision point, and the intended deployment use case prior to examining any model performance metric, recognizing firmly that mathematical prediction does not equal physiological causation.
-- Deconstruct data provenance, inclusion logic, and labeling methods to identify hidden biases, spectrum constraints, and preprocessing dependencies that compromise the applicability of the algorithm to local stroke populations.
-- Map the architecture of training, validation, and testing splits to detect patient-level, slice-level, feature-level, and temporal information leakage that artificially inflates reported accuracy.
-- Anticipate domain shift, including scanner variance, contrast timing differences, and baseline prevalence changes, demanding independent external validation that strictly matches the intended deployment claim.
-- Calculate and interpret discrimination metrics (AUROC, AUPRC) and operating-point metrics (sensitivity, specificity, positive predictive value, negative predictive value), emphasizing absolute performance and prevalence dependency rather than relative ratios.
-- Evaluate model calibration across the continuous probability spectrum and recognize the profound clinical hazard of deploying overconfident, miscalibrated prognostic models in irreversible goals-of-care decisions.
-- Judge human-versus-machine comparison trials for methodological fairness regarding information symmetry, time constraints, workflow emulation, and representative reader selection.
-- Identify silent failure modes, anticipate the systemic dangers of automation bias, and design rigorous governance protocols for continuous post-deployment monitoring and algorithmic stewardship.
-- Apply the underlying principles of the TRIPOD-AI and PROBAST frameworks to structure critical appraisal, utilizing them to identify fatal methodological flaws rather than treating them as rigid, arithmetic checklists.
-- Execute a comprehensive, step-by-step appraisal of a diagnostic imaging algorithm and a multivariable prognostic machine learning paper, isolating the mechanisms by which flawed designs produce mathematically impressive but clinically dangerous metrics.
-
 ## The Conceptual Core: Prediction, Causation, and Utility
 
 Machine learning has saturated the neurological and cerebrovascular literature, promising automated detection of large-vessel occlusions, precise segmentation of intracerebral hemorrhage, and early prediction of functional dependence following acute stroke. Clinicians trained exclusively to evaluate randomized controlled trials often approach these papers with an insufficient methodological framework. The critical appraisal of artificial intelligence requires a distinct analytical reflex, one that rigorously separates mathematical optimization from clinical utility. An algorithm is fundamentally an engine of correlation; it maps high-dimensional input vectors to target labels by minimizing a statistical loss function. It does not understand anatomy, pathophysiology, or the clinical consequences of its outputs. It optimizes exactly what it is programmed to optimize, ruthlessly exploiting any statistical artifact present in the data.

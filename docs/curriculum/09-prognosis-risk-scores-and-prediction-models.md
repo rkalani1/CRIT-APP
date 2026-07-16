@@ -17,19 +17,6 @@
 A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
 
 
-## Learning objectives
-
-- Distinguish prognosis, prediction, and diagnosis as separate scientific claims with distinct validity threats.
-- Dismantle the conflation of predictive models and causal inference, recognizing that predicting an outcome does not identify treatment effect modifiers.
-- Calculate and interpret calibration metrics, including observed-to-expected (O/E) ratios, calibration-in-the-large, and calibration slope, rejecting reliance on discrimination alone.
-- Quantify discrimination using the c-statistic (AUROC) and recognize its insensitivity to absolute risk and extreme outcome imbalances.
-- Evaluate internal validation methodologies (split-sample, cross-validation, bootstrapping) and identify pre-selection leakage.
-- Appraise external validation for temporal drift, geographical variation, and case-mix shifts, requiring rigid adherence to the original mathematical equation.
-- Execute decision curve analysis (DCA) mathematically to determine Net Benefit at clinical threshold probabilities.
-- Apply the PROBAST risk of bias framework to detect index-time leakage, immortal time bias, and improper handling of missing data.
-- Navigate stroke-specific prediction controversies, including the self-fulfilling prophecy of the ICH Score and the diagnostic drift of ABCD2.
-- Formulate patient counseling strategies that rely on calibrated absolute risk rather than relative risk or odds ratios.
-
 ## The Demarcation of Prediction from Causal Inference
 
 Clinical neurology generates scoring systems at a relentless pace. The National Institutes of Health Stroke Scale (NIHSS) originated as a reproducible severity measure but rapidly mutated into a prognostic heuristic. The ICH Score predicts thirty-day mortality after intracerebral hemorrhage. The ABCD2 score stratifies the short-term probability of stroke following a transient ischemic attack. Modern machine learning algorithms digest raw non-contrast computed tomography images to predict large vessel occlusion, while others aggregate electronic health record data to forecast malignant cerebral edema. Despite this saturation, the fundamental error committed by clinicians and researchers alike is conflating a prediction model with a causal model. This conflation routinely poisons journal clubs and distorts clinical guidelines.

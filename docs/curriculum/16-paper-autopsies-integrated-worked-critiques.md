@@ -17,17 +17,6 @@
 Five synthetic paper autopsies appear in this chapter. Practice the autopsy sequence: claim → design → absolute effect → transport → decide.
 
 
-## Learning objectives
-
-- Synthesize critical appraisal concepts across trial design, observational causal inference, and prediction modeling into unified, paper-length autopsies.
-- Execute a structured, quantitative evaluation of a randomized controlled trial of acute stroke intervention, isolating absolute effects (ARR, NNT) and characterizing threats to internal validity such as post-randomization exclusions.
-- Diagnose immortal time bias and target trial misalignment in observational stroke outcome associations, utilizing time-zero mapping to expose spurious hazard ratios.
-- Appraise clinical artificial intelligence (AI) imaging algorithms by interrogating performance metrics (PPV, NPV) anchored to realistic local prevalence and evaluating true external validation.
-- Deconstruct a non-inferiority trial design, calculating margin justification, assay sensitivity, and the interplay between ischemic efficacy and hemorrhagic safety.
-- Evaluate a clinical prediction model using calibration slopes, discrimination, and decision curve analysis (net benefit) to determine operational utility in stroke populations.
-- Formulate bottom-line clinical decisions (Act, Conditional, Watch, No Change) based on rigorous evidentiary synthesis, stripping away abstract spin and press release hype.
-- Transfer the integrated autopsy framework to local journal clubs to mandate epistemological discipline in clinical practice.
-
 ## The Architecture of the Paper Autopsy
 
 Integrated appraisal is slower than abstract skimming and faster than regret after a pathway change based on statistical spin. Autopsies train the slower skill until it becomes a rapid reflex. The educational standard is not cruelty to authors; it is fairness to patients. A paper can be honest, important, and still structurally incapable of justifying the practice change its abstract implies. Autopsy language must be precise, proportionate, and entirely free of ad hominem attack. When we identify a 'fatal flaw,' we mean the architecture of the paper cannot support a particular causal or deployment claim—we are not passing judgment on the authors' careers.

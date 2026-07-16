@@ -17,14 +17,6 @@
 A Cox model dump fills the supplement. Translate hazards into absolute risks over a clinically meaningful horizon before teaching the result.
 
 
-## Learning objectives
-
-- Distinguish the specific indications for linear, logistic, and Cox proportional hazards models based on the nature of the clinical outcome.
-- Interpret model outputs—coefficients, odds ratios (ORs), and hazard ratios (HRs)—recognizing their assumptions and mathematical limitations.
-- Evaluate the handling of censoring and the construction of Kaplan-Meier survival curves in longitudinal stroke studies.
-- Critique proportional hazards assumptions and the clinical meaning of the hazard ratio over time.
-- Identify the Table 2 fallacy and the hazards of causal over-interpretation of multivariable prediction models.
-
 ## Mapping Clinical Outcomes to Regression Models
 
 Statistical regression quantifies the relationship between exposures and outcomes while conditionally isolating the effects from modeled covariates. The choice of regression model is dictated by the distribution and temporal nature of the dependent variable. Readers must verify that authors selected the correct functional form before trusting the reported coefficients.

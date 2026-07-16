@@ -9,18 +9,6 @@
 You have eleven minutes before rounds. The abstract says practice-changing. This curriculum treats that claim as a hypothesis to pressure-test—validity and transport first, celebration later.
 
 
-## Learning objectives
-
-- Map a typical clinical research paper onto IMRaD structure and locate decision-critical content rapidly without reading front-to-back.
-- Execute abstract triage to classify claims, detect fatal flaws, and decide whether a full appraisal is warranted within three minutes.
-- Apply the figures-and-tables-first method to extract absolute effect sizes, sample characteristics, and safety data prior to reading narrative text.
-- Perform a highly structured, reproducible 20-minute appraisal protocol suitable for intense clinical environments, ward rounds, and research meetings.
-- Utilize the Paper Extraction Checklist to secure actionable, bias-aware interpretations of new evidence.
-- Translate relative risk reporting into absolute risk metrics, specifically Absolute Risk Reduction (ARR), Number Needed to Treat (NNT), and Number Needed to Harm (NNH).
-- Discriminate cleanly between prediction and causation claims during rapid triage, preventing the misapplication of predictive variables as therapeutic targets.
-- Identify and bypass common failure modes in speed reading, such as adopting authors' discussion claims without verifying the corresponding methods and results.
-- Draft concise, unambiguous action sentences that translate paper findings into strict clinical pathway decisions or specific patient counseling scripts.
-
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
 Neurologists, stroke specialists, and neurointensivists almost never enjoy uninterrupted afternoons to study a single paper. The realistic unit of reading time is typically twelve to twenty-five minutes: between emergency department consults, before a morning case conference, or immediately after a fellow forwards a manuscript with a note indicating it might change practice. Without a strict method, short reading sessions produce one of two unacceptable outcomes: false confidence, where the reader adopts the abstract's conclusions without appraising the methods, or false modesty, where the reader ignores the literature entirely due to a lack of time. Both represent clinical failures. The goal of this chapter is to instill disciplined speed: a highly structured sequence of extraction that maximizes decision-relevant information per minute while leaving a clear, documented residue of uncertainty.

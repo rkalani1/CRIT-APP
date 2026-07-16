@@ -17,19 +17,6 @@
 A confident consultant overrules the evidence with System-1 certainty. Use dual-process language to slow the handoff without shaming expertise.
 
 
-## Learning objectives
-
-- Deconstruct dual-process (System 1 and System 2) reasoning architectures in the context of hyperacute stroke workflows and critical appraisal.
-- Systematize the identification of principal cognitive biases—anchoring, availability, confirmation, and premature closure—operating within cerebrovascular diagnostics and literature interpretation.
-- Explicate the combinatorial hazards of methodologically weak appraisal intersecting with heuristic biases, yielding predictable vectors for over- and undertreatment.
-- Operationalize structured critical appraisal frameworks as cognitive debiasing instruments under conditions of high clinical stakes and profound uncertainty.
-- Integrate bedside Bayesian logic, linking pre-test probabilities and likelihood ratios to actionable post-test probabilities in the evaluation of stroke mimics.
-- Distinguish adaptive pattern recognition from hazardous heuristic completion during time-pressured triage.
-- Formulate team-level cognitive protocols—such as diagnostic timeouts, directed adversarial review, and mandatory absolute-risk translation—to neutralize collective biases.
-- Critically evaluate the amplifying effects of social discourse, media framing, and extreme clinical outcomes on the availability heuristic.
-- Dissect a hyperacute stroke mimic scenario, illustrating the synthesis of clinical priors, serial examination, neuroimaging constraints, and therapy risk-benefit thresholds.
-- Design a personalized 'bias and appraisal' morbidity log to anchor continuous metacognitive development.
-
 ## Why Reasoning Quality Is an Evidence Skill
 
 Critical appraisal curricula traditionally conceptualize the reader as a dispassionate analyst in a sterile environment. Clinical reality contradicts this model. Literature informs practice on the margins of sign-out, amidst the cacophony of the emergency bay, or when confronted by a patient wielding a press release. Under these conditions, the clinician’s cognitive architecture—specifically the interplay between rapid pattern-matching heuristics and deliberative analytics—determines which evidence is utilized, which is distorted, and which is ignored entirely. Cognitive bias is not an intellectual defect isolated to novices; it is a fundamental property of human judgment executing under high cognitive load, time scarcity, and emotional valence. Appraisal methodologies that fail to account for the neurobiology of decision-making remain academic abstractions. When explicitly fused with dual-process theory, however, appraisal transforms into an essential patient safety mechanism.

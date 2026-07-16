@@ -9,14 +9,6 @@
 An interaction claim says the drug works only on one scale. Demand which scale, pre-specification, and absolute stratum effects.
 
 
-## Learning objectives
-
-- Define effect modification and statistical interaction, distinguishing them structurally and analytically from confounding.
-- Contrast additive and multiplicative scales of interaction, identifying why the scale chosen dictates the clinical interpretation of subgroup analyses.
-- Translate relative outcome measures from neurovascular trials into stratum-specific absolute risks to evaluate net clinical benefit.
-- Explain direct and indirect standardization of stroke incidence and mortality rates, applying these techniques to comparative epidemiology.
-- Appraise subgroup claims in stroke literature by evaluating pre-specification, scale dependence, interaction testing, and measurement error.
-
 ## Interaction Versus Confounding: Structural Distinctions
 
 In clinical epidemiology, interaction (effect modification) and confounding represent fundamentally different structural phenomena. Confounding is a form of bias that distorts the marginal estimate of an exposure-outcome relationship. It arises when a third variable is associated with both the exposure and the outcome, necessitating adjustment or weighting to isolate the causal effect. Effect modification, by contrast, describes a scenario where the magnitude or direction of an effect genuinely varies across strata of a third variable. It is a clinical reality to be documented and analyzed, not a bias to be eliminated.

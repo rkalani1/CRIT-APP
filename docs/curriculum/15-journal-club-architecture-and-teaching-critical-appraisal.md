@@ -17,17 +17,6 @@
 You are assigned journal club lead tomorrow. Build roles, timeboxes, and a decision output—not a ritual roasting of methods trivia.
 
 
-## Learning objectives
-
-- Design a 45-60 minute journal club agenda that protects time for methods, absolute effects, and decision relevance, escaping the trap of summary theater.
-- Assign and rotate specific cognitive roles to distribute the workload and prevent hierarchy-driven monologues.
-- Implement a structured question board that forces estimands, ranked validity threats, and absolute effects into public view.
-- Deploy a comprehensive red-flag super-checklist as a shared structural scaffold for trainees and faculty.
-- Scaffold learners across developmental stages, moving them from scripted single-page briefs to independent facilitation without humiliation.
-- Build and protect psychological safety, establishing norms for epistemic disagreement that prioritize rigorous reasoning over status performance.
-- Execute a fully worked, minute-by-minute run-of-show for a complex stroke trial, incorporating absolute risk reductions (ARR), number needed to treat (NNT), and number needed to harm (NNH).
-- Distinguish prediction from causation during group discussions, ensuring causal language remains strictly proportional to study design.
-
 ## The Conceptual Core: Why the Default Journal Club Fails
 
 Most neurology training programs possess a designated hour for journal club. Most of these hours fail to teach critical appraisal. The default format typically devolves into 'summary theater': a junior trainee constructs thirty slides restating the background pathophysiology and the abstract, a senior faculty member shares a clinical war story tangentially related to the topic, and the group disperses having covered a paper without interrogating it. The failure is architectural, not moral. When a session lacks explicit time constraints, rotating roles, and a shared epistemic framework, the path of least resistance is to summarize rather than to appraise.

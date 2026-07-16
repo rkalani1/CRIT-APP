@@ -17,14 +17,6 @@
 Policy meeting: absolute benefit looks large in trials but small in your catchment. Systems design must track access, equity, and communication—not only p-values.
 
 
-## Learning objectives
-
-- Distinguish pathway adoption from de-implementation, and name operational barriers that keep low-value stroke care alive.
-- Evaluate transportability of trial efficacy to primary, comprehensive, and resource-limited stroke systems.
-- Critique quality metrics that conflict with individualized, high-fidelity evidence use (including Goodhart dynamics).
-- Translate relative claims into absolute risks and natural frequencies for shared decision-making.
-- Draft a one-page systems memo that links appraisal conclusions to order-set, metric, and counseling changes.
-
 ## Pathway Change and De-Implementation
 
 The integration of new evidence into institutional pathways requires more than simply writing novel orders. Often, the most formidable barrier in vascular neurology is de-implementation—the deliberate process of abandoning entrenched practices that high-quality evidence has proven ineffective or harmful. Clinical pathways become deeply institutionalized. The routine ordering of extensive hypercoagulable panels in unselected older stroke patients, or the continuation of sliding-scale insulin without basal coverage in acute stroke units, frequently persists long after the literature has debunked their utility.

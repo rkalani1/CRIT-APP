@@ -13,19 +13,6 @@
 A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.
 
 
-## Learning objectives
-
-- Translate vague clinical curiosity into a structurally sound PICO or PECO question without losing physiologic or pragmatic meaning.
-- Delineate the target population, study sample, and analytic set, computing transportability gaps between them.
-- Specify the intervention, exposure, and comparator with sufficient operational granularity to reproduce the clinical decision.
-- Construct a complete estimand under the ICH E9(R1) framework for an acute stroke trial and an observational cohort study.
-- Define index time (t0) rigorously and explain how misaligned clocks destroy causal inference.
-- Identify immortal time bias as a failure of index time alignment, using medication dispensing and procedural delays as paradigms.
-- Formalize the quantitative causal contrast using potential outcomes notation, differentiating absolute effects (ARR) from relative measures.
-- Reconstruct and critique the true estimand of a published paper when the authors conflate prediction with causation.
-- Evaluate eligibility criteria not merely as safety guards, but as fundamental parameters defining the causal target.
-- Identify neighbor questions that appear relevant but address different clinical decisions or temporal horizons.
-
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
 Most literature chaos begins as linguistic chaos. In neurology morbidity and mortality conferences, a trainee or attending might ask, 'Is endovascular therapy effective for large core infarcts?' or 'Do patients do better with early clinic follow-up?' or 'Is tenecteplase superior to alteplase?' These are vital curiosities, but they are not answerable research or appraisal questions. They lack a defined population, a specific contrast, a temporal origin, a measured outcome, and a defined summary metric. Critical appraisal does not start with attacking statistics; it starts with repairing the question. If you cannot define what is being estimated, debating the p-value is pure theater. The initial duty of the clinical epidemiologist is to force the clinician to speak in specific, falsifiable causal contrasts.

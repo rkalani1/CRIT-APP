@@ -17,19 +17,6 @@
 Sign-out is late. Three PDFs land in the team channel: late-window EVT selection with a relative-risk headline, dual-antiplatelet timing from claims data, and a hemorrhage-risk model. Before any pathway moves, force the slower question: what is estimated, for whom, and on what absolute scale?
 
 
-## Learning objectives
-
-- Explain why stroke and neurology generate unusually high evidence density and how that density can both help and harm clinical judgment.
-- Describe the real-world clinical, operational, and scientific costs of misreading papers, including overtreatment, undertreatment, and systemic protocol churn.
-- Distinguish prediction questions from causal questions, and explicitly define why this distinction strictly governs study design, statistical analysis, and clinical implementation.
-- Convert relative effect language into absolute effect measures (Absolute Risk Reduction, Number Needed to Treat, Absolute Risk Increase, Number Needed to Harm) using baseline risks, and apply these absolute metrics in shared decision-making.
-- Implement the Decision-Focused Reading (DFR) checklist to transition journal club culture from rhetorical critique to actionable clinical decision-making.
-- Apply decision-focused reading to three distinct study archetypes: an acute stroke randomized controlled trial, a secondary-prevention meta-analysis, and a claims-based observational study.
-- Identify when evidence possesses sufficient internal validity and external transportability to change local protocols versus when it requires generating a new research question.
-- Articulate specific cognitive failure modes, including the conflation of predictive performance with causal efficacy, and define structural protections against them.
-- Design a personal and departmental evidence-appraisal infrastructure that preserves institutional memory and standardizes clinical pathways.
-- Formulate a clinical 'refusal list' identifying methodological fatal flaws that immediately disqualify a paper from altering bedside practice.
-
 ## Introduction: The Clinical Imperative of Critical Appraisal in Neurology
 
 It is 07:10 on a Thursday morning. The overnight resident hands you three PDFs before sign-out: a multicenter endovascular therapy (EVT) trial published online at 02:00 with an accompanying glowing press release; a large claims-database analysis concluding that a specific dual antiplatelet regimen is 'associated with lower thirty-day readmission' after minor stroke; and a secondary-prevention meta-analysis that reports a statistically significant relative risk reduction without displaying absolute event rates in the abstract. The attending on call asks, almost casually, 'Does any of this change what we do today?' That question is not an academic exercise. Within the next twelve hours, your team will decide whether to expand late-window EVT selection criteria, revise dual antiplatelet duration protocols for patients presenting with transient ischemic attacks, and counsel a patient whose family has already read the press release on their mobile devices.

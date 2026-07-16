@@ -17,19 +17,6 @@
 A living systematic review drops at 06:00 with a favorable pooled OR. Check inclusion criteria, double-counting, and absolute baselines before updating the pathway binder.
 
 
-## Learning objectives
-
-- Formulate and recognize a rigorously structured systematic review question using PICO/PECO frameworks, distinguishing exploratory summaries from confirmatory pooling.
-- Identify and quantify search, selection, and publication biases that distort the foundational evidence base before statistical synthesis occurs.
-- Critically apply named frameworks (RoB 2, ROBINS-I) to assess risk of bias, separating the mechanistic spirit of bias from administrative checkbox compliance.
-- Deconstruct forest plots to evaluate direction, magnitude, precision, and between-study patterns, consciously resisting the urge to jump straight to the pooled diamond.
-- Derive and contrast the mathematical and conceptual differences between fixed-effect and random-effects models, explicitly defining symbols such as tau-squared, I-squared, and inverse-variance weights.
-- Execute a manual calculation of a fixed-effect meta-analysis for binary stroke outcomes, converting pooled relative effects into absolute risk reductions (ARR) and number needed to treat (NNT).
-- Diagnose clinical and statistical heterogeneity, explaining why statistical heterogeneity parameters do not license the pooling of clinically incompatible studies.
-- Appraise clinical practice guidelines using the GRADE framework, distinguishing certainty of evidence from strength of recommendations.
-- Recognize common failure modes in evidence synthesis, including the ecological fallacy in meta-regression and the danger of up-weighting small, biased trials in random-effects models.
-- Translate meta-analytic findings and guideline recommendations into patient-centered clinical discussions without conflating prediction with causal mechanisms.
-
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
 A systematic review is a scientific investigation in its own right, treating the primary literature as its sampled population. The naive assumption that evidence synthesis is an automatic ascent to higher truth is a dangerous fallacy. Pooling does not wash away bias; it frequently concentrates it, laundering flawed primary studies through the perceived impartiality of complex statistics. A meta-analysis of systematically biased trials yields a highly precise summary of a distorted literature. When clinical practice guidelines uncritically cite that meta-analysis, they industrialize the distortion, embedding it into pathway defaults and electronic health record order sets. Stroke neurology is an intensely guideline-driven specialty—governing decisions such as intravenous thrombolysis windows, blood pressure targets following intracerebral hemorrhage, secondary prevention antithrombotics, and the timing of carotid revascularization. Consequently, the appraisal of evidence synthesis products is a fundamental clinical skill, not an abstract exercise for methodologists or medical librarians.

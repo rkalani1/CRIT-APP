@@ -9,19 +9,6 @@
 A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.
 
 
-## Learning objectives
-
-- Distinguish pre-specified from post-hoc subgroup analyses and articulate the epistemic collapse induced by data-driven subgroup selection.
-- Differentiate a formal statistical interaction test from a within-subgroup main-effect p-value, and mathematically demonstrate why comparing adjacent confidence intervals on a forest plot is invalid.
-- Calculate and interpret heterogeneity of treatment effect (HTE) on both absolute (risk difference) and relative (risk ratio) scales, proving why constant relative effects guarantee HTE on the absolute scale when baseline risk varies.
-- Define and quantify the penalty of multiplicity when evaluating multiple subgroups, applying family-wise error rate principles to stroke trial appendices.
-- Enforce strict credibility criteria (e.g., the SUN framework) before accepting HTE claims, separating hypothesis-generating signals from actionable clinical rules.
-- Diagnose spin in abstracts, press releases, and discussion sections, specifically targeting secondary endpoint elevation and suppression of absolute effect sizes.
-- Evaluate the structural impact of industry funding, trial sponsorship, and author conflicts of interest on the presentation and selective reporting of subgroups.
-- Appraise preprints safely by identifying absent peer-review filters for multiple testing, spin, and unsupported causal language.
-- Deconstruct a fully worked numerical example of a false-positive subgroup finding, translating the statistical artifact into a bedside decision-making caveat.
-- Apply the rule that prediction is not causation when analyzing baseline subgroups, and recognize how conditioning on post-randomization variables induces collider stratification bias.
-
 ## The Epistemology of Subgroups in Neurological Trials
 
 Stroke trials enroll heterogeneous cohorts by design. An endovascular thrombectomy (EVT) trial mixes proximal M1 occlusions with tandem lesions, varying core volumes, differing collateral grades, and highly variable times from last known well. Secondary stroke prevention trials aggregate large artery atherosclerosis, lacunar infarcts, and cardioembolic sources into single massive cohorts. When clinicians read the primary results of these trials, the immediate instinct is to ask: 'Does this average treatment effect apply to the specific patient in front of me?' The instinct to individualize care is clinically correct. However, the mechanism by which the medical literature attempts to answer this question—subgroup analysis—is fundamentally flawed by statistical noise, unpenalized multiplicity, and motivated reasoning.

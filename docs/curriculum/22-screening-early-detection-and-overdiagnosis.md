@@ -17,19 +17,6 @@
 Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
 
 
-## Learning objectives
-
-- State principled criteria for launching or continuing a neurologic screening program, separating test accuracy from population benefit.
-- Define lead-time bias, length-time bias, and overdiagnosis, and show how each can manufacture the appearance of benefit without reducing morbidity.
-- Compute sensitivity, specificity, predictive values, and false-positive burdens at realistic neurovascular prevalences.
-- Explain why randomized trials of screening strategies are the reference standard for mortality or disability endpoints, and how observational screening claims mislead.
-- Appraise carotid bruit screening, asymptomatic carotid stenosis imaging pathways, and unruptured aneurysm detection debates using absolute event rates.
-- Distinguish screening of asymptomatic persons from diagnostic testing of symptomatic patients presenting with neurologic deficits.
-- Quantify how prevalence collapses positive predictive value even for highly sensitive tests, with worked natural-frequency tables.
-- Identify harms of screening: procedural complications, anxiety, labeling, cascade testing, and iatrogenic injury from non-progressive disease intervention.
-- Construct an appraisal memo that demands disease-specific outcome benefit, refusing detection rates as surrogate endpoints.
-- Link screening mathematics to shared decision-making language suitable for clinic and population-health contexts.
-
 ## The Seduction and Peril of Early Detection
 
 The proposition that early detection universally improves outcomes is one of medicine’s most deeply entrenched heuristics. In stroke and neurovascular medicine, this rationale drives asymptomatic carotid ultrasound surveillance, widespread magnetic resonance angiography to detect aneurysms in the worried well, and opportunistic screening for subclinical atrial fibrillation. The premise seems unassailable: locate the pathology early, intervene before structural damage occurs, and prevent catastrophe. Yet critical appraisal requires separating detection from benefit. Identifying a lesion earlier is a diagnostic yield; preventing a stroke or rupture is a clinical benefit. The former guarantees neither the latter nor an acceptable ratio of benefit to harm.

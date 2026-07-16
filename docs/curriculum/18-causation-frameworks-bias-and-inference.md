@@ -17,14 +17,6 @@
 Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
 
 
-## Learning objectives
-
-- Define causal inference through the lens of counterfactual potential outcomes, recognizing the fundamental problem of causal inference.
-- Deconstruct multicausality using the sufficient-component cause framework (causal pies) to evaluate preventative leverage.
-- Differentiate confounding from structural selection bias and information bias using specific neurological and stroke examples.
-- Apply Hill's viewpoints not as a definitive causal checklist, but as critical appraisal questions for observational literature.
-- Identify common violations of temporality and exchangeability in stroke research, including reverse causation.
-
 ## Introduction: The Causal Gap in Neurological Literature
 
 Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.

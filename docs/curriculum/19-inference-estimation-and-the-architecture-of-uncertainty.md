@@ -17,17 +17,6 @@
 A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial negative or positive, separate estimation from dichotomania and read the absolute scale.
 
 
-## Learning objectives
-
-- Elucidate sampling variation as the primary generator of discrepancy between observed study estimates and underlying true parameters.
-- Transition inferential reasoning from dichotomous hypothesis testing to continuous parameter estimation using confidence intervals.
-- Deconstruct the mathematical reality and clinical misapplication of p-values, exposing the fallacy of 'statistical significance'.
-- Redefine Type I/II errors and statistical power as pre-trial design constructs rather than post-hoc diagnostic tools.
-- Critique the degradation of evidence through multiplicity, addressing alpha inflation in subgroup and secondary analyses.
-- Mandate the interpretation of confidence intervals on absolute risk scales to capture the clinical magnitude of uncertainty.
-- Execute a manual derivation of standard errors and confidence intervals for a risk difference to demystify inferential machinery.
-- Implement rigorous inferential hygiene to prevent mathematical artifacts from masquerading as biologic phenomena.
-
 ## The Pathology of Dichotomania in Clinical Research
 
 Neurologic literature remains deeply afflicted by dichotomania—the compulsive categorization of continuous evidence into 'positive' or 'negative' bins based on an arbitrary mathematical boundary, typically alpha = 0.05. This cognitive distortion causes clinicians to equate a p-value of 0.04 with definitive truth and a p-value of 0.06 with statistical noise. The reality is that chance is a continuous threat to precision, and treating inferential statistics as a categorical verdict fundamentally misunderstands the architecture of uncertainty.

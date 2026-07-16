@@ -17,18 +17,6 @@
 Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
 
 
-## Learning objectives
-
-- 1. Construct a structural causal model demonstrating how randomization severs the incoming arrows of unmeasured confounding, while identifying the post-randomization pathways that reintroduce it.
-- 2. Differentiate sequence generation from allocation concealment, auditing hyperacute stroke workflows for vulnerabilities that permit clinician prediction of assignments.
-- 3. Map blinding status across all trial stakeholders (participants, clinicians, endpoint assessors, adjudicators) and specify the causal pathway by which each unmasked role biases the estimand.
-- 4. Contrast intention-to-treat (ITT), modified ITT, per-protocol, and as-treated estimands; explain how post-randomization exclusions can break the randomized comparison and introduce selection or confounding bias, while distinguishing naive exclusions from appropriately adjusted per-protocol estimators.
-- 5. Extract raw event counts from trial appendices to independently calculate absolute risk reduction (ARR), number needed to treat (NNT), and number needed to harm (NNH), rejecting relative effect inflation.
-- 6. Evaluate the structural impact of competing risks, differential attrition, and unblinded withdrawal of life-sustaining therapy on ordinal modified Rankin Scale outcomes.
-- 7. Detect and neutralize statistical threats from multiplicity, including interim stopping boundaries, unadjusted multiple testing, and biologically implausible post-hoc subgroup fishing.
-- 8. Appraise the evolution of the comparator arm, judging how historical shifts in baseline secondary prevention and reperfusion alter the transportability of legacy trial findings to contemporary practice.
-- 9. Execute a formal, CONSORT-minded structured appraisal of published stroke randomized controlled trials to determine true bedside readiness.
-
 ## The Epistemology of the Randomized Trial in Stroke
 
 The randomized controlled trial sits atop the evidence hierarchy not by historical tradition or arbitrary consensus, but due to a singular mathematical property: when executed flawlessly, randomization balances both measured and unmeasured baseline prognostic factors in expectation. This is the exclusive mechanism in clinical epidemiology that breaks the causal arrow between patient characteristics and treatment assignment. In observational data, a patient receives a therapy because a clinician predicted they would benefit, or because they were deemed physiologically capable of tolerating the intervention. This generates intractable confounding by indication, meaning the treatment assignment is hopelessly entangled with the underlying baseline risk of the outcome. Prediction is not causation. A machine learning model might flawlessly predict that stroke patients receiving mechanical ventilation have astronomically higher mortality rates, but that associational correlation contains zero causal information regarding the efficacy of the ventilator itself. Randomization replaces clinician intent and predictive assignment with a stochastic, mathematical coin flip.

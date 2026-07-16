@@ -17,18 +17,6 @@
 Quality meeting: someone proposes adopting an outside center protocol based on one observational paper. Demand the bias story—selection, confounding, measurement—before the order set is rewritten.
 
 
-## Learning objectives
-
-- Distinguish random error from systematic error mathematically, explaining why massive administrative datasets cannot cure bias.
-- Define internal validity and external validity, demonstrating how a study can perfectly satisfy one while completely failing the other.
-- Apply a rigorous clinical bias taxonomy comprising selection, confounding, information, and reporting biases to appraise stroke literature.
-- Explain confounding by indication using acute stroke treatment scenarios, identifying weak versus strong methodological responses.
-- Formalize collider stratification bias and explain why adjusting for post-randomization variables breaks causal inference.
-- Assess the transportability of randomized trial estimates to local stroke populations using absolute risk and case-mix considerations.
-- Execute a fully worked quantitative appraisal of an observational claims study of endovascular therapy effectiveness.
-- Produce a structured, actionable validity assessment that separates internal causal failure from mere transportability gaps.
-- Recognize and articulate pitfalls in validity appraisal, specifically the conflation of predictive modeling with causal inference.
-
 ## Introduction: The Two-Part Promise of Validity
 
 When clinicians and methodologists declare a study 'valid,' they frequently conflate two distinct, non-overlapping promises. The first promise is internal validity: within the strict confines of the study's own analytical sample and methodological design, does the computed estimate successfully recover the causal estimand it claims to target, free from systematic distortion? The second promise is external validity (often parsed into generalizability and transportability): does the internally valid estimate hold any relevance for a different population, a different clinical setting, or a distinct system of care?

@@ -17,14 +17,6 @@
 A clinical prediction rule is proposed for ED triage. Inspect derivation, validation, calibration, and net benefit—not only AUC.
 
 
-## Learning objectives
-
-- Deconstruct systematic reviews as observational studies of primary literature, vulnerable to selection, publication, and aggregation biases.
-- Appraise meta-analyses by interrogating between-study heterogeneity, the choice of fixed versus random effects, and the clinical peril of pooling uncombinable trials.
-- Evaluate the methodological lifecycle of Clinical Prediction Rules (CPRs) across derivation, narrow/broad validation, and clinical impact phases.
-- Distinguish mathematical overfitting and poor calibration in derivation cohorts from true transportability using classical stroke examples.
-- Interrogate whether implementing a validated CPR actually improves patient outcomes or clinician behavior compared to baseline clinical gestalt.
-
 ## Systematic Reviews as Observational Studies of the Literature
 
 A systematic review is not a magical truth-generating machine; it is an observational study where the subjects are primary research papers. Just as a clinical cohort is vulnerable to selection bias, a systematic review is vulnerable to retrieval and publication bias. If a search strategy restricts by language, skips grey literature, or relies entirely on a single database, the resulting 'cohort' of studies is compromised. Appraising a systematic review requires reading its methods section with the same skepticism applied to a retrospective chart review: Who was included, who was missed, and how did the investigators prevent their own priors from dictating the search string?

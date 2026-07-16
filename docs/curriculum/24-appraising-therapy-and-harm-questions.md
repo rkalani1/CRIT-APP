@@ -17,15 +17,6 @@
 Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
 
 
-## Learning objectives
-
-- Evaluate the internal validity of therapeutic trials and harm studies using structured criteria.
-- Calculate and interpret absolute risk reductions, absolute risk increases, NNT, and NNH.
-- Assess the applicability of clinical trial data to local patient populations and healthcare systems.
-- Deconstruct composite endpoints and evaluate the limitations of surrogate markers in neurology.
-- Identify biases inherent in observational harm studies and open-label trials.
-- Synthesize appraisal findings into actionable, structured formats for clinical pathways.
-
 ## Three gates for therapy and harm papers
 
 Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity (can the design support a causal claim?), the magnitude and precision of absolute results, and applicability to the local clinical context. This CRIT-APP sequence prevents premature adoption of flawed data and reflexive rejection of valid evidence. It forces the reader past abstract spin and p-value theater into trial architecture, absolute effect sizes, and bedside tradeoffs.

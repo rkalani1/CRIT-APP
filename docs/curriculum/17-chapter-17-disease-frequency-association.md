@@ -12,15 +12,6 @@ Epidemiology rounds put crude incidence next to a relative risk. Stop the catego
 
 *Incidence focuses on new events in a time window; prevalence counts who lives with the condition now.*
 
-## Learning objectives
-
-- Define incidence, prevalence, and cumulative risk with explicit time windows.
-- Distinguish absolute frequency from relative association measures.
-- Compute and interpret risk difference, risk ratio, and odds ratio on synthetic tables.
-- Explain why prevalence is a poor stand-in for incidence in dynamic stroke pathways.
-- Identify selection and measurement structures that distort frequency estimates.
-- Translate association language into prediction vs causation templates before acting.
-
 ## Conceptual core: frequency first
 
 **Incidence** answers: how often do *new* events occur in a defined population

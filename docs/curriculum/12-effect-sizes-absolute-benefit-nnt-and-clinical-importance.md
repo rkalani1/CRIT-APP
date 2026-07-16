@@ -18,19 +18,6 @@
 Marketing quotes a 25% relative reduction. Convert to absolute risk difference and NNT with the control-arm rate before counseling the next clinic patient.
 
 
-## Learning objectives
-
-- Distinguish between relative risk, odds ratio, hazard ratio, and incidence rate ratio, recognizing the mathematical assumptions of each.
-- Articulate why relative effects mathematically obfuscate clinical utility unless anchored to a baseline risk.
-- Translate relative metrics into absolute risk reductions (ARR) and absolute risk increases (ARI) across varying baseline risk strata.
-- Calculate and rigorously interpret the Number Needed to Treat (NNT) and Number Needed to Harm (NNH), strictly defining their time horizons.
-- Interpret confidence intervals as continuous gradients of compatibility rather than dichotomous significance tests.
-- Deconstruct the clinical minimal important difference (MID) and differentiate it from statistical significance.
-- Evaluate stroke literature claims by building comparative benefit-harm models (e.g., recurrent ischemia versus hemorrhage).
-- Explain why prediction does not equal causation, and why observational absolute risk differences cannot be automatically inverted into NNTs.
-- Apply the Absolute Effect Translation Checklist to fully worked trial scenarios.
-- Critique common failure modes, including the misinterpretation of odds ratios as risk ratios for common clinical outcomes.
-
 ## Conceptual Core: The Imperative of Absolute Effects
 
 Clinical literature heavily favors relative measures of effect—relative risk reductions (RRR), odds ratios (OR), and hazard ratios (HR). There are structural, statistical, and psychological reasons for this dominance. Statistically, relative effects are often assumed to be more stable across populations with differing baseline risks. Models like logistic regression natively generate odds ratios, and Cox proportional hazards regression natively generates hazard ratios. Furthermore, relative risk reductions usually appear numerically larger than absolute risk reductions, making them highly attractive for abstracts, press releases, and pharmaceutical marketing.

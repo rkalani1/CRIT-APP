@@ -17,18 +17,6 @@
 A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is anemia a confounder, mediator, or collider in this DAG? Wrong adjustment can invent harm.
 
 
-## Learning objectives
-
-- Differentiate structural confounding from statistical prediction, recognizing that predictive models do not require causal identification.
-- Construct and interpret directed acyclic graphs (DAGs) to formalize assumptions and identify open backdoor paths in neurovascular scenarios.
-- Discriminate among confounders, mediators, and colliders, and predict the direction of bias when each is inappropriately conditioned upon.
-- Translate a clinical exposure question into the precise, sequential steps of a target-trial emulation protocol.
-- Identify and dismantle immortal time bias and prevalent-user bias in observational stroke literature.
-- Calculate absolute effect measures (Absolute Risk Reduction, Number Needed to Treat, Number Needed to Harm) from stratified data to demonstrate confounding by indication.
-- Evaluate the backdoor criterion to determine whether a proposed adjustment set sufficiently isolates the causal effect of an exposure.
-- Critique the 'Table 1 Fallacy' and the inappropriate causal interpretation of multivariable regression coefficients for covariates.
-- Assess the residual threat of unmeasured confounding using quantitative reasoning rather than categorical dismissal.
-
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
 In acute stroke neurology, the distinction between prediction and causation is a matter of life and death, yet it is routinely conflated in the medical literature. A predictive model answers the question: 'Given this patient\'s age, admission National Institutes of Health Stroke Scale (NIHSS) score, and initial imaging, what is their absolute probability of achieving functional independence at 90 days?' A causal model answers an entirely different question: 'If we intervene right now to administer intravenous thrombolysis, by what absolute margin will we alter that patient\'s probability of functional independence?' Confounding exclusively threatens the latter. If a researcher only seeks to predict outcomes, any variable that carries information is useful, regardless of its causal status. Confounding is not a statistical nuisance to be algorithmically removed; it is a structural problem defined by the presence of shared causes between the intervention and the outcome.

@@ -78,6 +78,19 @@ class EbookSiteTests(unittest.TestCase):
         ]
         self.assertGreaterEqual(len(ch), 10)
 
+    def test_chapters_do_not_include_learning_objectives(self) -> None:
+        heading = re.compile(r"^##\s+Learning objectives?\s*$", re.IGNORECASE | re.MULTILINE)
+        offenders = [
+            path.name
+            for path in sorted((self.docs / "curriculum").glob("*.md"))
+            if heading.search(path.read_text(encoding="utf-8"))
+        ]
+        self.assertEqual(
+            offenders,
+            [],
+            f"learning-objective sections should not appear in chapters: {offenders}",
+        )
+
     def test_css_ebook_system(self) -> None:
         css = (self.docs / "stylesheets" / "extra.css").read_text(encoding="utf-8")
         self.assertIn("ebook-hero", css)

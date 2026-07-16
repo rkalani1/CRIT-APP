@@ -12,14 +12,13 @@
 
 Each chapter aims for:
 
-1. Learning objectives  
-2. Conceptual core  
-3. Frameworks / instruments (described, not copyrighted dumps)  
-4. Mathematics with defined symbols  
-5. Worked example (synthetic data)  
-6. Pitfalls  
-7. Clinical and epidemiologic notes  
-8. Summary and practice  
+1. Conceptual core
+2. Frameworks / instruments (described, not copyrighted dumps)
+3. Mathematics with defined symbols
+4. Worked example (synthetic data)
+5. Pitfalls
+6. Clinical and epidemiologic notes
+7. Summary and practice
 
 ## Web vs print habits
 

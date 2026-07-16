@@ -9,17 +9,6 @@
 Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.
 
 
-## Learning objectives
-
-- Explain why dichotomizing the modified Rankin Scale discards information, reduces statistical power, and can mislead clinical decision-making.
-- Describe shift analysis intuition for ordinal functional outcomes in stroke trials and identify clinical scenarios that violate the proportional odds assumption.
-- Interpret survival curves and censoring mechanisms, and definitively distinguish between hazard ratios and absolute risk differences.
-- Recognize competing risks of death when disability, stroke recurrence, or other nonfatal events constitute the primary estimand.
-- Appraise time-to-event stroke papers for landmarking bias, immortal time bias, and informative censoring threats.
-- Work through a fully numeric life-table calculation to connect absolute risks, interval hazards, and cumulative incidence functions.
-- Translate trial estimands regarding functional independence into absolute effect measures (ARR, NNT) for bedside communication.
-- Critique composite endpoints in neurology literature using formal frameworks for component weighting and directional consistency.
-
 ## Conceptual Core: Outcomes Encode Values and Statistical Power
 
 Stroke research lives and dies by its endpoints. An intervention's success or failure is never an absolute truth; it is strictly conditional on the mathematical structure of the outcome variable chosen by the investigators. A neuroprotective trial can be deemed a massive success if disability is coded as modified Rankin Scale (mRS) 0-2 versus 3-6, yet utterly fail if the threshold is shifted to mRS 0-1 versus 2-6. Similarly, whether recurrent stroke is analyzed with death as a censoring event or as a competing risk fundamentally alters the absolute incidence reported to patients. Outcome choice is therefore both a profound values judgment and a strict methodologic design choice. Critical appraisal without endpoint literacy is merely cargo-cult evidence-based medicine: you will correctly recite intention-to-treat protocols and blinding checklists while entirely missing the fact that the primary endpoint is mathematically incapable of answering the clinical question at hand.
