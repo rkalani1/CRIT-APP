@@ -29,7 +29,7 @@ Diagnostic estimates fail for structural reasons long before the 2×2 table is i
 
 ## Diagnosis gate 2: Effect extraction
 
-![ROC curve with a marked operating threshold connecting sensitivity and specificity.](../assets/figures/fig73_roc_operating.png)
+![Synthetic ROC curve with AUROC 0.83 and two marked operating thresholds showing the sensitivity–specificity trade-off.](../assets/figures/fig73_roc_operating.svg)
 
 *An AUROC does not choose a clinical threshold; the operating point determines the error trade-off.*
 
@@ -37,7 +37,7 @@ Diagnostic estimates fail for structural reasons long before the 2×2 table is i
 
 *Reconstruct the four cells before accepting summary accuracy claims.*
 
-Rebuild the 2×2 from raw counts. Sensitivity and specificity describe performance inside a fixed study mixture; they do not answer the bedside question alone. Positive and negative predictive values answer it—and they collapse when prevalence changes. Porting a PPV from a comprehensive center with ~30% LVO prevalence into a community EMS stream at ~5% is a category error dressed as evidence-based medicine.
+Rebuild the 2×2 from raw counts. Sensitivity and specificity describe performance in a specified spectrum; predictive values additionally depend on prevalence. Do not port a PPV from a comprehensive-center cohort into a lower-prevalence EMS stream without recalculation, and do not assume sensitivity, specificity, or likelihood ratios remain fixed if the spectrum or workflow changes.
 
 Likelihood ratios (LRs) are the portable currency:
 
@@ -45,8 +45,6 @@ Likelihood ratios (LRs) are the portable currency:
 - \(\mathrm{LR-} = (1-\mathrm{sens})/\mathrm{spec}\)
 
 Teaching anchors (not universal laws): LR+ above ~10 often produces large probability shifts; LR− below ~0.1 often rules out for many thresholds; LRs between ~0.5 and ~2 rarely move management. For multilevel tests (NIHSS strata, automated core volumes), refuse a single “optimal” cut when interval LRs are available—high bands may rule in, low bands rule out, intermediate bands should stay near LR 1.0.
-
-*Teaching figure (synthetic).* With sens 85% and spec 80%, PPV climbs steeply with LVO prevalence (≈5% EMS stream → ~30% comprehensive center). LRs (LR+ 4.25, LR− 0.19) plus a 15% pre-test probability yield post+ ≈43% and post− ≈3%—the portable quantities for local thresholds. Never ship a tertiary-center PPV into a community EMS protocol.
 
 ## Diagnosis gate 3: Local actionability
 
@@ -71,7 +69,11 @@ Report absolute risks at explicit horizons (“12% recurrent stroke by 90 days�
 
 ## Prognosis gate 3: Local actionability
 
-Map derivation and validation populations onto your case mix and system of care. An ICH expansion score built only in rapid blood-pressure comprehensive centers may mis-fire after long rural transfer times. Ask whether risk strata change therapy, triage, monitoring intensity, or family counseling. If 5% and 15% malignant-edema risk both trigger the same ICU pathway, the score is not an operational tool—only a conversation aid, at best. Sometimes a narrow interval around a grim prognosis is still clinically decisive because it supports goals-of-care clarity even when treatment options do not change.
+Map derivation and validation populations onto your case mix and system of care. Ask whether risk strata change an evidence-supported choice, triage, monitoring, or counseling. Prognostic models trained where treatment limitation affects outcomes can encode a self-fulfilling WLST pathway; they must not independently justify withdrawal of life-sustaining treatment. Use repeated clinical assessment, uncertainty, reversibility, and the patient's values and prior wishes rather than converting one score into a futility verdict.
+
+![Feedback loop in which a poor prognosis prompts withdrawal of life-sustaining treatment, increasing mortality and reinforcing the prediction.](../assets/figures/fig69_wlst_selffulfilling.png)
+
+*A model can learn a self-fulfilling treatment-limitation loop; validate outcomes and WLST practices before using prognosis for counseling.*
 
 ## Worked example: Diagnosis (LVO triage)
 
@@ -87,7 +89,7 @@ A score using baseline volume, CTA spot sign, and onset-to-scan time predicts 24
 
 - **Gate 1 — Trustworthiness:** True early inception (scan within 6 h), 98% 24-hour CT completion, blinded outcome coding.
 - **Gate 2 — Effect extraction:** Low 5% (2–8%), medium 25% (20–30%), high 65% (55–75%) with acceptable calibration.
-- **Gate 3 — Local actionability:** A high-stratum ED patient crosses the local aggressive-treatment threshold (ultra-early BP control, antithrombotic reversal, neuro-ICU transfer). The rule changed a pathway, not merely a paragraph.
+- **Gate 3 — Local actionability:** Indication-driven acute blood-pressure management and antithrombotic reversal should not be withheld because a score is low. A validated high-risk stratum might add monitoring intensity, repeat imaging, specialist escalation, or trial eligibility only if a prespecified impact study shows benefit beyond standard care.
 
 
 ![Probability-threshold diagram mapping no test, test, and treat decisions.](../assets/figures/fig71_action_thresholds2.png)

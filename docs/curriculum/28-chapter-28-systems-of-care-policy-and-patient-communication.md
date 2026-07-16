@@ -10,7 +10,7 @@
 
 *Pathway decisions.*
 
-![Natural frequencies for systems and counseling.](../assets/figures/swarm_ch28_natural_frequencies.png)
+![One-hundred-person array with six persistent events, two events prevented by the strategy, and 92 people without the event.](../assets/figures/swarm_ch28_natural_frequencies.svg)
 
 *Natural frequencies for systems and counseling.*
 
@@ -35,7 +35,7 @@ Operational checklist for a pathway change:
 
 A pervasive error in guideline application is assuming that efficacy observed within highly selected populations at comprehensive stroke centers automatically ensures effectiveness in community or rural environments. This transportability gap is particularly acute in neurocritical care and complex endovascular therapeutics.
 
-A trial demonstrating the benefit of intensive blood pressure titration using continuous intravenous infusions relies heavily on specific infrastructural prerequisites: 1:1 nursing ratios, invasive arterial monitoring, and immediate neurosurgical backup. Attempting to deploy identical protocols in a primary stroke center lacking commensurate resources can convert a beneficial intervention into a hazardous one, risking hypotensive watershed ischemia due to delayed recognition of hemodynamic shifts.
+Transportability depends on the actual intervention protocol and co-interventions. An intensive blood-pressure strategy may require a specified monitoring frequency, trained nursing, rapid medication titration, and escalation capacity, but requirements such as 1:1 staffing or invasive monitoring are not universal across trials. Compare the protocol's delivery conditions with local capacity and measure fidelity and adverse events during implementation.
 
 Critical appraisal must therefore evaluate not only the internal validity of a randomized trial but the contextual baseline required for its success. Clinicians and system directors must explicitly verify whether their institution possesses the structural fidelity needed to replicate the experimental conditions under which the benefit was achieved.
 
@@ -54,11 +54,9 @@ The metric of door-to-needle time for intravenous thrombolysis serves as a prima
 
 This dynamic exemplifies Goodhart's Law, where a measure ceases to be useful once it becomes a strict target. Academic neurologists must critique metric frameworks that fail to accommodate legitimate clinical variance, ensuring that the drive for algorithmic compliance does not subvert the physician's duty to practice individualized medicine.
 
-*Teaching figure (synthetic).* After hard DTN targets, median door-to-needle improves quarter by quarter while the fraction of thrombolysis given to mimics—and sICH among treated—creeps upward. A green process dashboard can hide harm; pair velocity with appropriateness and safety audits.
-
 Metric hygiene for stroke leadership:
 
-- Pair velocity metrics (door-to-needle, door-to-puncture) with safety and appropriateness audits (mimic treatment rate, sICH, futile transfers).
+- Pair velocity metrics with balanced safety and access measures: sICH, missed eligible treatment, treatment delay by subgroup, diagnostic revisions such as mimics, and transfer outcomes. A mimic-treatment rate alone can incentivize undertreatment.
 - Protect documented clinical pauses for high-uncertainty phenotypes.
 - Expire order-set defaults that encode fragile early enthusiasm for a single trial.
 - Report absolute outcomes alongside process compliance so “green dashboards” cannot hide harm.
@@ -77,7 +75,7 @@ Bedside communication scaffold (teaching template):
 For 100 people like you, over [time horizon]:
 - Without the intervention: about A will experience [bad outcome]
 - With the intervention: about B will experience [bad outcome]
-- So about (A−B) are helped; about C are harmed by [named harm]
+- So about (A−B) fewer people experience [bad outcome]; about C experience [named harm]
 - Uncertainty: plausible range spans ...
 - Your priorities that change the threshold: ...
 ```
@@ -98,10 +96,6 @@ Patient communication script (natural frequencies):
 Owner / review date / dissent logged:
 ```
 
-
-![Mediation diagram separating total, direct, and indirect effects through a mediator.](../assets/figures/fig76_mediation.png)
-
-*Teaching graphic (fig76_mediation.png).*
 
 ## Chapter summary
 

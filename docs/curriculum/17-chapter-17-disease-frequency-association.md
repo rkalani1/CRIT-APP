@@ -44,8 +44,6 @@ Same table, three stories: absolute burden (RD), multiplicative association (RR)
 and a slightly larger OR typical when outcomes are not rare. Bedside counseling
 needs the **absolute** story; meta-analysis math often travels in RR/OR space.
 
-*Teaching figure (synthetic).* Hold the risk ratio fixed at 2.0 while unexposed risk climbs: the odds ratio inflates as the outcome becomes common. The right panel restates the chapter 2×2 (RD 5 pp, RR 2.0, OR ≈ 2.11). Use RD for counseling; treat OR ≈ RR only when events are rare.
-
 ## Pitfalls specific to neurology and stroke data
 
 1. **Wrong denominator** — counting only admitted patients when the research
@@ -96,10 +94,6 @@ In hyperacute stroke care, short-window risks dominate (door-to-needle, 24-hour 
 90-day mRS). In secondary prevention, person-time rates reappear. Appraisal asks which
 clock the authors actually used and whether the comparator used the same clock.
 
-*Teaching figure (synthetic).* Each horizontal line is a patient contributing person-time until an incident event (X) or administrative/censor end (square). Incidence density = events ÷ person-years (here ≈ 0.67 per person-year). Do not quote this rate next to a closed-cohort 90-day risk without conversion. Frequency grammar is not causation: association tables still need a prediction-vs-cause sentence before pathway change.
-
-*Teaching figure (synthetic).* A constant incidence rate of 0.20 per person-year maps to very different cumulative risks at 30, 90, 180, and 365 days. The naive “rate × time” shortcut overstates risk at longer horizons. When a secondary-prevention abstract quotes events per 100 person-years next to a 90-day trial risk, demand conversion onto one clock before comparing.
-
 ## From association table to decision sentence
 
 After computing RD/RR/OR, force one sentence:
@@ -112,10 +106,6 @@ After computing RD/RR/OR, force one sentence:
 If the paper’s methods cannot carry the causal sentence, do not let the discussion
 section smuggle it in.
 
-
-![Forest plot of study-specific estimates and confidence intervals around a heterogeneous pooled effect.](../assets/figures/fig63_heterogeneity_forest.png)
-
-*Teaching graphic (fig63_heterogeneity_forest.png).*
 
 ## Chapter summary
 

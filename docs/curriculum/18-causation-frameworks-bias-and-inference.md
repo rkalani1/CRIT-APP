@@ -29,7 +29,7 @@ The counterfactual framework, or potential outcomes model, provides the theoreti
 
 The fundamental problem of causal inference is that we can only ever observe one of these potential outcomes. If the patient undergoes thrombectomy, Y(1) is factual and observed, while Y(0) becomes counterfactual and unobserved. Because we cannot measure individual causal effects, we rely on population-level estimates, comparing the average outcome of a treated group against the average outcome of an untreated group.
 
-For the untreated group to serve as a valid proxy for the counterfactual experience of the treated group, the two groups must be exchangeable. Exchangeability assumes that if the untreated patients had instead been treated, their risk of the outcome would be identical to that of the actually treated patients. Randomization achieves exchangeability in expectation by balancing both measured and unmeasured prognostic factors. In observational studies, exchangeability is an untestable assumption reliant on perfect covariate adjustment, which is rarely, if ever, achieved.
+For a treatment contrast, exchangeability means that treatment assignment carries no residual information about the relevant potential outcomes, marginally or conditional on a sufficient set of baseline variables. Randomization supports marginal exchangeability in expectation under its allocation mechanism. Observational identification requires a defensible design and conditional-exchangeability assumption; it is not guaranteed by a long covariate list and cannot be fully tested from observed data.
 
 ## Sufficient-Component Cause Intuition (Causal Pies)
 
@@ -73,7 +73,10 @@ In 1965, Austin Bradford Hill proposed nine 'viewpoints' to help distinguish cau
 - Consistency: Has the association been replicated across different methodologies, diverse populations, and independent datasets? Shared biases (like healthy-adherer bias in pharmacy claims) can produce false consistency.
 - Experiment: Is there quasi-experimental or randomized trial evidence supporting the mechanism? Does cessation of the exposure lead to a measurable drop in risk?
 - Biologic Gradient (Dose-Response): Does increased exposure strictly correlate with increased outcome severity? Note that sicker patients receiving higher drug doses can artificially create this gradient through confounding by indication.
-- Plausibility and Coherence: Does the claim align with established pathophysiology? While necessary for hypothesis generation, human storytelling is highly adaptable, and plausibility can be engineered for almost any outcome post hoc.
+- Plausibility: Is there a credible mechanism, while recognizing that mechanisms are often incomplete and easy to retrofit after the result?
+- Coherence: Does the interpretation conflict with well-supported biology, natural history, or experimental evidence? Apparent incoherence can also reflect incomplete knowledge.
+- Specificity: Is the exposure linked to a particular outcome or mechanism? Low specificity is common in multifactorial disease and does not refute causation.
+- Analogy: Do related exposures or mechanisms provide useful prior evidence? Analogy is a prompt for comparison, not an independent causal test.
 
 ## Clinical Synthesis and Application
 
@@ -81,10 +84,6 @@ When dissecting a neurological study, the appraiser must strip away the rhetoric
 
 Ultimately, causal inference from observational data is a negotiation with uncertainty. A study may not flawlessly prove causation, but it may provide sufficient evidence to alter practice when randomized trials are unethical or impossible. The goal of critical appraisal is not to nihilistically dismiss observational research, but to calibrate our clinical confidence to the rigorousness of the study's design.
 
-
-![One-hundred-person icon array contrasting untreated and treated event counts to show absolute effect.](../assets/figures/fig80_icon_array.png)
-
-*Teaching graphic (fig80_icon_array.png).*
 
 ## Chapter summary
 

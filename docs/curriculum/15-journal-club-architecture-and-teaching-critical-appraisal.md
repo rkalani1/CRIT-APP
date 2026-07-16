@@ -6,9 +6,9 @@
 
 *Journal-club architecture.*
 
-![Journal club roles.](../assets/figures/fig09_journal_club.png)
+![Journal club run-of-show from opening question through appraisal and decision.](../assets/figures/fig09_journal_club.png)
 
-*Journal club roles.*
+*A 45–60 minute run-of-show protects time for methods, absolute effects, applicability, and a recorded decision.*
 
 ![Journal club role map for decision-focused teaching.](../assets/figures/swarm_ch15_jc_roles.png)
 
@@ -41,13 +41,13 @@ Recommendation: The vast majority of standing weekly or biweekly journal clubs s
 
 The journal club must enforce absolute mathematical clarity. Do not allow relative terms to stand alone. If a trainee reports 'a 50% reduction in stroke,' the facilitator must immediately ask for the absolute baseline risk. A 50% reduction from 2% to 1% is vastly different from 50% to 25%. Establish a shared vocabulary for the whiteboard.
 
-- ARR (Absolute Risk Reduction): The arithmetic difference in event rates between the control and intervention groups. Also termed Risk Difference (RD).
+- RD (Risk Difference): Intervention risk minus control risk under one common sign convention; state the event and direction. For an adverse event reduced by treatment, ARR is often reported as control risk minus intervention risk, the positive magnitude of that reduction.
 - NNT (Number Needed to Treat): The reciprocal of an absolute risk reduction over a stated horizon. It expresses an average frequency contrast, not a guarantee that one identifiable patient benefits in each group of N treated.
 - NNH (Number Needed to Harm): The inverse of the absolute increase in adverse events. Essential for weighing tradeoffs (e.g., symptomatic intracranial hemorrhage).
 - ITT (Intention-To-Treat): Analyzes participants according to randomized assignment. It preserves the randomized comparison and commonly estimates a treatment-policy effect, subject to adequate outcome ascertainment and the analysis assumptions.
 - mITT (Modified Intention-To-Treat): A nonstandard label whose exclusions must be inspected. Post-randomization exclusions can bias the randomized comparison, so authors should state the exact analysis set and estimand.
 - PP (Per-Protocol): Targets outcomes under adherence to the protocol. A naive adherer-only comparison loses randomization; a causal per-protocol analysis requires an explicit estimand and adjustment for post-randomization confounding.
-- CI (Confidence Interval): The range of values compatible with the data. Must be evaluated for its upper and lower bounds to assess fragility, not merely whether it crosses zero.
+- CI (Confidence Interval): A model-based interval whose compatible values should be examined for magnitude and clinical importance, not merely whether the interval crosses a null value. Interval width describes precision; it is not the fragility index.
 
 A critical rule: Prediction != Causation. If a paper is observational and lacks a rigorous causal inference framework (e.g., target trial emulation, instrumental variables), the language used in the journal club must reflect association, not effect. Ban the words 'impact,' 'effect,' and 'caused' when reviewing simple predictive or associative models.
 
@@ -152,10 +152,10 @@ SECTION A: QUESTION & DESIGN INTEGRITY
 
 SECTION B: INTERNAL VALIDITY (RANDOMIZED TRIALS)
 [ ] Randomization sequence generation and allocation concealment adequate.
-[ ] Blinding status appropriate given the subjectivity of the outcome (PROs require strict blinding).
+[ ] Blinding of participants, clinicians, and outcome assessors assessed in relation to plausible performance and detection bias; patient-reported outcomes warrant particular attention when participants know assignment.
 [ ] Balanced co-interventions and rescue therapies across both arms.
-[ ] Follow-up completeness exceeds 95%; competing risks (e.g., death before stroke) accounted for.
-[ ] Analysis strictly Intention-to-Treat (ITT). Modified ITT (mITT) justified and impact quantified.
+[ ] Amount, timing, reasons, and between-arm pattern of missing outcomes assessed; no universal completeness cutoff substitutes for sensitivity analyses.
+[ ] Primary analysis set and estimand aligned. Assignment-based ITT usually protects the randomized comparison; mITT exclusions and per-protocol or as-treated analyses require explicit justification and, for causal adherence effects, methods addressing post-randomization confounding.
 [ ] Primary analysis aligns with the narrative estimand.
 
 SECTION C: INTERNAL VALIDITY (OBSERVATIONAL & PROGNOSTIC)
@@ -165,7 +165,7 @@ SECTION C: INTERNAL VALIDITY (OBSERVATIONAL & PROGNOSTIC)
 [ ] Causal language strictly proportional to the design (Prediction != Causation).
 
 SECTION D: VALIDITY (DIAGNOSTIC & CLINICAL AI) [Cross-Ref Ch 14]
-[ ] Reference standard is a true gold standard and applied uniformly regardless of index test result.
+[ ] Reference standard is credible for the target condition, interpreted independently of the index test, and applied consistently—or partial/differential verification is handled explicitly; limitations are stated when no error-free standard exists.
 [ ] Spectrum of disease matches clinical reality (not just severe cases vs. healthy controls).
 [ ] Strict train/validation/test split integrity; data leakage explicitly ruled out.
 [ ] Calibration curves provided if probabilities are outputted; metrics calculated at realistic prevalence.
@@ -265,7 +265,7 @@ Facilitator: 'Our current telestroke pathway restricts endovascular therapy (EVT
 
 ### 0:03-0:08: PICO / Estimand Board
 
-The group populates the board rapidly. Population: Anterior LVO, 6-16 hours, favorable collaterals on multiphase CTA, NIHSS >= 6. Intervention: EVT plus usual care. Comparator: Usual care alone. Outcome: mRS 0-2 at 90 days. Time: 90 days. The Methods Challenger immediately flags a structural issue: 'The authors used a modified ITT analysis, excluding 12 randomized patients who did not undergo catheterization. We need to watch how that post-randomization exclusion biases the effect upward.'
+The group populates the board rapidly. Population: Anterior LVO, 6-16 hours, favorable collaterals on multiphase CTA, NIHSS >= 6. Intervention: EVT plus usual care. Comparator: Usual care alone. Outcome: mRS 0-2 at 90 days. Time: 90 days. The Methods Challenger immediately flags a structural issue: 'The authors used a modified ITT analysis, excluding 12 randomized patients who did not undergo catheterization. We need to assess whether exclusion relates to assignment and outcome risk; it can bias the estimate, but its direction and magnitude are uncertain without that joint information.'
 
 ### 0:08-0:18: Methods Map
 
@@ -295,7 +295,7 @@ The group reaches a consensus draft: 'The evidence supports EVT in the late wind
 
 ### 0:55-0:60: Pearl and Close
 
-Teaching Pearl delivered by facilitator: 'Open-label device trials can maintain validity for functional outcomes if adjudication is strictly blinded, but co-intervention imbalance (like ICU blood pressure management) is the appraisal center of gravity.' The session ends exactly on time. The Scribe posts the board to the institutional archive folder.
+Teaching Pearl delivered by facilitator: 'Blinded adjudication in an open-label device trial can reduce outcome-measurement bias, but it cannot remove differential co-interventions, missing outcomes, or every cue that reveals assignment.' The session ends exactly on time. The Scribe posts the board to the institutional archive folder.
 
 ## Clinical and Epidemiologic Notes
 
@@ -324,10 +324,6 @@ Create a shared, searchable institutional folder containing the paper PDFs, the 
 
 Finally, a department must reward the behavior it claims to value. If academic promotion and praise flow exclusively to those who rapidly cite the most literature, the result will be citation theater. If praise flows to those who meticulously reconstruct absolute risks, admit uncertainty, and publicly change their minds when confronted with superior evidence, the result will be a continuously learning neurology service.
 
-
-![Love plot of standardized mean differences before and after adjustment, with the balance threshold marked.](../assets/figures/fig62_covariate_balance.png)
-
-*Teaching graphic (fig62_covariate_balance.png).*
 
 ## Chapter summary
 

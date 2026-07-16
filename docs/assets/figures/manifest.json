@@ -3,7 +3,7 @@
   "audit_date": "2026-07-16",
   "scope": "docs/assets/figures PNG and SVG assets",
   "caveat": "Hashes and software metadata support traceability but do not prove authorship or eliminate copyright risk.",
-  "asset_count": 112,
+  "asset_count": 99,
   "assets": [
     {
       "path": "docs/assets/figures/crit_absolute_effect_bridge.png",
@@ -294,15 +294,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig17_fragility_missing.png",
-      "sha256": "32db3022a0cbcb1be53534af89dcd7d8ab6432cbf4df4a68b279226b6c21ab37",
-      "bytes": 138938,
-      "width": 1865,
-      "height": 999,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig18_occurrence_measures.png",
       "sha256": "6596408391031868c37743938b9d4fb5d1695b1eb61484a51d201666f23b0b00",
       "bytes": 101646,
@@ -483,15 +474,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig38_noninferiority.png",
-      "sha256": "22b90f07b89e2b1b4366d437b357af7a2ac2f02f86be270fadfaf9416a21a545",
-      "bytes": 40243,
-      "width": 1212,
-      "height": 689,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig39_action_thresholds.png",
       "sha256": "0fc2184007b730cd4e5f0b7a8b9fe747fb9eb82b39c4ab6697a063e94ea49bd4",
       "bytes": 45722,
@@ -645,15 +627,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig57_nns_cascade.png",
-      "sha256": "9c420a4a13e468becc6a314e5cb1ebf4fd71b4498bb5d7f84ea9aca706d83ee4",
-      "bytes": 66331,
-      "width": 1434,
-      "height": 802,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig58_composite_endpoint.png",
       "sha256": "8f02a39600297fbf862bdf3cd2e6c8ed26df5cace7fd6e0d00d2274080dad29a",
       "bytes": 85860,
@@ -686,51 +659,6 @@
       "bytes": 109616,
       "width": 1745,
       "height": 724,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig62_covariate_balance.png",
-      "sha256": "ba63b2392fc020a9ba339a76fc28e878de6f34baac1ee5d812558da6bde05e42",
-      "bytes": 91113,
-      "width": 1562,
-      "height": 981,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig63_heterogeneity_forest.png",
-      "sha256": "9a54f15b574408996f3582a22ab18372d5fdc4f8401633d985d032fed0732c71",
-      "bytes": 60799,
-      "width": 1338,
-      "height": 921,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig64_calibration_deciles.png",
-      "sha256": "d1c523f84ca444a759fb584668d2e2706f4b70ba91b63141a9dffb6db66b4758",
-      "bytes": 104066,
-      "width": 1325,
-      "height": 1104,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig65_verification_bias.png",
-      "sha256": "77f58745dbf42d877ba555617fc9a5d998da333c0a6988d78e329ed9406793a8",
-      "bytes": 73493,
-      "width": 1497,
-      "height": 802,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig66_subgroup_forest.png",
-      "sha256": "eeedc766543191e37ceecced45c1f73e752f9a85485c54c18678a655321b6253",
-      "bytes": 76120,
-      "width": 1388,
-      "height": 952,
       "software_metadata": "Matplotlib",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
@@ -780,39 +708,12 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig73_roc_operating.png",
-      "sha256": "510a6d5db02d397aea3f14378c670ad5fb042728fab741d0db9105e39033ecc5",
-      "bytes": 102084,
-      "width": 1245,
-      "height": 1102,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig74_ps_overlap.png",
-      "sha256": "d1d40fd42537826ebf9e9aef17828edc267693af173b38f2f1cc7a12879e4ba6",
-      "bytes": 103630,
-      "width": 1280,
-      "height": 886,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig75_instrumental_variable.png",
-      "sha256": "7539bac11c4c32b7102c7466f5bd344f3bc9b6ba1eaeed070f2b847f2b109315",
-      "bytes": 93029,
-      "width": 1357,
-      "height": 738,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig76_mediation.png",
-      "sha256": "1c0fdab1996843d871ce779d313e4d39b5a23873b76f3c80a0994b2b23c916a2",
-      "bytes": 53826,
-      "width": 1357,
-      "height": 707,
-      "software_metadata": "Matplotlib",
+      "path": "docs/assets/figures/fig73_roc_operating.svg",
+      "sha256": "71bf514da6f12fcb7276cc40d9c63b1e925e9698059e0578fadfd042055d597f",
+      "bytes": 5702,
+      "width": 1200,
+      "height": 720,
+      "software_metadata": "hand-authored SVG",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
@@ -830,24 +731,6 @@
       "bytes": 82231,
       "width": 1357,
       "height": 707,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig80_icon_array.png",
-      "sha256": "e99f2bd8c7ef74761cb3f44fefa6893a5f3531364b437b2d337aefc7f97bdd91",
-      "bytes": 38542,
-      "width": 1156,
-      "height": 944,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/swarm3h_interaction_scales.png",
-      "sha256": "11a94b2a985992eb2dacdd7f1c50b536e8ed4cdb181e5493cdfd9cf1bf1ebc34",
-      "bytes": 50236,
-      "width": 875,
-      "height": 586,
       "software_metadata": "Matplotlib",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
@@ -996,21 +879,21 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/swarm_ch27_fragility_missing.png",
-      "sha256": "bf7106e09ba490bb43d0a0d33600aca1ef5f63d0a32cbd3e9e1f6a258e01fb03",
-      "bytes": 71888,
-      "width": 1690,
-      "height": 742,
-      "software_metadata": "Matplotlib",
+      "path": "docs/assets/figures/swarm_ch27_fragility_missing.svg",
+      "sha256": "377dbd4808fe463be4dce81b5d8e28c25540c9362b5fc7367e0211ebf6484356",
+      "bytes": 3466,
+      "width": 1200,
+      "height": 720,
+      "software_metadata": "hand-authored SVG",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/swarm_ch28_natural_frequencies.png",
-      "sha256": "04c6bd77271609936b64c14194c4b1f75a9749e59bd79889ebbc792fe990845e",
-      "bytes": 96916,
-      "width": 1185,
-      "height": 697,
-      "software_metadata": "Matplotlib",
+      "path": "docs/assets/figures/swarm_ch28_natural_frequencies.svg",
+      "sha256": "5c356b3166be52df52cd457fac156d3f5fc6649aa2dd61e0ae30d0dfadd7672b",
+      "bytes": 15190,
+      "width": 1200,
+      "height": 720,
+      "software_metadata": "hand-authored SVG",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     }
   ]

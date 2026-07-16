@@ -222,6 +222,36 @@ class EbookSiteTests(unittest.TestCase):
                 "Internal validation proves only",
                 "The absolute risks are trustworthy",
                 "formally consider palliation",
+                "It consists of four elements: the target population",
+                "all variables in the adjustment set were measured strictly prior to the index time and are true baseline common causes",
+                "irrevocably destroys causal inference",
+                "This inflates both sensitivity and specificity.",
+                "while conditionally isolating the effects from modeled covariates",
+                "an absolute minimum of 10 to 20 outcome events per candidate predictor variable",
+                "A literature search restricted to PubMed and English-language publications guarantees selection bias",
+                "Adaptive platform trials utilize response-adaptive randomization and continuous arm-dropping",
+                "Spectrum bias in training guarantees prevalence shift in deployment",
+                "single-center provenance guarantees that the model has overfit",
+                "fabricated by methodological incompetence",
+                "PROs require strict blinding",
+                "Follow-up completeness exceeds 95%",
+                "Analysis strictly Intention-to-Treat",
+                "Reference standard is a true gold standard",
+                "biases the effect upward",
+                "interaction test proving the treatment effect differs",
+                "HR of 0.72 is a mathematical artifact",
+                "survival estimates will be downwardly biased",
+                "drug works only on one scale",
+                "true interaction between etiology and therapeutic response will be attenuated",
+                "neutralizing the compositional variance",
+                "current guidance favors dual antiplatelet therapy over thrombolysis",
+                "estimates the pragmatic effectiveness",
+                "per-protocol and as-treated analyses estimate biological efficacy",
+                "drug will falsely appear to cause higher rates",
+                "In stroke trials, MNAR is highly prevalent",
+                "alpha-spending techniques like Bonferroni or Hochberg",
+                "Spin is the clinical translation of p-hacking",
+                "So about (A−B) are helped",
             ):
                 self.assertNotIn(false_claim, blob)
             self.assertNotRegex(blob, r"(?m)^[ \t]*\d+\.[ \t]+\d+\.")
@@ -236,6 +266,14 @@ class EbookSiteTests(unittest.TestCase):
             self.assertIn("Five synthetic paper autopsies appear in this chapter", blob)
             self.assertIn("O/E = 270/240 = 1.125", blob)
             self.assertIn("Aalen–Johansen cumulative incidence", blob)
+            self.assertIn("from 0.25 to 0.40 gives a 0.15 absolute increase", blob)
+            self.assertIn("Crude risk for Early DOAC = 450 / 6,000 = 7.5%", blob)
+            self.assertIn("21.25% - 7.5% = 13.75%", blob)
+            self.assertIn("Risk Difference (RD) = 0.440 − 0.320 = 0.120", blob)
+            self.assertIn("0.80 / (160/850) = 4.25", blob)
+            self.assertIn("40 events among 200 control participants and 22 among 200 treatment participants", blob)
+            self.assertIn("25 of 200 and p = 0.0572", blob)
+            self.assertIn("conventionally reported as 17 people", blob)
         elif self.root.name.upper() == "ML":
             self.assertNotIn("ml_concept_", blob)
             for false_claim in (
@@ -272,6 +310,22 @@ class EbookSiteTests(unittest.TestCase):
         )
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn("ALL_PASS", r.stdout)
+
+    def test_accuracy_figures_match_their_asserted_source_data(self) -> None:
+        import subprocess
+
+        if self.root.name.upper() != "CRIT-APP":
+            self.skipTest("accuracy-critical SVG generator is specific to CRIT-APP")
+        script = self.root / "scripts" / "regenerate_accuracy_figures.py"
+        self.assertTrue(script.exists(), "regenerate_accuracy_figures.py missing")
+        result = subprocess.run(
+            [sys.executable, str(script), "--check"],
+            capture_output=True,
+            text=True,
+            cwd=str(self.root),
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("ACCURACY_FIGURES_OK 3", result.stdout)
 
 
 if __name__ == "__main__":

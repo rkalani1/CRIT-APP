@@ -2,10 +2,6 @@
 
 ## Opening
 
-![Numbers needed to screen cascade.](../assets/figures/fig57_nns_cascade.png)
-
-*Numbers needed to screen cascade.*
-
 ![Screening biases.](../assets/figures/fig14_screening_biases.png)
 
 *Screening biases.*
@@ -73,13 +69,13 @@ Auscultation for carotid bruits in asymptomatic populations lacks both sensitivi
 
 ### Case 2: The Unruptured Aneurysm Pathway
 
-A direct-to-consumer MRI center offers whole-brain MRA. Among 1,000 screened clients (prevalence roughly 2-3 percent), 25 small unruptured intracranial aneurysms are detected. The annualized rupture risk for small anterior circulation aneurysms is minimal, heavily outweighed in many series by the immediate peri-procedural morbidity of endovascular coiling or clipping (often 3-5 percent). This scenario epitomizes overdiagnosis: detecting lesions with an indolent natural history, inviting aggressive intervention, and manufacturing iatrogenic strokes under the guise of prevention. Screening is mathematically rational only in highly enriched populations (e.g., autosomal dominant polycystic kidney disease or dense familial clusters).
+A direct-to-consumer MRA program will detect incidental aneurysms, many of which have a low short-term rupture risk. Neither rupture risk nor treatment harm is a single number: size, site, morphology, growth, age, comorbidity, procedure, center experience, and horizon all matter. Screening or surveillance should follow current guideline criteria and individualized multidisciplinary assessment rather than the assumption that finding and treating every lesion improves outcomes.
 
 ## Communicating Risk and Reframing Prevention
 
 Abandoning anatomically targeted screening does not equate to preventive nihilism. Population health is vastly better served by aggressive management of systemic vascular risk factors—hypertension, hyperlipidemia, smoking, and untreated atrial fibrillation—which have incontrovertible, high-magnitude outcome benefits. When addressing patients seeking indiscriminate imaging, the neurologist must pivot the dialogue from detection to outcome. Discussing the absolute risk of an incidental finding leading to a harmful, unnecessary procedure is more effective than citing abstract sensitivities.
 
-When counseling patients on incidentally discovered lesions, employ natural frequencies rather than relative risks. 'Out of 100 people with an aneurysm exactly like yours, fewer than 1 will experience a rupture this year, but if we treat all 100 today, 3 to 5 will suffer a procedural stroke.' This framing neutralizes the heuristic that intervention is intrinsically protective.
+When counseling about an incidental lesion, use natural frequencies only after estimating risks for a clearly matched population, procedure, and horizon: 'Out of 100 people with these measured features, about A may rupture over T years without intervention; with procedure P, about B may have complication C.' Present intervals, competing mortality, surveillance alternatives, and the uncertainty in how closely the evidence matches the individual patient.
 
 ## Summary of Critical Concepts
 

@@ -6,13 +6,9 @@
 
 *Missingness mechanisms.*
 
-![Fragility and missingness.](../assets/figures/fig17_fragility_missing.png)
+![Worked fragility-index example: 40 versus 22 events gives Fisher p = 0.0183; changing three treatment non-events to events gives 40 versus 25 and p = 0.0572.](../assets/figures/swarm_ch27_fragility_missing.svg)
 
-*Fragility and missingness.*
-
-![Fragility and missingness mechanisms.](../assets/figures/swarm_ch27_fragility_missing.png)
-
-*Fragility and missingness mechanisms.*
+*Fragility depends on the specified outcome direction and statistical test; here the two-sided Fisher exact fragility index is 3.*
 
 Interim looks early and the primary endpoint is fragile. Ask missingness, multiplicity, and what would reverse the conclusion with a few events.
 
@@ -29,60 +25,50 @@ Missing data are rarely just missing; they carry structural information. Missing
 
 Missing at Random (MAR) assumes that missingness can be fully explained by observed baseline covariates, and that conditional on these observed data, missingness does not depend on the unobserved outcome itself. For instance, if 90-day mRS is more often missing in patients with severe admission NIHSS and older age, but within those specific strata the missingness is random, the data are MAR. This assumption licenses techniques like multiple imputation or inverse probability weighting. However, MAR is a strong, unverifiable assumption, not a mathematical certainty.
 
-Missing Not at Random (MNAR) is the most menacing mechanism. Here, the probability of missingness depends on the unobserved value itself, even after conditioning on all available covariates. If families of patients with devastating disability (mRS 5) refuse follow-up interviews precisely because of that disability, the data are MNAR. Standard imputation models under MAR will systematically underestimate the true disability burden. In stroke trials, MNAR is highly prevalent and demands rigorous sensitivity analyses, such as tipping-point testing or worst-case scenario imputation.
+Missing Not at Random (MNAR) means that, after conditioning on observed information, missingness still depends on an unobserved value. If follow-up participation depends on unrecorded disability itself, a standard MAR analysis may be biased. The mechanism is not identifiable from observed data alone. MNAR is often clinically plausible in stroke follow-up and should be explored with transparent, clinically grounded sensitivity analyses such as pattern-mixture, selection-model, or tipping-point approaches.
 
 ## The Fallacy of LOCF and Complete-Case Analysis
 
 Historically, neurologists relied on Last Observation Carried Forward (LOCF) to patch missing data. If a day-30 mRS is available but day-90 is missing, LOCF simply pastes the day-30 value into the day-90 slot. This assumes stroke recovery is a flat line, freezing early disability and aggressively ignoring the realities of late rehabilitation or subsequent complications. LOCF is not a conservative strategy; it can bias effect estimates in either direction depending on the timing and differential rates of dropout between treatment arms. It is a scientifically indefensible practice in modern stroke trials.
 
-Conversely, complete-case analysis simply deletes any patient with missing data. If the missingness mechanism is MAR or MNAR, this introduces severe selection bias, effectively analyzing a healthier, highly selected sub-cohort rather than the intention-to-treat population. Robust trials must favor principled approaches: mixed-effects models for repeated measures, multiple imputation under specified MAR models, and explicit stress-testing of those assumptions via MNAR sensitivity analysis.
+Complete-case analysis discards participants with missing analysis variables. It is unbiased under MCAR and under some restricted MAR structures for particular regression estimands, but it loses information and can be biased when completeness remains related to the outcome or residual after conditioning. Authors should justify the assumed mechanism, preserve randomized assignment in the target analysis set, compare principled alternatives such as multiple imputation or likelihood-based models when appropriate, and stress-test unverifiable assumptions.
 
 ## Multiplicity: The Garden of Forking Paths
 
 Multiplicity increases the chance of at least one false positive when several hypotheses are tested without an appropriate error-control strategy. Under 20 independent null tests at α = 0.05, the family-wise error rate is about 64%. In stroke reports, a null primary endpoint followed by emphasis on an unadjusted secondary endpoint should be treated as exploratory unless the analysis was prespecified and protected by the trial’s testing hierarchy.
 
-This behavior capitalizes on analytic flexibility. The 'garden of forking paths' describes the myriad choices researchers make after seeing the data: selecting specific covariate adjustments, defining subgroups (e.g., fast versus slow progressors), or choosing varying time windows. To defend against multiplicity, appraisers must demand pre-specified, locked statistical analysis plans. Legitimate strategies include hierarchical testing (where secondary endpoints are only tested if the primary is significant) or alpha-spending techniques like Bonferroni or Hochberg procedures. Unadjusted subgroup findings must be strictly relegated to hypothesis generation.
-
-*Teaching figure (synthetic).* Under independent tests at unadjusted α = 0.05, family-wise error is already ~40% by about ten secondaries and ~64% by twenty. A null primary plus a nominally “significant” unadjusted secondary is hypothesis-generating spin, not confirmatory evidence for a stroke pathway change.
+This behavior capitalizes on analytic flexibility. The 'garden of forking paths' describes choices made after seeing data, such as selecting covariate adjustments, subgroup cut points, or time windows. Defenses include a prespecified analysis plan, hierarchical or gatekeeping tests, and family-wise procedures such as Bonferroni or Hochberg for a defined family. Repeated interim looks instead require group-sequential boundaries or alpha-spending functions. Unprotected secondary and subgroup findings should be labeled exploratory.
 
 ## Interim Analyses and Early Stopping
 
-Adaptive trial designs frequently employ interim analyses, governed by Data and Safety Monitoring Boards (DSMBs), to stop trials early for overwhelming efficacy, futility, or harm. While ethically justified, early stopping for benefit introduces systematic bias. A trial halted early for efficacy has often caught a random high in the sampling distribution, resulting in a grossly exaggerated point estimate of the treatment effect. Subsequent meta-analyses invariably show 'regression to the truth,' with attenuated effect sizes.
+Some trials use prespecified interim analyses overseen by an independent monitoring committee to consider efficacy, futility, or harm. Stopping for benefit can select a favorable interim fluctuation and upwardly bias the conventional point estimate on average, especially with few events. It does not mean every early-stopped estimate is exaggerated. Appraise the boundary, information fraction, event count, and sequentially adjusted estimates or intervals where available.
 
-Appraisers must distinguish between strict alpha-spending boundaries (e.g., O'Brien-Fleming, which requires massive evidence early on) and liberal boundaries. Furthermore, stopping for futility does not prove equivalence; it merely confirms that the trial is unlikely to demonstrate the pre-specified absolute difference. Undisclosed interim 'peeks' at the data without statistical penalty are fatal to the integrity of the reported p-value.
-
-*Teaching figure (synthetic).* An early efficacy stop can catch a random high (here 14 pp ARR) while the generative truth is 6 pp; completed and replication estimates regress. Down-weight magnitude from early-stopped stroke trials, insist on absolute risks with CIs, and remember futility stops do not prove equivalence.
+Appraisers should distinguish conservative early efficacy boundaries such as O'Brien–Fleming-type rules from more permissive designs and verify how repeated looks were incorporated. A futility stop means a prespecified conditional- or predictive-probability criterion was crossed under its assumptions; it does not prove equivalence or exclude clinically important effects. Undisclosed interim looks can invalidate the nominal p-value unless the analysis accounts for them.
 
 ## The Fragility Index: Stress-Testing Statistical Significance
 
 For a statistically significant dichotomous result, the fragility index is the minimum number of participant outcome-status changes needed to make the result non-significant under a specified test. The required direction and study arm depend on outcome coding and the observed table. The index is test-dependent and does not replace effect estimates or confidence intervals.
 
-If a dual-antiplatelet trial reports p = 0.043 and a fragility index of 3 under its specified test, a small number of outcome-status changes would reverse the significance classification. If missing primary outcomes outnumber the fragility index, treat that as a warning—not proof that the conclusion is invalid. Compare the missingness mechanism and plausible outcome distributions with the observed table, and use prespecified tipping-point or other sensitivity analyses. The fragility index remains a limited heuristic and should not replace the risk difference, confidence interval, or a principled missing-data analysis.
-
-*Teaching figure (synthetic).* Trial P has FI well above LTFU—more robust to missing outcomes. Trials Q and R have LTFU ≥ FI, so a handful of unobserved events (or MNAR disability) can erase “significance.” Always pair the fragility index with the missing-primary-outcome count and demand tipping-point sensitivity before rewriting stroke pathways.
+Consider a synthetic two-arm table with 40 events among 200 control participants and 22 among 200 treatment participants. A two-sided Fisher exact test gives p = 0.0183. Reclassifying three treatment-arm nonevents as events gives 25 of 200 and p = 0.0572, so the fragility index is 3 for that specified direction and test. This describes sensitivity of a dichotomous significance label, not validity of the design or magnitude of benefit. Compare the risk difference and interval, missing-outcome mechanisms, and tipping-point analyses before drawing a clinical conclusion.
 
 ## Analytic Flexibility and the Architecture of Spin
 
-Analytic flexibility provides the raw material for spin—the systemic rhetorical distortion of trial results. Spin occurs when authors emphasize relative risk reductions while obscuring marginal absolute differences, elevate unadjusted secondary findings to the abstract's conclusion, or frame statistically non-significant primary outcomes as 'trends toward benefit.' Spin is the clinical translation of p-hacking.
+Analytic flexibility can enable p-hacking, while spin concerns selective reporting or interpretation. They can co-occur but are distinct. Examples of spin include emphasizing relative effects while obscuring small absolute differences, elevating unprotected secondary findings, or framing an inconclusive primary estimate as established benefit.
 
-Defeating spin requires a disciplined appraisal architecture. The reader must first secure the protocol's primary endpoint, calculate the absolute risk difference independently, evaluate the missingness proportion against the event counts, and discount any unadjusted secondary claims. If your independent interpretation of the primary data contradicts the authors' conclusion, you have identified spin.
+Compare the registered protocol and analysis plan with the reported endpoints, reconstruct absolute effects, examine missingness, and identify the testing hierarchy. If your interpretation differs from the authors', locate the exact endpoint, metric, assumption, or value judgment causing the difference before labeling it spin.
 
 ## Clinical and Epidemiologic Notes
 
-Clinical Note: When adopting a novel stroke intervention—particularly one involving complex logistics like mobile stroke units or extended-window thrombectomy—demand an evidence base that is not fragile. If flipping a half-dozen outcomes invalidates the trial, wait for confirmatory data before rewriting institutional protocols.
+Clinical Note: A low fragility index warns that the conventional significance classification is sensitive to a few outcome changes; it does not invalidate a trial. Protocol decisions should be anchored in effect magnitude, confidence intervals, missing-data sensitivity, design quality, corroborating evidence, and feasibility.
 
-Methodologic Note: Do not conflate statistical significance with evidentiary robustness. A p-value of 0.04 in an underpowered subgroup with 12% missing data is mathematical noise dressed in academic formatting.
+Methodologic Note: Do not conflate statistical significance with evidentiary robustness. A nominal p-value of 0.04 in an underpowered subgroup with 12% missing data may be highly sensitive to multiplicity and missing-outcome assumptions; report the estimate and uncertainty rather than dismissing or accepting it from the threshold alone.
 
 Epidemiologic Note: Anticipate missing data in trial design rather than attempting to rescue it with post hoc statistical gymnastics. Rigorous follow-up infrastructure is vastly superior to complex imputation models.
 
 
-![Instrumental-variable DAG with the instrument affecting outcome only through treatment under the exclusion restriction.](../assets/figures/fig75_instrumental_variable.png)
-
-*Teaching graphic (fig75_instrumental_variable.png).*
-
 ## Chapter summary
 
-Statistical significance is an output; the analytic plumbing that generates it determines its validity. Missing data mechanisms (MCAR, MAR, MNAR) require principled handling, as crude methods like LOCF and complete-case analysis introduce severe bias in neurologic outcomes. Unpenalized multiplicity and analytic flexibility construct a 'garden of forking paths' that generates false positives. Interim analyses and early stopping for benefit systematically overestimate effect sizes, demanding cautious interpretation. The fragility index serves as a crucial heuristic, revealing how easily minor outcome perturbations can collapse a significant result. Ultimately, discerning neurologists must aggressively interrogate a trial's missingness, multiplicity control, and fragility to strip away authorial spin and determine true clinical utility.
+Missing-data assumptions, multiplicity control, and interim-monitoring rules determine how an estimate should be interpreted. LOCF is generally indefensible; complete-case validity depends on the estimand and missingness structure. Prespecified testing families and sequential methods protect defined error rates without repairing other biases. Early benefit stopping can exaggerate conventional estimates on average. The fragility index is a limited, test-dependent description of a significance threshold and should remain secondary to effect estimates, intervals, missing-data sensitivity, and design validity.
 
 ## Practice and reflection
 

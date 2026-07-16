@@ -85,11 +85,11 @@ Such explosive claims demand overwhelming statistical significance for the forma
 
 One of the most catastrophic methodologic errors in subgroup analysis is conditioning the analysis on a variable that is measured or achieved after the moment of randomization. In endovascular thrombectomy literature, investigators frequently publish subgroup analyses stratifying patients based on 'successful reperfusion' (e.g., TICI 2b/3 versus TICI 0-2a). In secondary prevention and antiplatelet trials, researchers stratify by 'adherence to study medication.'
 
-These are not true subgroups; they are post-randomization intermediate outcomes. Stratifying by a post-randomization variable instantly annihilates the balance achieved by the original randomization, introducing severe confounding and collider stratification bias. Whether a patient achieves TICI 2b/3 is influenced heavily by the assigned treatment (the specific thrombectomy device or technique), but it is simultaneously influenced by deep, unmeasured patient characteristics such as precise clot composition, vascular tortuosity, and baseline collateral robustness.
+These are post-randomization states, not baseline effect modifiers. A naive comparison within levels of such a variable no longer enjoys the original randomized comparison. In the example, reperfusion is affected by assigned treatment and by patient or procedural factors that also predict outcome; conditioning on it can block mediated treatment effects and open a treatment–prognostic-factor path. The exact bias depends on the causal graph rather than on post-randomization timing alone.
 
 If an analyst compares clinical outcomes exclusively among patients who achieved TICI 2b/3, they are no longer comparing exchangeable, randomized groups. The patients who successfully achieved TICI 2b/3 in a novel experimental device arm may possess fundamentally different baseline physiology than the patients who achieved TICI 2b/3 in the standard-of-care control arm. By conditioning on the intermediate variable (the collider), they open a biasing pathway between the unmeasured confounders and the outcome.
 
-Any variable used for subgroup stratification must be an immutable baseline characteristic, measured definitively prior to or at the exact millisecond of randomization. Analyses stratified by post-randomization events are merely observational epidemiology studies nested within the wreckage of a trial, vulnerable to all the structural biases inherent to observational data. They cannot yield unconfounded causal estimates.
+Conventional treatment-effect subgroup analyses should generally use prespecified baseline variables measured without knowledge of post-randomization outcomes. Baseline variables need not be literally immutable, but their measurement must precede treatment assignment for this purpose. Post-randomization causal questions may be studied with mediation, principal-stratification, or longitudinal methods under additional assumptions; a naive within-state comparison is not an unconfounded randomized effect.
 
 ## Spin in the Literature: Detection and Diagnosis
 
@@ -179,7 +179,7 @@ Step 3: Synthesis and Appraisal. The interaction test is nominally significant i
 
 ## Clinical and Epidemiologic Notes
 
-Clinical Note on Stroke Pathways: A hospital stroke pathway must function as an impenetrable fortress against statistical spin. Pathway algorithms governing critical decisions (e.g., 'Who receives tenecteplase?', 'Who is eligible for EVT beyond 12 hours?') must be constructed exclusively upon the primary main effects of high-quality Phase III randomized trials and rigorously conducted meta-analyses. If a pathway committee proposes restricting a therapy based on a 'negative' subgroup (e.g., 'Withhold therapy X in patients > 80 years old because the trial subgroup crossed the null'), they must formally demonstrate that the interaction test was both significant and pre-specified. Otherwise, they are actively denying standard-of-care therapies to vulnerable populations based entirely on a Type II power error.
+Clinical Note on Stroke Pathways: Pathway committees should anchor restrictions to the totality of evidence, including trial estimands, replicated interaction evidence, harms, applicability, guidelines, and patient values. A subgroup confidence interval crossing the null does not show absence of benefit, and separate within-stratum p-values do not establish heterogeneity. Prespecification and a formal interaction estimate strengthen credibility, but decisions should also consider uncertainty, replication, biological rationale, and whether the proposed restriction changes net benefit.
 
 Clinical Note on Shared Decision-Making: Quantitative heterogeneity of treatment effect, when rigorously proven and highly credible, belongs squarely within the domain of patient counseling. A larger absolute risk reduction in a higher-risk stroke phenotype can strongly justify more aggressive recommendations and tolerance of procedural risks. However, clinicians must sharply distinguish this nuance from the outright denial of therapy to lower-risk patients merely because their specific subgroup confidence interval widened and crossed the null. Always utilize absolute risks tailored to the individual patient's baseline risk model; never invent precision from fundamentally underpowered trial strata.
 
@@ -200,10 +200,10 @@ Research Practice Note for Trial Investigators: Pre-specify a brutally short tes
 
 ## Cross-Links to Other Chapters
 
-- Chapter 2: The Logic of Causal Inference (for a deeper dive into collider stratification bias and DAGs representing effect modification).
-- Chapter 7: Absolute vs. Relative Effect Measures (for the underlying mathematics of NNT, NNH, and baseline risk arithmetic).
-- Chapter 9: The Multiplicity Problem (for formal mathematical adjustments including Bonferroni and FDR control).
-- Chapter 15: Critical Appraisal of Industry Literature (for further discussion on conflict of interest and the pharmaceutical lifecycle).
+- Chapter 5: Confounding, DAGs, and Target-Trial Thinking, including collider structures and adjustment sets.
+- Chapter 12: Effect Sizes, Absolute Benefit, and NNT, including baseline-risk arithmetic.
+- Chapter 27: Missing Data, Multiplicity, Interim Analyses, and Fragility.
+- Chapter 15: Journal Club Architecture, including a structured process for challenging subgroup spin.
 
 
 ![Fagan nomogram linking pre-test probability and likelihood ratio to post-test probability.](../assets/figures/fig60_fagan_nomogram.png)

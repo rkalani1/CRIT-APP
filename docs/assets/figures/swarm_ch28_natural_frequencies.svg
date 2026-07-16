@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Natural-frequency icon array</title>
+  <desc id="desc">A 100-person array shows six red people who experience the outcome with either strategy, two outlined teal people whose outcomes are prevented by the strategy, and 92 gray people with no outcome. This represents eight events without the strategy and six with it, or two fewer per 100.</desc>
+  <rect width="1200" height="720" rx="28" fill="#f8fafc"/>
+  <style>
+    text { font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif; fill: #1e1b4b; }
+    .title { font-size: 34px; font-weight: 700; }
+    .subtitle { font-size: 21px; fill: #475569; }
+    .label { font-size: 20px; font-weight: 650; }
+    .small { font-size: 17px; fill: #475569; }
+    .value { font-size: 24px; font-weight: 700; }
+  </style>
+  <text x="70" y="58" class="title">Natural frequencies: 2 fewer events per 100 people</text>
+  <text x="70" y="91" class="subtitle">Illustrative absolute effects over the stated time horizon.</text>
+  <circle cx="94" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 1: event with either strategy</title></circle>
+  <circle cx="139" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 2: event with either strategy</title></circle>
+  <circle cx="184" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 3: event with either strategy</title></circle>
+  <circle cx="229" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 4: event with either strategy</title></circle>
+  <circle cx="274" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 5: event with either strategy</title></circle>
+  <circle cx="319" cy="175" r="14" fill="#b91c1c" stroke="#b91c1c" stroke-width="4"><title>Person 6: event with either strategy</title></circle>
+  <circle cx="364" cy="175" r="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="4"><title>Person 7: event prevented by the strategy</title></circle>
+  <circle cx="409" cy="175" r="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="4"><title>Person 8: event prevented by the strategy</title></circle>
+  <circle cx="454" cy="175" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 9: no event</title></circle>
+  <circle cx="499" cy="175" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 10: no event</title></circle>
+  <circle cx="94" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 11: no event</title></circle>
+  <circle cx="139" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 12: no event</title></circle>
+  <circle cx="184" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 13: no event</title></circle>
+  <circle cx="229" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 14: no event</title></circle>
+  <circle cx="274" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 15: no event</title></circle>
+  <circle cx="319" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 16: no event</title></circle>
+  <circle cx="364" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 17: no event</title></circle>
+  <circle cx="409" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 18: no event</title></circle>
+  <circle cx="454" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 19: no event</title></circle>
+  <circle cx="499" cy="218" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 20: no event</title></circle>
+  <circle cx="94" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 21: no event</title></circle>
+  <circle cx="139" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 22: no event</title></circle>
+  <circle cx="184" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 23: no event</title></circle>
+  <circle cx="229" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 24: no event</title></circle>
+  <circle cx="274" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 25: no event</title></circle>
+  <circle cx="319" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 26: no event</title></circle>
+  <circle cx="364" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 27: no event</title></circle>
+  <circle cx="409" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 28: no event</title></circle>
+  <circle cx="454" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 29: no event</title></circle>
+  <circle cx="499" cy="261" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 30: no event</title></circle>
+  <circle cx="94" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 31: no event</title></circle>
+  <circle cx="139" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 32: no event</title></circle>
+  <circle cx="184" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 33: no event</title></circle>
+  <circle cx="229" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 34: no event</title></circle>
+  <circle cx="274" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 35: no event</title></circle>
+  <circle cx="319" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 36: no event</title></circle>
+  <circle cx="364" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 37: no event</title></circle>
+  <circle cx="409" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 38: no event</title></circle>
+  <circle cx="454" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 39: no event</title></circle>
+  <circle cx="499" cy="304" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 40: no event</title></circle>
+  <circle cx="94" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 41: no event</title></circle>
+  <circle cx="139" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 42: no event</title></circle>
+  <circle cx="184" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 43: no event</title></circle>
+  <circle cx="229" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 44: no event</title></circle>
+  <circle cx="274" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 45: no event</title></circle>
+  <circle cx="319" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 46: no event</title></circle>
+  <circle cx="364" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 47: no event</title></circle>
+  <circle cx="409" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 48: no event</title></circle>
+  <circle cx="454" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 49: no event</title></circle>
+  <circle cx="499" cy="347" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 50: no event</title></circle>
+  <circle cx="94" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 51: no event</title></circle>
+  <circle cx="139" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 52: no event</title></circle>
+  <circle cx="184" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 53: no event</title></circle>
+  <circle cx="229" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 54: no event</title></circle>
+  <circle cx="274" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 55: no event</title></circle>
+  <circle cx="319" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 56: no event</title></circle>
+  <circle cx="364" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 57: no event</title></circle>
+  <circle cx="409" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 58: no event</title></circle>
+  <circle cx="454" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 59: no event</title></circle>
+  <circle cx="499" cy="390" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 60: no event</title></circle>
+  <circle cx="94" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 61: no event</title></circle>
+  <circle cx="139" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 62: no event</title></circle>
+  <circle cx="184" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 63: no event</title></circle>
+  <circle cx="229" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 64: no event</title></circle>
+  <circle cx="274" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 65: no event</title></circle>
+  <circle cx="319" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 66: no event</title></circle>
+  <circle cx="364" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 67: no event</title></circle>
+  <circle cx="409" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 68: no event</title></circle>
+  <circle cx="454" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 69: no event</title></circle>
+  <circle cx="499" cy="433" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 70: no event</title></circle>
+  <circle cx="94" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 71: no event</title></circle>
+  <circle cx="139" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 72: no event</title></circle>
+  <circle cx="184" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 73: no event</title></circle>
+  <circle cx="229" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 74: no event</title></circle>
+  <circle cx="274" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 75: no event</title></circle>
+  <circle cx="319" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 76: no event</title></circle>
+  <circle cx="364" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 77: no event</title></circle>
+  <circle cx="409" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 78: no event</title></circle>
+  <circle cx="454" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 79: no event</title></circle>
+  <circle cx="499" cy="476" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 80: no event</title></circle>
+  <circle cx="94" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 81: no event</title></circle>
+  <circle cx="139" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 82: no event</title></circle>
+  <circle cx="184" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 83: no event</title></circle>
+  <circle cx="229" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 84: no event</title></circle>
+  <circle cx="274" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 85: no event</title></circle>
+  <circle cx="319" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 86: no event</title></circle>
+  <circle cx="364" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 87: no event</title></circle>
+  <circle cx="409" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 88: no event</title></circle>
+  <circle cx="454" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 89: no event</title></circle>
+  <circle cx="499" cy="519" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 90: no event</title></circle>
+  <circle cx="94" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 91: no event</title></circle>
+  <circle cx="139" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 92: no event</title></circle>
+  <circle cx="184" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 93: no event</title></circle>
+  <circle cx="229" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 94: no event</title></circle>
+  <circle cx="274" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 95: no event</title></circle>
+  <circle cx="319" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 96: no event</title></circle>
+  <circle cx="364" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 97: no event</title></circle>
+  <circle cx="409" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 98: no event</title></circle>
+  <circle cx="454" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 99: no event</title></circle>
+  <circle cx="499" cy="562" r="14" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"><title>Person 100: no event</title></circle>
+  <rect x="610" y="150" width="510" height="420" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="655" y="210" class="title">Read the 100-person grid</text>
+  <circle cx="675" cy="266" r="15" fill="#b91c1c"/>
+  <text x="710" y="274" class="label">6 experience the outcome</text>
+  <text x="710" y="301" class="small">with or without the strategy</text>
+  <circle cx="675" cy="355" r="15" fill="#ccfbf1" stroke="#0f766e" stroke-width="4"/>
+  <text x="710" y="363" class="label">2 additional outcomes without it</text>
+  <text x="710" y="390" class="small">shown as outcomes prevented by the strategy</text>
+  <circle cx="675" cy="444" r="15" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2"/>
+  <text x="710" y="452" class="label">92 do not experience the outcome</text>
+  <text x="710" y="479" class="small">under either strategy in this illustration</text>
+  <path d="M 655 518 H 1075" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="655" y="551" class="value">8 without strategy → 6 with strategy</text>
+  <text x="70" y="660" class="subtitle">This is a group-level contrast: it does not identify which two people would benefit.</text>
+</svg>

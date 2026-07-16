@@ -35,8 +35,6 @@ Pathology in reasoning does not stem from either system inherently, but from the
 - System 2 liabilities: Analytic paralysis, cognitive fatigue, and the generation of elaborate rationalizations to defend System 1 intuitions (motivated reasoning).
 - Metacognitive regulation: The capacity to deliberately toggle between these systems constitutes a discrete, trainable clinical competency.
 
-*Teaching figure (synthetic).* High-urgency, low-uncertainty stroke codes can safely ride calibrated System 1. High uncertainty—whether at the bedside or in a pathway decision—needs a forced System 2 gate. The right panel shows the largest drop in inappropriate decisions when System 2 is mandated in ambiguous, abstract-driven, or policy-changing contexts.
-
 Evidence consumption exhibits a parallel dual-process dichotomy. Scanning a journal article for statistical significance indicators constitutes System 1 appraisal. Systematically calculating the number needed to treat (NNT), evaluating attrition bias, and mapping trial demographics to the local population represents System 2 appraisal. Departments that exclusively prize rapid, superficial literature summaries cultivate System 1 habits. Conversely, systems requiring a structured absolute-effect analysis prior to protocol modification enforce System 2 discipline without compromising efficiency in emergency contexts.
 
 ## Cognitive Biases Distorting Neurologic Diagnosis and Evidence Integration
@@ -44,8 +42,6 @@ Evidence consumption exhibits a parallel dual-process dichotomy. Scanning a jour
 ### Anchoring
 
 Anchoring represents a disproportionate adherence to an initial piece of information. A triage designation of 'acute stroke' establishes a profound cognitive anchor, often enduring even as the patient demonstrates fluctuating, functional, or non-vascular symptomatology. In the literature, a relative risk reduction of 45% published in a prominent abstract anchors the reader's perception of efficacy, overshadowing the subsequent revelation that the absolute risk reduction is a mere 1.2%. Neutralizing anchors demands the deliberate generation of competing hypotheses and the rigid translation of all statistical claims into natural frequencies.
-
-*Teaching figure (synthetic).* Identical trial arithmetic: RRR 45% versus ARR 1.2% (NNT ≈ 83). Subjective “large benefit” ratings collapse once absolute translation is mandatory. Treat relative-only abstract framing as a System 1 trap, not a clinical summary.
 
 ### Availability
 
@@ -138,7 +134,7 @@ Evidence integration: The diagnostic accuracy of early non-contrast CT for exclu
 
 ### Information Path and Updating
 
-Rapid data acquisition identifies a scintillating scotoma before weakness, subtle give-way weakness superimposed on mild facial asymmetry, and records documenting prior migraine evaluation. The team first classifies whether the current deficit is disabling and checks standard thrombolysis eligibility under the current AHA/ASA guideline and local pathway. Eligible patients with disabling deficits should receive intravenous thrombolysis promptly without delaying for additional multimodal imaging. For non-disabling deficits, current guidance favors dual antiplatelet therapy over thrombolysis. In this fictional case, the team judges the deficits non-disabling and the migraine phenotype strong; a protocolized MRI may refine the diagnosis only if it does not displace indicated time-critical treatment. Diffusion-weighted imaging positivity would support ischemia but would not by itself mandate thrombolysis, and an early negative study would not exclude stroke.
+Rapid data acquisition identifies a scintillating scotoma before weakness, subtle give-way weakness superimposed on mild facial asymmetry, and records documenting prior migraine evaluation. The team first classifies whether the current deficit is disabling and checks thrombolysis eligibility under the current guideline and local pathway. Eligible patients with disabling deficits should receive intravenous thrombolysis promptly without delaying for additional multimodal imaging. For an otherwise eligible patient with suspected non-cardioembolic minor ischemic stroke whose deficits are judged non-disabling, current guidance generally favors short-course dual antiplatelet therapy rather than thrombolysis; diagnosis, mechanism, contraindications, bleeding risk, timing, and local protocol still govern. In this fictional case, the team judges the migraine phenotype strong; MRI may refine the diagnosis only if it does not delay an indicated time-critical treatment. DWI positivity would support ischemia but would not by itself mandate thrombolysis, and an early negative study would not exclude stroke.
 
 The subsequent MRI demonstrates absent diffusion restriction. The motor deficits resolve completely over the ensuing 90 minutes, followed by the onset of a typical unilateral throbbing headache. The adjudicated diagnosis is migraine aura with motor features (stroke mimic). A rigorous process review highly commends the team for deploying absolute-risk framing and systematically generating alternatives, while correctly acknowledging the residual, albeit small, risk that a hyperacute lacunar infarct might remain diffusion-negative at this very early time point. This residual uncertainty dictates the necessity of appropriate outpatient follow-up and risk factor modification, rather than generating punitive commentary regarding the initial stroke code activation.
 
@@ -146,7 +142,7 @@ The subsequent MRI demonstrates absent diffusion restriction. The motor deficits
 
 - The activation of hyperacute stroke protocols is frequently correct even when the final adjudication is a mimic; process validity is independent of the final diagnostic outcome.
 - Anchoring on the triage designation is systematically mitigated by the forced articulation of a differential diagnosis.
-- The availability heuristic (the recent missed dissection) is neutralized by explicitly acknowledging it aloud, preventing it from exerting silent, disproportionate influence.
+- Naming the availability heuristic makes it inspectable but does not neutralize it; the team still needs alternative hypotheses, base rates, and a structured evidence check.
 - Therapeutic decisions must be predicated on absolute benefit-harm calculations conditional on the precise probability of true ischemia, rather than rote adherence to binary 'indication checklists.'
 - Diagnostic modalities must be appraised based on their specific likelihood ratios at precise temporal milestones (e.g., the vast difference in sensitivity between early CT and DWI).
 - Clinical documentation must explicitly record the parameters of uncertainty and the specific thresholds utilized to inform the decision, providing a critical defense against retrospective hindsight bias.
@@ -155,7 +151,7 @@ The subsequent MRI demonstrates absent diffusion restriction. The motor deficits
 
 The traditional journal club must be fundamentally redesigned to serve as a gymnasium for dual-process cognitive discipline. This requires the formal assignment of adversarial roles: the methodological skeptic, the absolute-effects quantifier, the applicability and generalizability translator, and the clinical adoption advocate. These roles must rotate to prevent individuals from becoming entrenched as permanent institutional cynics or uncritical early adopters. A structural embargo on global verdicts ('This is a great paper') during the initial ten minutes of discussion is essential. Furthermore, any motion to declare a paper 'practice-changing' must be preceded by a written, consensus statement articulating the findings in natural frequencies. These rituals act as potent social debiasing mechanisms, actively neutralizing publication spin, flattening authority gradients, and dismantling confirmation bias.
 
-Following the publication of highly anticipated or emotionally volatile studies—particularly those that challenge the core identity of a clinical service, such as definitive negative trials for a deeply entrenched therapeutic intervention—leadership must mandate a cognitive 'cooling-off' period before any clinical protocols are revised. The availability heuristic, coupled with identity-protective cognition, reaches maximum intensity in the immediate 48-hour window following a late-breaking presentation at a major societal conference. Decisions made during this acute phase are exceptionally vulnerable to heuristic distortion.
+For non-emergent protocol adoption after a highly anticipated or emotionally volatile study, a brief cooling-off period can allow independent extraction, protocol review, and reconciliation with the total evidence. This default must not delay urgent safety actions when credible evidence identifies immediate harm. The duration should be operationally chosen rather than treated as a universal 48-hour biological rule.
 
 ## Fatigue, Hierarchy, and Media in Evidence Consumption
 
@@ -169,7 +165,7 @@ Electronic health records (EHR) introduce an insidious, structural bias: default
 
 ## Synthesizing Cognitive Debiasing with Quantitative Rigor
 
-The sustainable integration of cognitive discipline and critical appraisal is achieved through the architectural design of clinical habits, not through transient inspirational lectures. Three foundational habits inoculate stroke services against the majority of decision failures. First, the natural-frequency translation mandate: every relative statistical claim must be reflexively converted into the format 'X events per 100 patients treated versus Y events per 100 patients control, over time horizon T.' Second, the alternative-hypothesis imperative: during any diagnostic or therapeutic inflection point, at least one credible alternative diagnosis or one methodologically rigorous alternative interpretation of a pivotal paper must be articulated aloud. Third, the explicit threshold habit: clinicians must pre-define the specific probability of disease or the exact absolute effect size that would alter their clinical management, and subsequently compare the incoming data exclusively against that pre-established threshold, rather than yielding to a subjective impression of the data's 'impressiveness.'
+The sustainable integration of cognitive discipline and critical appraisal depends on clinical habits. First, translate relative claims into natural frequencies with an endpoint and horizon. Second, articulate at least one credible alternative diagnosis or interpretation at important inflection points. Third, define the action threshold—or a defensible range—when calibrated probabilities and utilities permit; when they do not, document the uncertainty and decision factors rather than inventing an exact number.
 
 These habits align flawlessly with Bayesian formalisms. Natural frequencies dramatically reduce calculation errors in pre- and post-test probability assessments. The mandatory generation of alternatives prevents the premature closure of the hypothesis space across which Bayesian updating operates. Explicit thresholds translate post-test probabilities into actionable clinical decisions calibrated by explicit regret weighting (the comparative harm of false-positive versus false-negative interventions). Didactic programs that merely catalog the nomenclature of cognitive biases without embedding these rigorous quantitative habits yield clinicians who possess a fluent vocabulary for critiquing others, yet exhibit no measurable reduction in their own diagnostic or interpretive error rates.
 
@@ -220,10 +216,6 @@ Team Dynamics: Was Dissent Actively Solicited and Entertained? [Y/N]
 
 Maintain a rigorous, private metacognitive log analyzing five complex cases per month. Predictable patterns will invariably emerge: a recurrent vulnerability to a specific initial anchor, an over-reliance on a particular imaging modality's negative predictive value, or a consistent habit of uncritically accepting abstract conclusions. Continuous, measurable improvement in clinical reasoning is phenomenologically closer to the deliberate, repetitive practice required for elite musical performance than it is to the sudden, transformative epiphanies occasionally experienced during grand rounds.
 
-
-![Confidence-interval diagram classifying superiority, noninferiority, inconclusive results, and inferiority relative to the margin.](../assets/figures/fig38_noninferiority.png)
-
-*Teaching graphic (fig38_noninferiority.png).*
 
 ## Chapter summary
 

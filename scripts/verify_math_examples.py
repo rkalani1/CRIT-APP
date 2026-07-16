@@ -13,8 +13,81 @@ def near(a: float, b: float, tol: float = 1e-3) -> bool:
     return abs(a - b) <= tol
 
 
+def fisher_two_sided(a: int, b: int, c: int, d: int) -> float:
+    """Two-sided Fisher p using the probability-at-most-observed convention."""
+    row1, row2 = a + b, c + d
+    event_total = a + c
+    total = row1 + row2
+    denominator = math.comb(total, event_total)
+
+    def probability(x: int) -> float:
+        return math.comb(row1, x) * math.comb(row2, event_total - x) / denominator
+
+    observed = probability(a)
+    lower = max(0, event_total - row2)
+    upper = min(row1, event_total)
+    return sum(
+        probability(x)
+        for x in range(lower, upper + 1)
+        if probability(x) <= observed + 1e-15
+    )
+
+
 def main() -> int:
     checks: list[tuple[str, bool, str]] = []
+
+    # Ch03 favorable-outcome causal contrast
+    p_control, p_treated = 0.25, 0.40
+    favorable_rd = p_treated - p_control
+    checks.append(("ch03_favorable_RD", near(favorable_rd, 0.15, 1e-12), f"{favorable_rd:.3f}"))
+    checks.append(("ch03_favorable_NNT", near(1 / favorable_rd, 6.6667, 1e-3), f"{1/favorable_rd:.4f}"))
+
+    # Ch05 synthetic confounding-by-indication table
+    early_risk = (200 + 250) / (1000 + 5000)
+    delayed_risk = (750 + 100) / (3000 + 1000)
+    crude_arr = delayed_risk - early_risk
+    checks.append(("ch05_early_risk", near(early_risk, 0.075, 1e-12), f"{early_risk:.4f}"))
+    checks.append(("ch05_delayed_risk", near(delayed_risk, 0.2125, 1e-12), f"{delayed_risk:.4f}"))
+    checks.append(("ch05_crude_ARR", near(crude_arr, 0.1375, 1e-12), f"{crude_arr:.4f}"))
+    checks.append(("ch05_crude_NNT", near(1 / crude_arr, 7.2727, 1e-3), f"{1/crude_arr:.4f}"))
+
+    # Ch06 synthetic reperfusion trial
+    evt_favorable, evt_total = 528, 1200
+    ctl_favorable, ctl_total = 384, 1200
+    evt_risk, ctl_risk = evt_favorable / evt_total, ctl_favorable / ctl_total
+    evt_rd = evt_risk - ctl_risk
+    evt_rr = evt_risk / ctl_risk
+    evt_or = (528 / 672) / (384 / 816)
+    checks.append(("ch06_EVT_RD", near(evt_rd, 0.12, 1e-12), f"{evt_rd:.4f}"))
+    checks.append(("ch06_EVT_NNT", near(1 / evt_rd, 8.3333, 1e-3), f"{1/evt_rd:.4f}"))
+    checks.append(("ch06_EVT_RR", near(evt_rr, 1.375, 1e-12), f"{evt_rr:.4f}"))
+    checks.append(("ch06_EVT_OR", near(evt_or, 1.669, 1e-3), f"{evt_or:.4f}"))
+    checks.append(("ch06_sICH_NNH", near(1 / (0.05 - 0.02), 33.3333, 1e-3), f"{1/(0.05-0.02):.4f}"))
+
+    # Ch08 synthetic LVO-screen 2x2 and 5% deployment update
+    tp, fn, fp, tn = 120, 30, 160, 690
+    sensitivity = tp / (tp + fn)
+    specificity = tn / (tn + fp)
+    ppv = tp / (tp + fp)
+    npv = tn / (tn + fn)
+    lr_pos = sensitivity / (1 - specificity)
+    lr_neg = (1 - sensitivity) / specificity
+    post_pos_odds = (0.05 / 0.95) * lr_pos
+    post_neg_odds = (0.05 / 0.95) * lr_neg
+    checks.append(("ch08_sensitivity", near(sensitivity, 0.80, 1e-12), f"{sensitivity:.4f}"))
+    checks.append(("ch08_specificity", near(specificity, 0.8118, 1e-4), f"{specificity:.4f}"))
+    checks.append(("ch08_PPV", near(ppv, 0.4286, 1e-4), f"{ppv:.4f}"))
+    checks.append(("ch08_NPV", near(npv, 0.9583, 1e-4), f"{npv:.4f}"))
+    checks.append(("ch08_LR_pos", near(lr_pos, 4.25, 1e-12), f"{lr_pos:.4f}"))
+    checks.append(("ch08_LR_neg", near(lr_neg, 0.2464, 1e-4), f"{lr_neg:.4f}"))
+    checks.append(("ch08_post_pos_5pct", near(post_pos_odds / (1 + post_pos_odds), 0.1828, 2e-4), f"{post_pos_odds/(1+post_pos_odds):.4f}"))
+    checks.append(("ch08_post_neg_5pct", near(post_neg_odds / (1 + post_neg_odds), 0.0128, 2e-4), f"{post_neg_odds/(1+post_neg_odds):.4f}"))
+
+    # Ch27 synthetic fragility-index example (two-sided Fisher exact test)
+    p_initial = fisher_two_sided(40, 160, 22, 178)
+    p_three_flips = fisher_two_sided(40, 160, 25, 175)
+    checks.append(("ch27_fisher_initial", near(p_initial, 0.018316, 1e-6), f"{p_initial:.6f}"))
+    checks.append(("ch27_fisher_three_flips", near(p_three_flips, 0.057172, 1e-6), f"{p_three_flips:.6f}"))
 
     # Ch17 synthetic association table
     r1, r0 = 0.10, 0.05
@@ -81,11 +154,6 @@ def main() -> int:
     cumulative_incidence = 40 / 1000 + (900 / 1000) * (25 / 900)
     checks.append(("ch11_net_risk", near(net_risk, 0.066667, 1e-6), f"{net_risk:.6f}"))
     checks.append(("ch11_cif", near(cumulative_incidence, 0.065, 1e-12), f"{cumulative_incidence:.6f}"))
-
-    # Ch08 diagnostic 2x2 teaching: sens 80% example numbers if present in spirit
-    # TP=80 FN=20 FP=150 TN=650 → sens=0.8 spec≈0.8125 PPV≈0.348... wait use residual values
-    # Residual cited: sens 80%, PPV 42.9% — verify that combo
-    # PPV = sens*prev / (sens*prev + (1-spec)*(1-prev)) — skip if not fixed numbers
 
     failed = 0
     for name, ok, detail in checks:

@@ -38,11 +38,9 @@ When two legitimate stroke trials report divergent point estimates, sampling var
 
 The standard error (SE) is the foundational metric of precision, approximating the standard deviation of the sampling distribution for a given statistic. It measures how wildly our estimate would fluctuate upon repeated sampling. A confidence interval (CI) operationalizes the standard error. For a 95% Wald interval, we essentially take the point estimate and extend roughly 1.96 standard errors in both directions. The frequentist definition of a 95% CI—that 95% of such intervals computed over infinite repetitions will capture the true parameter—is mathematically correct but clinically sterile.
 
-For appraisal, adopt the compatibility interpretation: the confidence interval delineates the spectrum of effect sizes that are reasonably compatible with the observed data, conditional on the statistical model and its assumptions being flawless. Values clustered near the point estimate are highly compatible; values at the extreme limits are marginally compatible; values outside the interval are highly incompatible. This framework immediately neutralizes dichotomania.
+For appraisal, use a compatibility interpretation: the interval contains parameter values not rejected by the corresponding two-sided tests at the stated level, conditional on the model and assumptions. It is not a posterior probability distribution, and values inside are not automatically equally or ordinally plausible. Examine the estimate, interval, likelihood profile where useful, and clinically important thresholds.
 
 Under estimation culture, an absolute risk reduction (ARR) of 3.0% (95% CI, −1.0% to 7.0%) is never dismissed as 'negative.' It is accurately characterized as structurally imprecise data compatible with both a clinically vital 7.0% absolute benefit and a trivial 1.0% absolute harm. Conversely, an ARR of 0.2% (95% CI, 0.1% to 0.3%) is statistically significant but clinically microscopic. Decision-making requires overlaying the interval against the minimum clinically important difference, not just the null value.
-
-*Teaching figure (synthetic).* Interval A rules out both the null and an MCID miss—actionable if valid. Interval B is “nonsignificant” yet compatible with large benefit *and* small harm—imprecise, not negative. Interval C is significant but clinically tiny. Interval D keeps harm on the table. Dichotomania at p = 0.05 collapses these four distinct decision problems into two useless bins.
 
 ```
 THE ESTIMATION HEURISTIC
@@ -67,13 +65,13 @@ When authors state 'there was no difference between groups (p = 0.30)', they ove
 
 In the Neyman-Pearson framework of hypothesis testing, a Type I error (alpha) occurs when a true null hypothesis is incorrectly rejected—a false positive. A Type II error (beta) occurs when a false null hypothesis fails to be rejected—a false negative. Statistical power (1 - beta) is the pre-study probability that the trial will successfully reject the null, assuming the true effect size is exactly as specified in the design phase.
 
-Crucially, power is an architectural tool used before data collection to size the cohort. Once the data are collected and the confidence interval is calculated, power becomes entirely irrelevant for interpreting the results. Calculating 'post hoc power' using the observed effect size is a mathematical tautology that merely repackages the p-value; a non-significant p-value will unconditionally yield low post hoc power. If a trial fails to cross the alpha threshold, do not dismiss it as 'underpowered'—a term that implies the treatment works but the sample was too small. Instead, analyze the confidence interval to determine if the trial's precision formally excludes meaningful clinical benefit.
+Power is primarily a design quantity computed for specified alternatives before data collection. 'Observed power' calculated after the study by substituting the observed effect is a transformation of the test result and adds no interpretive information beyond the estimate, interval, and p-value. Conditional or predictive power based on accumulating data is a distinct monitoring tool with model-dependent assumptions. After completion, inspect which clinically important effects the interval excludes rather than using 'underpowered' as an explanation for a non-significant result.
 
 ## The Multiplicity Penalty: Subgroups and Secondary Endpoints
 
 If an investigator executes 20 independent tests under true null hypotheses at α = 0.05, the probability of at least one false positive is 1 − 0.95^20 ≈ 64%, not 100%. Correlation among tests changes that value, but unadjusted secondary endpoints and subgroups still inflate the family-wise error rate. Pre-specification and an appropriate multiplicity strategy—such as a testing hierarchy, alpha allocation, or a justified adjustment—are therefore essential.
 
-Subgroup analyses are notoriously vulnerable. An overall trial may be flat, but the investigators discover a 'significant' benefit in right-sided occlusions treated between 3 and 4.5 hours. Without a formal test for interaction demonstrating that the treatment effect genuinely differs across the stratum, such findings are overwhelmingly likely to be statistical illusions born of sampling variation in tiny strata. Treat exploratory subgroup findings as hypotheses requiring independent replication, never as actionable clinical directives.
+Subgroup analyses are vulnerable to low precision and multiplicity. Separate within-stratum p-values do not test heterogeneity. Report the interaction estimate and interval on a stated scale, then consider prespecification, testing family, biological rationale, and replication. A significant interaction is evidence against homogeneity under the model, not proof of a genuine biological mechanism; nonsignificance does not prove equal effects.
 
 ## Absolute Effects and the Arithmetic of NNT
 
@@ -94,7 +92,7 @@ Treatment Group (R1): 30 deaths / 250 patients = 0.120 (12.0%)
 ESTIMATES
 ---------
 Absolute Risk Reduction (ARR) = R0 - R1 = 0.180 - 0.120 = 0.060 (6.0%)
-Point NNT = 1 / 0.060 = 16.7
+Reciprocal NNT = 1 / 0.060 = 16.7 (conventionally reported as 17 people)
 
 STANDARD ERRORS (SE = sqrt[ p*(1-p) / n ])
 ---------------
@@ -114,13 +112,9 @@ Margin of Error = 1.96 * 0.0318 = 0.0623
 This calculation yields an estimated 6.0-percentage-point benefit with a 95% CI from 0.2 points of harm to 12.2 points of benefit. The interval is compatible with effects from trivial harm to substantial benefit and does not exclude the prespecified clinically important benefit. A confidence interval is not, by itself, a likelihood ranking over every enclosed value. Decisions about further study should consider the full compatibility or likelihood profile, prior evidence, feasibility, and clinical value rather than labeling the study simply “positive” or “negative.”
 
 
-![Calibration plot comparing predicted and observed risk by decile against the ideal 45-degree line.](../assets/figures/fig64_calibration_deciles.png)
-
-*Teaching graphic (fig64_calibration_deciles.png).*
-
 ## Chapter summary
 
-Statistical inference in neurology must abandon the binary constraints of hypothesis testing in favor of continuous parameter estimation. Sampling variation dictates that repeated observations of a true phenomenon will yield disparate point estimates; confidence intervals quantify this structural scatter. P-values assess the surprise of the data under a strict null hypothesis, failing entirely to measure the magnitude or clinical reality of an effect. Concepts like statistical power and Type I/II errors are architectural tools for trial design, utterly devoid of utility for interpreting post-hoc findings. Unregulated multiplicity in subgroups and secondary endpoints severely degrades evidentiary integrity. Absolute effects, particularly the Absolute Risk Reduction, must anchor clinical interpretation, as relative measures inherently camouflage the magnitude of patient-level impact. The ultimate mandate of appraisal is prioritizing validity over precision: an infinitely narrow confidence interval surrounding a structurally biased estimate is nothing more than a precise lie.
+Inference should emphasize effect estimates, uncertainty, clinical thresholds, and validity rather than a binary p-value label. Confidence intervals are model-based repeated-sampling procedures, not probability distributions over the parameter. Observed-effect post hoc power is redundant, while conditional and predictive power serve different monitoring questions. Multiplicity procedures must match a defined family of claims. Absolute effects require endpoints, horizons, and target baseline risks. No degree of precision repairs a structurally biased estimate.
 
 ## Practice and reflection
 

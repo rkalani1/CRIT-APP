@@ -1,17 +1,12 @@
 # Chapter 21. Interaction, Effect Modification, and Standardization
 
 ## Opening
-![Additive vs multiplicative interaction.](../assets/figures/swarm3h_interaction_scales.png)
-
-*Additive vs multiplicative interaction.*
-
-
-An interaction claim says the drug works only on one scale. Demand which scale, pre-specification, and absolute stratum effects.
+A treatment contrast may look homogeneous on one effect scale and heterogeneous on another. Demand the scale, prespecification, interaction estimate with uncertainty, and absolute stratum-specific effects.
 
 
 ## Interaction Versus Confounding: Structural Distinctions
 
-In clinical epidemiology, interaction (effect modification) and confounding represent fundamentally different structural phenomena. Confounding is a form of bias that distorts the marginal estimate of an exposure-outcome relationship. It arises when a third variable is associated with both the exposure and the outcome, necessitating adjustment or weighting to isolate the causal effect. Effect modification, by contrast, describes a scenario where the magnitude or direction of an effect genuinely varies across strata of a third variable. It is a clinical reality to be documented and analyzed, not a bias to be eliminated.
+Confounding and effect modification answer different questions. Confounding bias arises when treatment groups are not exchangeable for the target causal contrast; a sufficient adjustment set is chosen from the causal structure to block biasing paths without conditioning on inappropriate mediators or colliders. Mere association of a variable with exposure and outcome does not make it a confounder. Effect modification describes variation in a defined treatment effect across levels of a variable on a stated scale. It is heterogeneity to estimate, not a bias to 'adjust away.'
 
 The stroke literature frequently exhibits linguistic and analytical confusion between these concepts, typically manifesting in phrases such as 'we adjusted for interaction.' Proper methodology requires adjusting for confounders to estimate a uniform effect, and stratifying by effect modifiers to report heterogeneous effects. For example, if the recanalization efficacy of a specific stent retriever varies by clot composition (e.g., erythrocyte-rich versus fibrin-rich), clot composition acts as an effect modifier. Averaging the treatment effect across all clot types obscures essential procedural heterogeneity.
 
@@ -33,7 +28,7 @@ Subgroup claims in neurovascular literature require rigorous skepticism. Methodo
 
 A frequent inferential error involves comparing within-stratum p-values to claim effect modification. Authors might observe a treatment effect in patients under age 70 (p=0.02) and no significant effect in those over age 70 (p=0.15), subsequently declaring age an effect modifier. This logic is mathematically invalid. The correct procedure requires a formal interaction test—an evaluation of the product term between the exposure and the stratifying variable—to determine if the effect sizes significantly differ. Disparate p-values often reflect asymmetrical statistical power across strata rather than biological divergence.
 
-Furthermore, interaction estimates are highly vulnerable to misclassification of the modifier. If stroke etiology (e.g., cardioembolic versus large vessel) is misclassified in a subset of the cohort, any true interaction between etiology and therapeutic response will be attenuated. Appraisers must factor the inter-rater reliability of the stratifying variable into their assessment of the subgroup claim.
+Interaction estimates are vulnerable to modifier misclassification. Error can attenuate, exaggerate, or otherwise distort an interaction depending on whether it is differential, the modifier prevalence, parameterization, and effect scale. Report reliability and perform sensitivity analyses where clinically important misclassification is plausible.
 
 ## Standardization of Rates for Comparative Epidemiology
 
@@ -41,9 +36,9 @@ Furthermore, interaction estimates are highly vulnerable to misclassification of
 
 *Standardization makes the target population—and its covariate distribution—explicit.*
 
-While interaction concerns subgroup effects within a single cohort, standardization techniques address the comparability of aggregate event rates across distinct populations. Crude rates (e.g., unadjusted regional stroke mortality) are inherently confounded by demographic composition. A region with a heavily aged demographic structure will manifest a higher crude stroke incidence than a younger region, rendering direct comparison of the unadjusted rates epidemiologically meaningless.
+Crude regional rates validly describe the observed burden in each population, but differences can reflect age or other composition as well as differences in stratum-specific rates. They are therefore insufficient for attributing a contrast to care quality or underlying disease rates when population structures differ.
 
-Direct standardization applies the stratum-specific rates observed in the study populations to the demographic distribution of a single, external reference standard. The resulting standardized rate isolates the difference in disease force by neutralizing the compositional variance. This technique is essential for comparing longitudinal incidence trends across decades where the underlying population age structure has shifted.
+Direct standardization applies stratum-specific rates to a common target distribution. It removes differences attributable to the included standardization variables under adequate measurement and positivity, but it does not isolate a causal 'disease force' or remove residual compositional and care differences. State the target standard because the resulting marginal rate depends on it.
 
 Indirect standardization reverses the architecture, applying the stratum-specific rates of a reference population to the demographic structure of the study cohort to calculate an expected number of events. The ratio of observed to expected events—the Standardized Mortality Ratio (SMR)—is utilized extensively in quality improvement dashboards and hospital benchmarking, particularly when small numerators make local stratum-specific rates statistically unstable.
 
@@ -78,13 +73,9 @@ A formal test for multiplicative interaction yields p > 0.05, meaning that it di
 - Model Net Benefit: Evaluate whether absolute harm profiles alter the clinical utility of the intervention across the proposed subgroups.
 
 
-![Subgroup forest plot illustrating that different within-group p-values do not establish interaction.](../assets/figures/fig66_subgroup_forest.png)
-
-*Teaching graphic (fig66_subgroup_forest.png).*
-
 ## Chapter summary
 
-Effect modification occurs when the magnitude of an exposure-outcome association varies across strata of a third variable, representing biological or clinical heterogeneity distinct from confounding bias. Interaction analysis is fundamentally scale-dependent; subgroups often demonstrate homogeneity on a multiplicative scale (e.g., consistent risk ratios) while simultaneously exhibiting marked interaction on an additive scale due to differences in baseline event rates. Because clinical decision-making relies on absolute net benefit, neurologists must reconstruct absolute risk reductions and evaluate NNTs across strata before accepting subgroup claims. Rigorous appraisal also mandates checking for pre-specification, formal interaction testing, and adjusting for multiplicity. To ensure valid comparison of aggregate stroke rates across demographics, direct and indirect standardization techniques neutralize compositional confounding, providing accurate epidemiological and quality benchmarking.
+Effect modification is variation in a defined treatment effect across strata on a stated scale; it is distinct from confounding bias. A constant risk ratio can coexist with different risk differences when baseline risk varies, so report stratum-specific absolute effects and interaction estimates with uncertainty rather than comparing subgroup p-values. Credibility also depends on prespecification, multiplicity, measurement reliability, plausibility, and replication. Direct and indirect standardization describe rates under a common covariate distribution or reference schedule; they address only the composition variables included and do not, by themselves, identify causal quality differences.
 
 ## Practice and reflection
 

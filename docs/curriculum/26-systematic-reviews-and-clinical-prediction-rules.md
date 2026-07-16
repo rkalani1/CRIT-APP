@@ -31,15 +31,11 @@ When meta-analysis is justified, the choice of model matters. A common-effect mo
 
 I² describes the proportion of observed variability not explained by within-study sampling error, but it depends on study precision and is not a direct measure of clinical importance. Do not start or stop pooling at an arbitrary threshold such as 50%. Examine clinical compatibility, τ², the prediction interval, study quality, and prespecified explanations for heterogeneity; subgroup or meta-regression analyses may themselves be underpowered and exploratory.
 
-*Teaching figure (synthetic).* Early-window trials favor treatment; late-window trials harm; mixed-dosing trials scatter. A random-effects diamond near RR = 1 with I² ≈ 78% is arithmetic, not a patient. Stratify, explain, or refuse the pool—do not treat precise garbage as certainty.
-
 ## Clinical Prediction Rules: Derivation and the Trap of Overfitting
 
 A Clinical Prediction Rule (CPR) combines multiple variables to estimate diagnosis or prognosis. Its lifecycle includes derivation, validation, and impact assessment. Derivation identifies predictors and fits the model; too many candidate parameters for the available information increases overfitting. The historical “10 events per variable” rule is only a rough starting point: required sample size is context-specific and should account for candidate predictor parameters, total sample size, event fraction, anticipated model fit and shrinkage, and precision of predicted risks.
 
 Stroke neurology is plagued by a surplus of derived, overfitted prediction models. A prognostic score for ICH expansion derived on 150 patients with 30 expansion events, which churned 20 variables through automated stepwise regression to find 4 'significant' predictors, is mathematical fiction. It has captured the idiosyncrasies of that specific cohort in that specific hospital in that specific year, not generalizable neurovascular biology.
-
-*Teaching figure (synthetic).* As events per candidate predictor (EPV) fall, derivation c-statistics inflate while external discrimination and calibration slope collapse. Demand EPV, external validation, and calibration plots—not only a hometown AUC—before adopting a stroke CPR.
 
 ## Validation: Narrow, Broad, and the Limits of Transportability
 
@@ -49,7 +45,7 @@ Validation must assess both discrimination and calibration. Discrimination (meas
 
 ## Impact Analysis: Does the Rule Actually Change Care for the Better?
 
-Impact analysis is the final, most neglected phase of CPR methodology. Even if a rule is perfectly derived and broadly validated, does deploying it in the clinic improve patient outcomes or resource allocation compared to standard clinical gestalt? Impact analyses require randomized trials or rigorous quasi-experimental designs where clinicians, not just patients, are assigned to use the rule or rely on intuition.
+Impact analysis asks whether deploying a rule improves decisions, outcomes, or resource use compared with an explicit alternative. Randomized assignment may occur at the patient, clinician, unit, or site level; cluster assignment is useful when individual randomization would cause contamination, but it is not universally required. Rigorous quasi-experimental designs can also inform impact when randomization is infeasible.
 
 Consider the ABCD2 score for TIA triage. Derived and validated to predict short-term stroke risk, it became ubiquitous. But impact analyses and subsequent prospective cohorts revealed its operational flaws: it often misclassified patients with critical carotid stenosis or atrial fibrillation as 'low risk' because those etiologies don't neatly align with age or blood pressure points. When a CPR replaces a senior clinician's physiologic reasoning with an oversimplified arithmetic checklist, the impact on care can be negative. A rule that predicts well on paper is useless if it falsely reassures the clinician or fails to alter management trajectories.
 
@@ -60,13 +56,9 @@ The modern literature is saturated with systematic reviews of prediction models.
 When reading these reviews, the critical takeaway is rarely to adopt the 'winning' score. The takeaway is to recognize that we do not need more derivation studies. The field requires head-to-head external validation of existing scores on large, independent, modern datasets, followed by rigorous trials of their clinical impact. Until then, use CPRs to augment, not replace, clinical judgment, and always verify if the absolute risks predicted by the score match the current era of care.
 
 
-![Propensity-score distributions for treated and control groups highlighting their common-support region.](../assets/figures/fig74_ps_overlap.png)
-
-*Teaching graphic (fig74_ps_overlap.png).*
-
 ## Chapter summary
 
-Systematic reviews are rigorous observational studies of the literature that require strict search methodologies to avoid selection and publication biases. Meta-analyses provide the statistical arithmetic to pool these studies, but demand careful navigation of clinical and statistical heterogeneity; pooling uncombinable, biased trials produces falsely precise, misleading estimates. Clinical Prediction Rules evolve through derivation, external validation, and impact analysis. Derivation is highly susceptible to statistical overfitting when variables outnumber events. External validation must prove not only discrimination but also calibration, ensuring predicted absolute risks match current clinical reality. Ultimately, an impact analysis is required to demonstrate that implementing the CPR improves patient outcomes compared to clinical gestalt. In neurovascular practice, we must resist the proliferation of unvalidated prognostic scores and demand evidence of true clinical impact.
+Systematic reviews require reproducible searching, selection, extraction, and risk-of-bias assessment. Meta-analysis is optional and does not repair incompatible or biased studies. Prediction rules progress from development through internal and external validation to impact evaluation. External validation estimates discrimination and calibration with uncertainty in a specified setting; it cannot prove universal performance. Before routine deployment, assess whether using the rule improves a defined decision or outcome compared with current practice and monitor performance after implementation.
 
 ## Practice and reflection
 
