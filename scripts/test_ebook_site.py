@@ -79,16 +79,56 @@ class EbookSiteTests(unittest.TestCase):
         self.assertGreaterEqual(len(ch), 10)
 
     def test_chapters_do_not_include_learning_objectives(self) -> None:
-        heading = re.compile(r"^##\s+Learning objectives?\s*$", re.IGNORECASE | re.MULTILINE)
-        offenders = [
-            path.name
-            for path in sorted((self.docs / "curriculum").glob("*.md"))
-            if heading.search(path.read_text(encoding="utf-8"))
-        ]
+        label = (
+            r"objectives?|"
+            r"(?:(?:key\s+)?learning|chapter)\s+(?:objectives?|goals?|outcomes?)|"
+            r"what\s+(?:you(?:['’]ll|\s+will))\s+learn|"
+            r"after\s+(?:reading\s+)?this\s+chapter|"
+            r"by\s+the\s+end\s+of\s+this\s+chapter"
+        )
+        numbered = r"(?:\d+(?:\.\d+)*[.)]?\s+)?"
+        atx_heading = re.compile(
+            rf"^\s{{0,3}}#{{1,6}}\s+{numbered}(?:{label})\s*[:—–-]?\s*#*\s*$",
+            re.IGNORECASE | re.MULTILINE,
+        )
+        setext_heading = re.compile(
+            rf"^\s*{numbered}(?:{label})\s*[:—–-]?\s*\n\s*(?:=+|-+)\s*$",
+            re.IGNORECASE | re.MULTILINE,
+        )
+        html_heading = re.compile(r"<h[1-6]\b[^>]*>(.*?)</h[1-6]>", re.IGNORECASE | re.DOTALL)
+        label_only = re.compile(
+            rf"^\s*{numbered}(?:{label})\s*[:—–-]?\s*$",
+            re.IGNORECASE,
+        )
+        objective_prose = re.compile(
+            r"\b(?:"
+            r"you(?:\s+will|['’]ll)\s+(?:learn|be\s+able\s+to|compute|observe|practice|inspect|possess)|"
+            r"by\s+the\s+end\s+of\s+(?:this|the)\s+chapter|"
+            r"(?:the\s+)?(?:goal|objective)\s+of\s+this\s+chapter|"
+            r"this\s+chapter\s+(?:will\s+)?(?:teach(?:es)?|equip(?:s)?|train(?:s)?|"
+            r"give(?:s)?\s+(?:you|readers?|neurologists?)|dissect)|"
+            r"(?:mastering|masters)\s+this\s+chapter"
+            r")\b",
+            re.IGNORECASE,
+        )
+        offenders = []
+        for path in sorted((self.docs / "curriculum").glob("*.md")):
+            text = path.read_text(encoding="utf-8")
+            raw_html_objective = any(
+                label_only.fullmatch(re.sub(r"<[^>]+>", " ", match).strip())
+                for match in html_heading.findall(text)
+            )
+            if (
+                atx_heading.search(text)
+                or setext_heading.search(text)
+                or raw_html_objective
+                or objective_prose.search(text)
+            ):
+                offenders.append(path.name)
         self.assertEqual(
             offenders,
             [],
-            f"learning-objective sections should not appear in chapters: {offenders}",
+            f"learning-objective headings or promises should not appear in chapters: {offenders}",
         )
 
     def test_css_ebook_system(self) -> None:
@@ -120,6 +160,13 @@ class EbookSiteTests(unittest.TestCase):
         self.assertIn(".md-header", css)
         self.assertIn("display: none", css)
         self.assertIn("prefers-reduced-motion", css)
+        self.assertIn('.md-header__button[role="button"]:focus-visible', css)
+        controls = (self.docs / "javascripts" / "header-controls.js").read_text(encoding="utf-8")
+        self.assertIn("javascripts/header-controls.js", self.yml)
+        self.assertIn("keydown", controls)
+        self.assertIn("aria-expanded", controls)
+        self.assertIn("button.md-code__button", controls)
+        self.assertIn("Copy code to clipboard", controls)
 
     def test_navigation_labels_are_not_truncated(self) -> None:
         nav = self.yml.split("nav:", 1)[-1]
@@ -252,6 +299,22 @@ class EbookSiteTests(unittest.TestCase):
                 "alpha-spending techniques like Bonferroni or Hochberg",
                 "Spin is the clinical translation of p-hacking",
                 "So about (A−B) are helped",
+                "four non-overlapping domains",
+                "from a internally valid study",
+                "the false-positive rate will explode",
+                "the 30 false negatives are a massive undercount",
+                "If the primary outcome is negative, the trial is negative",
+                "guarantees the deployment of ineffective or harmful technology",
+                "The model will fail completely",
+                "guarantees high accuracy",
+                "performance silently and predictably degrades",
+                "will perform poorly in 2026",
+                "requires geographically distinct cohorts to prove",
+                "AUPRC is the mandatory discriminative metric",
+                "assume the PPV is unusable",
+                "Label fidelity is the ceiling of algorithm performance",
+                "An algorithm cannot logically exceed the reliability",
+                "Clinical heterogeneity inevitably introduces statistical heterogeneity",
             ):
                 self.assertNotIn(false_claim, blob)
             self.assertNotRegex(blob, r"(?m)^[ \t]*\d+\.[ \t]+\d+\.")
@@ -296,6 +359,19 @@ class EbookSiteTests(unittest.TestCase):
                 "Figure concept (text diagram)"
             )
         self.assertEqual(hits, 0, f"leftover text-diagram callouts: {hits}")
+
+    def test_no_filename_only_figure_captions(self) -> None:
+        generic = re.compile(
+            r"^\s*\*(?:Teaching graphic|Teaching figure)\s*\([^)]*\."
+            r"(?:png|svg|jpe?g|webp)\)\.\*\s*$",
+            re.IGNORECASE | re.MULTILINE,
+        )
+        offenders = [
+            path.name
+            for path in sorted((self.docs / "curriculum").glob("*.md"))
+            if generic.search(path.read_text(encoding="utf-8", errors="replace"))
+        ]
+        self.assertEqual(offenders, [], f"filename-only figure captions: {offenders}")
 
     def test_math_verify_script_passes(self) -> None:
         import subprocess

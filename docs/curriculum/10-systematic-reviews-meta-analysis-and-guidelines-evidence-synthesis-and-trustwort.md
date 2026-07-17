@@ -41,7 +41,7 @@ At the apex of the synthesis pyramid lies GRADE (Grading of Recommendations Asse
 
 A common-effect inverse-variance meta-analysis forms a weighted average of compatible study estimates. With independent approximately normal estimates $Y_i$ and treated-as-known within-study variances $SE_i^2$, the conventional weight is $w_i = 1/SE_i^2$, the pooled estimate is $\sum w_iY_i/\sum w_i$, and its model-based variance is $1/\sum w_i$. Correlated estimates, estimated standard errors, sparse data, and alternative effect measures require corresponding methods rather than automatic use of this formula.
 
-The fixed-effect model operates under the strict epistemological assumption that every included study is estimating the exact same true underlying parameter (mu). In this paradigm, the only reason Study A and Study B report differing effect sizes is random sampling error. However, biology and trial execution are rarely this uniform. Clinical heterogeneity inevitably introduces statistical heterogeneity.
+A common-effect model assumes that every included study estimates the same true underlying parameter (mu), so observed differences among study estimates arise from sampling error under that model. Biology and trial execution are rarely uniform. Clinical heterogeneity can produce between-study effect heterogeneity, but it neither guarantees different true effects nor guarantees that a heterogeneity test will detect them.
 
 Cochran's Q statistic tests the null hypothesis that all studies share a single true effect. It is calculated as the sum of squared deviations of each study's estimate from the pooled estimate, weighted by w_i: Q = Sum(w_i * (Y_i - Pool)^2). Because Q is acutely sensitive to the number of studies (degrees of freedom, df), the I-squared metric is deployed to provide a percentage representation of the variance attributable to heterogeneity rather than sampling error: I^2 = max(0, (Q - df)/Q) * 100%. The absolute between-study variance, quantified in the units of the effect measure, is denoted by the parameter tau-squared (tau^2). When tau-squared is greater than zero, random-effects models incorporate it into the fundamental weighting architecture.
 
@@ -49,7 +49,7 @@ In a random-effects model (frequently using the DerSimonian-Laird or Restricted 
 
 ## Fully Worked Synthetic Example: Pooling Dual Antiplatelet Therapy in Minor Stroke
 
-Scenario: You are evaluating a fictional two-study meta-analysis of DAPT versus aspirin after high-risk TIA or minor ischemic stroke. The counts below are invented to make the arithmetic transparent; they are not CHANCE or POINT data. You will compute a fixed-effect pooled risk ratio, construct a 95% confidence interval, and convert the synthetic relative effect into ARR and NNT at a specified baseline risk.
+Scenario: A fictional two-study meta-analysis compares DAPT with aspirin after high-risk TIA or minor ischemic stroke. The counts below are invented to make the arithmetic transparent; they are not CHANCE or POINT data. The calculation produces a common-effect pooled risk ratio and 95% confidence interval, then converts the synthetic relative effect into ARR and NNT at a specified baseline risk.
 
 ```
 Synthetic Study 1:
@@ -94,6 +94,11 @@ Once certainty is securely established, the panel determines the strength of the
 - The Random-Effects Paradox: Automatically shifting to a random-effects model when statistical heterogeneity (I-squared) breaches an arbitrary threshold. This mathematically penalizes massive, precise mega-trials and artificially inflates the influence of small, noisy, single-center studies highly susceptible to publication bias.
 - Uncritical Worship of I-Squared: Treating I-squared as an absolute diagnostic metric of clinical incompatibility. I-squared is a ratio of variance. A massive I-squared can emerge purely because the included mega-trials have negligible sampling error, even if their point estimates are clinically indistinguishable.
 - Surrogate Endpoint Substitution: Pooling radiographic or biomarker outcomes (e.g., recanalization rates, hematoma expansion, aneurysm occlusion) and directly mapping those synthetic benefits to clinical disability recommendations without validating the specific causal pathway.
+
+![Causal chain showing how improvement in a surrogate can fail to improve the patient-important outcome.](../assets/figures/fig54_surrogate_trap.png)
+
+*An intervention can improve a surrogate while off-pathway effects, toxicity, or an invalid causal assumption leave the patient-important outcome unchanged.*
+
 - Outcome Switching and Protocol Drift: Failing to contrast the published meta-analysis primary outcome against its PROSPERO registry protocol. Synthesis authors frequently and covertly shift endpoints post-hoc to secure a statistically significant narrative.
 - Disconnected Clinical Implementation: Recommending population-wide clinical interventions based solely on a pooled Relative Risk, entirely ignoring that the Absolute Risk Reduction (and accompanying NNT) diminishes radically in lower-risk baseline patient phenotypes.
 - Conflating Significance with Importance: Achieving p < 0.001 in a meta-analysis of 100,000 patients merely proves the effect is not exactly zero. An Odds Ratio of 0.98 may be highly statistically significant but remains clinically microscopic and entirely irrelevant.
@@ -120,10 +125,6 @@ Clinical Note: Local Pathway Implementation vs Global Guidelines. Guidelines are
 - Chapter 7: Appraising Observational Studies — Details confounding, time-zero, and measurement threats that persist when observational estimates are synthesized.
 - Chapter 8: Diagnostic Accuracy Studies — Supplies the paired sensitivity/specificity concepts needed before appraising diagnostic-test meta-analysis.
 
-
-![Composite-endpoint diagram showing how frequent minor components can dominate a combined result.](../assets/figures/fig58_composite_endpoint.png)
-
-*Teaching graphic (fig58_composite_endpoint.png).*
 
 ## Chapter summary
 

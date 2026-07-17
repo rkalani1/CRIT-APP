@@ -109,10 +109,6 @@ To quantify one threat from unmeasured confounding, researchers may use quantita
 Stroke Systems Note: Competing risks (see Chapter 11) alter the estimand for long-term stroke recurrence. Treating death as ordinary independent censoring in a Kaplan–Meier risk calculation estimates a hypothetical net risk and generally overestimates the real-world cumulative incidence when death precludes recurrence. Use a competing-risk estimand and methods such as the Aalen–Johansen cumulative incidence estimator when the question concerns observed event probability in the presence of death.
 
 
-![Decision-curve plot comparing net benefit across threshold probabilities for model-guided, treat-all, and treat-none strategies.](../assets/figures/fig52_decision_curve.png)
-
-*Teaching graphic (fig52_decision_curve.png).*
-
 ## Chapter summary
 
 Confounding is a failure of exchangeability for a causal contrast. DAGs distinguish common causes, mediators, and colliders and help select variables that block biasing paths without opening new ones. Target-trial emulation makes eligibility, strategies, time zero, follow-up, outcomes, and estimand explicit; it does not itself guarantee identification. In stroke comparisons, baseline severity is frequently a major confounder, and residual severity differences can distort effects in either direction. Appraisal should pair causal design with absolute effects and sensitivity analysis rather than treating multivariable regression as a substitute for identification.

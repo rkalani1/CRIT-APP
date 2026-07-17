@@ -47,7 +47,7 @@ Finally, one must never confuse internal validity with clinical magnitude or cli
 
 ## External Validity and Transportability
 
-External validity asks whether the causal conclusions derived from a internally valid study hold true beyond the highly specific, restricted context of its execution. Modern epidemiologic nomenclature enforces a precise distinction between generalizability and transportability. Generalizability is the ability to apply findings to the broader target population from which the study sample was formally and probabilistically drawn. Transportability, which is the far more common clinical requirement, is the ability to apply findings to a completely different population with distinct covariate distributions, unmeasured environmental factors, and distinct care processes. For the practicing stroke neurologist, the operational question is direct: if we enact this intervention in our specific stroke center on a Tuesday morning, should we anticipate identical absolute benefits and absolute harms?
+External validity asks whether the causal conclusions derived from an internally valid study hold true beyond the highly specific, restricted context of its execution. Modern epidemiologic nomenclature enforces a precise distinction between generalizability and transportability. Generalizability is the ability to apply findings to the broader target population from which the study sample was formally and probabilistically drawn. Transportability, which is the far more common clinical requirement, is the ability to apply findings to a completely different population with distinct covariate distributions, unmeasured environmental factors, and distinct care processes. For the practicing stroke neurologist, the operational question is direct: if we enact this intervention in our specific stroke center on a Tuesday morning, should we anticipate identical absolute benefits and absolute harms?
 
 Case-mix and system-mix are two useful domains for transportability. Case-mix includes distributions of prognostic factors and effect modifiers; system-mix includes treatment versions, expertise, timing, co-interventions, and access. An absolute effect from a rapid academic-hub workflow should not be assumed unchanged in a network with long transfers, but the transported effect requires data or an explicit model rather than a qualitative penalty alone.
 
@@ -57,7 +57,7 @@ Transportability is not a binary switch. For example, [EXTEND-IA TNK](https://ww
 
 ## The Core Bias Taxonomy
 
-A practical, clinically operational taxonomy groups systematic errors into four non-overlapping domains: selection bias, confounding, information bias, and reporting bias. While the specialized epidemiological literature contains dozens of eponymous biases (immortal time bias, lead time bias, spectrum bias, ascertainment bias, length-time bias), memorizing these names is analytically useless for the practicing clinician. The senior clinical epidemiologist maps these specialized terms to the underlying causal structure within the four core domains.
+A practical, clinically operational taxonomy groups systematic errors into four partially overlapping domains: selection bias, confounding, information bias, and reporting bias. While the specialized epidemiological literature contains dozens of eponymous biases (immortal time bias, lead time bias, spectrum bias, ascertainment bias, length-time bias), memorizing these names is analytically useless for the practicing clinician. The senior clinical epidemiologist maps these specialized terms to the underlying causal structure within the four core domains.
 
 Selection bias occurs when the mechanism of entering the study or remaining in the analytical cohort distorts the estimated association between exposure and outcome. Confounding occurs when the exposure groups are inherently nonexchangeable at baseline due to shared common causes. Information bias occurs when the exposure, outcome, or covariates are measured with error. Reporting bias occurs when the publication or emphasis of results is systematically driven by the magnitude or direction of the findings.
 
@@ -93,6 +93,10 @@ In clinical neurology, measurement error is profound. Exposure misclassification
 
 Covariate misclassification occurs when structured, vital metrics like the NIHSS are either completely omitted, extracted from free-text clinical notes using faulty natural language processing, or imputed with unacceptably high variance. Appraisal questions regarding information bias must be highly aggressive: Were the outcome assessors rigorously blinded to the treatment assignment? (Unblinded assessment of the mRS via phone call is notoriously subjective and heavily biased toward the intervention). Were the definitions of symptomatic intracranial hemorrhage (sICH) pre-specified and strictly aligned with established, validated criteria (e.g., ECASS III or SITS-MOST)? Was a formal validation subsample utilizing gold-standard chart review performed to confirm the PPV of the administrative codes used in the primary analysis?
 
+![Scatterplots contrasting an underlying exposure-outcome slope with attenuation after exposure measurement error.](../assets/figures/fig77_regression_dilution.png)
+
+*Under a simple classical-error model, nondifferential error in a continuous exposure often attenuates a linear slope toward the null. This is a schematic tendency, not a universal direction-of-bias rule.*
+
 ## Reporting Bias and Spin
 
 Reporting bias corrupts the broader evidence ecosystem, making it impossible to synthesize the true state of the science. It includes publication bias (the systemic suppression of null or negative trials by authors or journals), selective outcome reporting (publishing only the secondary endpoints that achieved statistical significance while obscuring or minimizing the null primary endpoint), and spin. Spin is the intentional or unintentional use of rhetorical strategies to overstate causal certainty, distract from severe methodological limitations, or falsely elevate the clinical importance of the findings.
@@ -100,6 +104,10 @@ Reporting bias corrupts the broader evidence ecosystem, making it impossible to 
 In the high-stakes, highly industry-funded landscape of stroke devices, novel antithrombotics, and proprietary imaging software, reporting bias directly determines what reaches your inbox and what is presented at international conferences. A strict defense mechanism requires cross-referencing the published manuscript against the prospective trial registry (e.g., ClinicalTrials.gov). Did the primary endpoint shift during the trial? Was the sample size arbitrarily truncated before the pre-specified power was reached? Did the statistical analysis plan change post-hoc to favor a specific subgroup?
 
 Furthermore, one must relentlessly police the language of abstracts. Abstracts frequently deploy causal verbs ('reduces,' 'prevents,' 'causes,' 'drives') for strictly observational, associational designs. Critical appraisal demands translating these verbs back to their associational reality. An abstract claiming 'Statins reduce mortality in our hospital registry' must be mentally translated to 'Statin prescription at discharge was associated with lower mortality, heavily confounded by the fact that we only prescribe statins to patients who survive to discharge and are capable of swallowing.' Finally, reporting bias often manifests as asymmetrical emphasis: relative risk reductions (which sound massive) are heralded in the abstract for efficacy endpoints, while harms (e.g., major hemorrhage) are buried in the supplementary appendix and reported only as absolute risks to make them appear optically smaller.
+
+![Branching analysis tree showing how multiple endpoints and subgroups multiply false-positive opportunities.](../assets/figures/fig45_multiplicity_tree.png)
+
+*Each additional endpoint, subgroup, time point, and model creates another opportunity for a chance-positive result unless the analysis plan and multiplicity control constrain the search.*
 
 ## Collider Stratification Bias (Conceptual Core)
 
@@ -168,16 +176,12 @@ The third failure mode is assuming relative-effect stability without verifying a
 
 In acute stroke neurology, the intensity of confounding by indication is unmatched in internal medicine. Our primary therapies (intravenous thrombolysis, endovascular thrombectomy, dual antiplatelets, therapeutic anticoagulation) possess massive physiological power, capable of causing dramatic neurological recovery or lethal intracranial hemorrhage. Consequently, neurologist selection behavior is intensely and appropriately calibrated to baseline prognosis. We do not treat randomly. This clinical excellence at the bedside is precisely what creates catastrophic epidemiological confounding in observational data. This is why randomized controlled trials were absolutely mandatory to prove the efficacy of reperfusion therapies, and why observational 'real-world effectiveness' claims must be scrutinized with extreme prejudice.
 
-Furthermore, in diagnostic stroke pathways, spectrum bias is a constant threat. The diagnostic accuracy (sensitivity, specificity, PPV, NPV) of a modality like CT Perfusion is frequently established in enriched cohorts with a high prevalence of true LVOs. When that same imaging modality is subsequently deployed in a general emergency department population dominated by dizziness, complex migraine, and toxic-metabolic encephalopathy (a low-prevalence spectrum), the false-positive rate will explode. This is mathematically driven by Bayes' theorem and the altered spectrum of disease. External validity in diagnostic testing is highly sensitive to the pre-test probability of the cohort. A diagnostic tool validated in a quaternary hub may fail spectacularly when transported to a community spoke.
+Furthermore, in diagnostic stroke pathways, spectrum effects are a constant threat. The diagnostic accuracy of a modality such as CT perfusion is frequently established in enriched cohorts with a high prevalence of true LVOs. When the same modality is deployed in a general emergency population dominated by dizziness, complex migraine, and toxic-metabolic encephalopathy, the proportion of positive results that are false can rise sharply as prevalence falls and PPV declines. Sensitivity and specificity can also change when disease severity, mimics, acquisition, and interpretation differ across settings. External validity therefore depends on both pre-test probability and spectrum; a tool validated in a quaternary hub may perform poorly when transported to a community spoke.
 
 ## Cross-Links to Other Chapters
 
 This chapter's validity framework assumes that the target question and estimand have first been defined in Chapter 3. Chapter 5 develops causal diagrams and target-trial thinking; Chapters 6 and 7 apply the framework to randomized and observational designs; Chapters 8 and 9 apply related validity questions to diagnosis and prediction. Chapter 19 returns to random error, estimation, and uncertainty.
 
-
-![Branching analysis tree showing how multiple endpoints and subgroups multiply false-positive opportunities.](../assets/figures/fig45_multiplicity_tree.png)
-
-*Teaching graphic (fig45_multiplicity_tree.png).*
 
 ## Chapter summary
 

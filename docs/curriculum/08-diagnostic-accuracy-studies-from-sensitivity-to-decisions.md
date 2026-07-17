@@ -23,7 +23,7 @@ Diagnostic research does not exist in a separate moral or epistemological univer
 
 The conceptual foundation of diagnostic appraisal is Bayes' theorem, which formalizes how new evidence alters prior beliefs. Before a test is performed, a patient has a pre-test probability of disease based on their history, demographics, baseline risk factors, and prior evaluations. The diagnostic test acts as an information operator, mathematically updating that pre-test probability (converted to odds) by multiplying it by the test's likelihood ratio, yielding a post-test probability. If the post-test probability crosses a predefined action threshold—such as the threshold to proceed with mechanical thrombectomy or the threshold to discharge from the emergency department—the test has clinical utility. If the post-test probability remains squarely within the original decision zone, the test was clinically useless for that specific patient, regardless of its statistical accuracy or the sophistication of the underlying technology.
 
-This chapter builds from fundamental epidemiological definitions to advanced, decision-oriented appraisal. You will rigorously compute standard metrics, observe how base rates (prevalence) mathematically reshape predictive values, practice likelihood-ratio updating, and systematically inspect the bias structures that routinely make stroke imaging studies appear vastly superior on paper compared to their real-world performance in the emergency bay. The fully worked example utilizes a prehospital LVO screening tool, forcing explicit Bayesian arithmetic and demonstrating why optimistic trial results frequently collapse in field implementation. Ultimately, the goal is to stop reading diagnostic studies as a quest for binary 'accuracy' and start reading them as an evaluation of information-guided action.
+Decision-oriented diagnostic appraisal combines standard metrics, the prevalence dependence of predictive values, likelihood-ratio updating, and the bias structures that can make stroke imaging studies appear stronger on paper than in emergency practice. A fully worked prehospital LVO-screening example makes the Bayesian arithmetic explicit and shows why optimistic results can collapse in field implementation. Diagnostic studies are best read as evaluations of information-guided action, not quests for a single binary measure of 'accuracy.'
 
 Sensitivity and specificity describe test behavior relative to a reference standard, while predictive values describe what a result means at a specified prevalence. Likelihood ratios provide a Bayesian bridge from pre-test to post-test odds, but their transportability across spectra, thresholds, reference standards, and workflows is empirical rather than guaranteed. Reports should provide enough information to reconstruct the 2×2 table and connect test results to downstream decisions, benefits, and harms.
 
@@ -130,7 +130,7 @@ At the study prevalence of 15%, a positive screen raises LVO probability to roug
 
 Now consider a target service line with 5% pre-test LVO probability, assuming the study likelihood ratios are transportable. Pre-test odds are 0.05/0.95 = 0.0526. A positive result gives odds 0.0526 × 4.26 = 0.224 and probability 18.3%; a negative gives odds 0.0526 × 0.25 = 0.013 and probability 1.3%. The study’s 43% PPV should not be copied into this setting. Whether 18.3% justifies bypass depends on time-sensitive treatment benefit, transfer harms and costs, capacity, and the prespecified system threshold.
 
-Finally, apply a bias stress test. Did verification bias occur? If patients with negative screens were taken to primary centers and rarely received CTA, the 30 false negatives are a massive undercount, meaning the true sensitivity is significantly lower than 80%. Did spectrum bias occur? If the authors excluded patients with posterior circulation syndromes because the scale is motor-focused, the scale's performance will degrade significantly in undifferentiated field use. This explicit, quantitative, and bias-adjusted arithmetic forms the absolute core of rigorous journal club facilitation.
+Finally, apply a bias stress test. Did verification bias occur? If patients with negative screens were taken to primary centers and rarely received CTA, false negatives may be undercounted and reported sensitivity may be biased upward; the magnitude cannot be recovered without verification data or a sensitivity analysis. Did spectrum bias occur? If the authors excluded patients with posterior circulation syndromes because the scale is motor-focused, performance may differ in undifferentiated field use. This explicit, quantitative, and bias-aware arithmetic forms the core of rigorous journal club facilitation.
 
 ## Clinical and Epidemiologic Notes
 
@@ -146,10 +146,6 @@ Equity Note: Diagnostic algorithms trained and validated in one demographic, lan
 
 The concepts of downstream absolute effects and treatment thresholds connect to randomized-trial appraisal in Chapter 6 and effect measures in Chapter 12. Chapter 9 extends calibration, overfitting, and validation to prognostic models. Chapter 14 addresses the additional development and deployment hazards of clinical AI.
 
-
-![M-bias DAG showing how conditioning on a collider opens a noncausal path between exposure and outcome.](../assets/figures/fig78_mbias.png)
-
-*Teaching graphic (fig78_mbias.png).*
 
 ## Chapter summary
 

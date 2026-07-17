@@ -25,7 +25,7 @@ A prediction paper claims that a mathematical function of inputs, measured at a 
 
 If an observational stroke registry derives a multivariable logistic regression model for ninety-day functional independence and reports that statin use at admission carries an odds ratio of 1.4, this constitutes a predictive association. It indicates that statin users, within the specific context and confounding structure of that dataset, possess a higher probability of a favorable outcome. It explicitly does not mean that initiating a statin in the emergency department causes the good outcome. The statin variable acts as a proxy; it likely identifies patients who have consistent primary care access, fewer swallowing deficits, or lower baseline frailty. When audiences pivot seamlessly from an impressive area under the receiver operating characteristic curve (AUROC) to concluding 'we should treat these patients differently based on these variables,' they commit a severe category error. Prediction tools rank patients by risk; they do not identify which patients benefit from a specific intervention. Identifying benefit requires treatment effect heterogeneity analysis within a causal framework.
 
-This chapter establishes a rigorous critical appraisal framework for prognosis and prediction literature. It dismantles the false idol of discrimination (AUROC), elevating calibration and clinical utility as the definitive measures of a prediction model's worth. It enforces strict time zero discipline, penalizes algorithmic overfitting, demands stringent validation structures, and applies the TRIPOD reporting guidelines alongside the PROBAST risk of bias tool. By the end of this chapter, you will possess the quantitative vocabulary to dismantle flawed predictive claims and implement mathematically sound decision analysis at the bedside.
+Rigorous appraisal of prognosis and prediction literature treats discrimination (AUROC) as only one dimension of performance. Calibration, clinical utility, strict time-zero discipline, control of overfitting, and appropriate validation structures determine whether predictions are trustworthy and useful. TRIPOD supports transparent reporting, while PROBAST structures risk-of-bias assessment.
 
 ## Taxonomy of Claims: Prognosis, Prediction, and Diagnosis
 
@@ -99,6 +99,10 @@ Decision Curve Analysis calculates the Net Benefit of using the prediction model
 
 In a standard DCA plot, the Net Benefit of the prediction model (y-axis) is graphed against the Threshold Probability (x-axis). Crucially, the model is compared simultaneously against two default clinical strategies: 1) Treat All (acting as if everyone has the outcome). The Net Benefit line for 'Treat All' slopes downward as the threshold increases, crossing zero exactly at the overall prevalence of the disease in the cohort. 2) Treat None (acting as if nobody has the outcome). The Net Benefit for 'Treat None' is exactly zero across all thresholds.
 
+![Schematic decision curve comparing model-guided, treat-all, and treat-none strategies across threshold probabilities.](../assets/figures/fig52_decision_curve.png)
+
+*Schematic only—not fitted study data. A model has net benefit only over threshold ranges where its curve lies above the relevant alternatives.*
+
 A prediction model demonstrates genuine clinical utility if, and only if, its Net Benefit curve lies above both the 'Treat All' and 'Treat None' lines across a clinically reasonable range of thresholds. If a stroke model only demonstrates positive Net Benefit at thresholds of 80-90% for a highly consequential surgical intervention, but neurosurgeons actually intervene at a 20% threshold, the model is entirely useless in clinical practice, regardless of its statistical significance or AUROC. DCA forces prediction research out of the realm of abstract mathematics and into the brutal reality of clinical tradeoffs.
 
 ## Named Frameworks: TRIPOD and PROBAST
@@ -141,10 +145,6 @@ Step 6: Sensitivity to Thresholds. At a synthetic 90% threshold, no score catego
 - Clinical Note — Algorithmic Nihilism and the ICH Score: The ICH Score predicts 30-day mortality, but it should not be used alone to justify early withdrawal of life-sustaining therapy. Early treatment limitation can contribute to a self-fulfilling association between score and mortality; prognostic studies should report treatment limitations and avoid treating the score as a causal verdict about an individual patient.
 - Research Design Note — Absolute Effects over Relative Risks: Individual predictor odds ratios or hazard ratios do not by themselves tell a patient’s absolute prognosis or the benefit of acting on a model. Demand calibrated absolute probabilities at a named horizon. If a causal fixed-horizon risk ratio is credible and transportable, then ARR = control risk × (1 − RR), and NNT is the reciprocal of that ARR. This shortcut does not apply directly to an odds ratio, a hazard ratio, or an arbitrary prognostic risk without the required conversion and causal assumptions.
 
-
-![Causal chain showing how improvement in a surrogate can fail to improve the patient-important outcome.](../assets/figures/fig54_surrogate_trap.png)
-
-*Teaching graphic (fig54_surrogate_trap.png).*
 
 ## Chapter summary
 

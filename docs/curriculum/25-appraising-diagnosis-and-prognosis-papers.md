@@ -50,6 +50,10 @@ Teaching anchors (not universal laws): LR+ above ~10 often produces large probab
 
 Combine the LR with *your* pre-test probability (Bayes) to obtain a post-test probability. Then ask only the operational question: does that probability cross a testing or treatment threshold in *this* system? A negative DWI that lowers brainstem-TIA ischemia probability from 90% to 40% is interesting but useless if dual antiplatelet therapy starts at 10% residual risk—the test failed to cross the action line. Also check logistics: availability, cost, time, and whether LRs remain plausible given spectrum differences.
 
+![Probability-threshold diagram mapping no test, test, and treat decisions.](../assets/figures/fig71_action_thresholds2.png)
+
+*Testing is useful only in the intermediate probability range where a result can cross the no-test, test, or treatment threshold and change the action.*
+
 ## Prognosis gate 1: Trustworthiness
 
 ![Clinical prediction-rule lifecycle from derivation through external validation and impact assessment.](../assets/figures/fig46_cpr_lifecycle.png)
@@ -91,10 +95,6 @@ A score using baseline volume, CTA spot sign, and onset-to-scan time predicts 24
 - **Gate 2 — Effect extraction:** Low 5% (2–8%), medium 25% (20–30%), high 65% (55–75%) with acceptable calibration.
 - **Gate 3 — Local actionability:** Indication-driven acute blood-pressure management and antithrombotic reversal should not be withheld because a score is low. A validated high-risk stratum might add monitoring intensity, repeat imaging, specialist escalation, or trial eligibility only if a prespecified impact study shows benefit beyond standard care.
 
-
-![Probability-threshold diagram mapping no test, test, and treat decisions.](../assets/figures/fig71_action_thresholds2.png)
-
-*Teaching graphic (fig71_action_thresholds2.png).*
 
 ## Chapter summary
 

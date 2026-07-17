@@ -151,10 +151,6 @@ The structural principles detailed in this chapter form the absolute prerequisit
 The PICO sentences and target-trial frameworks developed here directly populate the rapid appraisal tools introduced in Chapter 2. The concepts of index time and immortal time bias then support the design-specific appraisal of observational studies in Chapter 7 and the causal diagrams and target-trial logic in Chapter 5.
 
 
-![One-hundred-person icon array translating test prevalence into true positives, false positives, false negatives, and true negatives.](../assets/figures/fig40_natural_frequencies.png)
-
-*Teaching graphic (fig40_natural_frequencies.png).*
-
 ## Chapter summary
 
 PICO and PECO provide an initial question scaffold; a full estimand adds treatment conditions, population, outcome and horizon, intercurrent-event strategy, and summary measure. Distinguish the target population, enrolled sample, and actual analysis set. Anchor eligibility, strategy assignment, and follow-up at a defensible time zero or model treatment timing explicitly. Translate estimates to endpoint- and horizon-specific absolute effects when the target baseline risk and relative effect are supportable. These steps make disagreements about validity and transportability explicit rather than hiding them in a broad clinical slogan.
