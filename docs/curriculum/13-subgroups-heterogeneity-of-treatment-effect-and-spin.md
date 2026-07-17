@@ -105,7 +105,7 @@ Spin is defined as the intentional or subconscious distortion of research findin
 
 The most ubiquitous manifestation of subgroup spin occurs when a trial entirely fails to meet its primary endpoint, yet the abstract aggressively highlights a 'statistically significant' benefit discovered within a highly specific, underpowered subgroup. The abstract will inevitably read: 'Overall, Experimental Drug X did not significantly improve 90-day mRS. However, in patients treated within exactly 3.5 hours, Drug X demonstrated a robust improvement in functional independence (p=0.03).' This constitutes a severe failure of reporting ethics. The abstract artificially elevates an exploratory, highly probable false-positive finding generated from statistical noise to the status of a primary, actionable conclusion. Adjectives like 'robust' or 'compelling' are PR-slop deployed to camouflage extreme statistical fragility.
 
-To ruthlessly detect spin, clinicians must enforce a strict comparison matrix. Locate the definitively stated primary outcome in the methods section. Compare it directly to the first sentence of the results section and the final sentence of the abstract conclusion. If the primary outcome is negative, the trial is negative. Any subsequent subgroup findings must be explicitly prefaced with the labels 'exploratory' and 'hypothesis-generating.' If they are promoted without these caveats, the authors are executing spin.
+To detect spin, clinicians must enforce a strict comparison matrix. Locate the prespecified primary outcome in the methods section. Compare it directly with the first sentence of the results and the final sentence of the abstract conclusion. If the prespecified primary-outcome result does not support the primary claim, secondary or subgroup findings cannot rescue that claim unless they were protected by the prespecified testing hierarchy. Unprotected subgroup findings should be labeled exploratory and hypothesis-generating; promoting them as confirmatory is spin.
 
 Common manifestations of subgroup spin include:
 
@@ -205,10 +205,6 @@ Research Practice Note for Trial Investigators: Pre-specify a brutally short tes
 - Chapter 27: Missing Data, Multiplicity, Interim Analyses, and Fragility.
 - Chapter 15: Journal Club Architecture, including a structured process for challenging subgroup spin.
 
-
-![Fagan nomogram linking pre-test probability and likelihood ratio to post-test probability.](../assets/figures/fig60_fagan_nomogram.png)
-
-*Teaching graphic (fig60_fagan_nomogram.png).*
 
 ## Chapter summary
 

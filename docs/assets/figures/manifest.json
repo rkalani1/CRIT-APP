@@ -3,7 +3,7 @@
   "audit_date": "2026-07-16",
   "scope": "docs/assets/figures PNG and SVG assets",
   "caveat": "Hashes and software metadata support traceability but do not prove authorship or eliminate copyright risk.",
-  "asset_count": 99,
+  "asset_count": 92,
   "assets": [
     {
       "path": "docs/assets/figures/crit_absolute_effect_bridge.png",
@@ -240,15 +240,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig11_collider.png",
-      "sha256": "9c3f866af523c92c12bd6b1ebd2c4d6017983a7b72a3dce7b8ac3070b4b967b0",
-      "bytes": 132290,
-      "width": 1434,
-      "height": 962,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig12_immortal_time.png",
       "sha256": "c6f05b7fa5d5cbc2d958d62f129a80491f6de5ca0d2bcff75b2b6e4875e858d3",
       "bytes": 97520,
@@ -326,15 +317,6 @@
       "bytes": 77246,
       "width": 1434,
       "height": 1018,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig22_survival_censoring.png",
-      "sha256": "89f306095e39dcb237e84fd199ef4c5f4333dcdde1f50e68970d198190e1f112",
-      "bytes": 78741,
-      "width": 1506,
-      "height": 987,
       "software_metadata": "Matplotlib",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
@@ -456,15 +438,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig36_grade_certainty.png",
-      "sha256": "cb6d358320c8408a66205053f47d77f105711cb50de0726891ebee4e889f0131",
-      "bytes": 49364,
-      "width": 1147,
-      "height": 682,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig37_spin_detector.png",
       "sha256": "e2f9f92717d8eccedcf38d2b7b40467748e763579c436d903e25d3c7b058f9e6",
       "bytes": 72314,
@@ -479,15 +452,6 @@
       "bytes": 45722,
       "width": 1210,
       "height": 657,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig40_natural_frequencies.png",
-      "sha256": "c46460b845a3721dfbd2c7a8ada12a6d405b3df4bedff88ff5ce3d91c2d272eb",
-      "bytes": 45733,
-      "width": 1147,
-      "height": 682,
       "software_metadata": "Matplotlib",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
@@ -645,24 +609,6 @@
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },
     {
-      "path": "docs/assets/figures/fig60_fagan_nomogram.png",
-      "sha256": "0fd2a30eaa558de115d39a029348fe7b24ae68d336ce0ff670d9b8cccdbf383a",
-      "bytes": 61260,
-      "width": 971,
-      "height": 1110,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig61_confounder_mediator_collider.png",
-      "sha256": "f41e5ff7fe618f129320d350e18a419ada24db515bf4d883f091353648fc696f",
-      "bytes": 109616,
-      "width": 1745,
-      "height": 724,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
       "path": "docs/assets/figures/fig67_noncollapsibility.png",
       "sha256": "805e14509e4de02e2c88382eae06f230fb6b5175f83612a3ab8dc3adfc7281ea",
       "bytes": 87762,
@@ -722,15 +668,6 @@
       "bytes": 120079,
       "width": 1543,
       "height": 948,
-      "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/fig78_mbias.png",
-      "sha256": "f8af4d4e48944fcd69e39b8ca9e64a33f56a14b0fb9e073c4b5c31ec43ee3c49",
-      "bytes": 82231,
-      "width": 1357,
-      "height": 707,
       "software_metadata": "Matplotlib",
       "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
     },

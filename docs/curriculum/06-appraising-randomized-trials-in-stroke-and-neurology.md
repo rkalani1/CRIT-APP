@@ -184,10 +184,6 @@ Epidemiologic Note: Internal validity is distinct from external transportability
 Industry Note: Scrutinize the data sharing statement and the precise role of the commercial sponsor. When the sponsor holds exclusive access to the raw data, dictates the statistical analysis plan, and authors the first draft of the manuscript without independent academic verification, the threshold for adopting marginal or subgroup-driven findings must rise exponentially. Methodological skepticism must scale with financial conflict.
 
 
-![Scatterplots showing exposure measurement error attenuating a regression slope toward zero.](../assets/figures/fig77_regression_dilution.png)
-
-*Teaching graphic (fig77_regression_dilution.png).*
-
 ## Chapter summary
 
 Randomized trials are powerful because concealed random allocation supports baseline exchangeability in expectation, including for unmeasured prognostic factors. That advantage can be undermined by allocation subversion, differential missing outcomes, post-randomization co-interventions, and analyses that do not match the target estimand. Analysis by randomized assignment commonly targets a treatment-policy effect and preserves the randomized comparison for participants with observed outcomes, but it is not automatically unbiased when outcomes are missing or other identifying assumptions fail. Naive per-protocol or as-treated comparisons lose the protection of randomization and can introduce post-randomization confounding; causal per-protocol effects require a prespecified estimand, adequate longitudinal data, and appropriate adjustment. In PROBE trials, blinded outcome assessment reduces measurement bias, while open treatment assignment can still permit performance bias. Multiplicity, interim stopping boundaries, and post-hoc subgroup selection can generate exaggerated evidence. Appraisal should translate relative effects into endpoint- and horizon-specific absolute risks, risk differences, NNTs or NNHs when appropriate, and their uncertainty. A CONSORT-minded chronological review helps readers distinguish the randomized question from post-randomization departures and reporting spin.

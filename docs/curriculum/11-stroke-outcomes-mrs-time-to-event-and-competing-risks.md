@@ -15,7 +15,7 @@ Stroke research lives and dies by its endpoints. An intervention's success or fa
 
 We must establish a fundamental epistemological boundary: prediction is not causation. Throughout this chapter and all subsequent analyses, remember that predicting a patient's 90-day mRS using their baseline NIH Stroke Scale (NIHSS) is an exercise in pattern recognition. In contrast, estimating the causal effect of tenecteplase on that same 90-day mRS requires evaluating counterfactuals—the difference between what happened and what would have happened under a different treatment assignment. You cannot intervene on baseline variables like age or initial infarct volume. Predictive models are optimized for accuracy regardless of mechanism, whereas causal inference is optimized to isolate the exact, unconfounded effect of an intervention. Confusing these two frameworks leads to lethal errors in clinical trial interpretation, such as adjusting for post-randomization variables or interpreting hazard ratios as direct causal parameters.
 
-To formalize outcome definitions, modern clinical trialists rely on the ICH E9(R1) estimand framework. An estimand specifies the treatment conditions being compared, target population, outcome variable, handling of intercurrent events, and population-level summary measure. Ambiguity in any attribute can make the target and analysis difficult to interpret. This chapter will dissect three common outcome paradigms in neurology: ordinal functional scales, time-to-event survival models, and competing-risk frameworks.
+To formalize outcome definitions, modern clinical trialists rely on the ICH E9(R1) estimand framework. An estimand specifies the treatment conditions being compared, target population, outcome variable, handling of intercurrent events, and population-level summary measure. Ambiguity in any attribute can make the target and analysis difficult to interpret. Three common outcome paradigms in neurology are ordinal functional scales, time-to-event survival models, and competing-risk frameworks.
 
 ## The Modified Rankin Scale: Psychometrics, Measurement, and Hiding the Truth
 
@@ -81,6 +81,10 @@ A competing risk is formally defined as an event that either precludes the occur
 
 When competing death is censored, 1 − Kaplan–Meier estimates a net-risk construct under assumptions that remove the competing event; it is not the observed-world cumulative incidence. Reporting it as the probability of recurrent stroke can overestimate that probability in high-mortality cohorts. Use Aalen–Johansen cumulative incidence for absolute real-world risk, while retaining cause-specific models when their hazard-scale estimand answers the question.
 
+![Schematic cumulative-incidence curves for recurrent stroke under treatment and control over 24 months.](../assets/figures/fig59_cuminc_curve.png)
+
+*Illustrative curves, not study data. Cumulative incidence reports absolute risk at a stated horizon; a credible comparison also requires uncertainty and appropriate handling of competing events.*
+
 The cause-specific hazard is the instantaneous event rate among people who are still alive and event-free. It is useful for etiologic and event-process questions and contributes to the cumulative-incidence calculation, but it is not itself an absolute risk.
 
 The Fine–Gray model instead relates covariates to the subdistribution hazard using an extended, censoring-weighted risk set that retains information after competing events. It can support model-based cumulative-incidence estimates; the cumulative incidence function can also be estimated directly with Aalen–Johansen methods. For prognosis and resource planning, report the cumulative incidence at named horizons. Choose cause-specific or subdistribution modeling according to the question, and do not interpret either hazard ratio as a risk ratio.
@@ -106,6 +110,10 @@ The 6.67% net-risk construct is slightly higher than the 6.50% cumulative incide
 Trials often bundle outcomes into composites such as nonfatal stroke, nonfatal myocardial infarction, and vascular death. The composite hazard is the sum of component cause-specific hazards, so the composite effect reflects component frequencies, timing, dependence, and treatment effects over evolving risk sets; it is not generally a simple weighted average of component hazard ratios.
 
 A frequent, less important component can dominate a composite even when more serious components show little benefit or possible harm. Interpretability is strongest when components are clinically coherent and effects directionally similar; always report component counts and effects rather than relying on the composite alone.
+
+![Illustrative component frequencies showing how a frequent, less severe event can dominate a composite endpoint.](../assets/figures/fig58_composite_endpoint.png)
+
+*The percentages are synthetic and illustrate relative frequency, not additive incidence: participants and event types may overlap. Inspect each component's importance, timing, and treatment effect.*
 
 Net Clinical Benefit (NCB) frameworks attempt to solve this by mathematically weighing ischemic prevention against hemorrhagic harm. However, these weights are intrinsic value judgments. Is one symptomatic ICH mathematically equal to three minor ischemic strokes, or five? When reading an NCB analysis, you must determine whether the specific utility weights were pre-specified in the protocol and whether sensitivity analyses demonstrate that alternative, equally valid weights would reverse the trial's conclusions.
 
@@ -152,10 +160,6 @@ Internalizing this checklist fundamentally alters how you consume medical litera
 - Chapter 6: Randomized-trial estimands, assignment-based analyses, and missing outcomes.
 - Chapter 12: Effect sizes, absolute benefit, NNT, and clinical importance.
 
-
-![Competing-risk cumulative-incidence curves for recurrent stroke and death over time.](../assets/figures/fig59_cuminc_curve.png)
-
-*Teaching graphic (fig59_cuminc_curve.png).*
 
 ## Chapter summary
 

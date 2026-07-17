@@ -26,7 +26,7 @@ Clinical decision-making requires the absolute scale. A relative risk reduction 
 
 Understanding treatment efficacy therefore requires translating a compatible relative estimate into local absolute benefits only after its transportability is justified. This conversion needs a credible control risk for the target population and horizon. Relative measures alone can make effects appear larger than their absolute clinical impact, so appraisal should report natural frequencies with and without treatment and quantify harms on the same horizon.
 
-The core objective of this chapter is to instill a profound skepticism of relative metrics when presented without absolute context. You must demand the raw event rates. You must calculate the absolute differences. You must quantify the absolute harm. Only then can you determine if a therapy is clinically important. This is the foundation of evidence-based neurology.
+Relative metrics without absolute context are insufficient for clinical interpretation. Raw event rates, absolute differences, and absolute harms establish whether an effect is clinically important. This translation is foundational to evidence-based neurology.
 
 ## Quantitative Reasoning: Defining the Symbols and Metrics
 
@@ -126,7 +126,7 @@ When reading a trial abstract, results section, or meta-analysis, deploy this se
 
 ## Fully Worked Example 1: Dual Antiplatelet Therapy in Minor Ischemic Stroke
 
-We will use a fully synthetic scenario—not POINT or CHANCE data—to practice absolute-effect arithmetic for secondary prevention after minor ischemic stroke or high-risk TIA.
+The following fully synthetic scenario—not POINT or CHANCE data—demonstrates absolute-effect arithmetic for secondary prevention after minor ischemic stroke or high-risk TIA.
 
 Synthetic scenario (all event rates below are invented for arithmetic only): an RCT compares 21 days of aspirin plus clopidogrel followed by a single agent with aspirin alone, with 90-day follow-up. Recurrent ischemic stroke occurs in 5.0% versus 7.5%; major hemorrhage occurs in 0.9% versus 0.4%. In a real appraisal, confidence intervals and the prespecified analysis would be required before interpretation.
 
