@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this teaching ebook, please cite it as below."
+title: "Critical Appraisal for Neurologists"
+abstract: >-
+  Open-source teaching ebook on critical appraisal of clinical evidence for
+  neurology and stroke. Twenty-eight short chapters move a published claim to a
+  defensible bedside decision: match the question to the design, translate
+  effects into absolute terms, and carry uncertainty through to action.
+  Educational only — not medical advice, not local policy, not institutional
+  endorsement.
+type: software
+authors:
+  - family-names: Kalani
+    given-names: Rizwan
+url: "https://rkalani1.github.io/CRIT-APP/"
+repository-code: "https://github.com/rkalani1/CRIT-APP"
+license: CC-BY-4.0
+keywords:
+  - critical appraisal
+  - evidence-based medicine
+  - clinical epidemiology
+  - neurology
+  - stroke
+  - medical education
