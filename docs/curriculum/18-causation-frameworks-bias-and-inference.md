@@ -4,14 +4,15 @@
 
 ![E-value intuition.](../assets/figures/fig47_evalue.png)
 
-*E-value intuition.*
+*The E-value asks how strong an unmeasured confounder would have to be to explain away an association — a quantitative stress test, not a guarantee of causation.*
 
 ![Counterfactual contrast.](../assets/figures/fig20_counterfactual.png)
 
-*Counterfactual contrast.*
+*A causal effect is the contrast between the outcome under treatment and the unobservable outcome had the same patient gone untreated.*
+
 ![Causal graph motifs used in appraisal.](../assets/figures/crit_fig_confounder_mediator_collider.png)
 
-*Causal graph motifs used in appraisal.*
+*Confounder, mediator, and collider motifs each call for different handling; the graph, not intuition, decides what to adjust for.*
 
 
 Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
@@ -21,7 +22,7 @@ Someone cites Bradford Hill as if a checklist proves causation. Use the question
 
 Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.
 
-Critical appraisal requires a formalized approach to evaluate whether an association reflects a true causal effect. This chapter introduces foundational causal frameworks—counterfactuals, causal pies, and structural biases (confounding, selection bias, information bias)—and reclaims Hill's viewpoints as rigorous appraisal questions rather than a superficial checklist. Mastery of these concepts allows the reader to dissect whether a reported difference in outcomes stems from the treatment itself, flawed study architecture, or the intrinsic baseline differences among patients.
+Critical appraisal needs a formal way to judge whether an association reflects a true causal effect. Counterfactuals, causal pies, and the structural biases — confounding, selection bias, and information bias — supply it, and Hill's viewpoints work best as appraisal questions rather than a checklist to tally: does the reported difference come from the treatment, from flawed study architecture, or from baseline differences between patients?
 
 ## Counterfactuals and Potential Outcomes
 

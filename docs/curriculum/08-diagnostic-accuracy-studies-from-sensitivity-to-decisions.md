@@ -4,14 +4,15 @@
 
 ![Diagnostic 2×2.](../assets/figures/fig49_diagnostic_2x2.png)
 
-*Diagnostic 2×2.*
+*Sensitivity and specificity live in the columns of the 2×2; predictive values depend on the row totals, which prevalence sets.*
 
 ![Likelihood-ratio / Bayes curves.](../assets/figures/fig28_lr_bayes_curves.png)
 
-*Likelihood-ratio / Bayes curves.*
+*Likelihood ratios convert a pre-test probability into a post-test probability; a test earns its keep only when it moves you across an action threshold.*
+
 ![Bayes update with LR+ = 5 on synthetic priors.](../assets/figures/crit_fig_bayes_lr.png)
 
-*Bayes update with LR+ = 5 on synthetic priors.*
+*With a positive likelihood ratio of 5, a low pre-test probability still lands below most treatment thresholds — the update is multiplicative, not magical. Values are synthetic.*
 
 
 A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verification design, that number can be theater. Work the 2x2 before the purchase order.

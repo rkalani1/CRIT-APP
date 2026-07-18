@@ -4,11 +4,11 @@
 
 ![Absolute vs relative by baseline.](../assets/figures/fig70_absrel_baseline.png)
 
-*Absolute vs relative by baseline.*
+*The same relative risk reduction produces a large absolute benefit at high baseline risk and a negligible one at low baseline risk.*
 
 ![ARR and NNT.](../assets/figures/fig08_arr_nnt.png)
 
-*ARR and NNT.*
+*Absolute risk reduction and its reciprocal, the number needed to treat, translate a trial's effect into patients treated per event prevented.*
 
 ![NNT icon array.](../assets/figures/crit_fig_nnt_icon_array.png)
 

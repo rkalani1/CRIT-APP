@@ -4,14 +4,15 @@
 
 ![CONSORT-minded flow.](../assets/figures/fig26_consort_minded.png)
 
-*CONSORT-minded flow.*
+*A CONSORT-minded flow tracks every patient from screening to analysis, exposing who was excluded and who was lost to follow-up.*
 
 ![Trial pathway overview.](../assets/figures/fig05_trial_pathway.png)
 
-*Trial pathway overview.*
+*The pathway from eligibility through randomization, treatment, and blinded outcome ascertainment is where allocation concealment and crossover are judged.*
+
 ![Trial pathway teaching sketch.](../assets/figures/crit_fig_trial_pathway.png)
 
-*Trial pathway teaching sketch.*
+*Randomization protects the comparison only if concealment holds and post-randomization losses stay balanced across arms.*
 
 
 Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.

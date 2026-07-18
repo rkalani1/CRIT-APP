@@ -4,15 +4,15 @@
 
 ![Three bias families.](../assets/figures/fig27_three_bias_families.png)
 
-*Three bias families.*
+*Selection, confounding, and measurement are the three bias families to name for any study before debating its statistics.*
 
 ![Bias taxonomy map.](../assets/figures/fig02_bias_taxonomy.png)
 
-*Bias taxonomy map.*
+*A map of where each bias enters — at enrollment, in the exposure–outcome comparison, or during measurement.*
 
 ![Bias families versus transportability.](../assets/figures/swarm_ch04_bias_taxonomy.png)
 
-*Bias families versus transportability.*
+*Internal bias corrupts the estimate itself; limited transportability only restricts how far a valid estimate travels — keep the two axes distinct.*
 
 Quality meeting: someone proposes adopting an outside center protocol based on one observational paper. Demand the bias story—selection, confounding, measurement—before the order set is rewritten.
 

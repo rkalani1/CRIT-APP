@@ -4,10 +4,11 @@
 
 ![Validity and transportability.](../assets/figures/fig25_validity_transport.png)
 
-*Validity and transportability.*
+*Internal validity asks whether the estimate is right for the patients studied; transportability asks whether it carries to yours — two separate questions.*
+
 ![Two claim templates for paper claims.](../assets/figures/crit_fig_prediction_vs_causation.png)
 
-*Two claim templates for paper claims.*
+*Every paper's claim maps to a prediction template (probability of Y given X) or a causal template (how intervening on X changes Y); name which one first.*
 
 
 A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.

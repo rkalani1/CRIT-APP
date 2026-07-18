@@ -1,0 +1,59 @@
+# Critical Appraisal for Neurologists
+
+> Open-source teaching ebook on critical appraisal of clinical evidence for neurology and stroke. Content is educational only — not medical advice, not local policy, not institutional endorsement. Content licensed CC BY 4.0; site code ISC.
+
+This file lists the stable public pages of the ebook. Worked numerical examples are synthetic unless a caption or sentence names a specific trial or guideline. Quantitative clinical claims are grounded in primary sources or explicitly marked "needs confirmation"; the evidence register records which high-consequence claims received a primary-source check and is not a claim of full-book peer review.
+
+## Start here
+
+- [Introduction and contents](https://rkalani1.github.io/CRIT-APP/index.html): Landing page, reading routes, and the full chapter list.
+- [How to read a paper under time pressure](https://rkalani1.github.io/CRIT-APP/curriculum/02-how-to-read-a-paper-under-time-pressure.html): The 20-minute appraisal protocol.
+- [Evidence register](https://rkalani1.github.io/CRIT-APP/evidence-register.html): Bounded list of primary-source-checked claims, with the review contract and known frontier.
+
+## Foundations
+
+- [01. Why Critical Appraisal Matters in Neurology and Stroke](https://rkalani1.github.io/CRIT-APP/curriculum/01-why-critical-appraisal-matters-in-neurology-and-stroke.html)
+- [02. How to Read a Paper Under Time Pressure](https://rkalani1.github.io/CRIT-APP/curriculum/02-how-to-read-a-paper-under-time-pressure.html)
+- [03. Questions, PICO, Estimands, and Index Time](https://rkalani1.github.io/CRIT-APP/curriculum/03-questions-pico-estimands-and-index-time.html)
+- [04. Internal Validity, External Validity, and Bias Taxonomy](https://rkalani1.github.io/CRIT-APP/curriculum/04-internal-validity-external-validity-and-bias-taxonomy.html)
+- [05. Confounding, DAGs, and Target-Trial Thinking](https://rkalani1.github.io/CRIT-APP/curriculum/05-confounding-dags-and-target-trial-thinking.html)
+
+## Study designs
+
+- [06. Appraising Randomized Trials in Stroke and Neurology](https://rkalani1.github.io/CRIT-APP/curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.html)
+- [07. Appraising Observational Studies Without Naivete](https://rkalani1.github.io/CRIT-APP/curriculum/07-appraising-observational-studies-without-naivete.html)
+- [08. Diagnostic Accuracy Studies: From Sensitivity to Decisions](https://rkalani1.github.io/CRIT-APP/curriculum/08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.html)
+- [09. Prognosis, Risk Scores, and Prediction Models](https://rkalani1.github.io/CRIT-APP/curriculum/09-prognosis-risk-scores-and-prediction-models.html)
+- [10. Systematic Reviews, Meta-Analysis, and Guidelines](https://rkalani1.github.io/CRIT-APP/curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.html)
+
+## Stroke practice and teaching
+
+- [11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks](https://rkalani1.github.io/CRIT-APP/curriculum/11-stroke-outcomes-mrs-time-to-event-and-competing-risks.html)
+- [12. Effect Sizes, Absolute Benefit, NNT, and Clinical Importance](https://rkalani1.github.io/CRIT-APP/curriculum/12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.html)
+- [13. Subgroups, Heterogeneity of Treatment Effect, and Spin](https://rkalani1.github.io/CRIT-APP/curriculum/13-subgroups-heterogeneity-of-treatment-effect-and-spin.html)
+- [14. Appraising Artificial Intelligence and Machine Learning Papers](https://rkalani1.github.io/CRIT-APP/curriculum/14-appraising-artificial-intelligence-and-machine-learning-papers.html)
+- [15. Journal Club Architecture and Teaching Critical Appraisal](https://rkalani1.github.io/CRIT-APP/curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.html)
+- [16. Paper Autopsies: Integrated Worked Critiques](https://rkalani1.github.io/CRIT-APP/curriculum/16-paper-autopsies-integrated-worked-critiques.html)
+
+## Quantitative literacy and reasoning
+
+- [17. Disease Frequency and Association](https://rkalani1.github.io/CRIT-APP/curriculum/17-chapter-17-disease-frequency-association.html)
+- [18. Causation Frameworks, Bias, and Inference](https://rkalani1.github.io/CRIT-APP/curriculum/18-causation-frameworks-bias-and-inference.html)
+- [19. Inference, Estimation, and the Architecture of Uncertainty](https://rkalani1.github.io/CRIT-APP/curriculum/19-inference-estimation-and-the-architecture-of-uncertainty.html)
+- [20. Regression and Survival Analysis: Literacy for Paper Readers](https://rkalani1.github.io/CRIT-APP/curriculum/20-regression-and-survival-analysis-literacy-for-paper-readers.html)
+- [21. Interaction, Effect Modification, and Standardization](https://rkalani1.github.io/CRIT-APP/curriculum/21-interaction-effect-modification-and-standardization.html)
+- [22. Screening, Early Detection, and Overdiagnosis](https://rkalani1.github.io/CRIT-APP/curriculum/22-screening-early-detection-and-overdiagnosis.html)
+- [23. Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence](https://rkalani1.github.io/CRIT-APP/curriculum/23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.html)
+
+## Applied appraisal and systems
+
+- [24. Appraising Therapy and Harm Questions](https://rkalani1.github.io/CRIT-APP/curriculum/24-appraising-therapy-and-harm-questions.html)
+- [25. Appraising Diagnosis and Prognosis Papers](https://rkalani1.github.io/CRIT-APP/curriculum/25-appraising-diagnosis-and-prognosis-papers.html)
+- [26. Systematic Reviews and Clinical Prediction Rules](https://rkalani1.github.io/CRIT-APP/curriculum/26-systematic-reviews-and-clinical-prediction-rules.html)
+- [27. Missing Data, Multiplicity, Interim Analyses, and Fragility](https://rkalani1.github.io/CRIT-APP/curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.html)
+- [28. Systems of Care, Policy, and Patient Communication](https://rkalani1.github.io/CRIT-APP/curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.html)
+
+## Companion
+
+- [Machine learning and AI companion](https://rkalani1.github.io/ML/): Sibling open-source ebook on machine-learning methods and appraisal.
+- [Source repository](https://github.com/rkalani1/CRIT-APP)

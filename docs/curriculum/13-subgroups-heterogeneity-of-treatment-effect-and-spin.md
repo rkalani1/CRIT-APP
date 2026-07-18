@@ -3,7 +3,7 @@
 ## Opening
 ![Subgroup credibility probes.](../assets/figures/crit_fig_subgroup_probes.png)
 
-*Subgroup credibility probes.*
+*Before believing a subgroup effect, run the credibility probes: pre-specification, a significant interaction test, biological plausibility, and consistency across trials.*
 
 
 A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.
@@ -218,7 +218,7 @@ Subgroup analysis represents the critical juncture where average trial effects a
 4. Draw a Directed Acyclic Graph (DAG) demonstrating precisely why conditioning on TICI 2b/3 status in an endovascular trial induces profound collider stratification bias.
 5. Explain to a junior neurology resident why a forest plot showing one subgroup with a confidence interval crossing 1.0, and an adjacent subgroup not crossing 1.0, utterly fails to prove heterogeneity of treatment effect.
 6. Draft a robust hospital policy for adopting novel therapies based on subgroup analyses. Enumerate the exact statistical criteria that must be met before a subgroup claim alters the formulary.
-7. Analyze the POINT and CHANCE trials. Explain how the constant relative risk of hemorrhage, when combined with time-varying absolute risk, dictates the optimal 21-day duration of dual antiplatelet therapy.
+7. Analyze the POINT and CHANCE trials. Explain how a roughly constant relative risk of hemorrhage, combined with a time-varying absolute risk of recurrent ischemia, bears on how long to continue dual antiplatelet therapy — and why the duration decision stays tied to the trial regimens and current guidance rather than to the mechanism alone.
 8. Locate a preprint in the neurology literature that aggressively promoted a subgroup claim. Track its journey to peer-reviewed publication. Document exactly what was altered or removed in the final abstract.
 9. Write a highly critical appraisal of a hypothetical press release that claims 'Drug X works exceptionally well in women' when the overall primary trial result was decidedly negative.
 10. Calculate the required sample size for a formal interaction test, assuming the main treatment effect requires N=1000 to achieve 80% power, and the hypothesized subgroup effect size is exactly half the magnitude of the main effect size.

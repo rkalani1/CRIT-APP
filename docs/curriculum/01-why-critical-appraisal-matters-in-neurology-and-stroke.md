@@ -3,15 +3,7 @@
 ## Opening
 ![Relative headlines vs absolute bedside effects.](../assets/figures/crit_fig_rel_vs_abs.png)
 
-*Relative headlines vs absolute bedside effects.*
-
-
-![Decision-focused reading flow.](../assets/figures/fig01_reading_flow.png)
-
-*Decision-focused reading flow.*
-![Prediction vs causation claim templates.](../assets/figures/crit_fig_prediction_vs_causation.png)
-
-*Prediction vs causation claim templates.*
+*The same relative risk reduction hides very different bedside stakes until baseline risk and a time horizon convert it into an absolute effect.*
 
 
 Sign-out is late. Three PDFs land in the team channel: late-window EVT selection with a relative-risk headline, dual-antiplatelet timing from claims data, and a hemorrhage-risk model. Before any pathway moves, force the slower question: what is estimated, for whom, and on what absolute scale?
@@ -19,7 +11,7 @@ Sign-out is late. Three PDFs land in the team channel: late-window EVT selection
 
 ## Introduction: The Clinical Imperative of Critical Appraisal in Neurology
 
-It is 07:10 on a Thursday morning. The overnight resident hands you three PDFs before sign-out: a multicenter endovascular therapy (EVT) trial published online at 02:00 with an accompanying glowing press release; a large claims-database analysis concluding that a specific dual antiplatelet regimen is 'associated with lower thirty-day readmission' after minor stroke; and a secondary-prevention meta-analysis that reports a statistically significant relative risk reduction without displaying absolute event rates in the abstract. The attending on call asks, almost casually, 'Does any of this change what we do today?' That question is not an academic exercise. Within the next twelve hours, your team will decide whether to expand late-window EVT selection criteria, revise dual antiplatelet duration protocols for patients presenting with transient ischemic attacks, and counsel a patient whose family has already read the press release on their mobile devices.
+The three PDFs from the opening scene — an extended-window EVT trial with a glowing press release, a claims analysis reporting a dual antiplatelet regimen 'associated with lower thirty-day readmission,' and a meta-analysis quoting a relative risk reduction with no absolute event rates in the abstract — are not an academic exercise. Within twelve hours the team will decide whether to widen late-window EVT selection, revise dual antiplatelet duration after TIA, and counsel a family that has already read the press release. 'Does any of this change what we do today?' is the question critical appraisal exists to answer.
 
 Critical appraisal is the systematic discipline that translates these PDFs from ambient informational noise into precise decision instruments. It is neither generalized cynicism nor the exclusive domain of methodologists who enjoy debating confidence intervals. Rather, it constitutes the essential set of cognitive habits that permits a neurologist or stroke researcher to rigorously separate what a paper actually estimates from what its title, editorial, or social media summary claims. In stroke medicine, the stakes of this separation are unusually severe. Therapeutic time windows are unforgiving, interventions are highly potent with exceptionally narrow therapeutic indices, affected populations are profoundly heterogeneous in their underlying pathophysiology, and the scientific literature is produced at a velocity that defies casual digestion.
 
@@ -60,6 +52,10 @@ Scientifically, misreading actively pollutes the research pipeline and misalloca
 Furthermore, chronic misreading inflicts a subtler systemic cost: epistemic demoralization. When clinicians repeatedly discover that last year's universally acclaimed 'practice-changing' paper failed completely when transported to their local patient population, they frequently swing toward toxic nihilism—treating all published literature as thinly veiled marketing. That reaction, while psychologically understandable, is deeply harmful. The antidote to hype is not the cynical rejection of all quantitative claims; it is the cultivation of skilled appraisal that permits the clinician to recognize and verify a highly rigorous, internally valid trial when one actually appears. Stroke medicine has produced exceptionally rigorous trials that truly save lives. The ability to properly implement them without suspending critical judgment is the defining hallmark of professional maturity.
 
 ## Conceptual Core: The Prediction Versus Causation Divide
+
+![Prediction vs causation claim templates.](../assets/figures/crit_fig_prediction_vs_causation.png)
+
+*Prediction forecasts who is at risk from information available at time zero; causation estimates how deliberately intervening changes the outcome. The same variable can be a strong predictor and a useless treatment target.*
 
 Many of the most profoundly confused and unproductive conversations in stroke research originate from the ambiguous deployment of a single, deceptively simple phrase: 'associated with.' A multivariable logistic regression model may predict 90-day modified Rankin Scale (mRS) outcomes utilizing admission NIHSS, patient age, admission serum glucose, and baseline CT ASPECTS. A retrospective claims analysis may report that early outpatient neurology follow-up is associated with lower 30-day hospital readmission rates. A randomized controlled trial may report that EVT causes a favorable shift in the ordinal distribution of the mRS. All three statistical outputs can be valuable. However, they answer fundamentally different mathematical and clinical questions. Conflating them is the single highest-yield failure mode in clinical medicine.
 

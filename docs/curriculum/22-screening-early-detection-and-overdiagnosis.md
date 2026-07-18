@@ -4,11 +4,11 @@
 
 ![Screening biases.](../assets/figures/fig14_screening_biases.png)
 
-*Screening biases.*
+*Lead-time, length, and overdiagnosis biases can make a screening test look beneficial even when it changes no outcome.*
 
 ![Screening appraisal traps: lead time, length, overdiagnosis.](../assets/figures/swarm_ch22_screening.png)
 
-*Screening appraisal traps: lead time, length, overdiagnosis.*
+*Earlier detection lengthens known-disease time without moving the death; benefit must be shown on hard outcomes, not diagnostic yield.*
 
 Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
 

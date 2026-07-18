@@ -4,15 +4,15 @@
 
 ![CI width versus n.](../assets/figures/fig43_ci_width_n.png)
 
-*CI width versus n.*
+*Confidence-interval width shrinks with sample size; a wide interval signals imprecision, not necessarily a null effect.*
 
 ![Estimation and confidence intervals.](../assets/figures/fig21_estimation_ci.png)
 
-*Estimation and confidence intervals.*
+*Read the interval as the range of effect sizes compatible with the data, then judge which of them would change practice.*
 
 ![Estimation culture: confidence intervals against MID.](../assets/figures/swarm_ch19_estimation_ci.png)
 
-*Estimation culture: confidence intervals against MID.*
+*Place the interval against the minimally important difference; "significant" and "important" are separate verdicts.*
 
 A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial negative or positive, separate estimation from dichotomania and read the absolute scale.
 
