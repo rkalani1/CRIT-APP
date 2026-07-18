@@ -128,5 +128,4 @@ whether the design supports prediction, description, or cause.
 
 ---
 
-*Figures and tables in this chapter are original teaching materials for CRIT-APP
-unless a caption explicitly states otherwise. Methods standards are cited by name only.*
+*Figures and tables in this chapter are Teaching materials for CRIT-APP unless a caption explicitly states otherwise. Methods standards are cited by name only.*

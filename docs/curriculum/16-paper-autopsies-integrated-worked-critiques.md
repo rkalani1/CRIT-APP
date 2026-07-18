@@ -3,16 +3,16 @@
 ## Opening
 ![Name prediction vs causal claims first.](../assets/figures/crit_fig_claim_types.png)
 
-*Name prediction vs causal claims first.*
+*Classify the paper's core claim as prediction or causation before appraising anything else; the two demand different evidence.*
 
 ![Paper autopsy sequence.](../assets/figures/crit_fig_autopsy_sequence.png)
 
-*Paper autopsy sequence.*
+*The autopsy runs in a fixed order: claim, then design, then absolute effect, then transportability, then decision.*
 
 
-![Paper autopsy sequence.](../assets/figures/swarm_ch16_autopsy_flow.png)
+![Worked autopsy flow from abstract claim to bedside decision.](../assets/figures/swarm_ch16_autopsy_flow.png)
 
-*Paper autopsy sequence.*
+*Each worked autopsy follows that flow, turning an abstract's claim into an explicit adopt, adapt, wait, or reject.*
 
 Five synthetic paper autopsies appear in this chapter. Practice the autopsy sequence: claim → design → absolute effect → transport → decide.
 

@@ -4,15 +4,15 @@
 
 ![Site shift for AI models.](../assets/figures/fig35_ai_site_shift.png)
 
-*Site shift for AI models.*
+*A model tuned to one hospital's scanners and case mix can lose accuracy at the next site; external validation, not internal accuracy, is the test that matters.*
 
 ![AI leakage pathways.](../assets/figures/fig34_ai_leakage.png)
 
-*AI leakage pathways.*
+*Information that leaks from the outcome into the features — through shared preprocessing, patient overlap, or post-baseline variables — inflates accuracy that no honest split can reproduce.*
 
 ![AI pipeline leakage versus honest split.](../assets/figures/swarm_ch14_ai_leakage.png)
 
-*AI pipeline leakage versus honest split.*
+*A leaky pipeline lets test data touch training; an honest split isolates the test set end to end, so the reported metric estimates deployment performance.*
 
 An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the label matches the clinical decision the tool will actually drive.
 

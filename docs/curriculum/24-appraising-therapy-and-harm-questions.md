@@ -4,15 +4,15 @@
 
 ![Action thresholds.](../assets/figures/fig39_action_thresholds.png)
 
-*Action thresholds.*
+*A therapy is worth adopting only when its absolute benefit clears the action threshold set by its absolute harms and costs.*
 
 ![Therapy and harm card.](../assets/figures/fig16_therapy_harm_card.png)
 
-*Therapy and harm card.*
+*A therapy-and-harm card places benefit and harm side by side as absolute risks over the same time horizon.*
 
 ![Therapy versus harm absolute-effect card.](../assets/figures/swarm_ch24_therapy_harm.png)
 
-*Therapy versus harm absolute-effect card.*
+*Benefit and bleeding compared on one absolute scale, so a relative headline cannot hide the tradeoff.*
 
 Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
 

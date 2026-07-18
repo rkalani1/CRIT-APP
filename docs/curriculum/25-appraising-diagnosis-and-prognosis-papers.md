@@ -3,7 +3,7 @@
 ## Opening
 ![Spectrum mismatch derivation vs target.](../assets/figures/swarm3h_spectrum_mismatch.png)
 
-*Spectrum mismatch derivation vs target.*
+*A test derived in a florid-disease sample but deployed in an unselected population meets spectrum mismatch, which inflates the accuracy you will never reproduce locally.*
 
 
 A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, effect extraction, and local actionability gates before any order panel is added.
