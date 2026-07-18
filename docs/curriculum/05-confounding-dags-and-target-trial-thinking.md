@@ -4,14 +4,15 @@
 
 ![Target-trial thinking.](../assets/figures/fig04_target_trial.png)
 
-*Target-trial thinking.*
+*Target-trial thinking forces an observational question into the trial it emulates: eligibility, assignment, and start of follow-up defined up front.*
 
 ![Confounding structure.](../assets/figures/fig03_dag_confounding.png)
 
-*Confounding structure.*
+*A common cause of both exposure and outcome opens a back-door path that biases the crude association until it is blocked.*
+
 ![Confounder, mediator, collider structures.](../assets/figures/crit_fig_confounder_mediator_collider.png)
 
-*Confounder, mediator, collider structures.*
+*Confounders, mediators, and colliders look alike on a graph but demand opposite handling; adjusting for the wrong one invents or hides an effect.*
 
 
 A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is anemia a confounder, mediator, or collider in this DAG? Wrong adjustment can invent harm.

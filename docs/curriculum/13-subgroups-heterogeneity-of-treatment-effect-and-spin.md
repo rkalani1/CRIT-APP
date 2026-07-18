@@ -3,7 +3,7 @@
 ## Opening
 ![Subgroup credibility probes.](../assets/figures/crit_fig_subgroup_probes.png)
 
-*Subgroup credibility probes.*
+*Before believing a subgroup effect, run the credibility probes: pre-specification, a significant interaction test, biological plausibility, and consistency across trials.*
 
 
 A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.

@@ -4,11 +4,11 @@
 
 ![Transportability.](../assets/figures/fig72_transportability.png)
 
-*Transportability.*
+*A trial's absolute benefit can shrink in your catchment when baseline risk, access, and case mix differ from the enrolled population.*
 
 ![Pathway decisions.](../assets/figures/fig41_pathway_decisions.png)
 
-*Pathway decisions.*
+*Turning evidence into a pathway means deciding what to adopt, what to de-implement, and how to track access and equity.*
 
 ![One-hundred-person array with six persistent events, two events prevented by the strategy, and 92 people without the event.](../assets/figures/swarm_ch28_natural_frequencies.svg)
 

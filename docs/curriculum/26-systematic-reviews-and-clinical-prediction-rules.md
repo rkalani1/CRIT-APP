@@ -4,15 +4,15 @@
 
 ![Synthesis forest sketch.](../assets/figures/fig23_forest_meta.png)
 
-*Synthesis forest sketch.*
+*A systematic review is an observational study of the literature; the forest plot only summarizes the studies the search actually found.*
 
 ![Prediction-rule lifecycle.](../assets/figures/fig46_cpr_lifecycle.png)
 
-*Prediction-rule lifecycle.*
+*A clinical prediction rule earns trust across a lifecycle — derivation, external validation, impact analysis — not from its derivation AUC alone.*
 
 ![Clinical prediction rule lifecycle.](../assets/figures/swarm_ch26_cpr_lifecycle.png)
 
-*Clinical prediction rule lifecycle.*
+*A rule that is never externally validated or shown to improve decisions stays a derivation curiosity, however high its discrimination.*
 
 A clinical prediction rule is proposed for ED triage. Inspect derivation, validation, calibration, and net benefit—not only AUC.
 

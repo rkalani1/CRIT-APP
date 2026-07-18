@@ -3,7 +3,7 @@
 ## Opening
 ![mRS ordinal ladder.](../assets/figures/crit_fig_mrs_ladder.png)
 
-*mRS ordinal ladder.*
+*The modified Rankin Scale is an ordinal ladder of disability; where you cut it — 0–1, 0–2, or a full ordinal shift — changes whether an effect looks large or trivial.*
 
 
 Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.

@@ -4,7 +4,7 @@
 
 ![Missingness mechanisms.](../assets/figures/fig44_missingness_mechs.png)
 
-*Missingness mechanisms.*
+*Whether data are missing completely at random, at random, or not at random determines which analysis stays unbiased.*
 
 ![Worked fragility-index example: 40 versus 22 events gives Fisher p = 0.0183; changing three treatment non-events to events gives 40 versus 25 and p = 0.0572.](../assets/figures/swarm_ch27_fragility_missing.svg)
 

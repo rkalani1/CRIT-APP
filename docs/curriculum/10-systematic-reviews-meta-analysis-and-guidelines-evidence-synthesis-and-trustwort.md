@@ -4,15 +4,15 @@
 
 ![Funnel plot concept.](../assets/figures/fig56_funnel.png)
 
-*Funnel plot concept.*
+*A funnel plot screens for small-study effects and publication bias; asymmetry is a warning, not proof, and it is underpowered with few trials.*
 
 ![Forest plot teaching sketch.](../assets/figures/fig23_forest_meta.png)
 
-*Forest plot teaching sketch.*
+*A forest plot shows each trial's estimate and weight around a pooled effect; check which single trial dominates before trusting the diamond.*
 
 ![Forest plot intuition for meta-analysis.](../assets/figures/swarm_ch10_forest.png)
 
-*Forest plot intuition for meta-analysis.*
+*Pooling narrows the interval but cannot fix incompatible populations or missing trials; read heterogeneity and inclusion criteria first.*
 
 A living systematic review drops at 06:00 with a favorable pooled OR. Check inclusion criteria, double-counting, and absolute baselines before updating the pathway binder.
 

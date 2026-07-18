@@ -4,15 +4,15 @@
 
 ![Noncollapsibility sketch.](../assets/figures/fig67_noncollapsibility.png)
 
-*Noncollapsibility sketch.*
+*Odds ratios and hazard ratios can shift when covariates are added even without any confounding — noncollapsibility, not bias.*
 
 ![Table 2 fallacy.](../assets/figures/fig55_table2_fallacy.png)
 
-*Table 2 fallacy.*
+*The Table 2 fallacy reads every adjusted coefficient as a causal effect; only the exposure of interest was designed to be interpreted that way.*
 
 ![Time-to-event: events versus censoring.](../assets/figures/swarm_ch20_survival.png)
 
-*Time-to-event: events versus censoring.*
+*Survival models weigh events against censoring over time; translate the hazard ratio into absolute risks at a horizon patients care about.*
 
 A Cox model dump fills the supplement. Translate hazards into absolute risks over a clinically meaningful horizon before teaching the result.
 

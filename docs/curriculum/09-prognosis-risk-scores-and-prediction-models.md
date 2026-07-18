@@ -4,15 +4,15 @@
 
 ![ROC versus calibration.](../assets/figures/fig29_roc_vs_calibration.png)
 
-*ROC versus calibration.*
+*Discrimination (the ROC curve) and calibration answer different questions; a model can rank patients well yet output probabilities that are systematically wrong.*
 
 ![Calibration plot concept.](../assets/figures/fig07_calibration.png)
 
-*Calibration plot concept.*
+*A calibration plot compares predicted risk to observed frequency; points off the diagonal reveal over- or under-prediction.*
 
 ![Calibration of predicted versus observed risk.](../assets/figures/swarm_ch09_calibration.png)
 
-*Calibration of predicted versus observed risk.*
+*Calibration must hold in patients like yours, not just in the derivation sample, before a score guides discharge planning.*
 
 A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
 

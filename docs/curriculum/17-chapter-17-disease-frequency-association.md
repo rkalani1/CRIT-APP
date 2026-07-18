@@ -4,7 +4,7 @@
 
 ![Occurrence measures.](../assets/figures/fig18_occurrence_measures.png)
 
-*Occurrence measures.*
+*Incidence, prevalence, and their rates are distinct occurrence measures; the grammar of frequency comes before any talk of association.*
 
 Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
 

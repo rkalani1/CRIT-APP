@@ -44,12 +44,12 @@ Private editorial note. Not in the public nav. Scope: accuracy, currency, minima
 | CRIT-008 | P2 | Machine-readability | Site root | No `llms.txt`; machine consumers must parse HTML nav | Add quiet, non-promotional `llms.txt` listing real chapter URLs + bounded evidence-register purpose | FIXED |
 | CRIT-009 | P1 | Currency | Evidence register | Register undated for today; freshest guideline claim unverified this cycle | Verify C-11/C-09 against primary sources; add dated 2026-07-18 currency note | FIXED |
 
-## 1.5 Open / deferred (next session)
+## 1.5 Follow-up items — completed 2026-07-18 (second pass)
 
-- **CRIT-010 (P2, density)**: Chapters 15, 18, 22, 23 have padded, essayistic openers before the method. Tighten like Ch 2.
-- **CRIT-011 (P2, figure a11y)**: Echo opening captions remain on ~17 chapters (03, 04, 05, 06, 07, 08, 09, 10, 11, 13, 18, 19, 20, 22, 23, 26 and others). De-echo systematically, grounded in each chapter's prose.
-- **CRIT-012 (P3, design)**: `extra.css` imports Google Fonts over the network (`@import ... fonts.googleapis.com`); consider self-hosting or `font: false` fallback for fully offline/print fidelity. Non-blocking (theme sets `font: false`).
-- None of the deferred items are P0/P1 accuracy or IP risks.
+- **CRIT-010 (P2, density)**: DONE. Tightened the chapter-preview throat-clearing in Ch 15, 18, and 23 (removed "This chapter provides/introduces/delineates…" table-of-contents sentences, kept the substantive content). Ch 22's opener was re-read and left as-is: it is substantive teaching (detection ≠ benefit), not filler.
+- **CRIT-011 (P2, figure a11y)**: DONE across the whole book. Every opening figure caption that merely echoed its alt text now teaches a distinct point grounded in the chapter's own prose (Ch 03–13, 15, 17–20, 22, 23, 26, 27, 28, in addition to 01/02/14/16/24/25 from the first pass). Also fixed malformed caption/image spacing in several openers, so those figures now render as clean semantic `<figure>` elements (rendered semantic figures 84 → 94; opening galleries 17 → 22). Ch 21 intentionally has no opening figure (text hook).
+- **CRIT-012 (P3, design)**: DONE. Vendored the three font families (Source Serif 4, Source Sans 3, JetBrains Mono — latin subset, 11 woff2 files, ~601 KiB) under `docs/assets/fonts/` and replaced the network `@import` in `extra.css` with local `@font-face` rules. The built site now makes **zero** external font requests (fonts.googleapis.com / fonts.gstatic.com refs = 0); non-latin glyphs fall back to the system stack. Fonts are OFL 1.1, so redistribution is license-clean.
+- No P0/P1 accuracy or IP items remain open. Residual: a handful of chapters still carry moderately essayistic mid-body prose (not openers) that could be tightened in a future pass, but none delays the teaching point at the opening.
 
 ## 1.6 Boundaries honored
 
