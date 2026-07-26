@@ -1,0 +1,75 @@
+/* Compact, keyboard-operable page orientation (OBS-004). */
+.mobile-page-orientation {
+  display: none;
+}
+
+.ebook-hero .ebook-start > p {
+  display: contents;
+}
+
+@media screen and (max-width: 600px) {
+  .md-header__inner {
+    min-height: 3.5rem;
+  }
+
+  .md-header__button {
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    margin: 0;
+    padding: 0.62rem;
+  }
+
+  .md-header__button.md-logo {
+    display: none;
+  }
+
+  .md-header__title {
+    min-width: 0;
+    height: auto;
+    margin: 0 0.25rem;
+    line-height: 1.1;
+  }
+
+  .md-header__title > .md-header__ellipsis {
+    display: none;
+  }
+
+  .mobile-page-orientation {
+    display: flex;
+    align-items: baseline;
+    gap: 0.32rem;
+    min-width: 0;
+    min-height: 44px;
+    padding: 0.35rem 0;
+    color: #fff;
+    font-family: var(--ebook-sans);
+    font-size: 0.76rem;
+    line-height: 1.18;
+    text-decoration: none;
+  }
+
+  .mobile-page-orientation strong {
+    flex: 0 0 auto;
+    color: #fde68a;
+    letter-spacing: 0.08em;
+  }
+
+  .mobile-page-orientation span:last-child {
+    min-width: 0;
+    overflow-wrap: anywhere;
+    white-space: normal;
+  }
+
+  .mobile-page-orientation:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+    border-radius: 0.25rem;
+  }
+
+  .md-typeset .hero-diagram {
+    margin: 0.2rem 0 0;
+    border: 0 !important;
+    box-shadow: none !important;
+  }
+}

@@ -6,20 +6,23 @@
 
 Turn a published claim into a defensible bedside decision—by matching the question to the design, translating effects into absolute terms, and carrying uncertainty all the way to action.
 
+<div class="ebook-start" markdown="1">
+[Begin with the 20-minute read](curriculum/02-how-to-read-a-paper-under-time-pressure.md)
+<a class="secondary" href="evidence-register.html">Evidence register</a>
+<a class="secondary" href="#choose-a-route">Choose a route</a>
+</div>
+
 <p class="meta">CC BY 4.0 · Educational only — not medical advice · <a href="https://github.com/rkalani1/CRIT-APP">Source on GitHub</a></p>
 </div>
+<details class="hero-diagram">
+<summary>View the four-stage appraisal lens</summary>
 <div class="hero-art">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/figures/crit_evidence_lens_mobile.png" width="600" height="760">
   <img src="assets/figures/crit_evidence_lens.png" alt="Four-stage appraisal lens: question, design, absolute effect, and decision" width="960" height="280" fetchpriority="high" decoding="async">
 </picture>
 </div>
-</div>
-
-<div class="ebook-start" markdown="1">
-[Begin with the 20-minute read](curriculum/02-how-to-read-a-paper-under-time-pressure.md)
-<a class="secondary" href="evidence-register.html">Evidence register</a>
-<a class="secondary" href="https://rkalani1.github.io/ML/">ML &amp; AI companion</a>
+</details>
 </div>
 
 ## Choose a route
