@@ -193,6 +193,133 @@
   }
 }
 
+/* ==========================================================================
+   Post-launch task-first landing remediation (OBS-002, OBS-005)
+   ========================================================================== */
+@media screen {
+  .hero-diagram {
+    min-width: 0;
+    margin: 0;
+  }
+
+  .md-typeset .hero-diagram > summary {
+    min-height: 44px;
+    align-items: center;
+    padding: 0.68rem 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.34);
+    border-radius: 0.7rem;
+    background: #312e81;
+    color: #fff;
+    cursor: pointer;
+    font-family: var(--ebook-sans);
+    font-weight: 650;
+    list-style: none;
+  }
+
+  .md-typeset .hero-diagram > summary:hover {
+    background: #1e1b4b;
+  }
+
+  .hero-diagram > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .hero-diagram > summary::after {
+    content: "+";
+    float: right;
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+
+  .hero-diagram[open] > summary::after {
+    content: "−";
+  }
+
+  .hero-diagram > summary:focus-visible {
+    outline: 3px solid #fff;
+    outline-offset: 3px;
+  }
+
+  .ebook-hero .ebook-start {
+    position: relative;
+    z-index: 2;
+    margin: 1rem 0 0.9rem;
+  }
+
+  .ebook-hero .ebook-start a {
+    min-height: 44px;
+    padding-block: 0.62rem;
+    background: #fff;
+    color: var(--ebook-deep) !important;
+    box-shadow: none;
+  }
+
+  .ebook-hero .ebook-start a.secondary {
+    border-color: rgba(255, 255, 255, 0.42);
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff !important;
+  }
+
+  .ebook-hero .ebook-start a:is(:hover, :focus-visible) {
+    background: #f8fafc;
+    color: var(--ebook-deep) !important;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  .ebook-hero--split {
+    grid-template-columns: minmax(0, 1.18fr) minmax(18rem, 0.82fr);
+  }
+
+  .hero-diagram > summary {
+    display: none;
+  }
+
+  .hero-diagram:not([open]) > .hero-art {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .ebook-hero {
+    padding: clamp(1.35rem, 5vw, 1.85rem);
+  }
+
+  .ebook-hero--split {
+    align-items: start;
+  }
+
+  .hero-diagram {
+    margin-top: 0.2rem;
+  }
+
+  .hero-diagram[open] > .hero-art {
+    margin-top: 0.75rem;
+  }
+
+  .ebook-hero .meta {
+    margin-top: 0.55rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .ebook-hero .ebook-start {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.48rem;
+  }
+
+  .ebook-hero .ebook-start a:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .ebook-hero .ebook-start a {
+    justify-content: center;
+    padding-inline: 0.65rem;
+    text-align: center;
+  }
+}
+
 /* Editorial landing components: compact, semantic, and responsive. */
 @media screen {
   html,
