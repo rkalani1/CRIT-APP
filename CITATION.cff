@@ -12,9 +12,10 @@ type: software
 authors:
   - family-names: Kalani
     given-names: Rizwan
+version: "2026.07.30"
+date-released: "2026-07-30"
 url: "https://rkalani1.github.io/CRIT-APP/"
 repository-code: "https://github.com/rkalani1/CRIT-APP"
-license: CC-BY-4.0
 keywords:
   - critical appraisal
   - evidence-based medicine

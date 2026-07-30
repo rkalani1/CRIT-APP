@@ -21,7 +21,7 @@ A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial
 
 Neurologic literature remains deeply afflicted by dichotomania—the compulsive categorization of continuous evidence into 'positive' or 'negative' bins based on an arbitrary mathematical boundary, typically alpha = 0.05. This cognitive distortion causes clinicians to equate a p-value of 0.04 with definitive truth and a p-value of 0.06 with statistical noise. The reality is that chance is a continuous threat to precision, and treating inferential statistics as a categorical verdict fundamentally misunderstands the architecture of uncertainty.
 
-Statistical inference is an exercise in estimation, not adjudication. The goal of a clinical trial is not to prove that an effect is exactly zero or not zero, but to estimate the magnitude of the effect and quantify the precision of that estimate. By elevating the p-value above the confidence interval, readers systematically ignore the clinical importance of the point estimate and the plausible range of alternative truths contained within the data. A rigorously designed but imprecise study of absolute benefits is infinitely more useful for patient care than a highly significant, massively confounded artifact.
+Statistical inference is an exercise in estimation, not adjudication. A clinical trial estimates an effect under stated design and analysis assumptions rather than proving that the effect is exactly zero or nonzero. Reading only a p-value can obscure the magnitude, direction, and uncertainty of the estimate. A well-designed but imprecise study may therefore be more informative for patient care than a precisely estimated association from a design with serious unresolved bias.
 
 - Random error (chance) affects precision; systematic error (bias) corrupts validity.
 - Hypothesis testing cannot rescue invalid estimates derived from confounded data.
@@ -57,7 +57,7 @@ THE ESTIMATION HEURISTIC
 
 The p-value is perhaps the most chronically misunderstood metric in biomedicine. Formally, it is the probability of observing a test statistic at least as extreme as the one calculated, assuming that the null hypothesis is true and that all background assumptions of the statistical model are perfectly met. It is fundamentally a measure of data surprise under a highly specific, often implausible scenario (the sharp null).
 
-The p-value does NOT represent the probability that the null hypothesis is true. It does NOT represent the probability that the finding is a 'fluke.' It provides absolutely no information regarding the magnitude, clinical relevance, or causal reality of the estimated effect. A p-value of 0.001 in an administrative database of five million patients can comfortably correspond to an effect size so minuscule it is irrelevant to human health. Conversely, a p-value of 0.15 in a trial of 80 patients may obscure a massive therapeutic signal drowning in random error.
+The p-value is not the probability that the null hypothesis is true or that a finding is a fluke. By itself it does not quantify effect magnitude, clinical importance, or causal identification. A small p-value in a very large database can accompany a small effect, while a larger p-value in a small trial can accompany an imprecise large point estimate. Inspect the estimate, interval, design, and assumptions rather than inferring either example from the p-value alone.
 
 When authors state 'there was no difference between groups (p = 0.30)', they overstate what the test establishes. The study did not reject the null under the specified test; inspect the effect estimate and confidence interval to distinguish compatibility with negligible effects from substantial imprecision. A large p-value does not confirm that the true effect is zero.
 
@@ -125,7 +125,7 @@ Inference should emphasize effect estimates, uncertainty, clinical thresholds, a
 5. Translate a relative risk of 0.60 (95% CI, 0.45-0.85) into absolute risk reductions assuming a baseline event rate of 2%, and again assuming a baseline event rate of 25%. Discuss the divergent clinical imperatives.
 6. Articulate the logical fallacy of calculating 'post hoc power' for an primary endpoint that failed to achieve statistical significance.
 7. Explain the non-linear discontinuity that occurs when attempting to calculate a Number Needed to Treat (NNT) confidence interval derived from an ARR interval that crosses the null.
-8. Construct an argument for why a highly significant p-value (p < 0.001) in an observational registry of 500,000 patients provides functionally zero evidence of a causal relationship.
+8. Explain why a small p-value in a large observational registry does not by itself establish a causal effect. Identify which design and identification assumptions—not sample size alone—would support the causal claim.
 
 ---
 

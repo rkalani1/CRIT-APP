@@ -1,37 +1,11 @@
 {
-  "schema_version": 1,
-  "audit_date": "2026-07-16",
+  "schema_version": 3,
+  "audit_date": "2026-07-30",
   "scope": "docs/assets/figures PNG and SVG assets",
-  "caveat": "Hashes and software metadata support traceability but do not prove authorship or eliminate copyright risk.",
-  "asset_count": 92,
+  "rights_register": "_meta/asset-rights-register.json",
+  "caveat": "Hashes, repository history, and software metadata support traceability but do not independently prove chain of title, human authorship, copyrightability, or non-infringement.",
+  "asset_count": 89,
   "assets": [
-    {
-      "path": "docs/assets/figures/crit_absolute_effect_bridge.png",
-      "sha256": "d53c7846f730ae09828bd9bcec14f954ca7bfc72c6a0427575ced885401e84f3",
-      "bytes": 191584,
-      "width": 959,
-      "height": 430,
-      "software_metadata": "not detected",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/crit_evidence_lens.png",
-      "sha256": "b42094ec3a6ab8b8b0eecd044ba4cb8181927354ed308f27cbcdcfd04eb1f8a1",
-      "bytes": 176000,
-      "width": 960,
-      "height": 280,
-      "software_metadata": "not detected",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
-    {
-      "path": "docs/assets/figures/crit_evidence_lens_mobile.png",
-      "sha256": "6c87dec76bdec2a060e5332b063270e318f06aadfe168a2b38198deb47340e1d",
-      "bytes": 247284,
-      "width": 600,
-      "height": 760,
-      "software_metadata": "not detected",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
-    },
     {
       "path": "docs/assets/figures/crit_fig_autopsy_sequence.png",
       "sha256": "3ef776ff8af01f994fd1c225786d104e73d8ebf6968b69c4b53146c6191226e0",
@@ -39,7 +13,9 @@
       "width": 959,
       "height": 431,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "f73b13463fd510aa8a56132213132ba362141e4d",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_bayes_lr.png",
@@ -48,7 +24,9 @@
       "width": 1174,
       "height": 773,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_claim_types.png",
@@ -57,7 +35,9 @@
       "width": 936,
       "height": 429,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "7705aa1967d3471cdecdda7934945dd44cfefba9",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_confounder_mediator_collider.png",
@@ -66,7 +46,9 @@
       "width": 1210,
       "height": 477,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "66e70e359ac9ab50a4b536bbb835b48733173ca1",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_dual_process_pair.png",
@@ -75,7 +57,9 @@
       "width": 901,
       "height": 452,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "0eba613398720bb1806939baf4811c37359ad2a3",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_incidence_prevalence.png",
@@ -84,7 +68,9 @@
       "width": 961,
       "height": 500,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "25183e43fdb69faa3770c1cbac2b9cc1a5de90d4",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_mrs_ladder.png",
@@ -93,7 +79,9 @@
       "width": 959,
       "height": 429,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "c370c9a96c271156d83b32322748f2a2df3dcb1f",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_nnt_icon_array.png",
@@ -102,7 +90,9 @@
       "width": 937,
       "height": 426,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "25183e43fdb69faa3770c1cbac2b9cc1a5de90d4",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_prediction_vs_causation.png",
@@ -111,7 +101,9 @@
       "width": 1023,
       "height": 489,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "66e70e359ac9ab50a4b536bbb835b48733173ca1",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_rel_vs_abs.png",
@@ -120,7 +112,9 @@
       "width": 913,
       "height": 429,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "75343d97a59ff7a6115c3a1c72f8686157ff0b6e",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_spin_watchlist.png",
@@ -129,7 +123,9 @@
       "width": 961,
       "height": 497,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "01093f3cebd23a43dcee342a21c65f5f548f06af",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_subgroup_probes.png",
@@ -138,7 +134,9 @@
       "width": 936,
       "height": 452,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "c370c9a96c271156d83b32322748f2a2df3dcb1f",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_timed_read_stack.png",
@@ -147,7 +145,9 @@
       "width": 867,
       "height": 452,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5985d728bdf4f95f305e66236b838a15eedca18d",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/crit_fig_trial_pathway.png",
@@ -156,7 +156,9 @@
       "width": 1023,
       "height": 376,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "93c1f14231376b315a436eb734d1cf96efbb6cb9",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig01_reading_flow.png",
@@ -165,7 +167,9 @@
       "width": 1745,
       "height": 1147,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig02_bias_taxonomy.png",
@@ -174,7 +178,9 @@
       "width": 1589,
       "height": 1055,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig03_dag_confounding.png",
@@ -183,7 +189,9 @@
       "width": 1765,
       "height": 947,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig04_target_trial.png",
@@ -192,7 +200,9 @@
       "width": 1589,
       "height": 839,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig05_trial_pathway.png",
@@ -201,7 +211,9 @@
       "width": 1512,
       "height": 1178,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig06_ppv_prevalence.png",
@@ -210,7 +222,9 @@
       "width": 1648,
       "height": 987,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig07_calibration.png",
@@ -219,7 +233,9 @@
       "width": 1509,
       "height": 1141,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig08_arr_nnt.png",
@@ -228,7 +244,9 @@
       "width": 1441,
       "height": 956,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig09_journal_club.png",
@@ -237,7 +255,9 @@
       "width": 1611,
       "height": 747,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig12_immortal_time.png",
@@ -246,7 +266,9 @@
       "width": 1589,
       "height": 839,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig13_interaction_scales.png",
@@ -255,7 +277,9 @@
       "width": 1892,
       "height": 1003,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig14_screening_biases.png",
@@ -264,7 +288,9 @@
       "width": 1835,
       "height": 1449,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig15_dual_process.png",
@@ -273,7 +299,9 @@
       "width": 1640,
       "height": 1024,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig16_therapy_harm_card.png",
@@ -282,7 +310,9 @@
       "width": 1589,
       "height": 1055,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig18_occurrence_measures.png",
@@ -291,7 +321,9 @@
       "width": 1606,
       "height": 931,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig19_standardization.png",
@@ -300,7 +332,9 @@
       "width": 1601,
       "height": 948,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig20_counterfactual.png",
@@ -309,7 +343,9 @@
       "width": 1660,
       "height": 932,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig21_estimation_ci.png",
@@ -318,7 +354,9 @@
       "width": 1434,
       "height": 1018,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig23_forest_meta.png",
@@ -327,7 +365,9 @@
       "width": 1633,
       "height": 895,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig24_pico_estimand.png",
@@ -336,7 +376,9 @@
       "width": 1210,
       "height": 716,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig25_validity_transport.png",
@@ -345,7 +387,9 @@
       "width": 1172,
       "height": 683,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig26_consort_minded.png",
@@ -354,7 +398,9 @@
       "width": 1086,
       "height": 953,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig27_three_bias_families.png",
@@ -363,7 +409,9 @@
       "width": 1744,
       "height": 666,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig28_lr_bayes_curves.png",
@@ -372,7 +420,9 @@
       "width": 1257,
       "height": 751,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig29_roc_vs_calibration.png",
@@ -381,7 +431,9 @@
       "width": 1583,
       "height": 713,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig30_mrs_shift.png",
@@ -390,7 +442,9 @@
       "width": 1234,
       "height": 726,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig31_competing_risks.png",
@@ -399,7 +453,9 @@
       "width": 1166,
       "height": 751,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig32_nnt_vs_baseline.png",
@@ -408,7 +464,9 @@
       "width": 1160,
       "height": 751,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig33_hte_credibility.png",
@@ -417,7 +475,9 @@
       "width": 1210,
       "height": 744,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig34_ai_leakage.png",
@@ -426,7 +486,9 @@
       "width": 1210,
       "height": 707,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig35_ai_site_shift.png",
@@ -435,7 +497,9 @@
       "width": 1136,
       "height": 726,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig37_spin_detector.png",
@@ -444,7 +508,9 @@
       "width": 1210,
       "height": 744,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig39_action_thresholds.png",
@@ -453,7 +519,9 @@
       "width": 1210,
       "height": 657,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig41_pathway_decisions.png",
@@ -462,7 +530,9 @@
       "width": 1210,
       "height": 706,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig42_itt_vs_pp.png",
@@ -471,7 +541,9 @@
       "width": 1147,
       "height": 682,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig43_ci_width_n.png",
@@ -480,7 +552,9 @@
       "width": 1160,
       "height": 726,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig44_missingness_mechs.png",
@@ -489,7 +563,9 @@
       "width": 1744,
       "height": 635,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig45_multiplicity_tree.png",
@@ -498,7 +574,9 @@
       "width": 1147,
       "height": 743,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig46_cpr_lifecycle.png",
@@ -507,7 +585,9 @@
       "width": 1272,
       "height": 534,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig47_evalue.png",
@@ -516,7 +596,9 @@
       "width": 1146,
       "height": 726,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig48_active_comparator.png",
@@ -525,7 +607,9 @@
       "width": 1210,
       "height": 682,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig49_diagnostic_2x2.png",
@@ -534,7 +618,9 @@
       "width": 961,
       "height": 743,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig50_bradford_hill_questions.png",
@@ -543,7 +629,9 @@
       "width": 1210,
       "height": 803,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig51_jc_roles.png",
@@ -552,7 +640,9 @@
       "width": 1210,
       "height": 682,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig52_decision_curve.png",
@@ -561,7 +651,9 @@
       "width": 1199,
       "height": 751,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig54_surrogate_trap.png",
@@ -570,7 +662,9 @@
       "width": 1147,
       "height": 682,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig55_table2_fallacy.png",
@@ -579,7 +673,9 @@
       "width": 1210,
       "height": 682,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig56_funnel.png",
@@ -588,7 +684,9 @@
       "width": 1320,
       "height": 1011,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig58_composite_endpoint.png",
@@ -597,7 +695,9 @@
       "width": 1651,
       "height": 950,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig59_cuminc_curve.png",
@@ -606,7 +706,9 @@
       "width": 1382,
       "height": 950,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig67_noncollapsibility.png",
@@ -615,7 +717,9 @@
       "width": 1661,
       "height": 832,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig69_wlst_selffulfilling.png",
@@ -624,7 +728,9 @@
       "width": 1512,
       "height": 709,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig70_absrel_baseline.png",
@@ -633,7 +739,9 @@
       "width": 1516,
       "height": 950,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig71_action_thresholds2.png",
@@ -642,7 +750,9 @@
       "width": 1434,
       "height": 617,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig72_transportability.png",
@@ -651,7 +761,9 @@
       "width": 1463,
       "height": 771,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/fig73_roc_operating.svg",
@@ -659,8 +771,10 @@
       "bytes": 5702,
       "width": 1200,
       "height": 720,
-      "software_metadata": "hand-authored SVG",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "software_metadata": "SVG; generator not identified in embedded metadata",
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "8808a3bc9db5583415000e9f6a2a978a4c5dd6db",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/fig77_regression_dilution.png",
@@ -669,7 +783,9 @@
       "width": 1543,
       "height": 948,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "5f9ea866a2d035c8958d06296dd8be1d76e02905",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/swarm3h_spectrum_mismatch.png",
@@ -678,7 +794,9 @@
       "width": 867,
       "height": 429,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "embedded-tool-metadata-only",
+      "current_content_commit": "c5111ee44c8c1497cd2d4df8f8365653c239321a",
+      "provenance_assertion": "The exact current asset bytes match repository history and the current file contains tool metadata. No directly linked generator source was verified; this is not independent rights clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch02_reading_triage.png",
@@ -687,7 +805,9 @@
       "width": 1500,
       "height": 811,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch04_bias_taxonomy.png",
@@ -696,7 +816,9 @@
       "width": 1361,
       "height": 779,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch07_immortal_time.png",
@@ -705,7 +827,9 @@
       "width": 1361,
       "height": 656,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch09_calibration.png",
@@ -714,7 +838,9 @@
       "width": 1055,
       "height": 911,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch10_forest.png",
@@ -723,7 +849,9 @@
       "width": 1356,
       "height": 1261,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch14_ai_leakage.png",
@@ -732,7 +860,9 @@
       "width": 1291,
       "height": 697,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch15_jc_roles.png",
@@ -741,7 +871,9 @@
       "width": 1221,
       "height": 767,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch16_autopsy_flow.png",
@@ -750,7 +882,9 @@
       "width": 1361,
       "height": 558,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch19_estimation_ci.png",
@@ -759,7 +893,9 @@
       "width": 1285,
       "height": 729,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch20_survival.png",
@@ -768,7 +904,9 @@
       "width": 1221,
       "height": 628,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch22_screening.png",
@@ -777,7 +915,9 @@
       "width": 1291,
       "height": 697,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch23_dual_process.png",
@@ -786,7 +926,9 @@
       "width": 1221,
       "height": 697,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch24_therapy_harm.png",
@@ -795,7 +937,9 @@
       "width": 1152,
       "height": 656,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch25_diagnostic_2x2.png",
@@ -804,7 +948,9 @@
       "width": 942,
       "height": 767,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch26_cpr_lifecycle.png",
@@ -813,7 +959,9 @@
       "width": 1361,
       "height": 600,
       "software_metadata": "Matplotlib",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "ece45bb1a05a2afeeed245b53bfb107c47724de0",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch27_fragility_missing.svg",
@@ -821,8 +969,10 @@
       "bytes": 3466,
       "width": 1200,
       "height": 720,
-      "software_metadata": "hand-authored SVG",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "software_metadata": "SVG; generator not identified in embedded metadata",
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "8808a3bc9db5583415000e9f6a2a978a4c5dd6db",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     },
     {
       "path": "docs/assets/figures/swarm_ch28_natural_frequencies.svg",
@@ -830,8 +980,10 @@
       "bytes": 15190,
       "width": 1200,
       "height": 720,
-      "software_metadata": "hand-authored SVG",
-      "provenance_assertion": "Teaching asset present in this repository; authorship and rights have not been independently verified."
+      "software_metadata": "SVG; generator not identified in embedded metadata",
+      "rights_status": "repository-candidate-generator-link",
+      "current_content_commit": "8808a3bc9db5583415000e9f6a2a978a4c5dd6db",
+      "provenance_assertion": "The exact current asset bytes match a repository commit that also contains a generator-named script that directly names the asset and contains a file-rendering operation. It is a candidate generator link, not proof that the script produced those bytes, independent ownership, or non-infringement clearance."
     }
   ]
 }

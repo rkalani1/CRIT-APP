@@ -12,7 +12,7 @@
 
 ![Causal graph motifs used in appraisal.](../assets/figures/crit_fig_confounder_mediator_collider.png)
 
-*Confounder, mediator, and collider motifs each call for different handling; the graph, not intuition, decides what to adjust for.*
+*Confounder, mediator, and collider motifs each call for different handling; subject-matter assumptions encoded in a causal graph guide adjustment choices and make those assumptions open to critique.*
 
 
 Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
@@ -46,7 +46,7 @@ When an observed association deviates from the true causal effect, the discrepan
 
 ### Confounding: The Open Backdoor Path
 
-Confounding occurs when a third variable, the confounder, is a common cause of both the exposure and the outcome. This creates a spurious 'backdoor path' that mimics a causal relationship. For example, in an observational study evaluating a novel oral anticoagulant versus warfarin, older age and chronic kidney disease might independently dictate both the choice of the novel drug (exposure) and an increased risk of hemorrhagic transformation (outcome). If not rigorously adjusted for, the analysis will falsely attribute the adverse outcomes directly to the drug.
+Confounding occurs when an open backdoor path links exposure and outcome, often through common causes of treatment choice and prognosis. An unadjusted association can then mix the treatment effect with noncausal association. In an anticoagulant comparison, age, kidney function, frailty, indication, and contraindications may influence both treatment and hemorrhage risk. Inadequate control can bias the treatment contrast in either direction; the graph, measurement, and treatment process determine the likely direction and magnitude.
 
 *Teaching figure (synthetic).* The E-value translates an observed RR into the minimum confounder–outcome and confounder–exposure association that could fully explain the finding away. Modest RRs (≈1.2–1.5) evaporate under weak residual confounding; large RRs demand stronger alternative explanations. The metric is a sensitivity probe—not a causal proof and not a fix for selection or measurement bias.
 

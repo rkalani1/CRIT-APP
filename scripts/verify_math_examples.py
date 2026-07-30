@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import math
 import sys
+from pathlib import Path
 
 
 def near(a: float, b: float, tol: float = 1e-3) -> bool:
@@ -35,6 +36,44 @@ def fisher_two_sided(a: int, b: int, c: int, d: int) -> float:
 
 def main() -> int:
     checks: list[tuple[str, bool, str]] = []
+
+    # Homepage synthetic absolute-effect bridge and source drift guard
+    homepage = (Path(__file__).resolve().parents[1] / "docs" / "index.md").read_text(
+        encoding="utf-8"
+    )
+    control_risk, relative_risk = 0.20, 0.80
+    treatment_risk = control_risk * relative_risk
+    absolute_risk_reduction = control_risk - treatment_risk
+    nnt = 1 / absolute_risk_reduction
+    checks.append(
+        (
+            "homepage_treatment_risk",
+            near(treatment_risk, 0.16, 1e-12),
+            f"{treatment_risk:.2f}",
+        )
+    )
+    checks.append(
+        (
+            "homepage_ARR",
+            near(absolute_risk_reduction, 0.04, 1e-12),
+            f"{absolute_risk_reduction:.2f}",
+        )
+    )
+    checks.append(("homepage_NNT", near(nnt, 25, 1e-12), f"{nnt:.0f}"))
+    checks.append(
+        (
+            "homepage_effect_source_anchor",
+            all(
+                phrase in homepage
+                for phrase in (
+                    "Control risk</span><strong>20%",
+                    "Treatment risk</span><strong>16%",
+                    "ARR 4 percentage points · NNT 25",
+                )
+            ),
+            "semantic example strings",
+        )
+    )
 
     # Ch03 favorable-outcome causal contrast
     p_control, p_treated = 0.25, 0.40

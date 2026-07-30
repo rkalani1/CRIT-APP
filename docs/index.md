@@ -12,17 +12,14 @@ Turn a published claim into a defensible bedside decision—by matching the ques
 <a class="secondary" href="#choose-a-route">Choose a route</a>
 </div>
 
-<p class="meta">CC BY 4.0 · Educational only — not medical advice · <a href="https://github.com/rkalani1/CRIT-APP">Source on GitHub</a></p>
+<p class="meta">Scoped CC BY 4.0 · Educational only — not medical advice · <a href="publication-standards.html">Publication standards</a> · <a href="https://github.com/rkalani1/CRIT-APP">Source on GitHub</a></p>
 </div>
-<details class="hero-diagram">
-<summary>View the four-stage appraisal lens</summary>
-<div class="hero-art">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/figures/crit_evidence_lens_mobile.png" width="600" height="760">
-  <img src="assets/figures/crit_evidence_lens.png" alt="Four-stage appraisal lens: question, design, absolute effect, and decision" width="960" height="280" fetchpriority="high" decoding="async">
-</picture>
-</div>
-</details>
+<ol class="appraisal-lens-steps" aria-label="Four-stage appraisal lens">
+  <li><span class="lens-number">1</span><span class="lens-copy"><strong>Question</strong><small>Name the claim</small></span></li>
+  <li><span class="lens-number">2</span><span class="lens-copy"><strong>Design</strong><small>Test the support</small></span></li>
+  <li><span class="lens-number">3</span><span class="lens-copy"><strong>Effect</strong><small>Use absolute effects</small></span></li>
+  <li><span class="lens-number">4</span><span class="lens-copy"><strong>Decision</strong><small>Judge the fit</small></span></li>
+</ol>
 </div>
 
 ## Choose a route
@@ -36,10 +33,18 @@ Turn a published claim into a defensible bedside decision—by matching the ques
 
 ## Translate the headline
 
-<figure class="feature-figure">
-<img src="assets/figures/crit_absolute_effect_bridge.png" alt="Synthetic example translating a risk reduction from 20 percent to 16 percent into RRR 20 percent, ARR 4 percentage points, and NNT 25" width="959" height="430" loading="lazy" decoding="async">
-<figcaption>A relative effect becomes clinically useful only after baseline risk and a time horizon are explicit. Values shown are synthetic.</figcaption>
-</figure>
+<div class="absolute-effect-example" role="group" aria-label="Synthetic absolute-effect calculation">
+  <div><span>Control risk</span><strong>20%</strong><small>20 events per 100</small></div>
+  <span class="effect-arrow" aria-hidden="true">→</span>
+  <div><span>Treatment risk</span><strong>16%</strong><small>16 events per 100</small></div>
+  <span class="effect-arrow" aria-hidden="true">→</span>
+  <div class="effect-result"><span>Decision translation</span><strong>RRR 20%</strong><small>ARR 4 percentage points · NNT 25</small></div>
+</div>
+
+The values are synthetic: with control risk 20% and relative risk 0.80,
+treatment risk is 16%, absolute risk reduction is 4 percentage points, and NNT
+is 25. A relative effect becomes decision-ready only after baseline risk and a
+time horizon are explicit.
 
 | Claim you are reading | Minimum validity check | Decision-ready result |
 | --- | --- | --- |

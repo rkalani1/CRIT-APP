@@ -4,7 +4,7 @@
 
 ![Missingness mechanisms.](../assets/figures/fig44_missingness_mechs.png)
 
-*Whether data are missing completely at random, at random, or not at random determines which analysis stays unbiased.*
+*Missing-data assumptions and the analysis model jointly determine what can be estimated; the mechanism is not verified by the observed data alone.*
 
 ![Worked fragility-index example: 40 versus 22 events gives Fisher p = 0.0183; changing three treatment non-events to events gives 40 versus 25 and p = 0.0572.](../assets/figures/swarm_ch27_fragility_missing.svg)
 
@@ -21,9 +21,9 @@ Stroke research is uniquely vulnerable to these specific analytic threats. Delay
 
 ## Missingness Mechanisms: MCAR, MAR, and MNAR
 
-Missing data are rarely just missing; they carry structural information. Missing Completely at Random (MCAR) implies that the probability of missingness is entirely independent of any patient characteristic or outcome. True MCAR is exceptional in clinical neuroscience—perhaps a corrupted MR angiogram file or a lost case report form. Under MCAR, a complete-case analysis is unbiased but inefficient.
+Missingness can reflect logistics, measurement, prognosis, or chance. MCAR means missingness is independent of observed and unobserved analysis variables. Under MCAR, complete-case analysis can be unbiased for some estimands under a correctly specified model, but it is less efficient and may change the target population; the conclusion is not automatic for every analysis.
 
-Missing at Random (MAR) assumes that missingness can be fully explained by observed baseline covariates, and that conditional on these observed data, missingness does not depend on the unobserved outcome itself. For instance, if 90-day mRS is more often missing in patients with severe admission NIHSS and older age, but within those specific strata the missingness is random, the data are MAR. This assumption licenses techniques like multiple imputation or inverse probability weighting. However, MAR is a strong, unverifiable assumption, not a mathematical certainty.
+MAR means that, conditional on included observed information, missingness does not additionally depend on the missing value. That information can include baseline, longitudinal, outcome-related, and auxiliary variables—not only baseline covariates. Multiple imputation or weighting can be valid under MAR when their models and positivity assumptions are adequate; MAR is not verifiable from observed data alone, so sensitivity to plausible MNAR mechanisms remains important.
 
 Missing Not at Random (MNAR) means that, after conditioning on observed information, missingness still depends on an unobserved value. If follow-up participation depends on unrecorded disability itself, a standard MAR analysis may be biased. The mechanism is not identifiable from observed data alone. MNAR is often clinically plausible in stroke follow-up and should be explored with transparent, clinically grounded sensitivity analyses such as pattern-mixture, selection-model, or tipping-point approaches.
 
@@ -72,7 +72,7 @@ Missing-data assumptions, multiplicity control, and interim-monitoring rules det
 
 ## Practice and reflection
 
-1. Select a recent endovascular trial stopped early for efficacy. Calculate its fragility index and compare it to the number of patients lost to follow-up.
+1. Select an early-stopped endovascular trial with a statistically significant, prespecified dichotomous endpoint. Reconstruct the exact 2x2 table, name the test, calculate the conventional fragility index, and compare it with missing outcomes. If the trial's primary endpoint is ordinal or time-to-event, explain why that conventional index does not apply and propose an endpoint-appropriate sensitivity or tipping-point analysis instead.
 2. Identify a stroke trial where a secondary endpoint is emphasized in the abstract. Trace the alpha-spending protocol to determine if the finding is statistically valid.
 3. Explain why a complete-case analysis of 90-day mRS outcomes is likely biased under an MNAR assumption, focusing on stroke severity and mortality.
 4. Critique the use of LOCF in a hypothetical secondary prevention trial tracking recurrent TIA over 12 months.

@@ -1,12 +1,13 @@
 # Critical Appraisal for Neurologists
 
-> Open-source teaching ebook on critical appraisal of clinical evidence for neurology and stroke. Content is educational only — not medical advice, not local policy, not institutional endorsement. Content licensed CC BY 4.0; site code ISC.
+> Open-source teaching ebook on critical appraisal of clinical evidence for neurology and stroke. Publisher-controlled book material is available under a scoped CC BY 4.0 grant; site code is ISC. See LICENSE and the publication standards for exclusions. Educational only — not medical advice, not local policy, not institutional endorsement.
 
-This file lists the stable public pages of the ebook. Worked numerical examples are synthetic unless a caption or sentence names a specific trial or guideline. Quantitative clinical claims are grounded in primary sources or explicitly marked "needs confirmation"; the evidence register records which high-consequence claims received a primary-source check and is not a claim of full-book peer review.
+This file lists the stable public pages of the ebook. Worked numerical examples are synthetic unless a caption or sentence names a specific trial or guideline. The evidence register records selected high-consequence claims that received a primary-source check and is not a claim of full-book peer review.
 
 ## Start here
 
 - [Introduction and contents](https://rkalani1.github.io/CRIT-APP/index.html): Landing page, reading routes, and the full chapter list.
+- [Publication standards and disclosures](https://rkalani1.github.io/CRIT-APP/publication-standards.html): Educational, AI-assistance, rights, evidence, privacy, accessibility, and correction boundaries.
 - [How to read a paper under time pressure](https://rkalani1.github.io/CRIT-APP/curriculum/02-how-to-read-a-paper-under-time-pressure.html): The 20-minute appraisal protocol.
 - [Evidence register](https://rkalani1.github.io/CRIT-APP/evidence-register.html): Bounded list of primary-source-checked claims, with the review contract and known frontier.
 

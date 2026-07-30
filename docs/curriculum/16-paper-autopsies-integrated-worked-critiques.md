@@ -111,9 +111,9 @@ The purported external validation was conducted at a sister hospital sharing the
 
 ### C4. Bottom-Line Decision
 
-- Decision: Watch. Autonomous triage is strictly contraindicated. Do not procure without prospective local validation.
+- Decision in this fictional scenario: Watch. The reported evidence does not support autonomous triage or procurement by itself; any proposed use would need prospective intended-use evaluation, human-factors and failure-mode review, applicable regulatory and institutional approval, and comparison with the current workflow.
 - Methodological veto: PPV collapse at true clinical prevalence; pseudo-external validation; optimistic threshold tuning.
-- Service action: Any pilot must run in silent-mode for 3 months to audit true PPV, with strict vascular neurology oversight.
+- Possible evaluation design: a governance-approved silent-mode phase can estimate local alert yield, calibration, failures, subgroup performance, and workflow burden before results influence care. The duration and oversight should be determined by event accrual, risk, protocol, and institutional requirements rather than a universal three-month rule.
 - What would change mind: True external, multi-vendor prospective validation with a locked threshold, demonstrating workflow speedup without excessive false-positive alert burden.
 
 ## Autopsy D — The Non-Inferiority RCT (DUAL-SAFE)
@@ -165,7 +165,7 @@ Under the scenario’s synthetic 15% threshold, miscalibration could push patien
 
 Clinical note — Living Pathways. Use autopsy bottom lines to drive explicit operational ownership and expiration dates. Evidence is not static. CLEAR-PATH-style evidence should map directly to regional transfer agreements and night imaging capabilities. RapidLVO-Net-style papers should mandate local procurement governance, replacing fear-of-missing-out purchasing with rigid mathematical audits of positive predictive value.
 
-Clinical note — Communicating Uncertainty to Patients. Patients, families, and hospital administrators deeply desire binary certainty. The physician's duty is to offer calibrated probabilistic language. State: 'This trial indicates offering EVT to patients in this state yields a 1 in 10 chance of additional independence, carrying a small but real risk of procedural hemorrhage.' Contrast this precision with the vague assertions of observational HRs: 'This rehab study is structurally incapable of proving mortality reduction; we will recommend rehab based on functional necessity, not this metric.'
+Clinical note — Communicating Uncertainty. Calibrated language should distinguish a group-average effect from an identifiable individual benefit: 'In the trial, about 10 more people per 100 assigned to EVT achieved the defined independence outcome by 90 days, with the reported hemorrhage risk and uncertainty; applicability to this situation depends on eligibility and current guidance.' For the fictional rehabilitation study: 'This design cannot identify the claimed mortality effect because exposure timing and confounding are unresolved; rehabilitation decisions require other evidence, clinical assessment, patient goals, and current care standards.'
 
 Epidemiologic note — The Architecture of Estimands. An estimand defines the exact causal target of a trial. CLEAR-PATH targets the effect of assignment to an EVT strategy (Intention-to-Treat). REHAB-FIRST entirely fails to articulate a clear intervention estimand anchored to a specific time-zero. RapidLVO-Net targets a diagnostic classification parameter, not a causal treatment effect, yet its authors borrow the rhetoric of practice change appropriate only for randomized trials. Rigorous adherence to estimand definitions prevents severe category errors.
 
@@ -188,7 +188,7 @@ Epidemiologic note — Transportability and Transport Causal Models. Source and 
 
 ## Chapter summary
 
-Paper autopsies synthesize isolated methodological concepts into comprehensive, defensible clinical judgments. Through the rigorous deconstruction of five distinct archetypes—the EVT RCT, the observational rehabilitation study, the AI imaging algorithm, the non-inferiority secondary prevention trial, and the prognostic prediction model—this chapter establishes a repeatable architecture for evidence appraisal. We demonstrated that absolute risk metrics routinely deflate relative hype, that immortal time bias manufactures spurious survival benefits, and that the Positive Predictive Value of AI models collapses under the weight of true clinical prevalence. Furthermore, we exposed how assay sensitivity failures dilute non-inferiority trials and how miscalibrated prediction models mechanize iatrogenic harm. The ultimate purpose of the autopsy is not mere critique, but the protection of the patient through the enforcement of epistemological discipline. By operationalizing evidence strictly through absolute effects and structural causal mapping, stroke neurologists can insulate their clinical pathways from both academic nihilism and commercial hype.
+Paper autopsies synthesize isolated methodological concepts into defensible, conditional judgments. Across five fictional archetypes, the chapter shows how absolute risks can reframe relative headlines, how immortal-time classification can create a spurious survival advantage, and how lower deployment prevalence can reduce positive predictive value. It also shows why non-inferiority conclusions depend on margins and analysis sets, and why miscalibration can move people across modeled action thresholds. The purpose is not merely critique: it is to define what each design can support, what remains uncertain, and which governance or validation step follows.
 
 ---
 

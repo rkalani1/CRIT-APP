@@ -19,17 +19,19 @@ Policy meeting: absolute benefit looks large in trials but small in your catchme
 
 ## Pathway Change and De-Implementation
 
-The integration of new evidence into institutional pathways requires more than simply writing novel orders. Often, the most formidable barrier in vascular neurology is de-implementation—the deliberate process of abandoning entrenched practices that high-quality evidence has proven ineffective or harmful. Clinical pathways become deeply institutionalized. The routine ordering of extensive hypercoagulable panels in unselected older stroke patients, or the continuation of sliding-scale insulin without basal coverage in acute stroke units, frequently persists long after the literature has debunked their utility.
+The integration of new evidence into institutional pathways requires more than simply writing novel orders. Often, the most formidable barrier in vascular neurology is de-implementation—the deliberate process of abandoning entrenched practices after current evidence and local review show that their harms, burdens, or opportunity costs exceed their benefits. Clinical pathways become deeply institutionalized. Candidate examples for review might include default broad hypercoagulable testing without a supported indication or correction-only insulin used as the sole continuing inpatient strategy. These examples are prompts for evidence review, not universal directives: the relevant population, indication, current guideline, and local safety data must be checked before a practice is changed.
 
-De-implementation demands active dismantling of legacy order sets, multidisciplinary retraining, and confronting the cognitive bias of omission where clinicians fear that withdrawing an intervention equates to withholding care. Successful pathway reform requires forcing functions within the electronic health record, robust audit and feedback cycles, and clear institutional directives to prevent the reflexive execution of low-value medicine.
+De-implementation may require revising legacy order sets, multidisciplinary retraining, and confronting the cognitive bias of omission where clinicians fear that withdrawing an intervention equates to withholding care. Any EHR forcing function also creates new failure modes. Pathway reform therefore requires authorized governance, clinical and technical validation, audit and feedback, and a reversible implementation plan.
 
 Operational checklist for a pathway change:
 
 1. Name the decision (adopt, restrict, or retire a practice).
 2. Attach absolute benefits and harms with time horizons.
 3. State the validity caveats that would reverse the decision.
-4. Assign an owner, metric, and review date.
-5. Delete or rewrite the EHR default that encodes the old habit.
+4. Identify the authorized governance body and the affected clinical, pharmacy, nursing, informatics, and patient-safety stakeholders.
+5. Assign an accountable owner, balancing metrics, review date, and stop or rollback criteria.
+6. Build and test proposed EHR changes in a non-production environment, including uncommon and safety-critical workflows.
+7. Only authorized teams should release production changes; monitor the go-live and use the rollback plan if prespecified safety signals emerge.
 
 ## Transportability Across Hospital Settings
 
@@ -50,9 +52,9 @@ Transport questions to force onto the board:
 
 Quality metrics, often enforced by national certifying bodies and pay-for-performance models, aim to standardize care delivery. However, rigid adherence to these targets can generate perverse incentives that conflict with nuanced, evidence-based medicine.
 
-The metric of door-to-needle time for intravenous thrombolysis serves as a primary example. While rapid recanalization undeniably benefits the majority of eligible acute ischemic stroke patients, unyielding institutional focus on temporal thresholds can penalize deliberate clinical evaluation in complex scenarios, such as unwitnessed onset, extreme age with frailty, or suspected stroke mimics. When financial margins or hospital reputations are tied to arbitrary cutoffs, the imperative to treat rapidly can override the necessity of rigorous patient selection.
+Door-to-needle time for intravenous thrombolysis is a useful example. Treatment benefit is time-sensitive for eligible patients, so eligibility assessment and treatment should proceed without avoidable delay under current guidelines and the local pathway. Complex or uncertain presentations may require focused evaluation, but eligibility assessment is not permission to delay once the indication and eligibility are established. A process metric should therefore promote rapid, appropriate treatment while preserving accountable review of genuine uncertainty.
 
-This dynamic exemplifies Goodhart's Law, where a measure ceases to be useful once it becomes a strict target. Academic neurologists must critique metric frameworks that fail to accommodate legitimate clinical variance, ensuring that the drive for algorithmic compliance does not subvert the physician's duty to practice individualized medicine.
+This dynamic illustrates a limitation of target-driven measurement: optimizing a single process metric can obscure safety, access, or appropriateness. Review metric frameworks for legitimate clinical variance and balance speed with missed eligible treatment, safety outcomes, access, and diagnostic revision.
 
 Metric hygiene for stroke leadership:
 
@@ -67,7 +69,7 @@ In the modern era of neurovascular therapeutics, ethical patient care requires s
 
 Use a named population, endpoint, and horizon. In [REDUCE](https://www.nejm.org/doi/full/10.1056/NEJMoa1707404), selected patients with cryptogenic stroke and PFO had recurrent ischemic stroke in 1.4% of the closure group versus 5.4% of the antiplatelet-only group over a median 3.2 years (crude ARR 4.0 percentage points; NNT 25). Atrial fibrillation or flutter occurred in 6.6% versus 0.4%, and serious device-related adverse events in 1.4% of closure recipients. Antithrombotic regimens after closure are trial-, device-, and guideline-specific; “lifelong antiplatelet therapy” is not a universal device requirement. Counseling should present these absolute outcomes and test whether the patient matches the enrolled population.
 
-In consultations for unruptured intracranial aneurysms or asymptomatic carotid stenosis, clinicians must present absolute risks using natural frequencies, such as explaining outcomes per 100 similar patients. True shared decision-making demands framing evidence so that the magnitude of both benefit and harm is immediately apparent, allowing patients to align clinical data with their individual risk tolerance and functional priorities.
+For preference-sensitive decisions such as unruptured intracranial aneurysm or asymptomatic carotid stenosis management, communication should include absolute benefits and harms at named horizons, uncertainty, and reasonable alternatives. Natural frequencies can help some people, while others may prefer percentages or visual aids; check understanding and align the discussion with the individual's goals and communication needs.
 
 Bedside communication scaffold (teaching template):
 
@@ -92,6 +94,9 @@ Absolute harm (ARI, CI, horizon):
 Top validity / transport threats:
 Metric implications (what not to game):
 EHR / order-set changes:
+Governance approval / affected stakeholders:
+Test environment / safety scenarios:
+Go-live monitoring / stop or rollback criteria:
 Patient communication script (natural frequencies):
 Owner / review date / dissent logged:
 ```
@@ -99,11 +104,11 @@ Owner / review date / dissent logged:
 
 ## Chapter summary
 
-Systems of care convert appraisal into operations. De-implementation is often harder than adoption because low-value habits are encoded in order sets and omission fear. Transportability fails when trial co-interventions and staffing cannot be reproduced at the local site. Quality metrics improve reliability until Goodhart dynamics punish careful selection; pair speed with appropriateness and harm audits. Shared decision-making is impossible in relative-risk language—use absolute risks and natural frequencies. Close the loop with an owner, a review date, and explicit dissent so policy tracks evidence rather than prestige.
+Systems of care convert appraisal into operations. De-implementation can be harder than adoption because habits are encoded in order sets and omission concerns. Transportability may be limited when trial co-interventions and staffing cannot be reproduced locally. Quality metrics can improve reliability but can also create gaming or selection pressure; pair speed measures with appropriateness and harm audits. Shared decision-making is clearer when relative effects are paired with absolute risks, natural frequencies, uncertainty, and patient-relevant outcomes. Close the loop with authorized governance, tested and reversible implementation, an owner, and a review date.
 
 ## Practice and reflection
 
-1. Identify one stroke-unit habit that should be de-implemented; list the EHR defaults that keep it alive.
+1. Identify one stroke-unit habit that may merit de-implementation. State what evidence and local data would be needed, which governance body would decide, and how a proposed EHR change would be tested and rolled back. Do not alter a production system for this exercise.
 2. Take a late-window EVT or intensive BP trial and write three transportability constraints for a primary stroke center.
 3. Redesign a door-to-needle dashboard so it cannot improve while mimic-treatment harm rises unnoticed.
 4. Rewrite a relative-risk counseling sentence for PFO closure or aneurysm treatment into a per-100 natural-frequency script.

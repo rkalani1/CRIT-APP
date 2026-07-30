@@ -53,7 +53,7 @@ When evaluating a clinical stroke paper that heavily relies on multivariable reg
 
 - Verify Model Appropriateness: Does the model match the outcome? (Linear for continuous, Logistic for binary, Cox for time-to-event).
 - Assess Information Relative to Complexity: Count candidate parameters, not just named variables, and assess event frequency, anticipated model fit, penalization, shrinkage, and target precision. A fixed 10–15 events-per-variable threshold is not a universal sample-size rule.
-- Demand Absolute Metrics: Never accept an isolated OR or HR. Require absolute risk differences, numbers needed to treat (NNT), or marginal predicted probabilities.
+- Add Absolute Metrics for Decisions: Pair an OR or HR with compatible group-specific or standardized probabilities at relevant horizons when the clinical question requires absolute impact. Use NNT only for a well-defined causal risk-difference estimand with endpoint, horizon, and uncertainty stated.
 - Check the Proportional Hazards Assumption: If a Cox model is used, did the authors explicitly test for and report PH compliance?
 - Scrutinize Censoring: In survival analyses, is the drop-out rate acceptable, and is there evidence that censoring is non-informative?
 - Identify Competing Risks: For time-to-event outcomes in populations with high mortality (e.g., severe stroke), were competing risks properly modeled?
