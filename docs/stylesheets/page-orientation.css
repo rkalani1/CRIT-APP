@@ -67,9 +67,4 @@
     border-radius: 0.25rem;
   }
 
-  .md-typeset .hero-diagram {
-    margin: 0.2rem 0 0;
-    border: 0 !important;
-    box-shadow: none !important;
-  }
 }

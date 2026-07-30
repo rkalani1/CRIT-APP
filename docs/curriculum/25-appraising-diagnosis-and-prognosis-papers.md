@@ -3,7 +3,7 @@
 ## Opening
 ![Spectrum mismatch derivation vs target.](../assets/figures/swarm3h_spectrum_mismatch.png)
 
-*A test derived in a florid-disease sample but deployed in an unselected population meets spectrum mismatch, which inflates the accuracy you will never reproduce locally.*
+*A test derived in an extreme disease spectrum may perform differently in an unselected population; measure the direction and size of that shift locally rather than assuming transport.*
 
 
 A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, effect extraction, and local actionability gates before any order panel is added.
@@ -13,7 +13,7 @@ A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, eff
 
 Whether the paper is a prehospital LVO scale, an automated CTA detector, or a score forecasting intracerebral hemorrhage (ICH) expansion, force it through three gates before anything operational moves:
 
-1. **Trustworthiness** — Can this design answer the claimed question without fatal bias for the patients who will actually receive the test or score?
+1. **Trustworthiness** — Can this design support the claimed estimate for the intended-use population, and which bias mechanisms remain consequential?
 2. **Effect extraction** — What absolute, transportable quantities does it report (likelihood ratios, horizon-specific event rates, calibration), and how precise are they?
 3. **Local actionability** — In *your* prevalence, timing, staffing, and thresholds, does applying those quantities change triage, treatment, monitoring, or counseling?
 
@@ -48,7 +48,7 @@ Teaching anchors (not universal laws): LR+ above ~10 often produces large probab
 
 ## Diagnosis gate 3: Local actionability
 
-Combine the LR with *your* pre-test probability (Bayes) to obtain a post-test probability. Then ask only the operational question: does that probability cross a testing or treatment threshold in *this* system? A negative DWI that lowers brainstem-TIA ischemia probability from 90% to 40% is interesting but useless if dual antiplatelet therapy starts at 10% residual risk—the test failed to cross the action line. Also check logistics: availability, cost, time, and whether LRs remain plausible given spectrum differences.
+Combine the LR with *your* pre-test probability (Bayes) to obtain a post-test probability. Then ask the operational question: could that probability change testing, triage, or treatment in *this* system? For a synthetic threshold illustration, suppose a negative test lowers probability from 90% to 40% while a prespecified action threshold is 10%; the test has not crossed the action line. Those numbers are not a TIA treatment or disposition rule. Real decisions about dual antiplatelet therapy depend on the clinical syndrome, disability, mechanism, contraindications, bleeding risk, timing, the [current AHA/ASA guideline](https://doi.org/10.1161/STR.0000000000000513), and local protocol. Also check logistics: availability, cost, time, and whether LRs remain plausible given spectrum differences.
 
 ![Probability-threshold diagram mapping no test, test, and treat decisions.](../assets/figures/fig71_action_thresholds2.png)
 
@@ -65,7 +65,7 @@ Prognostic claims fail when the cohort clock, follow-up, or outcomes are structu
 - **Inception timing.** Start follow-up at a uniform biologic moment (symptom onset, discharge, or a fixed post-ICH day). Mixing patients one week and five years after stroke into one “epilepsy risk” curve is not a single prognostic question.
 - **Follow-up length and completeness.** Dropout is rarely random—often the most disabled or the fully recovered leave. If worst-case imputation of lost patients reverses the conclusion, follow-up is inadequate.
 - **Outcome ascertainment.** Functional states need blinded, predefined criteria (for example structured mRS), not retrospective chart guesses.
-- **Baseline imbalance.** Claims that early intensive rehab “worsens” outcome are hopeless if sicker patients were channeled into early rehab without adequate adjustment for infarct size and comorbidity.
+- **Baseline imbalance.** A claim that early intensive rehabilitation worsens outcome is confounded if sicker patients were preferentially referred and the design does not adequately address severity, prognosis, eligibility, and timing.
 
 ## Prognosis gate 2: Effect extraction
 
@@ -81,13 +81,17 @@ Map derivation and validation populations onto your case mix and system of care.
 
 ## Worked example: Diagnosis (LVO triage)
 
+*Synthetic teaching example; the scale performance and diversion threshold below are not clinical policy.*
+
 A novel prehospital scale claims 85% sensitivity and 80% specificity for LVO. Local EMS LVO prevalence among stroke alerts is 15%.
 
 - **Gate 1 — Trustworthiness:** Consecutive EMS activations, universal arrival CTA, CTA readers blinded to the field score → design is credible for the intended use.
 - **Gate 2 — Effect extraction:** \(\mathrm{LR+} = 0.85/(1-0.80) = 4.25\); \(\mathrm{LR-} = (1-0.85)/0.80 = 0.1875\).
-- **Gate 3 — Local actionability:** Pre-test odds \(0.15/0.85 \approx 0.176\). Positive post-test probability \(\approx 43\%\); negative \(\approx 3.2\%\). If diversion to a comprehensive center starts above 25% LVO probability, positives divert and negatives stay primary—**threshold crossed**.
+- **Gate 3 — Local actionability:** Pre-test odds \(0.15/0.85 \approx 0.176\). Positive post-test probability \(\approx 43\%\); negative \(\approx 3.2\%\). In this synthetic example, a locally governed diversion threshold is set at 25%, so positives divert and negatives stay primary—**threshold crossed**.
 
 ## Worked example: Prognosis (ICH expansion)
+
+*Synthetic teaching example; the risk strata below are not a validated score.*
 
 A score using baseline volume, CTA spot sign, and onset-to-scan time predicts 24-hour expansion.
 
@@ -107,7 +111,7 @@ Appraise diagnosis and prognosis with three gates: **trustworthiness → effect 
 3. Take those likelihood ratios. If local pre-test probability is 10%, calculate post-test probability for both a positive and a negative result.
 4. Identify a prognostic rule used in your practice (e.g., ABCD2, ICH score). Evaluate the derivation paper on inception timing and loss-to-follow-up.
 5. Explain to a junior resident why transporting a PPV from a tertiary referral cohort to a community stream is mathematically dangerous.
-6. Define an explicit action threshold for transferring a suspected TIA patient. How low must predicted 48-hour stroke risk be to allow safe ED discharge in your system?
+6. Using a synthetic suspected-TIA scenario, list what a locally governed disposition pathway would need beyond a predicted 48-hour stroke risk—for example diagnostic uncertainty, imaging, mechanism, follow-up capacity, and patient factors. Explain why a diagnostic-accuracy paper cannot establish a universal “safe discharge” cutoff.
 7. Name a situation where an excellent LR− still leaves post-test risk too high to withhold treatment (hint: very high pre-test probability).
 8. Describe a case where precise prognostic information changes counseling even when medical orders do not change.
 

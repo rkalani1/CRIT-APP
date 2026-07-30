@@ -183,7 +183,7 @@
     display: block !important;
   }
   .md-content__inner::after {
-    content: "Critical Appraisal for Neurologists · CC BY 4.0 · Educational only — not medical advice.";
+    content: "Critical Appraisal for Neurologists · Scoped CC BY 4.0 for publisher-controlled material · Educational only — not medical advice.";
     display: block;
     margin-top: 1.2rem;
     padding-top: 0.5rem;
@@ -197,49 +197,6 @@
    Post-launch task-first landing remediation (OBS-002, OBS-005)
    ========================================================================== */
 @media screen {
-  .hero-diagram {
-    min-width: 0;
-    margin: 0;
-  }
-
-  .md-typeset .hero-diagram > summary {
-    min-height: 44px;
-    align-items: center;
-    padding: 0.68rem 0.85rem;
-    border: 1px solid rgba(255, 255, 255, 0.34);
-    border-radius: 0.7rem;
-    background: #312e81;
-    color: #fff;
-    cursor: pointer;
-    font-family: var(--ebook-sans);
-    font-weight: 650;
-    list-style: none;
-  }
-
-  .md-typeset .hero-diagram > summary:hover {
-    background: #1e1b4b;
-  }
-
-  .hero-diagram > summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .hero-diagram > summary::after {
-    content: "+";
-    float: right;
-    font-size: 1.1rem;
-    line-height: 1;
-  }
-
-  .hero-diagram[open] > summary::after {
-    content: "−";
-  }
-
-  .hero-diagram > summary:focus-visible {
-    outline: 3px solid #fff;
-    outline-offset: 3px;
-  }
-
   .ebook-hero .ebook-start {
     position: relative;
     z-index: 2;
@@ -271,13 +228,6 @@
     grid-template-columns: minmax(0, 1.18fr) minmax(18rem, 0.82fr);
   }
 
-  .hero-diagram > summary {
-    display: none;
-  }
-
-  .hero-diagram:not([open]) > .hero-art {
-    display: block;
-  }
 }
 
 @media screen and (max-width: 900px) {
@@ -287,14 +237,6 @@
 
   .ebook-hero--split {
     align-items: start;
-  }
-
-  .hero-diagram {
-    margin-top: 0.2rem;
-  }
-
-  .hero-diagram[open] > .hero-art {
-    margin-top: 0.75rem;
   }
 
   .ebook-hero .meta {
@@ -403,6 +345,114 @@
     text-transform: uppercase;
   }
 
+  .appraisal-lens-steps {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.65rem;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .appraisal-lens-steps li {
+    display: grid;
+    grid-template-columns: 2.15rem minmax(0, 1fr);
+    gap: 0.65rem;
+    align-items: center;
+    min-width: 0;
+    padding: 0.75rem;
+    border: 1px solid rgba(199, 210, 254, 0.58);
+    border-radius: 0.8rem;
+    background: rgba(49, 46, 129, 0.42);
+  }
+
+  .appraisal-lens-steps .lens-number {
+    display: grid;
+    width: 2.15rem;
+    height: 2.15rem;
+    place-items: center;
+    border-radius: 50%;
+    background: #fde047;
+    color: #1e1b4b;
+    font-weight: 800;
+  }
+
+  .appraisal-lens-steps .lens-copy {
+    display: grid;
+    gap: 0.08rem;
+    min-width: 0;
+  }
+
+  .appraisal-lens-steps strong {
+    color: #fff;
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .appraisal-lens-steps small {
+    color: #e0e7ff;
+    font-size: 0.75rem;
+    line-height: 1.35;
+  }
+
+  .absolute-effect-example {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto minmax(0, 1.2fr);
+    gap: 0.65rem;
+    align-items: stretch;
+    margin: 1.1rem 0 1rem;
+  }
+
+  .absolute-effect-example > div {
+    display: grid;
+    align-content: center;
+    gap: 0.25rem;
+    min-width: 0;
+    padding: 1rem;
+    border: 1px solid rgba(79, 70, 229, 0.22);
+    border-radius: 0.9rem;
+    background: rgba(238, 242, 255, 0.86);
+  }
+
+  .absolute-effect-example > div > span {
+    color: var(--ebook-muted);
+    font-size: 0.68rem;
+    font-weight: 750;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .absolute-effect-example > div > strong {
+    color: var(--ebook-deep);
+    font-family: var(--ebook-serif);
+    font-size: 1.45rem;
+    line-height: 1.1;
+  }
+
+  .absolute-effect-example > div > small {
+    color: var(--ebook-muted);
+    font-size: 0.75rem;
+    line-height: 1.4;
+  }
+
+  .absolute-effect-example > .effect-result {
+    border-color: #3730a3;
+    background: #3730a3;
+  }
+
+  .absolute-effect-example > .effect-result > :is(span, strong, small) {
+    color: #fff;
+  }
+
+  .effect-arrow {
+    align-self: center;
+    color: #b7791f;
+    font-size: 1.5rem;
+    font-weight: 800;
+  }
+
   .feature-figure {
     margin: 1.1rem 0 1.75rem;
     padding: clamp(0.8rem, 2vw, 1.25rem);
@@ -431,13 +481,25 @@
   }
 
   [data-md-color-scheme="slate"] .route-grid > a,
-  [data-md-color-scheme="slate"] .feature-figure {
+  [data-md-color-scheme="slate"] .feature-figure,
+  [data-md-color-scheme="slate"] .absolute-effect-example > div {
     background: rgba(15, 23, 42, 0.72);
     border-color: rgba(165, 180, 252, 0.22);
   }
 
-  [data-md-color-scheme="slate"] .route-grid > a {
+  [data-md-color-scheme="slate"] .route-grid > a,
+  [data-md-color-scheme="slate"] .absolute-effect-example > div > strong {
     color: #eef2ff;
+  }
+
+  [data-md-color-scheme="slate"] .absolute-effect-example > .effect-result {
+    background: #3730a3;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  .ebook-hero--split {
+    grid-template-columns: minmax(0, 1.18fr) minmax(18rem, 0.82fr);
   }
 }
 
@@ -449,6 +511,17 @@
   .ebook-hero--split .hero-art {
     width: 100%;
     margin-inline: auto;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .absolute-effect-example {
+    grid-template-columns: 1fr;
+  }
+
+  .effect-arrow {
+    justify-self: center;
+    transform: rotate(90deg);
   }
 }
 
@@ -464,6 +537,10 @@
   .ebook-hero--split .hero-art {
     width: 100%;
     margin-left: 0;
+  }
+
+  .appraisal-lens-steps {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -505,6 +582,11 @@
     padding: 0 !important;
     border: 0 !important;
     box-shadow: none !important;
+    break-inside: avoid;
+  }
+
+  .appraisal-lens-steps,
+  .absolute-effect-example {
     break-inside: avoid;
   }
 }

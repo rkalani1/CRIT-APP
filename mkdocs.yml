@@ -1,10 +1,12 @@
 site_name: Critical Appraisal for Neurologists
 site_description: Open-source ebook on critical appraisal for neurology and stroke.
 site_url: https://rkalani1.github.io/CRIT-APP/
-copyright: 'Open-source ebook · CC BY 4.0 content · ISC site code · Educational only
+copyright: 'Open-source ebook · Scoped CC BY 4.0 book content · ISC site code · Educational only
   — not medical advice.
 
   '
+exclude_docs: |
+  assets/fonts/README.md
 theme:
   name: material
   custom_dir: overrides
@@ -58,6 +60,7 @@ extra:
     link: https://github.com/rkalani1/CRIT-APP
 nav:
 - Introduction: index.md
+- Publication standards: publication-standards.md
 - Evidence register: evidence-register.md
 - Book:
   - Foundations:

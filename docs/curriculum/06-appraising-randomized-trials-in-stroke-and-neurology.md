@@ -12,7 +12,7 @@
 
 ![Trial pathway teaching sketch.](../assets/figures/crit_fig_trial_pathway.png)
 
-*Randomization protects the comparison only if concealment holds and post-randomization losses stay balanced across arms.*
+*Concealed random allocation supports baseline exchangeability in expectation; missing outcomes and post-randomization processes can still bias or change the target comparison.*
 
 
 Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
@@ -20,11 +20,11 @@ Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation 
 
 ## The Epistemology of the Randomized Trial in Stroke
 
-The randomized controlled trial sits atop the evidence hierarchy not by historical tradition or arbitrary consensus, but due to a singular mathematical property: when executed flawlessly, randomization balances both measured and unmeasured baseline prognostic factors in expectation. This is the exclusive mechanism in clinical epidemiology that breaks the causal arrow between patient characteristics and treatment assignment. In observational data, a patient receives a therapy because a clinician predicted they would benefit, or because they were deemed physiologically capable of tolerating the intervention. This generates intractable confounding by indication, meaning the treatment assignment is hopelessly entangled with the underlying baseline risk of the outcome. Prediction is not causation. A machine learning model might flawlessly predict that stroke patients receiving mechanical ventilation have astronomically higher mortality rates, but that associational correlation contains zero causal information regarding the efficacy of the ventilator itself. Randomization replaces clinician intent and predictive assignment with a stochastic, mathematical coin flip.
+For a well-defined intervention effect, randomization is powerful because the allocation mechanism supports balance of measured and unmeasured baseline prognostic factors in expectation. It does not guarantee exact balance in a realized sample, prevent post-randomization bias, or make every randomized trial the best design for every question. In observational care, treatment choice is often related to prognosis, creating confounding by indication whose direction and magnitude depend on the setting. A model may predict higher mortality among ventilated patients because ventilation marks severe illness; that association alone does not estimate the effect of a ventilation strategy. Randomization replaces prognosis-driven assignment with a known stochastic allocation mechanism.
 
 Proper random assignment makes assignment independent of baseline potential outcomes under the allocation mechanism, so between-group outcome differences can estimate the effect of assignment when concealment, follow-up, outcome measurement, and analysis are valid. It does not make the realized groups identical, nor does it imply that an individual’s unobserved control outcome equals another participant’s observed outcome. Post-randomization co-interventions, missing outcomes, crossover, and measurement error can still bias the analysis or change the estimand.
 
-The task of clinical appraisal is not to automatically accept the results simply because the word 'randomized' appears in the title. The task is to trace the causal architecture from the sequence generation all the way to the final intention-to-treat analysis, interrogating every phase where bias might have leaked back into the trial execution. Consider a surgical trial comparing early versus late decompressive hemicraniectomy for malignant middle cerebral artery infarction. Observational registries are fundamentally biased because neurosurgeons only operate on patients they predict will survive the procedure. Randomization removes this prediction-based assignment, but if surgical patients receive disproportionately intensive care unit rehabilitation while medical patients receive palliation, confounding has re-entered through the backdoor of co-interventions. True appraisal requires absolute skepticism of the post-randomization timeline.
+The task of appraisal is not to accept a result simply because the title says randomized. Trace sequence generation, concealment, adherence, co-interventions, outcome ascertainment, missingness, and the estimand. In a surgical trial, differential rehabilitation or goals-of-care practices after assignment can change the effect of the assigned strategy and, depending on the target estimand, introduce performance bias or mediate the total treatment-policy effect. Appraisal should identify that pathway rather than loosely relabeling every post-randomization difference as baseline confounding.
 
 ## The Mechanics of Randomization: Breaking the Confounding Arrow
 
@@ -48,13 +48,13 @@ Blinding (or masking) is rarely a binary grade of 'double-blind' or 'open-label.
 
 Unblinded patients report systematically worse subjective outcomes in the control arm due to disappointment and lack of placebo effect. Unblinded clinicians provide differential co-interventions. If a clinician knows a patient received mechanical thrombectomy, they may target stricter blood pressure parameters, pursue more aggressive intensive care support, and order earlier physical therapy consultations. This performance bias conflates the isolated effect of the endovascular procedure with the unmeasured package of superior supportive care. Unblinded assessors systematically rate the intervention group more favorably on subjective scales like the modified Rankin Scale (mRS), subconsciously shifting borderline cases into favorable categories based on their belief in the treatment.
 
-In mechanical thrombectomy and neurosurgical trials, blinding the proceduralist is structurally impossible. A neurosurgeon cannot be blinded to performing a craniectomy. This structural limitation does not doom the trial, but it exponentially heightens the strict requirement for blinded outcome assessors, highly objective endpoints, and rigidly protocolized, standardized co-intervention guidelines for both arms. The inability to blind the treating physician mandates zero tolerance for unblinded endpoint ascertainment.
+In mechanical thrombectomy and neurosurgical trials, blinding the proceduralist is generally impossible. This limitation increases the value of blinded outcome assessment where feasible, reproducible endpoint definitions, standardized co-intervention guidance, and transparent reporting of cues that might unmask assessors. If endpoint assessment cannot be blinded, evaluate the endpoint's subjectivity and use sensitivity or reliability analyses rather than treating one safeguard as absolute.
 
 ## PROBE Designs and Adjudication Committees in Neurology
 
 The Prospective Randomized Open-label Blinded-Endpoint (PROBE) design is highly prevalent in vascular neurology. Due to the logistical impossibility of blinding procedural interventions, trials heavily utilize PROBE frameworks. Unmasking can introduce outcome-measurement bias, especially for subjective endpoints, but randomization remains; judge the likely direction and magnitude of measurement bias rather than reclassifying the design.
 
-Unblinding occurs rapidly via physical cues. In an endovascular trial, groin hematomas from arterial puncture, alopecia from fluoroscopic radiation, or visible craniectomy defects immediately unmask the supposedly blinded bedside assessor. Even without physical cues, patients frequently reveal their treatment assignment during standard conversation. Mitigation strategies must be aggressive. Centralized, blinded telephone assessments by personnel strictly segregated from the hospital, or structured video interviews evaluated by independent core labs, are mandatory structural defenses against unblinding.
+Physical cues, records, or patient conversation can reveal treatment assignment to an assessor. Mitigation options include centralized assessment, scripted instructions not to disclose treatment, structured interviews, independent adjudication, and reporting of assessor blinding or suspected unmasking. The best combination depends on the intervention, endpoint, feasibility, and remaining sources of bias; remote assessment is not automatically immune to disclosure.
 
 Independent adjudication committees evaluate secondary endpoints and critical safety events, such as symptomatic intracranial hemorrhage (sICH) or cause-specific mortality. Adjudicators should be shielded from treatment labels and avoidable procedure-specific metadata; when imaging itself necessarily reveals treatment-related findings, use prespecified objective definitions and report the remaining risk of unmasking.
 
@@ -62,7 +62,7 @@ Independent adjudication committees evaluate secondary endpoints and critical sa
 
 ![ITT vs per-protocol: different questions.](../assets/figures/fig42_itt_vs_pp.png)
 
-*Intention-to-treat answers the effect of assignment and preserves randomization; per-protocol answers an adherence-conditional question and often reintroduces confounding. Teaching figure.*
+*Assignment-based and per-protocol analyses target different contrasts; a naive adherer-only comparison loses randomization, while a causal per-protocol analysis requires longitudinal adjustment under explicit assumptions. Teaching figure.*
 
 
 The estimand framework formally defines the target of estimation: the population, the strategies compared, the precise variable of interest, the handling of intercurrent events, and the population-level summary metric. In stroke trials, intercurrent events—such as crossover to rescue therapy, protocol non-adherence, or withdrawal of consent—are inevitable. How the analysis handles these events defines the fundamental causal meaning of the result.
@@ -89,7 +89,7 @@ Prespecified WLST guidance can reduce avoidable variability but cannot eliminate
 
 ## Endpoints: The Modified Rankin Scale and Beyond
 
-The modified Rankin Scale (mRS) is the dominant functional endpoint in acute stroke research. It is a strictly ordinal scale from 0 (no symptoms) to 6 (death). Historically, trials relied on dichotomizing the mRS, typically at 0-2 (functional independence) versus 3-6. Dichotomization discards immense statistical power and willfully ignores massive clinical shifts. A treatment that moves a patient from mRS 5 (bedbound, requiring constant nursing) to mRS 3 (requiring help with complex tasks but walking independently) is a profound clinical victory, yet it registers as a total failure in a 0-2 dichotomized analysis.
+The modified Rankin Scale (mRS) is a dominant functional endpoint in acute stroke research. It is an ordered scale from 0 (no symptoms) to 6 (death), although equal spacing between categories should not be assumed. Dichotomizing at mRS 0-2 versus 3-6 discards information and can miss shifts that matter to some patients. A shift from mRS 5 (severe disability, bedridden, requiring constant care) to mRS 3 (requiring some help but walking without assistance) would not register as success in a 0-2 dichotomy; how that shift is valued should not be asserted for every patient or family.
 
 Ordinal logistic regression can use the full mRS distribution, but its common-odds interpretation depends on the proportional-odds model. If the treatment effect differs materially across cut points, one common odds ratio can conceal clinically important heterogeneity and becomes model-dependent. Inspect proportional-odds diagnostics and supplement the common odds ratio with the full mRS distribution, cut-point-specific effects, or an alternative estimand.
 
@@ -97,7 +97,7 @@ Utility-weighted mRS assigns numerical values to categories using an elicited pr
 
 ## Multiplicity, Interim Looks, and Early Stopping
 
-The family-wise error rate represents the probability of making at least one Type I error (false positive) when conducting multiple hypothesis tests. Testing five secondary endpoints, three timepoints, and four anatomical subgroups inflates the false positive probability far beyond the nominal alpha of 0.05. Statistical rigor demands alpha-splitting techniques (e.g., Bonferroni correction) or strict hierarchical testing sequences, where the trial is only permitted to test mortality if, and only if, it first achieves significance on the primary mRS shift endpoint.
+The family-wise error rate is the probability of at least one false rejection within a specified family of true null hypotheses. Testing many endpoints, timepoints, and subgroups without a prespecified multiplicity strategy can inflate it above the nominal alpha. Confirmatory claims may use gatekeeping, graphical procedures, Holm or Bonferroni methods, or other justified control; exploratory analyses can be labeled as such with estimates and intervals rather than forced into the same hierarchy.
 
 When prespecified interim looks are used, alpha-spending or group-sequential boundaries control Type I error; the boundary depends on the design and information fraction. Independent monitoring can also address safety and futility according to the protocol, but interim efficacy analyses are not universal requirements.
 
@@ -178,11 +178,11 @@ The fourth failure mode is Relative Risk Theater. Communicating a '50% reduction
 
 ## Clinical and Epidemiologic Notes
 
-Clinical Note: When reading a newly published stroke trial, draft the clinical summary sentence before looking at the author's abstract conclusions. Compute the NNT and NNH independently from the raw event counts in the appendix. Formulate the precise absolute trade-off. Never adopt an abstract conclusion that you cannot mathematically reconstruct and defend with raw data.
+Clinical Note: When reading a newly published stroke trial, draft the clinical summary sentence before relying on the abstract conclusion. Reconstruct crude absolute event differences from raw counts when appropriate, and compare them with the prespecified adjusted, ordinal, time-to-event, or competing-risk analysis. A raw 2×2 reconstruction is a transparency check, not a substitute for the trial's estimand or uncertainty analysis.
 
 Epidemiologic Note: Internal validity is distinct from external transportability. A well-executed trial such as DAWN estimates effects for the population it enrolled. Applying DAWN alone to a different core-size or clinical-severity phenotype would be a transportability error; however, dedicated large-core randomized trials now provide direct evidence for selected large-core populations. Appraise the target patient against the eligibility, workflow, endpoint, and uncertainty of the trial that actually studied that phenotype.
 
-Industry Note: Scrutinize the data sharing statement and the precise role of the commercial sponsor. When the sponsor holds exclusive access to the raw data, dictates the statistical analysis plan, and authors the first draft of the manuscript without independent academic verification, the threshold for adopting marginal or subgroup-driven findings must rise exponentially. Methodological skepticism must scale with financial conflict.
+Industry Note: Report the sponsor's role in design, analysis, writing, data access, and publication decisions. Exclusive sponsor control of data or analysis can limit independent verification, but funding source does not establish that a result is false. Apply the same prespecification, multiplicity, data-access, and reproducibility checks across funding sources, and make unresolved conflicts part of the certainty and governance assessment.
 
 
 ## Chapter summary

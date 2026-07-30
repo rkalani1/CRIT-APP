@@ -1,6 +1,6 @@
 # Evidence register
 
-This register records high-consequence claims that received a primary-source check during the 15 July 2026 editorial audit. A row means the named claim was checked; it does **not** certify every sentence in the chapter. Clinical recommendations still require current guidelines, local policy, and expert review.
+This register records selected high-consequence claims that received a primary or official-source check during the July 2026 editorial audits. A row means the named claim was checked; it does **not** certify every sentence in the chapter. Clinical recommendations still require current guidelines, local policy, and expert review.
 
 | ID | Chapter and claim | Primary source | Verified extraction | Status |
 | --- | --- | --- | --- | --- |
@@ -15,6 +15,9 @@ This register records high-consequence claims that received a primary-source che
 | C-09 | Ch 12 · HERMES endpoint-specific NNT | [Goyal et al., 2016](https://doi.org/10.1016/S0140-6736(16)00163-X) | NNT 2.6 refers to ≥1-category mRS improvement; mRS 0–2 was 46.0% vs 26.5% | Primary-source spot-check 2026-07-15; re-confirmed 2026-07-18; full extraction needs confirmation |
 | C-10 | Ch 28 · REDUCE PFO closure trade-off | [Søndergaard et al., 2017](https://www.nejm.org/doi/full/10.1056/NEJMoa1707404) | Ischemic stroke 1.4% vs 5.4%; AF/flutter 6.6% vs 0.4%; serious device events 1.4% | Primary-source spot-check 2026-07-15; full extraction needs confirmation |
 | C-11 | Ch 23 · thrombolysis imaging delay and disabling vs non-disabling deficit | [AHA/ASA 2026 acute ischemic stroke guideline](https://doi.org/10.1161/STR.0000000000000513) | Prompt thrombolysis for eligible disabling deficits within 4.5 h without delaying for additional multimodal imaging; dual antiplatelet therapy preferred for non-disabling deficits | Official-guideline spot-check 2026-07-16; citation re-confirmed 2026-07-18 (published online 26 Jan 2026, *Stroke*, DOI 10.1161/STR.0000000000000513); local protocol and full recommendation tables need confirmation |
+| C-12 | Ch 22 · screening versus treatment of known asymptomatic carotid stenosis | [USPSTF screening recommendation](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/carotid-artery-stenosis-screening); [CREST-2](https://www.nejm.org/doi/full/10.1056/NEJMoa2508800) | USPSTF addresses population screening. CREST-2 enrolled people with at least 70% already-known asymptomatic stenosis: at four years the primary outcome was 6.0% with intensive medical management vs 2.8% with stenting plus medical management; in the parallel endarterectomy trial it was 5.3% vs 3.7%, without a statistically significant difference. | Official/primary-source check 2026-07-30; does not establish screening or universal revascularization |
+| C-13 | Ch 23 · real-case quality measurement and research/privacy boundaries | [HHS health-care-operations guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/disclosures-treatment-payment-health-care-operations/index.html); [OHRP QI FAQ](https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/quality-improvement-activities/index.html) | Some quality activities may fit health-care operations; activities designed to contribute to generalizable knowledge may require a research determination. These sources do not replace local privacy, QI, security, or IRB review. | Official-source check 2026-07-30 |
+| C-14 | Ch 14 · reporting guidance versus risk-of-bias assessment | [TRIPOD+AI](https://doi.org/10.1136/bmj-2023-078378); [PROBAST+AI](https://doi.org/10.1136/bmj-2024-082505) | TRIPOD+AI specifies reporting items for prediction-model studies; PROBAST+AI structures methodological-quality, risk-of-bias, and applicability judgments. Neither enforces adherence or proves deployment safety. | Primary-source check 2026-07-30 |
 
 ## Review contract
 
@@ -24,6 +27,14 @@ Before a quantitative clinical claim is promoted to “checked,” record the ex
 
 A currency pass on 18 July 2026 re-checked the two freshest, highest-consequence rows against their primary sources. The AHA/ASA 2026 acute ischemic stroke guideline (C-11) was confirmed published online 26 January 2026 in *Stroke* at the cited DOI, replacing the 2018 guideline and its 2019 update. The HERMES extraction (C-09) was re-confirmed against the pooled report (mRS 0–2 46.0% vs 26.5%; NNT 2.6 for a ≥1-category mRS improvement). No numeric claim was changed in this pass, and no new row was promoted to "checked." This was a citation-currency and link re-check, not a new line-by-line specialist audit; every row remains bounded exactly as its Status column states.
 
+## Release review — 2026-07-30
+
+The release pass corrected categorical claims about asymptomatic-carotid
+treatment, NIHSS workflow, synthetic decision thresholds, real-case logs,
+fragility-index applicability, and production EHR changes. C-12 through C-14
+record the new source checks. This was a targeted adversarial clinical review,
+not a specialist line-by-line audit of all 28 chapters.
+
 ## Known frontier
 
-The 15–16 July 2026 pass corrected confirmed errors and added regression tests, but it was not a line-by-line specialist peer review of all 28 chapters. Guideline claims not named above and every unchecked illustrative claim remain **needs confirmation**. The [asset manifest](assets/figures/manifest.json) records hashes and software metadata; independent rights review remains incomplete.
+The July passes corrected confirmed errors and added regression tests, but they were not a line-by-line specialist peer review of all 28 chapters. Guideline claims not named above and every unchecked illustrative claim remain **needs confirmation**. The [asset manifest](assets/figures/manifest.json) records current hashes and links to the repository-provenance register; independent legal clearance was not performed.

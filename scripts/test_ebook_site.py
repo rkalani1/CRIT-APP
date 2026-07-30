@@ -7,6 +7,8 @@ import sys
 import unittest
 from pathlib import Path
 
+from book_identity import load_book_identity
+
 
 def load_root() -> Path:
     return Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd()
@@ -21,6 +23,7 @@ class EbookSiteTests(unittest.TestCase):
         cls.root = ROOT
         cls.docs = cls.root / "docs"
         cls.yml = (cls.root / "mkdocs.yml").read_text(encoding="utf-8")
+        cls.identity = load_book_identity(cls.root)
 
     def test_product_is_open_source_ebook(self) -> None:
         index = (self.docs / "index.md").read_text(encoding="utf-8")
@@ -179,13 +182,16 @@ class EbookSiteTests(unittest.TestCase):
         index = (self.docs / "index.md").read_text(encoding="utf-8")
         controls = (self.docs / "javascripts" / "header-controls.js").read_text(encoding="utf-8")
         self.assertIn("mobile-page-orientation", header)
-        self.assertIn("syncResponsiveDisclosures", controls)
-        if self.root.name.upper() == "CRIT-APP":
+        if self.identity.policy == "crit":
             for group in ("Foundations:", "Study Designs:", "Interpretation:", "Clinical Application:"):
                 self.assertIn(group, self.yml)
-            self.assertIn("hero-diagram", index)
-            self.assertIn('querySelectorAll(".hero-diagram")', controls)
-            self.assertLess(index.index("ebook-start"), index.index("hero-diagram"))
+            self.assertIn("appraisal-lens-steps", index)
+            self.assertNotIn("hero-diagram", index)
+            self.assertNotIn("hero-diagram", controls)
+            self.assertLess(
+                index.index("ebook-start"),
+                index.index("appraisal-lens-steps"),
+            )
         else:
             for group in ("Foundations:", "Core Methods:", "Deep Learning:", "Clinical Translation:", "Reference:"):
                 self.assertIn(group, self.yml)
@@ -194,18 +200,21 @@ class EbookSiteTests(unittest.TestCase):
             self.assertIn("mobile-route-strip", header)
             self.assertLess(index.index("ebook-start"), index.index("model-path-disclosure"))
 
-    def test_mobile_diagram_disclosure_has_explicit_high_contrast_surface(self) -> None:
+    def test_mobile_hero_orientation_has_explicit_high_contrast_surface(self) -> None:
         css = (self.docs / "stylesheets" / "extra.css").read_text(encoding="utf-8")
-        class_name = "hero-diagram" if self.root.name.upper() == "CRIT-APP" else "model-path-disclosure"
-        expected_background = "#312e81" if self.root.name.upper() == "CRIT-APP" else "#134e4a"
         match = re.search(
-            rf"\.md-typeset \.{class_name} > summary\s*\{{(?P<body>[^}}]+)\}}",
+            r"\.appraisal-lens-steps li\s*\{(?P<body>[^}]+)\}",
             css,
         )
         self.assertIsNotNone(match)
         block = match.group("body")
-        self.assertIn(f"background: {expected_background};", block)
-        self.assertIn("color: #fff;", block)
+        self.assertIn("background: rgba(49, 46, 129, 0.42);", block)
+        strong = re.search(
+            r"\.appraisal-lens-steps strong\s*\{(?P<body>[^}]+)\}",
+            css,
+        )
+        self.assertIsNotNone(strong)
+        self.assertIn("color: #fff;", strong.group("body"))
 
     def test_search_initialization_race_is_recovered_and_announced(self) -> None:
         controls = (self.docs / "javascripts" / "header-controls.js").read_text(encoding="utf-8")
@@ -222,7 +231,7 @@ class EbookSiteTests(unittest.TestCase):
             path.read_text(encoding="utf-8", errors="replace")
             for path in self.docs.rglob("*.md")
         ).casefold()
-        probes = ("randomized",) if self.root.name.upper() == "CRIT-APP" else (
+        probes = ("randomized",) if self.identity.policy == "crit" else (
             "calibration", "leakage", "external validation",
         )
         for probe in probes:
@@ -292,7 +301,7 @@ class EbookSiteTests(unittest.TestCase):
             for path in (self.docs / "curriculum").glob("*.md")
         }
         blob = "\n".join(chapters.values())
-        if self.root.name.upper() == "CRIT-APP":
+        if self.identity.policy == "crit":
             for false_claim in (
                 "RRR) is constant across different baseline risk groups",
                 "assume RR roughly equals HR",
@@ -392,7 +401,7 @@ class EbookSiteTests(unittest.TestCase):
             self.assertIn("40 events among 200 control participants and 22 among 200 treatment participants", blob)
             self.assertIn("25 of 200 and p = 0.0572", blob)
             self.assertIn("conventionally reported as 17 people", blob)
-        elif self.root.name.upper() == "ML":
+        elif self.identity.policy == "ml":
             self.assertNotIn("ml_concept_", blob)
             for false_claim in (
                 "positive definite (a local minimum)",
@@ -445,7 +454,7 @@ class EbookSiteTests(unittest.TestCase):
     def test_accuracy_figures_match_their_asserted_source_data(self) -> None:
         import subprocess
 
-        if self.root.name.upper() != "CRIT-APP":
+        if self.identity.policy != "crit":
             self.skipTest("accuracy-critical SVG generator is specific to CRIT-APP")
         script = self.root / "scripts" / "regenerate_accuracy_figures.py"
         self.assertTrue(script.exists(), "regenerate_accuracy_figures.py missing")
