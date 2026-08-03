@@ -1,5 +1,18 @@
 # Chapter 6. Appraising Randomized Trials in Stroke and Neurology
 
+![CONSORT-minded flow.](../assets/figures/fig26_consort_minded.png)
+
+*A CONSORT-minded flow tracks every patient from screening to analysis, exposing who was excluded and who was lost to follow-up.*
+
+![Trial pathway overview.](../assets/figures/fig05_trial_pathway.png)
+
+*The pathway from eligibility through randomization, treatment, and blinded outcome ascertainment is where allocation concealment and crossover are judged.*
+
+![Trial pathway teaching sketch.](../assets/figures/crit_fig_trial_pathway.png)
+
+*Randomization protects the comparison only if concealment holds and post-randomization losses stay balanced across arms.*
+
+
 
 ## The Epistemology of the Randomized Trial in Stroke
 

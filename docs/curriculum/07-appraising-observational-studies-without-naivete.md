@@ -1,5 +1,18 @@
 # Chapter 7. Appraising Observational Studies Without Naivete
 
+![Active-comparator new-user design.](../assets/figures/fig48_active_comparator.png)
+
+*An active-comparator, new-user design compares two treatments started fresh, removing prevalent-user and healthy-adherer distortions.*
+
+![Immortal time structure.](../assets/figures/fig12_immortal_time.png)
+
+*Immortal time is the span in which an "exposed" patient could not yet have had the outcome, and it manufactures a spurious survival advantage.*
+
+![Immortal time bias schematic.](../assets/figures/swarm_ch07_immortal_time.png)
+
+*Misclassifying that guaranteed event-free interval as exposed time makes a drug look protective when the design, not the drug, created the gap.*
+
+
 
 ## Introduction: The Promise and Peril of Observational Evidence
 

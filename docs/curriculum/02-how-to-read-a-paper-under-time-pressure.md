@@ -1,5 +1,10 @@
 # Chapter 2. How to Read a Paper Under Time Pressure
 
+![Timed reading stack under pressure.](../assets/figures/crit_fig_timed_read_stack.png)
+
+*A short reading session pays off only when it targets the decision — the estimand, the absolute effect, and the largest validity threat — extracted before the discussion's spin.*
+
+
 
 ## The Conceptual Core: Speed as a Methodologic Discipline
 

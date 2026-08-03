@@ -1,5 +1,10 @@
 # Chapter 1. Why Critical Appraisal Matters in Neurology and Stroke
 
+![Relative headlines vs absolute bedside effects.](../assets/figures/crit_fig_rel_vs_abs.png)
+
+*The same relative risk reduction hides very different bedside stakes until baseline risk and a time horizon convert it into an absolute effect.*
+
+
 
 ## Introduction: The Clinical Imperative of Critical Appraisal in Neurology
 

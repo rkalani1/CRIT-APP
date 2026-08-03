@@ -1,5 +1,14 @@
 # Chapter 3. Questions, PICO, Estimands, and Index Time
 
+![Validity and transportability.](../assets/figures/fig25_validity_transport.png)
+
+*Internal validity asks whether the estimate is right for the patients studied; transportability asks whether it carries to yours — two separate questions.*
+
+![Two claim templates for paper claims.](../assets/figures/crit_fig_prediction_vs_causation.png)
+
+*Every paper's claim maps to a prediction template (probability of Y given X) or a causal template (how intervening on X changes Y); name which one first.*
+
+
 
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 

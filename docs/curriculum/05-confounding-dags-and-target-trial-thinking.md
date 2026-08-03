@@ -1,5 +1,18 @@
 # Chapter 5. Confounding, DAGs, and Target-Trial Thinking
 
+![Target-trial thinking.](../assets/figures/fig04_target_trial.png)
+
+*Target-trial thinking forces an observational question into the trial it emulates: eligibility, assignment, and start of follow-up defined up front.*
+
+![Confounding structure.](../assets/figures/fig03_dag_confounding.png)
+
+*A common cause of both exposure and outcome opens a back-door path that biases the crude association until it is blocked.*
+
+![Confounder, mediator, collider structures.](../assets/figures/crit_fig_confounder_mediator_collider.png)
+
+*Confounders, mediators, and colliders look alike on a graph but demand opposite handling; adjusting for the wrong one invents or hides an effect.*
+
+
 
 ## Prediction Versus Causation and the Structural Definition of Confounding
 

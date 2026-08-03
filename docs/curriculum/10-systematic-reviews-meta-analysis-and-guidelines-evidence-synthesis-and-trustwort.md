@@ -1,5 +1,18 @@
 # Chapter 10. Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness
 
+![Funnel plot concept.](../assets/figures/fig56_funnel.png)
+
+*A funnel plot screens for small-study effects and publication bias; asymmetry is a warning, not proof, and it is underpowered with few trials.*
+
+![Forest plot teaching sketch.](../assets/figures/fig23_forest_meta.png)
+
+*A forest plot shows each trial's estimate and weight around a pooled effect; check which single trial dominates before trusting the diamond.*
+
+![Forest plot intuition for meta-analysis.](../assets/figures/swarm_ch10_forest.png)
+
+*Pooling narrows the interval but cannot fix incompatible populations or missing trials; read heterogeneity and inclusion criteria first.*
+
+
 
 ## Conceptual Core: The Architecture of Evidence Synthesis
 

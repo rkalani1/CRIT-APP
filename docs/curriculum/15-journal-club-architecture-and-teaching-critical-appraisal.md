@@ -1,5 +1,18 @@
 # Chapter 15. Journal Club Architecture and Teaching Critical Appraisal
 
+![Journal-club architecture.](../assets/figures/fig51_jc_roles.png)
+
+*Assigned roles — clinical, methods, equity, and a scribe — turn an hour of summary into structured appraisal.*
+
+![Journal club run-of-show from opening question through appraisal and decision.](../assets/figures/fig09_journal_club.png)
+
+*A 45–60 minute run-of-show protects time for methods, absolute effects, applicability, and a recorded decision.*
+
+![Journal club role map for decision-focused teaching.](../assets/figures/swarm_ch15_jc_roles.png)
+
+*Every role ends at the same output: a recorded decision to adopt, adapt, wait, or reject.*
+
+
 
 ## The Conceptual Core: Why the Default Journal Club Fails
 

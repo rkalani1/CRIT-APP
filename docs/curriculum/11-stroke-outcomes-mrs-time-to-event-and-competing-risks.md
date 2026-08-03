@@ -1,5 +1,10 @@
 # Chapter 11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks
 
+![mRS ordinal ladder.](../assets/figures/crit_fig_mrs_ladder.png)
+
+*The modified Rankin Scale is an ordinal ladder of disability; where you cut it — 0–1, 0–2, or a full ordinal shift — changes whether an effect looks large or trivial.*
+
+
 
 ## Conceptual Core: Outcomes Encode Values and Statistical Power
 

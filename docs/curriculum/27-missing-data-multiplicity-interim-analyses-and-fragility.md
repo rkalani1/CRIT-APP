@@ -1,5 +1,14 @@
 # Chapter 27. Missing Data, Multiplicity, Interim Analyses, and Fragility
 
+![Missingness mechanisms.](../assets/figures/fig44_missingness_mechs.png)
+
+*Whether data are missing completely at random, at random, or not at random determines which analysis stays unbiased.*
+
+![Worked fragility-index example: 40 versus 22 events gives Fisher p = 0.0183; changing three treatment non-events to events gives 40 versus 25 and p = 0.0572.](../assets/figures/swarm_ch27_fragility_missing.svg)
+
+*Fragility depends on the specified outcome direction and statistical test; here the two-sided Fisher exact fragility index is 3.*
+
+
 
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 

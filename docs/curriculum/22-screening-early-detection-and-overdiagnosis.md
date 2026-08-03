@@ -1,5 +1,14 @@
 # Chapter 22. Screening, Early Detection, and Overdiagnosis
 
+![Screening biases.](../assets/figures/fig14_screening_biases.png)
+
+*Lead-time, length, and overdiagnosis biases can make a screening test look beneficial even when it changes no outcome.*
+
+![Screening appraisal traps: lead time, length, overdiagnosis.](../assets/figures/swarm_ch22_screening.png)
+
+*Earlier detection lengthens known-disease time without moving the death; benefit must be shown on hard outcomes, not diagnostic yield.*
+
+
 
 ## The Seduction and Peril of Early Detection
 

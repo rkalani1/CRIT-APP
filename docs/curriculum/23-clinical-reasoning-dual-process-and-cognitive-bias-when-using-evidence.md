@@ -1,5 +1,19 @@
 # Chapter 23. Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence
 
+![System 1 vs System 2 when reading papers.](../assets/figures/crit_fig_dual_process_pair.png)
+
+*System 1 pattern-matches an abstract in seconds; System 2 works the methods and the numbers — appraisal means knowing when to switch.*
+
+
+![Dual-process clinical reasoning.](../assets/figures/fig15_dual_process.png)
+
+*Fast, intuitive reasoning and slow, deliberate reasoning both operate at the bedside, and each has predictable failure modes.*
+
+![Dual-process clinical use of evidence.](../assets/figures/swarm_ch23_dual_process.png)
+
+*Debiasing is a forcing function that hands the decision to System 2 before evidence is accepted or overruled.*
+
+
 
 ## Why Reasoning Quality Is an Evidence Skill
 

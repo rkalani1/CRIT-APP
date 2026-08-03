@@ -1,5 +1,18 @@
 # Chapter 14. Appraising Artificial Intelligence and Machine Learning Papers
 
+![Site shift for AI models.](../assets/figures/fig35_ai_site_shift.png)
+
+*A model tuned to one hospital's scanners and case mix can lose accuracy at the next site; external validation, not internal accuracy, is the test that matters.*
+
+![AI leakage pathways.](../assets/figures/fig34_ai_leakage.png)
+
+*Information that leaks from the outcome into the features — through shared preprocessing, patient overlap, or post-baseline variables — inflates accuracy that no honest split can reproduce.*
+
+![AI pipeline leakage versus honest split.](../assets/figures/swarm_ch14_ai_leakage.png)
+
+*A leaky pipeline lets test data touch training; an honest split isolates the test set end to end, so the reported metric estimates deployment performance.*
+
+
 
 ## The Conceptual Core: Prediction, Causation, and Utility
 

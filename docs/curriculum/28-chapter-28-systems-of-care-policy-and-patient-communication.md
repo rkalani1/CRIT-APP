@@ -1,11 +1,32 @@
 # Chapter 28. Systems of Care, Policy, and Patient Communication
 
+![Transportability.](../assets/figures/fig72_transportability.png)
+
+*A trial's absolute benefit can shrink in your catchment when baseline risk, access, and case mix differ from the enrolled population.*
+
+![Pathway decisions.](../assets/figures/fig41_pathway_decisions.png)
+
+*Turning evidence into a pathway means deciding what to adopt, what to de-implement, and how to track access and equity.*
+
+![One-hundred-person array with six persistent events, two events prevented by the strategy, and 92 people without the event.](../assets/figures/swarm_ch28_natural_frequencies.svg)
+
+*Natural frequencies for systems and counseling.*
+
+
 
 ## Pathway Change and De-Implementation
 
 Translating clinical evidence into institutional policy requires both adopting high-fidelity interventions and de-implementing outdated, low-value practices. De-implementation demands actively removing legacy order sets, adjusting electronic health record defaults, and retraining multidisciplinary teams.
 
 Appraising evidence for policy implementation requires assessing local baseline risk, access barriers, and system transportability to ensure trial benefits translate effectively to local patient populations while tracking equity and safety metrics.
+
+Operational checklist for a pathway change:
+
+1. Name the decision (adopt, restrict, or retire a practice).
+2. Attach absolute benefits and harms with time horizons.
+3. State the validity caveats that would reverse the decision.
+4. Assign an owner, metric, and review date.
+5. Delete or rewrite the EHR default that encodes the old habit.
 
 ## Transportability Across Hospital Settings
 

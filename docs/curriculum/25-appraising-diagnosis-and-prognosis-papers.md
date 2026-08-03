@@ -1,13 +1,18 @@
 # Chapter 25. Appraising Diagnosis and Prognosis Papers
 
+![Spectrum mismatch derivation vs target.](../assets/figures/swarm3h_spectrum_mismatch.png)
+
+*A test derived in a florid-disease sample but deployed in an unselected population meets spectrum mismatch, which inflates the accuracy you will never reproduce locally.*
+
+
 
 ## Three gates before you change a pathway
 
 Evaluating diagnostic and prognostic papers requires filtering novel tests or risk scores through three operational gates before modifying clinical pathways:
 
-1. **Trustworthiness**: Verifying internal validity and freedom from spectrum mismatch or reference standard bias.
-2. **Effect Extraction**: Extracting transportable quantities (likelihood ratios, calibration curves, risk strata) rather than relying solely on discrimination metrics (AUROC).
-3. **Local Actionability**: Determining whether applying test results alters triage, management, or outcomes within local clinical workflows.
+1. **Trustworthiness** — Can this design answer the claimed question without fatal bias for the patients who will actually receive the test or score?
+2. **Effect extraction** — What absolute, transportable quantities does it report (likelihood ratios, horizon-specific event rates, calibration), and how precise are they?
+3. **Local actionability** — In *your* prevalence, timing, staffing, and thresholds, does applying those quantities change triage, treatment, monitoring, or counseling?
 
 ## Diagnosis gate 1: Trustworthiness
 

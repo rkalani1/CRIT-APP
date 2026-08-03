@@ -1,5 +1,18 @@
 # Chapter 9. Prognosis, Risk Scores, and Prediction Models
 
+![ROC versus calibration.](../assets/figures/fig29_roc_vs_calibration.png)
+
+*Discrimination (the ROC curve) and calibration answer different questions; a model can rank patients well yet output probabilities that are systematically wrong.*
+
+![Calibration plot concept.](../assets/figures/fig07_calibration.png)
+
+*A calibration plot compares predicted risk to observed frequency; points off the diagonal reveal over- or under-prediction.*
+
+![Calibration of predicted versus observed risk.](../assets/figures/swarm_ch09_calibration.png)
+
+*Calibration must hold in patients like yours, not just in the derivation sample, before a score guides discharge planning.*
+
+
 
 ## The Demarcation of Prediction from Causal Inference
 

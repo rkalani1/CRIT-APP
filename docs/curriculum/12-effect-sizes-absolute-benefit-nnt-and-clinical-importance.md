@@ -1,5 +1,18 @@
 # Chapter 12. Effect Sizes, Absolute Benefit, NNT, and Clinical Importance
 
+![Absolute vs relative by baseline.](../assets/figures/fig70_absrel_baseline.png)
+
+*The same relative risk reduction produces a large absolute benefit at high baseline risk and a negligible one at low baseline risk.*
+
+![ARR and NNT.](../assets/figures/fig08_arr_nnt.png)
+
+*Absolute risk reduction and its reciprocal, the number needed to treat, translate a trial's effect into patients treated per event prevented.*
+
+![NNT icon array.](../assets/figures/crit_fig_nnt_icon_array.png)
+
+*Absolute benefit intuition.*
+
+
 
 ## Conceptual Core: The Imperative of Absolute Effects
 

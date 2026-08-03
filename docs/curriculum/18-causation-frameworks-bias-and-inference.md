@@ -1,5 +1,18 @@
 # Chapter 18. Causation Frameworks, Bias, and Inference
 
+![E-value intuition.](../assets/figures/fig47_evalue.png)
+
+*The E-value asks how strong an unmeasured confounder would have to be to explain away an association — a quantitative stress test, not a guarantee of causation.*
+
+![Counterfactual contrast.](../assets/figures/fig20_counterfactual.png)
+
+*A causal effect is the contrast between the outcome under treatment and the unobservable outcome had the same patient gone untreated.*
+
+![Causal graph motifs used in appraisal.](../assets/figures/crit_fig_confounder_mediator_collider.png)
+
+*Confounder, mediator, and collider motifs each call for different handling; the graph, not intuition, decides what to adjust for.*
+
+
 
 ## Introduction: The Causal Gap in Neurological Literature
 

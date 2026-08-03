@@ -1,5 +1,10 @@
 # Chapter 13. Subgroups, Heterogeneity of Treatment Effect, and Spin
 
+![Subgroup credibility probes.](../assets/figures/crit_fig_subgroup_probes.png)
+
+*Before believing a subgroup effect, run the credibility probes: pre-specification, a significant interaction test, biological plausibility, and consistency across trials.*
+
+
 
 ## The Epistemology of Subgroups in Neurological Trials
 

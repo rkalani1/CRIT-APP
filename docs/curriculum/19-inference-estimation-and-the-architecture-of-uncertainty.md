@@ -1,9 +1,27 @@
 # Chapter 19. Inference, Estimation, and the Architecture of Uncertainty
 
+![CI width versus n.](../assets/figures/fig43_ci_width_n.png)
+
+*Confidence-interval width shrinks with sample size; a wide interval signals imprecision, not necessarily a null effect.*
+
+![Estimation and confidence intervals.](../assets/figures/fig21_estimation_ci.png)
+
+*Read the interval as the range of effect sizes compatible with the data, then judge which of them would change practice.*
+
+![Estimation culture: confidence intervals against MID.](../assets/figures/swarm_ch19_estimation_ci.png)
+
+*Place the interval against the minimally important difference; "significant" and "important" are separate verdicts.*
+
+
 
 ## The Pathology of Dichotomania in Clinical Research
 
 Clinical research is often afflicted by dichotomania—the compulsive reduction of continuous clinical data into arbitrary categories and the binary classification of p-values into 'statistically significant' or 'non-significant' at the $p < 0.05$ threshold. This practice discards information, inflates false-positive risks, and misrepresents uncertainty.
+
+- Random error (chance) affects precision; systematic error (bias) corrupts validity.
+- Hypothesis testing cannot rescue invalid estimates derived from confounded data.
+- A 'nonsignificant' result does not prove equivalence or absence of effect.
+- A 'statistically significant' result does not establish biologic importance or causal truth.
 
 Appraising clinical trials requires shifting from p-value dichotomania to point estimation and confidence intervals. Reading confidence intervals as ranges of plausible effect sizes allows clinicians to assess estimation precision and judge whether the interval excludes clinically meaningful benefits or harms.
 
