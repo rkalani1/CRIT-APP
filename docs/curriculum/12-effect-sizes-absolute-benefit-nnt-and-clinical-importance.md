@@ -1,32 +1,11 @@
 # Chapter 12. Effect Sizes, Absolute Benefit, NNT, and Clinical Importance
 
-## Opening
-
-![Absolute vs relative by baseline.](../assets/figures/fig70_absrel_baseline.png)
-
-*The same relative risk reduction produces a large absolute benefit at high baseline risk and a negligible one at low baseline risk.*
-
-![ARR and NNT.](../assets/figures/fig08_arr_nnt.png)
-
-*Absolute risk reduction and its reciprocal, the number needed to treat, translate a trial's effect into patients treated per event prevented.*
-
-![NNT icon array.](../assets/figures/crit_fig_nnt_icon_array.png)
-
-*Absolute benefit intuition.*
-
-
-Marketing quotes a 25% relative reduction. Convert to absolute risk difference and NNT with the control-arm rate before counseling the next clinic patient.
-
 
 ## Conceptual Core: The Imperative of Absolute Effects
 
-Clinical literature heavily favors relative measures of effect—relative risk reductions (RRR), odds ratios (OR), and hazard ratios (HR). There are structural, statistical, and psychological reasons for this dominance. Statistically, relative effects are often assumed to be more stable across populations with differing baseline risks. Models like logistic regression natively generate odds ratios, and Cox proportional hazards regression natively generates hazard ratios. Furthermore, relative risk reductions usually appear numerically larger than absolute risk reductions, making them highly attractive for abstracts, press releases, and pharmaceutical marketing.
+Clinical trials frequently highlight relative effect measures—such as relative risk reduction (RRR) or hazard ratios—which can distort bedside decision-making by concealing baseline event rates. A impressive 50% relative risk reduction translates to a major 10% absolute gain when baseline risk is 20%, but only a trivial 0.1% gain when baseline risk is 0.2%.
 
-Clinical decision-making requires the absolute scale. A relative risk reduction of 50% provides little actionable information in isolation. If the 90-day control risk is 20%, a transportable 50% relative reduction corresponds to 10 fewer events per 100 treated; if the control risk is 1%, it corresponds to 0.5 fewer events per 100. Treatment burden and per-patient cost may remain similar, while absolute harm can also vary by baseline risk; estimate benefits and harms separately in the target population.
-
-Understanding treatment efficacy therefore requires translating a compatible relative estimate into local absolute benefits only after its transportability is justified. This conversion needs a credible control risk for the target population and horizon. Relative measures alone can make effects appear larger than their absolute clinical impact, so appraisal should report natural frequencies with and without treatment and quantify harms on the same horizon.
-
-Relative metrics without absolute context are insufficient for clinical interpretation. Raw event rates, absolute differences, and absolute harms establish whether an effect is clinically important. This translation is foundational to evidence-based neurology.
+Bedside appraisal requires converting relative statistics into absolute risk reductions (ARR) and numbers needed to treat (NNT) over a specific time horizon. Absolute benefits must be evaluated against absolute harms (number needed to harm [NNH]) and patient baseline risk to determine clinical importance.
 
 ## Quantitative Reasoning: Defining the Symbols and Metrics
 

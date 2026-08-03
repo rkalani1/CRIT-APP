@@ -1,31 +1,11 @@
 # Chapter 9. Prognosis, Risk Scores, and Prediction Models
 
-## Opening
-
-![ROC versus calibration.](../assets/figures/fig29_roc_vs_calibration.png)
-
-*Discrimination (the ROC curve) and calibration answer different questions; a model can rank patients well yet output probabilities that are systematically wrong.*
-
-![Calibration plot concept.](../assets/figures/fig07_calibration.png)
-
-*A calibration plot compares predicted risk to observed frequency; points off the diagonal reveal over- or under-prediction.*
-
-![Calibration of predicted versus observed risk.](../assets/figures/swarm_ch09_calibration.png)
-
-*Calibration must hold in patients like yours, not just in the derivation sample, before a score guides discharge planning.*
-
-A prognostic score promises discharge planning precision. Demand calibration in patients like yours, not only a shiny C-statistic from the derivation sample.
-
 
 ## The Demarcation of Prediction from Causal Inference
 
-Clinical neurology generates scoring systems at a relentless pace. The National Institutes of Health Stroke Scale (NIHSS) originated as a reproducible severity measure but rapidly mutated into a prognostic heuristic. The ICH Score predicts thirty-day mortality after intracerebral hemorrhage. The ABCD2 score stratifies the short-term probability of stroke following a transient ischemic attack. Modern machine learning algorithms digest raw non-contrast computed tomography images to predict large vessel occlusion, while others aggregate electronic health record data to forecast malignant cerebral edema. Despite this saturation, the fundamental error committed by clinicians and researchers alike is conflating a prediction model with a causal model. This conflation routinely poisons journal clubs and distorts clinical guidelines.
+Clinical prediction rules and risk scores (such as ABCD2, ICH Score, or ASPECTS) estimate the probability of a future clinical outcome given a set of predictor variables. They answer prognostic queries under current practice, but do not establish causal treatment effects. Confounding does not invalidate a pure prediction model if variables possess strong correlation with outcomes.
 
-A prediction paper claims that a mathematical function of inputs, measured at a strict index time, maps to the probability of a future state with a quantified degree of accuracy. It operates entirely within the domain of joint probability distributions. It does not claim that intervening on those input variables will change the outcome. A causal treatment paper, by contrast, claims that changing an exposure directly alters the trajectory of the outcome, operating within the domain of counterfactuals (as established in Chapter 3). The distinction is absolute and non-negotiable.
-
-If an observational stroke registry derives a multivariable logistic regression model for ninety-day functional independence and reports that statin use at admission carries an odds ratio of 1.4, this constitutes a predictive association. It indicates that statin users, within the specific context and confounding structure of that dataset, possess a higher probability of a favorable outcome. It explicitly does not mean that initiating a statin in the emergency department causes the good outcome. The statin variable acts as a proxy; it likely identifies patients who have consistent primary care access, fewer swallowing deficits, or lower baseline frailty. When audiences pivot seamlessly from an impressive area under the receiver operating characteristic curve (AUROC) to concluding 'we should treat these patients differently based on these variables,' they commit a severe category error. Prediction tools rank patients by risk; they do not identify which patients benefit from a specific intervention. Identifying benefit requires treatment effect heterogeneity analysis within a causal framework.
-
-Rigorous appraisal of prognosis and prediction literature treats discrimination (AUROC) as only one dimension of performance. Calibration, clinical utility, strict time-zero discipline, control of overfitting, and appropriate validation structures determine whether predictions are trustworthy and useful. TRIPOD supports transparent reporting, while PROBAST structures risk-of-bias assessment.
+Appraising prediction models requires distinct methodological criteria from causal trials. Readers must evaluate model derivation, discrimination (AUROC/c-statistic), calibration (agreement between predicted and observed risks), internal validation, and external transportability before deploying prediction tools for clinical decision-making.
 
 ## Taxonomy of Claims: Prognosis, Prediction, and Diagnosis
 

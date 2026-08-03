@@ -1,27 +1,11 @@
 # Chapter 26. Systematic Reviews and Clinical Prediction Rules
 
-## Opening
-
-![Synthesis forest sketch.](../assets/figures/fig23_forest_meta.png)
-
-*A systematic review is an observational study of the literature; the forest plot only summarizes the studies the search actually found.*
-
-![Prediction-rule lifecycle.](../assets/figures/fig46_cpr_lifecycle.png)
-
-*A clinical prediction rule earns trust across a lifecycle — derivation, external validation, impact analysis — not from its derivation AUC alone.*
-
-![Clinical prediction rule lifecycle.](../assets/figures/swarm_ch26_cpr_lifecycle.png)
-
-*A rule that is never externally validated or shown to improve decisions stays a derivation curiosity, however high its discrimination.*
-
-A clinical prediction rule is proposed for ED triage. Inspect derivation, validation, calibration, and net benefit—not only AUC.
-
 
 ## Systematic Reviews as Observational Studies of the Literature
 
-A systematic review is not a magical truth-generating machine; it is an observational study where the subjects are primary research papers. Just as a clinical cohort is vulnerable to selection bias, a systematic review is vulnerable to retrieval and publication bias. If a search strategy restricts by language, skips grey literature, or relies entirely on a single database, the resulting 'cohort' of studies is compromised. Appraising a systematic review requires reading its methods section with the same skepticism applied to a retrospective chart review: Who was included, who was missed, and how did the investigators prevent their own priors from dictating the search string?
+A systematic review is an observational study of published primary research and is susceptible to selection, retrieval, and publication bias. Aggregating published trials in a meta-analysis cannot eliminate underlying study flaws or small-study publication distortion.
 
-Publication bias—the file-drawer problem—is the foundational threat to any literature synthesis. Positive trials are submitted rapidly, published in high-impact journals, and cited frequently. Negative or inconclusive trials languish in file drawers or appear years later in obscure venues. When a systematic review aggregates only the published, accessible literature, it risks inflating the true effect of an intervention. Tools like funnel plots and formal asymmetry testing attempt to detect this, but they are underpowered when the number of studies is small. In neuroprotection literature, where dozens of small, positive animal and early-phase human trials evaporated in large Phase III testing, uncorrected systematic reviews of the early phases were spectacularly misleading.
+Similarly, appraising clinical prediction rules requires evaluating their complete developmental lifecycle: derivation, external validation in independent cohorts, and prospective impact analysis. High derivation discrimination (AUROC) alone does not justify clinical deployment without external validation and net benefit evaluation.
 
 ## Meta-Analysis: The Arithmetic of Pooling and the Threat of Heterogeneity
 

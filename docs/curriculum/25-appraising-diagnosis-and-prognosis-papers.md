@@ -1,23 +1,13 @@
 # Chapter 25. Appraising Diagnosis and Prognosis Papers
 
-## Opening
-![Spectrum mismatch derivation vs target.](../assets/figures/swarm3h_spectrum_mismatch.png)
-
-*A test derived in a florid-disease sample but deployed in an unselected population meets spectrum mismatch, which inflates the accuracy you will never reproduce locally.*
-
-
-A diagnostic company pitches a blood biomarker for TIA. Run trustworthiness, effect extraction, and local actionability gates before any order panel is added.
-
 
 ## Three gates before you change a pathway
 
-Whether the paper is a prehospital LVO scale, an automated CTA detector, or a score forecasting intracerebral hemorrhage (ICH) expansion, force it through three gates before anything operational moves:
+Evaluating diagnostic and prognostic papers requires filtering novel tests or risk scores through three operational gates before modifying clinical pathways:
 
-1. **Trustworthiness** — Can this design answer the claimed question without fatal bias for the patients who will actually receive the test or score?
-2. **Effect extraction** — What absolute, transportable quantities does it report (likelihood ratios, horizon-specific event rates, calibration), and how precise are they?
-3. **Local actionability** — In *your* prevalence, timing, staffing, and thresholds, does applying those quantities change triage, treatment, monitoring, or counseling?
-
-Jumping to a glamorous sensitivity or c-statistic is the classic journal-club failure. Broken methods make pretty numbers decorative. Sound numbers that never cross a local action line remain academic. The rest of this chapter is original CRIT-APP teaching architecture for stroke and neurology—not a reprint of any commercial handbook series.
+1. **Trustworthiness**: Verifying internal validity and freedom from spectrum mismatch or reference standard bias.
+2. **Effect Extraction**: Extracting transportable quantities (likelihood ratios, calibration curves, risk strata) rather than relying solely on discrimination metrics (AUROC).
+3. **Local Actionability**: Determining whether applying test results alters triage, management, or outcomes within local clinical workflows.
 
 ## Diagnosis gate 1: Trustworthiness
 

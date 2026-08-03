@@ -1,28 +1,11 @@
 # Chapter 18. Causation Frameworks, Bias, and Inference
 
-## Opening
-
-![E-value intuition.](../assets/figures/fig47_evalue.png)
-
-*The E-value asks how strong an unmeasured confounder would have to be to explain away an association — a quantitative stress test, not a guarantee of causation.*
-
-![Counterfactual contrast.](../assets/figures/fig20_counterfactual.png)
-
-*A causal effect is the contrast between the outcome under treatment and the unobservable outcome had the same patient gone untreated.*
-
-![Causal graph motifs used in appraisal.](../assets/figures/crit_fig_confounder_mediator_collider.png)
-
-*Confounder, mediator, and collider motifs each call for different handling; the graph, not intuition, decides what to adjust for.*
-
-
-Someone cites Bradford Hill as if a checklist proves causation. Use the questions as probes, not a courtroom stamp.
-
 
 ## Introduction: The Causal Gap in Neurological Literature
 
-Clinical neurology is inherently a causal enterprise: we prescribe anticoagulants to prevent stroke, administer thrombolytics to salvage penumbra, and deploy immunomodulators to alter the trajectory of demyelinating disease. Yet the literature guiding these decisions frequently relies on observational data, where the leap from statistical association to causal inference is fraught. Authors often camouflage causal intent with associative language ('linked to,' 'associated with') in the methods, only to pivot to causal verbs ('reduces,' 'prevents') in the conclusion.
+Clinical neurology is inherently a causal discipline: treatments are prescribed to prevent adverse outcomes or salvage functional capacity. However, clinical literature frequently reports observational associations while using causal language in abstracts and conclusions, creating a dangerous gap between statistical correlation and clinical inference.
 
-Critical appraisal needs a formal way to judge whether an association reflects a true causal effect. Counterfactuals, causal pies, and the structural biases — confounding, selection bias, and information bias — supply it, and Hill's viewpoints work best as appraisal questions rather than a checklist to tally: does the reported difference come from the treatment, from flawed study architecture, or from baseline differences between patients?
+Bridging this gap requires formal causal frameworks. Using counterfactual reasoning, potential outcome models, and Directed Acyclic Graphs (DAGs), clinicians can evaluate whether an observed association reflects a true causal treatment effect or spurious confounding.
 
 ## Counterfactuals and Potential Outcomes
 

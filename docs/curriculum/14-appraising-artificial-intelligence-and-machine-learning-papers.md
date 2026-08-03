@@ -1,31 +1,11 @@
 # Chapter 14. Appraising Artificial Intelligence and Machine Learning Papers
 
-## Opening
-
-![Site shift for AI models.](../assets/figures/fig35_ai_site_shift.png)
-
-*A model tuned to one hospital's scanners and case mix can lose accuracy at the next site; external validation, not internal accuracy, is the test that matters.*
-
-![AI leakage pathways.](../assets/figures/fig34_ai_leakage.png)
-
-*Information that leaks from the outcome into the features — through shared preprocessing, patient overlap, or post-baseline variables — inflates accuracy that no honest split can reproduce.*
-
-![AI pipeline leakage versus honest split.](../assets/figures/swarm_ch14_ai_leakage.png)
-
-*A leaky pipeline lets test data touch training; an honest split isolates the test set end to end, so the reported metric estimates deployment performance.*
-
-An imaging AI paper reports AUC 0.94. Hunt leakage, site shift, and whether the label matches the clinical decision the tool will actually drive.
-
 
 ## The Conceptual Core: Prediction, Causation, and Utility
 
-Machine learning has saturated the neurological and cerebrovascular literature, promising automated detection of large-vessel occlusions, precise segmentation of intracerebral hemorrhage, and early prediction of functional dependence following acute stroke. Clinicians trained exclusively to evaluate randomized controlled trials often approach these papers with an insufficient methodological framework. The critical appraisal of artificial intelligence requires a distinct analytical reflex, one that rigorously separates mathematical optimization from clinical utility. An algorithm is fundamentally an engine of correlation; it maps high-dimensional input vectors to target labels by minimizing a statistical loss function. It does not understand anatomy, pathophysiology, or the clinical consequences of its outputs. It optimizes exactly what it is programmed to optimize, ruthlessly exploiting any statistical artifact present in the data.
+Machine learning models in clinical neurology optimize pattern recognition across high-dimensional data, but an algorithm is an engine of correlation rather than causal inference. High diagnostic or predictive accuracy (such as a high AUROC) does not establish that deploying an algorithm improves patient-centered outcomes or clinical workflow efficiency.
 
-The paramount rule of appraising this literature is that prediction does not equal causation. A model that accurately predicts a high probability of severe disability (modified Rankin Scale 4-6) at 90 days does not inherently identify which intervention will alter that trajectory. Identifying patients at high risk for an outcome is entirely distinct from identifying patients who will benefit from a specific treatment. Causal inference—the process of determining 'who to treat'—requires counterfactual reasoning. Standard supervised machine learning algorithms simply estimate the expected value of the outcome given the observed features under the current standard of care. They cannot, by themselves, simulate the counterfactual universe in which an intervention is applied or withheld. Do not permit complex mathematical architectures to obscure this fundamental epistemological limit.
-
-Furthermore, algorithmic performance metrics are not equivalent to clinical impact. An area under the receiver operating characteristic curve (AUROC) of 0.94 is a descriptive statistical property of the model's ability to rank cases within a specific, controlled, and often artificial dataset. It does not mean the algorithm improves patient outcomes. A tool that perfectly segments an unruptured intracranial aneurysm provides zero clinical utility if the segmentation requires 45 minutes of manual preprocessing and ultimately does not alter the neurosurgeon's operative approach or the absolute risk of rupture. In clinical epidemiology, we demand evidence of absolute clinical effects—absolute reductions in door-to-puncture times, absolute increases in the rate of functional independence, or clearly defined numbers needed to treat (NNT) and numbers needed to harm (NNH). A paper that concludes with a high AUROC has merely completed the engineering phase; it has not demonstrated medical value.
-
-The critical appraisal of an AI paper is therefore an exercise in clinical mapping. The reader must map the algorithm's specific inputs to information available at the intended decision time, map its probabilistic outputs to a discrete and actionable decision, and map reported metrics to the target population. Failure to complete this mapping raises the risk of ineffective or harmful deployment. An algorithm that performs flawlessly in silico can degrade patient care in vivo if it targets the wrong decision point or introduces unmeasured delays.
+Appraising AI literature requires evaluating data provenance, label reliability, external validation across diverse healthcare systems, and clinical utility. Clinicians must verify that model predictions map to actionable decision points, account for potential spectrum shift across clinical sites, and demonstrate absolute improvements in clinical outcomes or operational efficiency.
 
 ## Task Definition: Formalizing the Clinical Decision Point
 

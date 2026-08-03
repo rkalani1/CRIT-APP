@@ -1,21 +1,11 @@
 # Chapter 11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks
 
-## Opening
-![mRS ordinal ladder.](../assets/figures/crit_fig_mrs_ladder.png)
-
-*The modified Rankin Scale is an ordinal ladder of disability; where you cut it — 0–1, 0–2, or a full ordinal shift — changes whether an effect looks large or trivial.*
-
-
-Outcome debate: mRS shift vs dichotomized independence vs home-time. Wrong endpoint can make a small effect look revolutionary—or hide disability that patients care about.
-
 
 ## Conceptual Core: Outcomes Encode Values and Statistical Power
 
-Stroke research lives and dies by its endpoints. An intervention's success or failure is never an absolute truth; it is strictly conditional on the mathematical structure of the outcome variable chosen by the investigators. A neuroprotective trial can be deemed a massive success if disability is coded as modified Rankin Scale (mRS) 0-2 versus 3-6, yet utterly fail if the threshold is shifted to mRS 0-1 versus 2-6. Similarly, whether recurrent stroke is analyzed with death as a censoring event or as a competing risk fundamentally alters the absolute incidence reported to patients. Outcome choice is therefore both a profound values judgment and a strict methodologic design choice. Critical appraisal without endpoint literacy is merely cargo-cult evidence-based medicine: you will correctly recite intention-to-treat protocols and blinding checklists while entirely missing the fact that the primary endpoint is mathematically incapable of answering the clinical question at hand.
+Clinical trial endpoints translate therapeutic effects into measurable clinical outcomes. In stroke medicine, the primary functional outcome is typically the modified Rankin Scale (mRS), an ordinal disability scale ranging from 0 (no symptoms) to 6 (death). Endpoint selection directly dictates statistical power, required sample size, and clinical interpretation.
 
-We must establish a fundamental epistemological boundary: prediction is not causation. Throughout this chapter and all subsequent analyses, remember that predicting a patient's 90-day mRS using their baseline NIH Stroke Scale (NIHSS) is an exercise in pattern recognition. In contrast, estimating the causal effect of tenecteplase on that same 90-day mRS requires evaluating counterfactuals—the difference between what happened and what would have happened under a different treatment assignment. You cannot intervene on baseline variables like age or initial infarct volume. Predictive models are optimized for accuracy regardless of mechanism, whereas causal inference is optimized to isolate the exact, unconfounded effect of an intervention. Confusing these two frameworks leads to lethal errors in clinical trial interpretation, such as adjusting for post-randomization variables or interpreting hazard ratios as direct causal parameters.
-
-To formalize outcome definitions, modern clinical trialists rely on the ICH E9(R1) estimand framework. An estimand specifies the treatment conditions being compared, target population, outcome variable, handling of intercurrent events, and population-level summary measure. Ambiguity in any attribute can make the target and analysis difficult to interpret. Three common outcome paradigms in neurology are ordinal functional scales, time-to-event survival models, and competing-risk frameworks.
+Dichotomizing ordinal outcomes (such as defining success as mRS 0–1 or 0–2) discards substantial outcome information and can obscure clinically meaningful shifts across other disability grades. Appraising stroke outcomes requires evaluating whether researchers used ordinal shift analyses (such as proportional odds models) or prespecified dichotomous thresholds, while accounting for competing risks like mortality.
 
 ## The Modified Rankin Scale: Psychometrics, Measurement, and Hiding the Truth
 

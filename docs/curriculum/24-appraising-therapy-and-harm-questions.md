@@ -1,27 +1,11 @@
 # Chapter 24. Appraising Therapy and Harm Questions
 
-## Opening
-
-![Action thresholds.](../assets/figures/fig39_action_thresholds.png)
-
-*A therapy is worth adopting only when its absolute benefit clears the action threshold set by its absolute harms and costs.*
-
-![Therapy and harm card.](../assets/figures/fig16_therapy_harm_card.png)
-
-*A therapy-and-harm card places benefit and harm side by side as absolute risks over the same time horizon.*
-
-![Therapy versus harm absolute-effect card.](../assets/figures/swarm_ch24_therapy_harm.png)
-
-*Benefit and bleeding compared on one absolute scale, so a relative headline cannot hide the tradeoff.*
-
-Therapy and harm are presented on mismatched scales. Force both benefit and bleeding onto absolute risks in the same time window.
-
 
 ## Three gates for therapy and harm papers
 
-Critical appraisal of therapeutic interventions and putative harms rests on three sequential evaluations: internal validity (can the design support a causal claim?), the magnitude and precision of absolute results, and applicability to the local clinical context. This CRIT-APP sequence prevents premature adoption of flawed data and reflexive rejection of valid evidence. It forces the reader past abstract spin and p-value theater into trial architecture, absolute effect sizes, and bedside tradeoffs.
+Appraising therapeutic interventions and potential treatment harms requires three sequential evaluations: verifying internal validity (confirming design freedom from fatal bias), extracting absolute effect sizes with confidence intervals, and evaluating transportability to local clinical practice.
 
-Therapy questions evaluate whether an intervention improves outcomes worth having; harm questions evaluate whether an exposure causes adverse events worth avoiding. Randomized trials remain the default for therapeutic efficacy, yet they are often underpowered for rare or delayed harms, so observational designs still require disciplined appraisal. In both domains the goal is the same: quantify benefit–harm tradeoffs in absolute terms before rewriting a pathway.
+Therapy studies evaluate whether interventions produce meaningful patient benefits, whereas harm studies assess adverse event risks. Both require converting relative risks into absolute risk differences over explicit time horizons to evaluate benefit-harm tradeoffs accurately.
 
 ## Evaluating Internal Validity
 

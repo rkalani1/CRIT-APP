@@ -1,19 +1,11 @@
 # Chapter 2. How to Read a Paper Under Time Pressure
 
-## Opening
-![Timed reading stack under pressure.](../assets/figures/crit_fig_timed_read_stack.png)
-
-*A short reading session pays off only when it targets the decision — the estimand, the absolute effect, and the largest validity threat — extracted before the discussion's spin.*
-
-
-You have eleven minutes before rounds. The abstract says practice-changing. This curriculum treats that claim as a hypothesis to pressure-test—validity and transport first, celebration later.
-
 
 ## The Conceptual Core: Speed as a Methodologic Discipline
 
-The realistic unit of reading is twelve to twenty-five minutes: between consults, before a case conference, or right after a fellow forwards a manuscript that "might change practice." Without a method, short sessions produce one of two failures — false confidence, where the reader adopts the abstract's conclusion without appraising the methods, or false modesty, where the reader ignores the literature for lack of time. Disciplined speed is not the enemy of rigor; unstructured thoroughness is. Reading front to back spends scarce attention on rhetorical motivation and mechanistic background that stroke clinicians already know, while neglecting the supplementary table that defines the analytic sample or the exact timing of the intervention. A method directs attention to where truth resides — the methods, the flow diagram, and the primary outcome tables — and away from where marketing resides. IMRaD navigation, abstract triage, figures-and-tables-first extraction, and the timed protocol are complementary instruments for that redirection.
+Rapid critical appraisal is an essential clinical skill. Reading sequentially from abstract to conclusion is inefficient and prone to bias: it exposes the reader to author spin, buries methodological flaws beneath background narrative, and defers validity evaluation until cognitive fatigue is highest.
 
-Treat the paper's parts by their function: the abstract is an advertisement, the introduction a sales pitch, the methods and results the actual product, and the discussion the warranty with its fine print. Appraise the product directly, keeping the distinction between prediction and causation, and between absolute and relative effects, in front of you. Intentional, recorded skipping is appropriate when it stays aligned with the decision at hand, because every minute spent on the discussion's extrapolation is a minute unavailable to verify the index-time definition or the missing-data handling. In acute stroke care, the background needed to act must be secured in advance: rushed reading during a stroke code is malpractice, but rushed, structured appraisal between codes is the essence of an evidence-based practice.
+Decision-Focused Reading (DFR) inverts this sequence, treating a manuscript as a structural query engine rather than a passive narrative. The goal is to rapidly extract five diagnostic parameters: the specific causal question, the target population, the primary estimand, the primary validity threats, and the absolute effect size. Executing this targeted, non-linear protocol allows clinicians to determine a paper's validity and local applicability efficiently under clinical time pressure.
 
 ## Named Frameworks: IMRaD Navigation and Abstract Triage
 

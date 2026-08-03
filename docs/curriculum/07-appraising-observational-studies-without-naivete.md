@@ -1,31 +1,11 @@
 # Chapter 7. Appraising Observational Studies Without Naivete
 
-## Opening
-
-![Active-comparator new-user design.](../assets/figures/fig48_active_comparator.png)
-
-*An active-comparator, new-user design compares two treatments started fresh, removing prevalent-user and healthy-adherer distortions.*
-
-![Immortal time structure.](../assets/figures/fig12_immortal_time.png)
-
-*Immortal time is the span in which an "exposed" patient could not yet have had the outcome, and it manufactures a spurious survival advantage.*
-
-![Immortal time bias schematic.](../assets/figures/swarm_ch07_immortal_time.png)
-
-*Misclassifying that guaranteed event-free interval as exposed time makes a drug look protective when the design, not the drug, created the gap.*
-
-A registry paper claims a drug is associated with lower readmission. Treat association as a starting hypothesis, not a green light for automatic order panels.
-
 
 ## Introduction: The Promise and Peril of Observational Evidence
 
-Observational studies are not failed randomized controlled trials. They are the primary source of evidence for harms, rare exposures, long-term outcomes, real-world practice variation, and the clinical trajectories of populations that trials systematically exclude. Simultaneously, they are the main source of confounded narratives that travel faster than scientific corrections. The naive reader treats a large, statistically significant adjusted hazard ratio derived from an observational database as a precise estimate of a treatment effect. The nihilistic reader, reacting to the replication crisis, reflexively dismisses every non-randomized result as pure bias. A third, strictly professional stance is design-aware appraisal: score how closely a study approximates a well-defined causal contrast and isolate the specific residual threats that remain.
+Observational studies provide essential evidence when randomized trials are unfeasible, unethical, or underpowered for long-term or rare adverse events. However, because treatment assignment in observational cohorts is non-random and driven by clinical indication, crude comparisons suffer from severe confounding by indication, selection bias, and immortal time bias.
 
-Stroke research depends fundamentally on registries, administrative claims, electronic health records, and prospective observational cohorts. The expansion of endovascular thrombectomy criteria, the nuanced choices of anticoagulation timing after intracerebral hemorrhage, the duration of dual antiplatelet therapy for intracranial atherosclerosis, and the evaluation of regional stroke systems of care often appear first—and sometimes only—in observational form. If you cannot appraise these papers rigorously, you cannot practice modern vascular neurology, nor can you lead a credible research program. Chapter 5 established the underlying causal grammar. This chapter applies that grammar to the specific architectures and data sources you will actually encounter in the literature.
-
-The core cognitive error in reading observational literature is conflating statistical adjustment with causal isolation. Multivariable regression, propensity score matching, and inverse probability weighting are mathematical procedures that process numbers. They do not know where the numbers came from. They cannot repair a broken study design, they cannot invent data that was not measured, and they cannot correct for the fact that patients who are prescribed a drug are fundamentally different from patients who are not. A brilliant statistical method applied to a fundamentally confounded design simply produces a very precise estimate of the bias. Therefore, appraisal of observational research must focus ruthlessly on design, sampling, and measurement before it ever considers the statistical model.
-
-Throughout this chapter, prediction does not equal causation. A model that predicts 90-day mortality from admission characteristics answers a different question from a design estimating the effect of an intervention. Predictive models may exploit confounded associations, reverse timing, or proxies whenever they improve forecasts. Causal inference instead requires a defined intervention contrast and identification assumptions appropriate to the target estimand. A feeding tube can strongly predict mortality because it marks severe illness; that association does not imply that withholding the tube prevents death.
+Target trial emulation provides a rigorous framework for appraising observational research. By explicitly defining the protocol of a hypothetical target trial—including eligibility, treatment strategies, assignment, time zero, follow-up, and outcome estimands—clinicians can identify structural design flaws in observational studies and evaluate whether analytic adjustments achieve exchangeability.
 
 ## Conceptual Core: The Target Trial Emulation Framework
 

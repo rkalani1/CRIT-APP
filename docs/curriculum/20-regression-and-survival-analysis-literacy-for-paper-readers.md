@@ -1,31 +1,11 @@
 # Chapter 20. Regression and Survival Analysis: Literacy for Paper Readers
 
-## Opening
-
-![Noncollapsibility sketch.](../assets/figures/fig67_noncollapsibility.png)
-
-*Odds ratios and hazard ratios can shift when covariates are added even without any confounding — noncollapsibility, not bias.*
-
-![Table 2 fallacy.](../assets/figures/fig55_table2_fallacy.png)
-
-*The Table 2 fallacy reads every adjusted coefficient as a causal effect; only the exposure of interest was designed to be interpreted that way.*
-
-![Time-to-event: events versus censoring.](../assets/figures/swarm_ch20_survival.png)
-
-*Survival models weigh events against censoring over time; translate the hazard ratio into absolute risks at a horizon patients care about.*
-
-A Cox model dump fills the supplement. Translate hazards into absolute risks over a clinically meaningful horizon before teaching the result.
-
 
 ## Mapping Clinical Outcomes to Regression Models
 
-Regression quantifies conditional associations between an outcome and modeled predictors. It does not isolate a causal effect merely because covariates are included; causal interpretation additionally requires a defined estimand, an identifying design and adjustment set, correct temporal ordering, and adequate model specification. Choose the model and effect measure to match the outcome, time structure, and target question.
+Multivariable regression models estimate conditional associations between predictor variables and clinical outcomes, adjusting for measured covariates. The mathematical model must align with the outcome structure: linear regression for continuous metrics, logistic regression for binary outcomes, and Cox proportional hazards regression for time-to-event data.
 
-Linear regression models a continuous outcome’s conditional mean. Interpreting its coefficient requires a correctly specified mean structure and adequate control of confounding for the intended question; independent observations and appropriate variance estimation are also important. Normally distributed residuals are needed for some exact small-sample inference, not for unbiased ordinary-least-squares coefficients. Skewed outcomes may call for a transformation, robust inference, or a generalized model, depending on the estimand and residual behavior.
-
-Logistic regression is employed for binary outcomes, modeling the log-odds of the event. Classic neurological applications include 90-day modified Rankin Scale dichotomies (e.g., mRS 0-2 vs. 3-6), symptomatic intracerebral hemorrhage, or 30-day readmission. The output is an odds ratio (OR). A frequent analytical failure is the misinterpretation of the OR as a risk ratio, particularly when the outcome is common. An OR of 3.0 for a rare event approximates a threefold increase in risk; for an event with a 40% baseline prevalence, an OR of 3.0 corresponds to a far smaller absolute risk increase.
-
-Cox proportional hazards regression models time-to-event data. It is indicated when both the occurrence of an event and the timing of that event are clinically relevant, such as time to recurrent stroke, post-stroke epilepsy, or death. Unlike logistic regression, which treats all outcomes occurring within a fixed window as equivalent, Cox models account for varying lengths of follow-up and right-censoring.
+Critical appraisal of regression models requires recognizing key statistical constraints: logistic and Cox models exhibit noncollapsibility (odds ratios and hazard ratios change upon covariate addition even without confounding), and coefficient tables are subject to the 'Table 2 fallacy' when secondary covariates are incorrectly interpreted as causal effects.
 
 ## Survival Curves, Censoring, and Longitudinal Follow-Up
 

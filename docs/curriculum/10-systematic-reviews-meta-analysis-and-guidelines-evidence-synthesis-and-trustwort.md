@@ -1,31 +1,11 @@
 # Chapter 10. Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness
 
-## Opening
-
-![Funnel plot concept.](../assets/figures/fig56_funnel.png)
-
-*A funnel plot screens for small-study effects and publication bias; asymmetry is a warning, not proof, and it is underpowered with few trials.*
-
-![Forest plot teaching sketch.](../assets/figures/fig23_forest_meta.png)
-
-*A forest plot shows each trial's estimate and weight around a pooled effect; check which single trial dominates before trusting the diamond.*
-
-![Forest plot intuition for meta-analysis.](../assets/figures/swarm_ch10_forest.png)
-
-*Pooling narrows the interval but cannot fix incompatible populations or missing trials; read heterogeneity and inclusion criteria first.*
-
-A living systematic review drops at 06:00 with a favorable pooled OR. Check inclusion criteria, double-counting, and absolute baselines before updating the pathway binder.
-
 
 ## Conceptual Core: The Architecture of Evidence Synthesis
 
-A systematic review is a scientific investigation in its own right, treating the primary literature as its sampled population. The naive assumption that evidence synthesis is an automatic ascent to higher truth is a dangerous fallacy. Pooling does not wash away bias; it frequently concentrates it, laundering flawed primary studies through the perceived impartiality of complex statistics. A meta-analysis of systematically biased trials yields a highly precise summary of a distorted literature. When clinical practice guidelines uncritically cite that meta-analysis, they industrialize the distortion, embedding it into pathway defaults and electronic health record order sets. Stroke neurology is an intensely guideline-driven specialty—governing decisions such as intravenous thrombolysis windows, blood pressure targets following intracerebral hemorrhage, secondary prevention antithrombotics, and the timing of carotid revascularization. Consequently, the appraisal of evidence synthesis products is a fundamental clinical skill, not an abstract exercise for methodologists or medical librarians.
+A systematic review is an observational study of published literature, where primary studies constitute the study population. Consequently, reviews are susceptible to selection bias, retrieval bias, and publication bias. A meta-analysis mathematically aggregates effect estimates across studies, but pooled summary statistics cannot correct for methodological flaws in underlying primary trials.
 
-The synthesis architecture begins with a rigorously defined question. A review asking 'What is the best treatment for acute ischemic stroke?' is unfocused and methodologically bankrupt. Rigorous reviews utilize the PICO framework: Population, Intervention, Comparator, and Outcomes (or PECO for Exposures). For prognostic models, the framework shifts to Population, Index prognostic factor, Outcomes, and Horizon. The exact boundaries of the PICO formulation dictate the scientific validity of the pooling. If a meta-analysis merges trials of early-generation intra-arterial urokinase with modern stent-retriever mechanical thrombectomy under the single umbrella of 'reperfusion therapy,' the resulting pooled effect size is a meaningless chimera. Scope decisions are foundational scientific decisions.
-
-Beyond the question lies the sampling frame. No search can prove that it found every eligible study, so the strategy should be sensitive, reproducible, and proportionate to the question. Restricting a search to one database or one language can increase language and indexing bias; it does not guarantee a particular direction or magnitude. Use relevant bibliographic databases, trial registries, citation searching, and other sources, document the complete strategy, and assess missing-results bias. Independent duplicate screening and extraction can reduce errors and subjective exclusions, with any deviations and reconciliation process reported.
-
-Finally, meta-analysis—the statistical aggregation of quantitative results—is strictly an optional extension of a systematic review. Not all systematically retrieved evidence should be mathematically pooled. When the included studies exhibit severe clinical heterogeneity, featuring completely divergent populations or measuring functionally different outcomes, calculating a single summary statistic is a methodological failure. In such instances, a structured narrative synthesis mapping the direction of effects is scientifically superior to an irresponsible, mathematically invalid pooled diamond.
+Appraising evidence syntheses requires evaluating search strategy comprehensiveness, study selection rigor, heterogeneity across included trials ($I^2$), publication bias (funnel plot asymmetry), and the certainty of evidence using structured frameworks such as PRISMA, AMSTAR 2, and GRADE.
 
 ## Named Frameworks and Checklists for Synthesis and Guidelines
 

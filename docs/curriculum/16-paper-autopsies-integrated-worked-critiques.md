@@ -1,55 +1,11 @@
 # Chapter 16. Paper Autopsies: Integrated Worked Critiques
 
-## Opening
-![Name prediction vs causal claims first.](../assets/figures/crit_fig_claim_types.png)
-
-*Classify the paper's core claim as prediction or causation before appraising anything else; the two demand different evidence.*
-
-![Paper autopsy sequence.](../assets/figures/crit_fig_autopsy_sequence.png)
-
-*The autopsy runs in a fixed order: claim, then design, then absolute effect, then transportability, then decision.*
-
-
-![Worked autopsy flow from abstract claim to bedside decision.](../assets/figures/swarm_ch16_autopsy_flow.png)
-
-*Each worked autopsy follows that flow, turning an abstract's claim into an explicit adopt, adapt, wait, or reject.*
-
-Five synthetic paper autopsies appear in this chapter. Practice the autopsy sequence: claim → design → absolute effect → transport → decide.
-
 
 ## The Architecture of the Paper Autopsy
 
-Integrated appraisal is slower than abstract skimming and faster than regret after a pathway change based on statistical spin. Autopsies train the slower skill until it becomes a rapid reflex. The educational standard is not cruelty to authors; it is fairness to patients. A paper can be honest, important, and still structurally incapable of justifying the practice change its abstract implies. Autopsy language must be precise, proportionate, and entirely free of ad hominem attack. When we identify a 'fatal flaw,' we mean the architecture of the paper cannot support a particular causal or deployment claim—we are not passing judgment on the authors' careers.
+A paper autopsy is a structured, end-to-end critical appraisal protocol designed to dissect a clinical manuscript from initial claim classification to bedside application. It replaces superficial abstract scanning with a disciplined diagnostic inspection of trial design, validity threats, data architecture, and absolute effect sizes.
 
-```
-PAPER AUTOPSY TEMPLATE
-=====================
-ID / Citation:
-Clinical decision at stake (1 sentence):
-Design one-liner:
-Estimand (PICO-T):
-
-VALIDITY (rank top 3 threats):
-1.
-2.
-3.
-
-RESULTS:
-- Primary endpoint absolute risks / effect (CI):
-- Harms absolute:
-- Fragility / precision notes:
-- Subgroups / secondary claims to quarantine:
-
-SPIN / COI / Data control:
-APPLICABILITY to our system (ops + equity):
-REPLICATION landscape:
-
-BOTTOM LINE: Act / Conditional / Watch / No change
-What would change my mind:
-Owner / review date (if operational):
-```
-
-*Teaching figure.* Every autopsy must end in one of four operational buckets—not “interesting.” Map claim capacity, absolute effects, and transportability before rewriting a pathway.
+This chapter provides worked autopsies demonstrating integrated critical appraisal across common study designs in vascular neurology, illustrating how to identify fatal design flaws, recalculate effect estimates, and arrive at defensible clinical decisions.
 
 ## Autopsy A — The EVT-Like RCT (CLEAR-PATH 7–18 Hour Trial)
 

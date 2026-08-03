@@ -1,32 +1,11 @@
 # Chapter 19. Inference, Estimation, and the Architecture of Uncertainty
 
-## Opening
-
-![CI width versus n.](../assets/figures/fig43_ci_width_n.png)
-
-*Confidence-interval width shrinks with sample size; a wide interval signals imprecision, not necessarily a null effect.*
-
-![Estimation and confidence intervals.](../assets/figures/fig21_estimation_ci.png)
-
-*Read the interval as the range of effect sizes compatible with the data, then judge which of them would change practice.*
-
-![Estimation culture: confidence intervals against MID.](../assets/figures/swarm_ch19_estimation_ci.png)
-
-*Place the interval against the minimally important difference; "significant" and "important" are separate verdicts.*
-
-A CI is reported as 0.82-1.01 for a secondary endpoint. Before calling the trial negative or positive, separate estimation from dichotomania and read the absolute scale.
-
 
 ## The Pathology of Dichotomania in Clinical Research
 
-Neurologic literature remains deeply afflicted by dichotomania—the compulsive categorization of continuous evidence into 'positive' or 'negative' bins based on an arbitrary mathematical boundary, typically alpha = 0.05. This cognitive distortion causes clinicians to equate a p-value of 0.04 with definitive truth and a p-value of 0.06 with statistical noise. The reality is that chance is a continuous threat to precision, and treating inferential statistics as a categorical verdict fundamentally misunderstands the architecture of uncertainty.
+Clinical research is often afflicted by dichotomania—the compulsive reduction of continuous clinical data into arbitrary categories and the binary classification of p-values into 'statistically significant' or 'non-significant' at the $p < 0.05$ threshold. This practice discards information, inflates false-positive risks, and misrepresents uncertainty.
 
-Statistical inference is an exercise in estimation, not adjudication. The goal of a clinical trial is not to prove that an effect is exactly zero or not zero, but to estimate the magnitude of the effect and quantify the precision of that estimate. By elevating the p-value above the confidence interval, readers systematically ignore the clinical importance of the point estimate and the plausible range of alternative truths contained within the data. A rigorously designed but imprecise study of absolute benefits is infinitely more useful for patient care than a highly significant, massively confounded artifact.
-
-- Random error (chance) affects precision; systematic error (bias) corrupts validity.
-- Hypothesis testing cannot rescue invalid estimates derived from confounded data.
-- A 'nonsignificant' result does not prove equivalence or absence of effect.
-- A 'statistically significant' result does not establish biologic importance or causal truth.
+Appraising clinical trials requires shifting from p-value dichotomania to point estimation and confidence intervals. Reading confidence intervals as ranges of plausible effect sizes allows clinicians to assess estimation precision and judge whether the interval excludes clinically meaningful benefits or harms.
 
 ## Sampling Variation and the Illusion of Replication Failure
 

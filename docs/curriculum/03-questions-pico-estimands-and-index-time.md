@@ -1,30 +1,11 @@
 # Chapter 3. Questions, PICO, Estimands, and Index Time
 
-## Opening
-
-![Validity and transportability.](../assets/figures/fig25_validity_transport.png)
-
-*Internal validity asks whether the estimate is right for the patients studied; transportability asks whether it carries to yours — two separate questions.*
-
-![Two claim templates for paper claims.](../assets/figures/crit_fig_prediction_vs_causation.png)
-
-*Every paper's claim maps to a prediction template (probability of Y given X) or a causal template (how intervening on X changes Y); name which one first.*
-
-
-A family already saw the press release. Your job is translation: map the paper to a prediction template or a causal template, then decide whether anything at the bedside should change today.
-
 
 ## Conceptual Core: The Linguistic Chaos of Clinical Medicine
 
-Most literature chaos begins as linguistic chaos. In neurology morbidity and mortality conferences, a trainee or attending might ask, 'Is endovascular therapy effective for large core infarcts?' or 'Do patients do better with early clinic follow-up?' or 'Is tenecteplase superior to alteplase?' These are vital curiosities, but they are not answerable research or appraisal questions. They lack a defined population, a specific contrast, a temporal origin, a measured outcome, and a defined summary metric. Critical appraisal does not start with attacking statistics; it starts with repairing the question. If you cannot define what is being estimated, debating the p-value is pure theater. The initial duty of the clinical epidemiologist is to force the clinician to speak in specific, falsifiable causal contrasts.
+Imprecise clinical questions produce incoherent appraisal. Critical appraisal requires a fundamental distinction between predictive and causal queries: a predictive query estimates outcome probability given an observed characteristic, whereas a causal query estimates how outcome probability changes under a specific intervention contrast ($X$ vs $X^*$). Conflating prediction with causation leads to category errors—such as using observational association models to justify treatment efficacy without contrasting counterfactual states.
 
-A cardinal rule that governs all critical appraisal is this: prediction is not causation. This distinction cannot be compromised. A prediction question asks, 'Given that a patient has characteristic X, what is the probability of outcome Y?' A causal question asks, 'If we intervene to change X to X*, how does the probability of outcome Y change?' The clinical query 'Is endovascular therapy beneficial in large core stroke?' is strictly causal. It implies an intervention. If an investigator attempts to answer this with a predictive model showing that large core patients treated with EVT have a 20% chance of functional independence, they have committed a category error. They predicted an outcome under a single condition without contrasting it against the counterfactual condition (medical management alone). Prediction observes the state of nature; causation requires a forced contrast between states.
-
-A well-formed clinical question performs three precise jobs. First, it dictates which papers are actually relevant to your decision. Second, it specifies exactly what numerical estimate you need to extract from those papers. Third, it identifies 'neighbor' questions that masquerade as answers but should not drive your decision. In stroke neurology, neighbor questions are ubiquitous and dangerous. Early neurologic improvement at 24 hours is a neighbor of 90-day functional independence. The mere prescription of an antiplatelet is a neighbor of sustained adherence to an antiplatelet. Door-to-needle process time is a neighbor of patient-centered neurologic recovery. Recognizing a neighbor question prevents you from altering your practice based on off-target surrogate data.
-
-This chapter provides the fundamental scaffolding for question generation and appraisal. We use PICO and PECO for structural anatomy; target population logic for evaluating transportability; the ICH E9(R1) estimand framework for analytic precision; index time (t0) for temporal discipline; and eligibility criteria for defining the exact boundaries of the causal target. Immortal time bias is introduced early because it represents the most dramatic consequence of getting time zero wrong—a recurrent theme that destroys the validity of countless observational studies in our field.
-
-You cannot critically appraise what you have not clearly defined. Until the question is repaired, the literature search will yield noise, the journal club will descend into divergent arguments, and the resulting clinical pathway will be incoherent. Clarity in question design is conflict resolution technology for evidence-based medicine.
+A well-formed question performs three functions: identifying relevant literature, specifying the required numerical estimand, and excluding misleading surrogate 'neighbor' endpoints (such as 24-hour imaging changes instead of 90-day functional independence). Structuring queries around PICO/PECO anatomy, target estimands (ICH E9(R1)), precise index time ($t_0$), and clear eligibility criteria protects against fatal analytic distortions like immortal time bias.
 
 ## The Target Population, the Study Sample, and the Analytic Set
 

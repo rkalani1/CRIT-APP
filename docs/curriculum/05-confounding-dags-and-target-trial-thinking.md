@@ -1,34 +1,11 @@
 # Chapter 5. Confounding, DAGs, and Target-Trial Thinking
 
-## Opening
-
-![Target-trial thinking.](../assets/figures/fig04_target_trial.png)
-
-*Target-trial thinking forces an observational question into the trial it emulates: eligibility, assignment, and start of follow-up defined up front.*
-
-![Confounding structure.](../assets/figures/fig03_dag_confounding.png)
-
-*A common cause of both exposure and outcome opens a back-door path that biases the crude association until it is blocked.*
-
-![Confounder, mediator, collider structures.](../assets/figures/crit_fig_confounder_mediator_collider.png)
-
-*Confounders, mediators, and colliders look alike on a graph but demand opposite handling; adjusting for the wrong one invents or hides an effect.*
-
-
-A fellow draws a causal arrow from anemia to poor outcome after ICH. Pause: is anemia a confounder, mediator, or collider in this DAG? Wrong adjustment can invent harm.
-
 
 ## Prediction Versus Causation and the Structural Definition of Confounding
 
-In acute stroke neurology, the distinction between prediction and causation is a matter of life and death, yet it is routinely conflated in the medical literature. A predictive model answers the question: 'Given this patient\'s age, admission National Institutes of Health Stroke Scale (NIHSS) score, and initial imaging, what is their absolute probability of achieving functional independence at 90 days?' A causal model answers an entirely different question: 'If we intervene right now to administer intravenous thrombolysis, by what absolute margin will we alter that patient\'s probability of functional independence?' Confounding exclusively threatens the latter. If a researcher only seeks to predict outcomes, any variable that carries information is useful, regardless of its causal status. Confounding is not a statistical nuisance to be algorithmically removed; it is a structural problem defined by the presence of shared causes between the intervention and the outcome.
+The distinction between prediction and causal inference is fundamental to appraisal. Predictive models estimate the outcome probability given baseline features, whereas causal models estimate the absolute outcome shift produced by a specific intervention contrast. Confounding exclusively threatens causal inference. It arises when shared structural causes influence both treatment assignment and outcome, creating non-causal associations that multivariable regression cannot eliminate without a correct causal structure.
 
-When assessing the efficacy of an intervention, the crude measure of association mixes the true causal effect of the treatment with non-causal statistical associations flowing along these shared structural paths. A multivariable regression model cannot magically distill causation from prediction simply by adding more covariates. The fundamental error in much of the observational stroke literature is the assumption that adjusting for an arbitrary list of baseline characteristics automatically yields a causal estimand. This is the illusion of statistical control. Without a structural causal model, regression output is merely an array of conditional associations, not an inventory of treatment effects.
-
-To understand why, consider that confounding is fundamentally an issue of exchangeability. In a properly randomized trial, the group receiving the intervention and the group receiving the placebo are exchangeable; if we were to travel back in time and swap their assignments, the overall outcomes would remain identical. In observational data, treated and untreated patients are radically non-exchangeable. Neurologists do not assign treatments randomly. They assign treatments based on perceived severity, comorbidities, frailty, and system resources. This non-random assignment opens backdoor paths that transmit spurious associations, blinding the investigator to the true causal effect.
-
-Baseline stroke severity is often a major common cause of treatment choice and outcome. If it is inadequately measured or controlled in an observational treatment comparison, important confounding by indication is likely, though the exact magnitude and direction depend on the treatment mechanism and selection process. NIHSS measured after treatment is a post-treatment variable and cannot simply substitute for baseline severity in a total-effect adjustment set.
-
-The shift from checklist epidemiology to structural causal inference demands that we stop asking whether a variable is 'statistically significant' and start asking what role the variable plays in the causal architecture of the disease. Prediction does not equal causation. No volume of data, no matter how vast, can overcome a structurally confounded study design.
+In randomized trials, treatment groups are exchangeable at baseline. In observational studies, clinicians assign treatments based on baseline stroke severity, frailty, and systemic factors, inducing non-exchangeability and confounding by indication. Structural causal inference uses Directed Acyclic Graphs (DAGs) and target-trial thinking to define minimum adjustment sets, preventing improper adjustment for post-treatment variables while blocking open backdoor paths.
 
 ## Directed Acyclic Graphs (DAGs) as Causal Grammar
 

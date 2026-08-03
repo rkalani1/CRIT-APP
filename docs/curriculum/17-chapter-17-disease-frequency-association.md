@@ -1,31 +1,11 @@
 # Chapter 17. Disease Frequency and Association
 
-## Opening
-
-![Occurrence measures.](../assets/figures/fig18_occurrence_measures.png)
-
-*Incidence, prevalence, and their rates are distinct occurrence measures; the grammar of frequency comes before any talk of association.*
-
-Epidemiology rounds put crude incidence next to a relative risk. Stop the category error: frequency grammar first, then association, then cause.
-
-![Incidence versus prevalence teaching diagram.](../assets/figures/crit_fig_incidence_prevalence.png)
-
-*Incidence focuses on new events in a time window; prevalence counts who lives with the condition now.*
 
 ## Conceptual core: frequency first
 
-**Incidence** answers: how often do *new* events occur in a defined population
-at risk over a defined time? Stroke services live on incidence thinking—codes
-per week, EVT candidates per month, ICH admissions per year—because operations
-and prevention programs care about *new* events.
+Measuring disease frequency is the foundation of clinical epidemiology and risk assessment. Incidence quantifies the rate of new disease events occurring in a population at risk over a defined time horizon, whereas prevalence measures the proportion of a population with existing disease at a given time point.
 
-**Prevalence** answers: how many people *currently* live with a condition or
-history? Prevalence mixes incidence with duration and survival. A rise in
-prevalence of “prior stroke” in a clinic panel can reflect better survival,
-aging, or coding practices—not necessarily a surge in new strokes.
-
-**Cumulative risk** (incidence proportion) over a fixed window (30 days, 90 days,
-1 year) is often what trial arms and quality dashboards actually report.
+In cerebrovascular disease, distinguishing incidence rates from prevalence proportions is essential for interpreting risk estimates, calculating absolute treatment impacts, and evaluating secondary prevention trial endpoints across populations.
 
 ## Association measures (synthetic teaching table)
 

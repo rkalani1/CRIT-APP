@@ -1,14 +1,11 @@
 # Chapter 21. Interaction, Effect Modification, and Standardization
 
-## Opening
-A treatment contrast may look homogeneous on one effect scale and heterogeneous on another. Demand the scale, prespecification, interaction estimate with uncertainty, and absolute stratum-specific effects.
-
 
 ## Interaction Versus Confounding: Structural Distinctions
 
-Confounding and effect modification answer different questions. Confounding bias arises when treatment groups are not exchangeable for the target causal contrast; a sufficient adjustment set is chosen from the causal structure to block biasing paths without conditioning on inappropriate mediators or colliders. Mere association of a variable with exposure and outcome does not make it a confounder. Effect modification describes variation in a defined treatment effect across levels of a variable on a stated scale. It is heterogeneity to estimate, not a bias to 'adjust away.'
+Confounding and effect modification (interaction) represent distinct epidemiological concepts. Confounding is a structural bias where shared causes distort an exposure-outcome relationship. Interaction describes how the magnitude of a treatment effect varies across strata of a third variable—a biological reality to quantify rather than a bias to eliminate.
 
-The stroke literature frequently exhibits linguistic and analytical confusion between these concepts, typically manifesting in phrases such as 'we adjusted for interaction.' Proper methodology requires adjusting for confounders to estimate a uniform effect, and stratifying by effect modifiers to report heterogeneous effects. For example, if the recanalization efficacy of a specific stent retriever varies by clot composition (e.g., erythrocyte-rich versus fibrin-rich), clot composition acts as an effect modifier. Averaging the treatment effect across all clot types obscures essential procedural heterogeneity.
+Appraising interaction requires evaluating the effect scale. Additive scale interaction measures absolute risk differences across strata and guides bedside decision-making, whereas multiplicative scale interaction evaluates relative risk ratios and can obscure public health impacts.
 
 ## Scale Dependence: Additive and Multiplicative Frameworks
 

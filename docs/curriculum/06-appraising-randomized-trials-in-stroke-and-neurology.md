@@ -1,30 +1,11 @@
 # Chapter 6. Appraising Randomized Trials in Stroke and Neurology
 
-## Opening
-
-![CONSORT-minded flow.](../assets/figures/fig26_consort_minded.png)
-
-*A CONSORT-minded flow tracks every patient from screening to analysis, exposing who was excluded and who was lost to follow-up.*
-
-![Trial pathway overview.](../assets/figures/fig05_trial_pathway.png)
-
-*The pathway from eligibility through randomization, treatment, and blinded outcome ascertainment is where allocation concealment and crossover are judged.*
-
-![Trial pathway teaching sketch.](../assets/figures/crit_fig_trial_pathway.png)
-
-*Randomization protects the comparison only if concealment holds and post-randomization losses stay balanced across arms.*
-
-
-Journal club is an EVT RCT with beautiful Kaplan–Meier curves. Ask allocation concealment, crossover, and absolute functional gains before declaring a new standard for your ED.
-
 
 ## The Epistemology of the Randomized Trial in Stroke
 
-The randomized controlled trial sits atop the evidence hierarchy not by historical tradition or arbitrary consensus, but due to a singular mathematical property: when executed flawlessly, randomization balances both measured and unmeasured baseline prognostic factors in expectation. This is the exclusive mechanism in clinical epidemiology that breaks the causal arrow between patient characteristics and treatment assignment. In observational data, a patient receives a therapy because a clinician predicted they would benefit, or because they were deemed physiologically capable of tolerating the intervention. This generates intractable confounding by indication, meaning the treatment assignment is hopelessly entangled with the underlying baseline risk of the outcome. Prediction is not causation. A machine learning model might flawlessly predict that stroke patients receiving mechanical ventilation have astronomically higher mortality rates, but that associational correlation contains zero causal information regarding the efficacy of the ventilator itself. Randomization replaces clinician intent and predictive assignment with a stochastic, mathematical coin flip.
+The randomized controlled trial (RCT) provides the principal architecture for causal inference by using random allocation to break confounding arrows and achieve baseline exchangeability between treatment arms. By uncoupling intervention assignment from clinician selection, prognostic factors, and unmeasured confounders, RCTs isolate the true treatment effect.
 
-Proper random assignment makes assignment independent of baseline potential outcomes under the allocation mechanism, so between-group outcome differences can estimate the effect of assignment when concealment, follow-up, outcome measurement, and analysis are valid. It does not make the realized groups identical, nor does it imply that an individual’s unobserved control outcome equals another participant’s observed outcome. Post-randomization co-interventions, missing outcomes, crossover, and measurement error can still bias the analysis or change the estimand.
-
-The task of clinical appraisal is not to automatically accept the results simply because the word 'randomized' appears in the title. The task is to trace the causal architecture from the sequence generation all the way to the final intention-to-treat analysis, interrogating every phase where bias might have leaked back into the trial execution. Consider a surgical trial comparing early versus late decompressive hemicraniectomy for malignant middle cerebral artery infarction. Observational registries are fundamentally biased because neurosurgeons only operate on patients they predict will survive the procedure. Randomization removes this prediction-based assignment, but if surgical patients receive disproportionately intensive care unit rehabilitation while medical patients receive palliation, confounding has re-entered through the backdoor of co-interventions. True appraisal requires absolute skepticism of the post-randomization timeline.
+In cerebrovascular medicine, trial execution demands rigorous methodological safeguards. Acute neurological deficits, time-sensitive interventions, and subjective outcome metrics require strict allocation concealment, masked end-point adjudication (such as blinded modified Rankin Scale evaluation), and intention-to-treat analysis to preserve exchangeability and prevent performance and detection biases.
 
 ## The Mechanics of Randomization: Breaking the Confounding Arrow
 

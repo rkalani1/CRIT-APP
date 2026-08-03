@@ -1,23 +1,11 @@
 # Chapter 22. Screening, Early Detection, and Overdiagnosis
 
-## Opening
-
-![Screening biases.](../assets/figures/fig14_screening_biases.png)
-
-*Lead-time, length, and overdiagnosis biases can make a screening test look beneficial even when it changes no outcome.*
-
-![Screening appraisal traps: lead time, length, overdiagnosis.](../assets/figures/swarm_ch22_screening.png)
-
-*Earlier detection lengthens known-disease time without moving the death; benefit must be shown on hard outcomes, not diagnostic yield.*
-
-Screening expansion is proposed for silent infarcts on MRI. Before scaling a program, map lead time, overdiagnosis, and who pays the false-positive cascade.
-
 
 ## The Seduction and Peril of Early Detection
 
-The proposition that early detection universally improves outcomes is one of medicine’s most deeply entrenched heuristics. In stroke and neurovascular medicine, this rationale drives asymptomatic carotid ultrasound surveillance, widespread magnetic resonance angiography to detect aneurysms in the worried well, and opportunistic screening for subclinical atrial fibrillation. The premise seems unassailable: locate the pathology early, intervene before structural damage occurs, and prevent catastrophe. Yet critical appraisal requires separating detection from benefit. Identifying a lesion earlier is a diagnostic yield; preventing a stroke or rupture is a clinical benefit. The former guarantees neither the latter nor an acceptable ratio of benefit to harm.
+Screening programs operate on the premise that detecting asymptomatic disease improves clinical outcomes. However, early detection does not inherently translate to reduced mortality or morbidity, as screening studies are highly susceptible to major methodological biases.
 
-Neurologists encounter these screening mechanics in three modes: formalized population screening of asymptomatic cohorts, case-finding in high-risk clinical venues, and opportunistic investigation of incidental findings on imaging obtained for unrelated indications. Across all three modes, absolute risk is the requisite currency. An unruptured 3-millimeter middle cerebral artery aneurysm identified on a screening MRA possesses a vastly different risk architecture than a ruptured aneurysm presenting with subarachnoid hemorrhage. Extrapolating the procedural mandate from the symptomatic arena to the screen-detected arena systematically overestimates benefit and discounts the morbidities of preventive interventions.
+Evaluating screening interventions requires identifying lead-time bias (extending survival duration artificially by advancing diagnosis time), length-time bias (disproportionately detecting slow-growing lesions), and overdiagnosis (detecting conditions that would never cause clinical harm). Defensible screening programs must demonstrate reductions in cause-specific mortality in randomized trials.
 
 ## Criteria for a Defensible Screening Program
 

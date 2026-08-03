@@ -1,21 +1,11 @@
 # Chapter 13. Subgroups, Heterogeneity of Treatment Effect, and Spin
 
-## Opening
-![Subgroup credibility probes.](../assets/figures/crit_fig_subgroup_probes.png)
-
-*Before believing a subgroup effect, run the credibility probes: pre-specification, a significant interaction test, biological plausibility, and consistency across trials.*
-
-
-A slide claims benefit only in women under 70. Subgroup forests invite storytelling. Require pre-specification, interaction tests, and biological credibility.
-
 
 ## The Epistemology of Subgroups in Neurological Trials
 
-Stroke trials enroll heterogeneous cohorts by design. An endovascular thrombectomy (EVT) trial mixes proximal M1 occlusions with tandem lesions, varying core volumes, differing collateral grades, and highly variable times from last known well. Secondary stroke prevention trials aggregate large artery atherosclerosis, lacunar infarcts, and cardioembolic sources into single massive cohorts. When clinicians read the primary results of these trials, the immediate instinct is to ask: 'Does this average treatment effect apply to the specific patient in front of me?' The instinct to individualize care is clinically correct. However, the mechanism by which the medical literature attempts to answer this question—subgroup analysis—is fundamentally flawed by statistical noise, unpenalized multiplicity, and motivated reasoning.
+Heterogeneity of treatment effect (HTE) describes genuine differences in intervention efficacy across patient subgroups. While identifying HTE helps target therapy to patients with the highest net benefit, subgroup analyses are highly vulnerable to unpenalized multiplicity, sample size depletion, and false-positive findings.
 
-Heterogeneity of treatment effect (HTE) refers to non-random, genuine differences in the magnitude or direction of a treatment's effect across different patient populations. When real, HTE is critical for targeting therapies to those who benefit most and sparing those who only incur harm or financial toxicity. When false, HTE leads to devastating clinical errors: either denying life-saving therapy to a subgroup that falsely appeared to have no benefit (a false negative), or exposing a subgroup to dangerous interventions based on a statistical fluke (a false positive). The history of neurology is littered with treatments delayed or denied because a subgroup analysis suggested futility in a specific demographic, only for subsequent trials to prove the effect was uniform.
-
-The epistemic gap in subgroup analysis arises from the fundamental difference between deduction and induction. A randomized controlled trial is powered and designed to deductively test a primary hypothesis on a specific, rigorously defined population. The p-value for the primary endpoint has mathematical validity because the hypothesis was singular and pre-specified. When researchers slice the population into subgroups, they break the randomization stratification, drastically reduce the sample size within each stratum, and vastly increase the number of hypotheses being tested. What began as a deductive test of an intervention degenerates into an inductive trawl for patterns. The statistical machinery of p-values and confidence intervals, which assumes a single pre-specified hypothesis, breaks down completely in this high-dimensional environment. We must approach subgroups not as established facts, but as highly suspect claims demanding external validation.
+Appraising subgroup claims requires distinguishing a priori hypotheses from post-hoc data mining. Clinicians must demand formal statistical tests of interaction rather than comparing within-stratum p-values, and evaluate biological plausibility and cross-trial consistency before changing practice based on subgroup signals.
 
 ## The Mathematics of Heterogeneity of Treatment Effect (HTE)
 

@@ -1,32 +1,11 @@
 # Chapter 8. Diagnostic Accuracy Studies: From Sensitivity to Decisions
 
-## Opening
-
-![Diagnostic 2×2.](../assets/figures/fig49_diagnostic_2x2.png)
-
-*Sensitivity and specificity live in the columns of the 2×2; predictive values depend on the row totals, which prevalence sets.*
-
-![Likelihood-ratio / Bayes curves.](../assets/figures/fig28_lr_bayes_curves.png)
-
-*Likelihood ratios convert a pre-test probability into a post-test probability; a test earns its keep only when it moves you across an action threshold.*
-
-![Bayes update with LR+ = 5 on synthetic priors.](../assets/figures/crit_fig_bayes_lr.png)
-
-*With a positive likelihood ratio of 5, a low pre-test probability still lands below most treatment thresholds — the update is multiplicative, not magical. Values are synthetic.*
-
-
-A new CTA LVO detector advertises 98% sensitivity. Without spectrum and verification design, that number can be theater. Work the 2x2 before the purchase order.
-
 
 ## Conceptual Core: Diagnosis as a Decision Under Uncertainty
 
-Diagnostic research does not exist in a separate moral or epistemological universe from therapeutic research. A diagnostic test matters exclusively insofar as it changes probabilities enough to alter actions—whether those actions are to administer tenecteplase, withhold anticoagulation, image further, transfer to a comprehensive stroke center, or reassure the patient. Vascular neurology is saturated with diagnostic claims. The literature overflows with prehospital large-vessel occlusion (LVO) clinical screens, automated CT angiography readings, CT perfusion core and penumbra algorithms, MRI diffusion-weighted imaging (DWI) protocols for transient ischemic attack (TIA) workups, high-resolution vessel-wall imaging techniques, continuous EEG criteria for subtle status epilepticus, and machine-learning hemorrhage detectors. Many of these papers report impressive sensitivities or large areas under the receiver operating characteristic (ROC) curve without ever demonstrating that a clinician's decision threshold would actually move. The appraiser must remain stubbornly anchored to the clinical decision.
+Diagnostic testing in neurology aims to revise pre-test probability to post-test probability to inform management decisions. Diagnostic accuracy studies evaluate how reliably an index test detects target pathology compared to a reference standard. Sensitivity and specificity reflect test discrimination, but positive and negative predictive values vary directly with disease prevalence in the clinical setting.
 
-The conceptual foundation of diagnostic appraisal is Bayes' theorem, which formalizes how new evidence alters prior beliefs. Before a test is performed, a patient has a pre-test probability of disease based on their history, demographics, baseline risk factors, and prior evaluations. The diagnostic test acts as an information operator, mathematically updating that pre-test probability (converted to odds) by multiplying it by the test's likelihood ratio, yielding a post-test probability. If the post-test probability crosses a predefined action threshold—such as the threshold to proceed with mechanical thrombectomy or the threshold to discharge from the emergency department—the test has clinical utility. If the post-test probability remains squarely within the original decision zone, the test was clinically useless for that specific patient, regardless of its statistical accuracy or the sophistication of the underlying technology.
-
-Decision-oriented diagnostic appraisal combines standard metrics, the prevalence dependence of predictive values, likelihood-ratio updating, and the bias structures that can make stroke imaging studies appear stronger on paper than in emergency practice. A fully worked prehospital LVO-screening example makes the Bayesian arithmetic explicit and shows why optimistic results can collapse in field implementation. Diagnostic studies are best read as evaluations of information-guided action, not quests for a single binary measure of 'accuracy.'
-
-Sensitivity and specificity describe test behavior relative to a reference standard, while predictive values describe what a result means at a specified prevalence. Likelihood ratios provide a Bayesian bridge from pre-test to post-test odds, but their transportability across spectra, thresholds, reference standards, and workflows is empirical rather than guaranteed. Reports should provide enough information to reconstruct the 2×2 table and connect test results to downstream decisions, benefits, and harms.
+Rigorous appraisal of diagnostic studies requires evaluating three core validity threats: spectrum mismatch (deriving tests in florid cases but testing in mild/unselected cohorts), verification bias (differentially applying reference standards based on index test results), and reference standard imperfection. Transporting test accuracy to local practice depends on pre-test probability and local action thresholds.
 
 ## The Diagnostic 2×2 Table and Quantitative Reasoning
 

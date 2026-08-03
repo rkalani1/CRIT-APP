@@ -1,23 +1,11 @@
 # Chapter 27. Missing Data, Multiplicity, Interim Analyses, and Fragility
 
-## Opening
-
-![Missingness mechanisms.](../assets/figures/fig44_missingness_mechs.png)
-
-*Whether data are missing completely at random, at random, or not at random determines which analysis stays unbiased.*
-
-![Worked fragility-index example: 40 versus 22 events gives Fisher p = 0.0183; changing three treatment non-events to events gives 40 versus 25 and p = 0.0572.](../assets/figures/swarm_ch27_fragility_missing.svg)
-
-*Fragility depends on the specified outcome direction and statistical test; here the two-sided Fisher exact fragility index is 3.*
-
-Interim looks early and the primary endpoint is fragile. Ask missingness, multiplicity, and what would reverse the conclusion with a few events.
-
 
 ## The Plumbing of Trial Analysis: Why Significance Often Crumbles
 
-Physicians are conditioned to inspect randomization, blinding, and primary endpoint definitions with extreme care, yet often ignore the analytic plumbing that underwrites the reported p-value. A trial claiming a revolutionary endovascular therapy benefit may harbor missing 90-day modified Rankin Scale (mRS) data on 10% of the cohort, undocumented alpha spending across multiple interim peeks, and a dozen unadjusted secondary endpoints mined for significance. This is not mere statistical pedantry. These methodological choices determine whether a reported hazard ratio reflects a stable biological truth or a fragile statistical mirage.
+Trial appraisal requires evaluating statistical analytic plumbing alongside randomization and blinding. Missing outcome data, unadjusted multiplicity across secondary endpoints, and unpenalized interim peeks can convert statistical significance into a fragile mirage.
 
-Stroke research is uniquely vulnerable to these specific analytic threats. Delayed functional outcomes (e.g., 90- or 180-day mRS) suffer structural missingness as patients disperse to skilled nursing facilities or home care. Radiographic endpoints produce highly correlated, multiple comparisons (infarct core, penumbra, collateral grade). Acute interventions often test modest effect sizes where a handful of outcome reclassifications can obliterate statistical significance. The appraiser's job is to deconstruct this plumbing. If a trial's conclusions cannot survive plausible missing-data assumptions, multiplicity penalties, and minor event-count perturbations, those conclusions should not dictate regional stroke protocols.
+In stroke trials with delayed functional outcomes (such as 90-day mRS), structural missingness and small event counts create outcome fragility. Clinicians must evaluate missingness mechanisms (MCAR, MAR, MNAR), sensitivity analyses, multiplicity control, and the fragility index to determine trial stability.
 
 ## Missingness Mechanisms: MCAR, MAR, and MNAR
 

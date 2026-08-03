@@ -1,29 +1,11 @@
 # Chapter 4. Internal Validity, External Validity, and Bias Taxonomy
 
-## Opening
-
-![Three bias families.](../assets/figures/fig27_three_bias_families.png)
-
-*Selection, confounding, and measurement are the three bias families to name for any study before debating its statistics.*
-
-![Bias taxonomy map.](../assets/figures/fig02_bias_taxonomy.png)
-
-*A map of where each bias enters — at enrollment, in the exposure–outcome comparison, or during measurement.*
-
-![Bias families versus transportability.](../assets/figures/swarm_ch04_bias_taxonomy.png)
-
-*Internal bias corrupts the estimate itself; limited transportability only restricts how far a valid estimate travels — keep the two axes distinct.*
-
-Quality meeting: someone proposes adopting an outside center protocol based on one observational paper. Demand the bias story—selection, confounding, measurement—before the order set is rewritten.
-
 
 ## Introduction: The Two-Part Promise of Validity
 
-When clinicians and methodologists declare a study 'valid,' they frequently conflate two distinct questions. Internal validity asks whether the design and analysis identify the target estimand in the study population without important systematic distortion. External validity (often parsed into generalizability and transportability) asks whether an internally valid estimate is relevant to a different population, setting, or system of care. Design, measurement, and effect heterogeneity can affect both questions, so distinct does not mean wholly non-overlapping.
+Evaluating clinical evidence requires separating internal validity from external validity. Internal validity addresses whether a study's design and analysis measure the target estimand in the study cohort without systematic bias. External validity (generalizability and transportability) evaluates whether an internally valid estimate applies to a different patient population or setting. A trial may possess flawless internal validity in a specialized center yet fail to transport to a community hospital; conversely, a large claims database may reflect broad national demographics while remaining internally invalid due to unmeasured confounding.
 
-A landmark endovascular therapy (EVT) trial can be internally flawless in establishing a treatment effect for highly selected patients at comprehensive stroke centers, yet entirely fail to transport to a rural spoke hospital lacking advanced perfusion imaging and experiencing prolonged transfer delays. Conversely, a massive administrative claims analysis might possess perfect external validity regarding the demographic representation of an insured national population, while remaining completely internally invalid for a causal treatment effect due to intractable unmeasured confounding.
-
-Critical appraisal must permanently sever these two concepts and score them separately. This chapter formalizes a rigorous bias taxonomy, defining the mathematical and structural threats to internal validity, and establishes the clinical frameworks required to evaluate transportability. We reject the amateur approach of compiling an undifferentiated list of 'limitations.' Instead, we provide the architectural diagnostic tools to locate exactly where a study's inferential chain breaks, allowing the clinician to render a definitive verdict on the utility of the evidence.
+Critical appraisal evaluates internal validity and transportability independently. This chapter establishes a bias taxonomy to identify structural threats to internal validity and provides clinical frameworks to assess external transportability across practice settings.
 
 ## Random Error versus Systematic Error (Quantitative Foundations)
 
