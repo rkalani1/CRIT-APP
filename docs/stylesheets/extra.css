@@ -224,15 +224,11 @@
     display: none;
   }
 
-  .hero-diagram > summary::after {
-    content: "+";
-    float: right;
-    font-size: 1.1rem;
-    line-height: 1;
-  }
-
-  .hero-diagram[open] > summary::after {
-    content: "−";
+  /* Material paints its own details icon (blue disc) at left: 12px, which
+     overlaps this summary's tighter padding — suppress it and keep only
+     Material's right-hand chevron, which rotates on [open]. */
+  .md-typeset .hero-diagram > summary::before {
+    display: none;
   }
 
   .hero-diagram > summary:focus-visible {
@@ -250,7 +246,9 @@
     min-height: 44px;
     padding-block: 0.62rem;
     background: #fff;
-    color: var(--ebook-deep) !important;
+    /* Fixed ink, not var(--ebook-deep): the pill stays white in both schemes,
+       and the slate token (#c7d2fe) would be illegible on white. */
+    color: #312e81 !important;
     box-shadow: none;
   }
 
@@ -262,15 +260,14 @@
 
   .ebook-hero .ebook-start a:is(:hover, :focus-visible) {
     background: #f8fafc;
-    color: var(--ebook-deep) !important;
+    color: #312e81 !important;
   }
 }
 
 @media screen and (min-width: 901px) {
-  .ebook-hero--split {
-    grid-template-columns: minmax(0, 1.18fr) minmax(18rem, 0.82fr);
-  }
-
+  /* Desktop: the lens diagram is always visible as a full-width strip below
+     the hero copy (its disclosure summary is hidden). A two-column split was
+     retired — the 960x280 strip is illegible at ~40% column width. */
   .hero-diagram > summary {
     display: none;
   }
@@ -819,7 +816,9 @@ html {
 }
 
 /* ── Chapter list ───────────────────────────────────────────── */
-.chapter-list {
+/* Selectors carry .md-typeset so they outrank Material's own
+   .md-typeset ul / .md-typeset ul li list styling (markers, indents). */
+.md-typeset .chapter-list {
   list-style: none;
   padding: 0;
   margin: 0.35rem 0 2.25rem;
@@ -830,10 +829,15 @@ html {
   overflow: hidden;
   box-shadow: var(--ebook-shadow);
 }
-.chapter-list li {
+.md-typeset .chapter-list li {
+  list-style: none;
   margin: 0;
+  padding: 0;
   max-width: none;
   border-bottom: 1px solid var(--ebook-rule);
+}
+.md-typeset .chapter-list li::marker {
+  content: none;
 }
 .chapter-list li:last-child {
   border-bottom: none;

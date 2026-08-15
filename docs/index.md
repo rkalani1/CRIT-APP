@@ -1,6 +1,6 @@
 <div class="ebook-hero ebook-hero--split" markdown="1">
 <div class="hero-copy" markdown="1">
-<p class="eyebrow">Open-source clinical methods field guide</p>
+<p class="eyebrow">Open-source ebook · 28 chapters</p>
 
 # Critical Appraisal for Neurologists
 
@@ -57,20 +57,17 @@ Turn a published claim into a defensible bedside decision—by matching the ques
 <li><a href="curriculum/03-questions-pico-estimands-and-index-time.html"><span class="num">03</span><span>Questions, PICO, Estimands, and Index Time</span></a></li>
 <li><a href="curriculum/04-internal-validity-external-validity-and-bias-taxonomy.html"><span class="num">04</span><span>Internal Validity, External Validity, and Bias Taxonomy</span></a></li>
 <li><a href="curriculum/05-confounding-dags-and-target-trial-thinking.html"><span class="num">05</span><span>Confounding, DAGs, and Target-Trial Thinking</span></a></li>
-<li class="part">II · Study designs</li>
+<li class="part">II · Study Designs</li>
 <li><a href="curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.html"><span class="num">06</span><span>Appraising Randomized Trials in Stroke and Neurology</span></a></li>
 <li><a href="curriculum/07-appraising-observational-studies-without-naivete.html"><span class="num">07</span><span>Appraising Observational Studies Without Naivete</span></a></li>
 <li><a href="curriculum/08-diagnostic-accuracy-studies-from-sensitivity-to-decisions.html"><span class="num">08</span><span>Diagnostic Accuracy Studies: From Sensitivity to Decisions</span></a></li>
 <li><a href="curriculum/09-prognosis-risk-scores-and-prediction-models.html"><span class="num">09</span><span>Prognosis, Risk Scores, and Prediction Models</span></a></li>
 <li><a href="curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.html"><span class="num">10</span><span>Systematic Reviews, Meta-Analysis, and Guidelines: Evidence Synthesis and Trustworthiness</span></a></li>
-<li class="part">III · Stroke practice &amp; teaching</li>
+<li class="part">III · Interpretation</li>
 <li><a href="curriculum/11-stroke-outcomes-mrs-time-to-event-and-competing-risks.html"><span class="num">11</span><span>Stroke Outcomes: mRS, Time-to-Event, and Competing Risks</span></a></li>
 <li><a href="curriculum/12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.html"><span class="num">12</span><span>Effect Sizes, Absolute Benefit, NNT, and Clinical Importance</span></a></li>
 <li><a href="curriculum/13-subgroups-heterogeneity-of-treatment-effect-and-spin.html"><span class="num">13</span><span>Subgroups, Heterogeneity of Treatment Effect, and Spin</span></a></li>
 <li><a href="curriculum/14-appraising-artificial-intelligence-and-machine-learning-papers.html"><span class="num">14</span><span>Appraising Artificial Intelligence and Machine Learning Papers</span></a></li>
-<li><a href="curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.html"><span class="num">15</span><span>Journal Club Architecture and Teaching Critical Appraisal</span></a></li>
-<li><a href="curriculum/16-paper-autopsies-integrated-worked-critiques.html"><span class="num">16</span><span>Paper Autopsies: Integrated Worked Critiques</span></a></li>
-<li class="part">IV · Quantitative literacy &amp; reasoning</li>
 <li><a href="curriculum/17-chapter-17-disease-frequency-association.html"><span class="num">17</span><span>Disease Frequency and Association</span></a></li>
 <li><a href="curriculum/18-causation-frameworks-bias-and-inference.html"><span class="num">18</span><span>Causation Frameworks, Bias, and Inference</span></a></li>
 <li><a href="curriculum/19-inference-estimation-and-the-architecture-of-uncertainty.html"><span class="num">19</span><span>Inference, Estimation, and the Architecture of Uncertainty</span></a></li>
@@ -78,10 +75,12 @@ Turn a published claim into a defensible bedside decision—by matching the ques
 <li><a href="curriculum/21-interaction-effect-modification-and-standardization.html"><span class="num">21</span><span>Interaction, Effect Modification, and Standardization</span></a></li>
 <li><a href="curriculum/22-screening-early-detection-and-overdiagnosis.html"><span class="num">22</span><span>Screening, Early Detection, and Overdiagnosis</span></a></li>
 <li><a href="curriculum/23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.html"><span class="num">23</span><span>Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence</span></a></li>
-<li class="part">V · Applied appraisal &amp; systems</li>
+<li><a href="curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.html"><span class="num">27</span><span>Missing Data, Multiplicity, Interim Analyses, and Fragility</span></a></li>
+<li class="part">IV · Clinical Application</li>
+<li><a href="curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.html"><span class="num">15</span><span>Journal Club Architecture and Teaching Critical Appraisal</span></a></li>
+<li><a href="curriculum/16-paper-autopsies-integrated-worked-critiques.html"><span class="num">16</span><span>Paper Autopsies: Integrated Worked Critiques</span></a></li>
 <li><a href="curriculum/24-appraising-therapy-and-harm-questions.html"><span class="num">24</span><span>Appraising Therapy and Harm Questions</span></a></li>
 <li><a href="curriculum/25-appraising-diagnosis-and-prognosis-papers.html"><span class="num">25</span><span>Appraising Diagnosis and Prognosis Papers</span></a></li>
 <li><a href="curriculum/26-systematic-reviews-and-clinical-prediction-rules.html"><span class="num">26</span><span>Systematic Reviews and Clinical Prediction Rules</span></a></li>
-<li><a href="curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.html"><span class="num">27</span><span>Missing Data, Multiplicity, Interim Analyses, and Fragility</span></a></li>
 <li><a href="curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.html"><span class="num">28</span><span>Systems of Care, Policy, and Patient Communication</span></a></li>
 </ul>
