@@ -18,7 +18,7 @@ This file lists the stable public pages of the ebook. Worked numerical examples 
 - [04. Internal Validity, External Validity, and Bias Taxonomy](https://rkalani1.github.io/CRIT-APP/curriculum/04-internal-validity-external-validity-and-bias-taxonomy.html)
 - [05. Confounding, DAGs, and Target-Trial Thinking](https://rkalani1.github.io/CRIT-APP/curriculum/05-confounding-dags-and-target-trial-thinking.html)
 
-## Study designs
+## Study Designs
 
 - [06. Appraising Randomized Trials in Stroke and Neurology](https://rkalani1.github.io/CRIT-APP/curriculum/06-appraising-randomized-trials-in-stroke-and-neurology.html)
 - [07. Appraising Observational Studies Without Naivete](https://rkalani1.github.io/CRIT-APP/curriculum/07-appraising-observational-studies-without-naivete.html)
@@ -26,17 +26,12 @@ This file lists the stable public pages of the ebook. Worked numerical examples 
 - [09. Prognosis, Risk Scores, and Prediction Models](https://rkalani1.github.io/CRIT-APP/curriculum/09-prognosis-risk-scores-and-prediction-models.html)
 - [10. Systematic Reviews, Meta-Analysis, and Guidelines](https://rkalani1.github.io/CRIT-APP/curriculum/10-systematic-reviews-meta-analysis-and-guidelines-evidence-synthesis-and-trustwort.html)
 
-## Stroke practice and teaching
+## Interpretation
 
 - [11. Stroke Outcomes: mRS, Time-to-Event, and Competing Risks](https://rkalani1.github.io/CRIT-APP/curriculum/11-stroke-outcomes-mrs-time-to-event-and-competing-risks.html)
 - [12. Effect Sizes, Absolute Benefit, NNT, and Clinical Importance](https://rkalani1.github.io/CRIT-APP/curriculum/12-effect-sizes-absolute-benefit-nnt-and-clinical-importance.html)
 - [13. Subgroups, Heterogeneity of Treatment Effect, and Spin](https://rkalani1.github.io/CRIT-APP/curriculum/13-subgroups-heterogeneity-of-treatment-effect-and-spin.html)
 - [14. Appraising Artificial Intelligence and Machine Learning Papers](https://rkalani1.github.io/CRIT-APP/curriculum/14-appraising-artificial-intelligence-and-machine-learning-papers.html)
-- [15. Journal Club Architecture and Teaching Critical Appraisal](https://rkalani1.github.io/CRIT-APP/curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.html)
-- [16. Paper Autopsies: Integrated Worked Critiques](https://rkalani1.github.io/CRIT-APP/curriculum/16-paper-autopsies-integrated-worked-critiques.html)
-
-## Quantitative literacy and reasoning
-
 - [17. Disease Frequency and Association](https://rkalani1.github.io/CRIT-APP/curriculum/17-chapter-17-disease-frequency-association.html)
 - [18. Causation Frameworks, Bias, and Inference](https://rkalani1.github.io/CRIT-APP/curriculum/18-causation-frameworks-bias-and-inference.html)
 - [19. Inference, Estimation, and the Architecture of Uncertainty](https://rkalani1.github.io/CRIT-APP/curriculum/19-inference-estimation-and-the-architecture-of-uncertainty.html)
@@ -44,13 +39,15 @@ This file lists the stable public pages of the ebook. Worked numerical examples 
 - [21. Interaction, Effect Modification, and Standardization](https://rkalani1.github.io/CRIT-APP/curriculum/21-interaction-effect-modification-and-standardization.html)
 - [22. Screening, Early Detection, and Overdiagnosis](https://rkalani1.github.io/CRIT-APP/curriculum/22-screening-early-detection-and-overdiagnosis.html)
 - [23. Clinical Reasoning, Dual Process, and Cognitive Bias When Using Evidence](https://rkalani1.github.io/CRIT-APP/curriculum/23-clinical-reasoning-dual-process-and-cognitive-bias-when-using-evidence.html)
+- [27. Missing Data, Multiplicity, Interim Analyses, and Fragility](https://rkalani1.github.io/CRIT-APP/curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.html)
 
-## Applied appraisal and systems
+## Clinical Application
 
+- [15. Journal Club Architecture and Teaching Critical Appraisal](https://rkalani1.github.io/CRIT-APP/curriculum/15-journal-club-architecture-and-teaching-critical-appraisal.html)
+- [16. Paper Autopsies: Integrated Worked Critiques](https://rkalani1.github.io/CRIT-APP/curriculum/16-paper-autopsies-integrated-worked-critiques.html)
 - [24. Appraising Therapy and Harm Questions](https://rkalani1.github.io/CRIT-APP/curriculum/24-appraising-therapy-and-harm-questions.html)
 - [25. Appraising Diagnosis and Prognosis Papers](https://rkalani1.github.io/CRIT-APP/curriculum/25-appraising-diagnosis-and-prognosis-papers.html)
 - [26. Systematic Reviews and Clinical Prediction Rules](https://rkalani1.github.io/CRIT-APP/curriculum/26-systematic-reviews-and-clinical-prediction-rules.html)
-- [27. Missing Data, Multiplicity, Interim Analyses, and Fragility](https://rkalani1.github.io/CRIT-APP/curriculum/27-missing-data-multiplicity-interim-analyses-and-fragility.html)
 - [28. Systems of Care, Policy, and Patient Communication](https://rkalani1.github.io/CRIT-APP/curriculum/28-chapter-28-systems-of-care-policy-and-patient-communication.html)
 
 ## Companion

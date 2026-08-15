@@ -49,7 +49,7 @@ Owner / review date (if operational):
 
 *Teaching figure.* Every autopsy must end in one of four operational buckets—not "interesting." Map claim capacity, absolute effects, and transportability before rewriting a pathway.
 
-This chapter provides worked autopsies demonstrating integrated critical appraisal across common study designs in vascular neurology, illustrating how to identify fatal design flaws, recalculate effect estimates, and arrive at defensible clinical decisions.
+Five synthetic paper autopsies appear in this chapter, demonstrating integrated critical appraisal across common study designs in vascular neurology and illustrating how to identify fatal design flaws, recalculate effect estimates, and arrive at defensible clinical decisions.
 
 ## Autopsy A — The EVT-Like RCT (CLEAR-PATH 7–18 Hour Trial)
 
