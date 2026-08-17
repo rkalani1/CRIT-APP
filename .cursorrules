@@ -1,0 +1,17 @@
+# Cursor Agent Rules: Educational Web Books & Field Guides
+# Purpose: Beautiful, evidence-grounded, interactive web textbooks for clinical & research audiences.
+
+## 1. Pedagogical & Editorial Voice
+- **Tone**: Direct, concise, authoritative, and engaging. Avoid conversational AI fluff, buzzwords, or repetitive intros/conclusions.
+- **Evidence-Grounded**: Every factual claim, study citation, and methodological concept must cite original peer-reviewed literature or official guidelines with DOIs/PMIDs.
+- **Active Learning**: Integrate interactive callouts, self-assessment questions, clinical pearls, and diagnostic discrimination tables.
+
+## 2. Code & Technical Fidelity
+- **Syntax Integrity**: All code examples (Python, R, JavaScript) must be syntactically valid, modern, and copy-paste executable.
+- **Math & LaTeX**: Render mathematical expressions using standard delimiters (`\(...\)` inline, `\[...\]` block). Ensure formulas are dimensionally consistent.
+- **Asset Integrity**: Never use broken image paths or placeholder images. Verify that all external URLs and internal anchors resolve.
+
+## 3. Visual & Reading Experience
+- **Theme & Hierarchy**: Balanced whitespace, clean typography, semantic HTML (`<article>`, `<section>`, `<nav>`), and smooth dark/light mode switching.
+- **Table Formatting**: Use structured, clear tables with concise headers for rapid scanning.
+- **No Cliché Slop**: No CSS text-gradient headlines, pulsating pill badges, or icon-stuffed bento boxes.
